@@ -32,29 +32,44 @@ public class Mainframe extends Frame {
 		);
 	}
 	  
-	public static void tint(BufferedImage img, Color tintColor) {
-		for (int x = 0; x < img.getWidth(); x++) {
-			for (int y = 0; y < img.getHeight(); y++) {
-				//Color color = new Color(img.getRGB(x, y));
-				img.setRGB(x, y, tintColor.getRGB());
-			}
-		}
-	}
-	
+
+     
 	public void paint(Graphics g)
 	{	
 		Graphics2D g2d = (Graphics2D)g;
+                // 0, 640
+                BufferedImage image;
+                Image image1 = pg.cells[(32/32)][(32/32)].scaledImg; // calling this every loop slows down the grid a ton
+                image = pg.cells[1][1].cellImg;
+     
 
+             
 		for(int x=0; x<640; x+=32)
 		   {
 			   for(int y=0; y<480; y+=32)
 			   {
-				   tint(pg.cells[(x/32)][(y/32)].cellImg, pg.cells[(x/32)][(y/32)].cellColor);
-				   g2d.drawImage(pg.cells[(x/32)][(y/32)].cellImg.getScaledInstance(32, 32, Image.SCALE_DEFAULT), x, y, null);
-				   g2d.drawLine(0, y, 640, y);
+                               if(pg.cells[(x/32)][(y/32)].imageId == 1 ){
+                                   
+                                   g2d.drawImage(image1,x,y,null);
+                               }
+                         
+				   //tint(pg.cells[(x/32)][(y/32)].cellImg, pg.cells[(x/32)][(y/32)].cellColor);
+				   //g2d.drawImage(pg.cells[(x/32)][(y/32)].cellImg.getScaledInstance(32, 32, Image.SCALE_DEFAULT), x, y, null);
+     
+				
 			   }
-			   g2d.drawLine(x, 0, x, 480);
+			   
 		   }
+                for(int x=0; x<640; x+=32)
+		   {
+			   for(int y=0; y<480; y+=32)
+			   {
+                            
+                            g2d.drawLine(0, y, 640, y);
+                           }
+                           g2d.drawLine(x, 0, x, 480);
+                   }
+
 	}
 }
 
