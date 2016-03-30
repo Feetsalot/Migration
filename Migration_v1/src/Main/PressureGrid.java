@@ -2,10 +2,11 @@ package Main;
 
 public class PressureGrid {
 
-	public PressureCell[][] cells = new PressureCell[20][15];
+	public PressureCell[][] cells = new PressureCell[40][15];
 
 	public PressureGrid(){
-		for (int x=0; x < 20; x++)
+	PressureCell.Init();
+		for (int x=0; x < 40; x++)
 		{
 			for (int y=0; y<15; y++)
 			{
