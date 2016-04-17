@@ -1,0 +1,226 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Internet users 	 Date of Information
+1 	 World 	      1,018,057,389 	 2005
+2 	 China 	       253,000,000 	 2008
+3 	 European Union 	       247,000,000 	 2006
+4 	 United States 	       223,000,000 	 2008
+5 	 Japan 	        88,110,000 	 2007
+6 	 India 	        80,000,000 	 2007
+7 	 Brazil 	        50,000,000 	 2007
+8 	 Germany 	        42,500,000 	 2007
+9 	 United Kingdom 	        40,200,000 	 2007
+10 	 Korea, South 	        35,590,000 	 2007
+11 	 Italy 	        32,000,000 	 2007
+12 	 France 	        31,295,000 	 2007
+13 	 Russia 	        30,000,000 	 2007
+14 	 Canada 	        28,000,000 	 2007
+15 	 Iran 	        23,000,000 	 2007
+16 	 Mexico 	        22,812,000 	 2007
+17 	 Spain 	        19,690,000 	 2007
+18 	 Vietnam 	        17,870,000 	 2007
+19 	 Pakistan 	        17,500,000 	 2007
+20 	 Poland 	        16,000,000 	 2007
+21 	 Malaysia 	        15,868,000 	 2007
+22 	 Netherlands 	        15,000,000 	 2007
+23 	 Taiwan 	        14,760,000 	 2007
+24 	 Thailand 	        13,416,000 	 2007
+25 	 Turkey 	        13,150,000 	 2006
+26 	 Indonesia 	        13,000,000 	 2007
+27 	 Colombia 	        12,100,000 	 2007
+28 	 Romania 	        12,000,000 	 2007
+29 	 Australia 	        11,240,000 	 2007
+30 	 Nigeria 	        10,000,000 	 2007
+31 	 Ukraine 	        10,000,000 	 2007
+32 	 Argentina 	         9,309,000 	 2007
+33 	 Egypt 	         8,620,000 	 2007
+34 	 Peru 	         7,636,000 	 2007
+35 	 Morocco 	         7,300,000 	 2007
+36 	 Sweden 	         7,000,000 	 2007
+37 	 Saudi Arabia 	         6,200,000 	 2007
+38 	 Belarus 	         6,000,000 	 2007
+39 	 Venezuela 	         5,720,000 	 2007
+40 	 Chile 	         5,570,000 	 2007
+41 	 Philippines 	         5,300,000 	 2007
+42 	 Belgium 	         5,220,000 	 2007
+43 	 South Africa 	         5,100,000 	 2005
+44 	 Switzerland 	         4,610,000 	 2007
+45 	 Czech Republic 	         4,400,000 	 2007
+46 	 Austria 	         4,277,000 	 2007
+47 	 Hungary 	         4,200,000 	 2007
+48 	 Hong Kong 	         3,961,000 	 2007
+49 	 Norway 	         3,800,000 	 2007
+50 	 Finland 	         3,600,000 	 2007
+51 	 Portugal 	         3,549,000 	 2007
+52 	 Algeria 	         3,500,000 	 2007
+53 	 Denmark 	         3,500,000 	 2007
+54 	 Syria 	         3,470,000 	 2007
+55 	 New Zealand 	         3,360,000 	 2007
+56 	 Singapore 	         3,105,000 	 2007
+57 	 Kenya 	         3,000,000 	 2007
+58 	 Greece 	         2,540,000 	 2007
+59 	 Slovakia 	         2,350,000 	 2007
+60 	 United Arab Emirates 	         2,300,000 	 2007
+61 	 Israel 	         2,000,000 	 2007
+62 	 Uganda 	         2,000,000 	 2007
+63 	 Croatia 	         1,995,000 	 2007
+64 	 Kazakhstan 	         1,901,000 	 2006
+65 	 Bulgaria 	         1,899,000 	 2007
+66 	 Tunisia 	         1,722,000 	 2007
+67 	 Ireland 	         1,708,000 	 2007
+68 	 Dominican Republic 	         1,677,000 	 2007
+69 	 Ecuador 	         1,549,000 	 2006
+70 	 Costa Rica 	         1,500,000 	 2007
+71 	 Sudan 	         1,500,000 	 2007
+72 	 Serbia 	         1,500,000 	 2007
+73 	 Jamaica 	         1,500,000 	 2007
+74 	 Zimbabwe 	         1,351,000 	 2007
+75 	 Lithuania 	         1,333,000 	 2007
+76 	 Guatemala 	         1,320,000 	 2006
+77 	 Cuba 	         1,310,000 	 2007
+78 	 Slovenia 	         1,300,000 	 2007
+79 	 Uzbekistan 	         1,200,000 	 2007
+80 	 Latvia 	         1,177,000 	 2007
+81 	 Jordan 	         1,127,000 	 2007
+82 	 Bosnia and Herzegovina 	         1,055,000 	 2007
+83 	 Azerbaijan 	         1,036,000 	 2007
+84 	 Bolivia 	         1,000,000 	 2007
+85 	 Puerto Rico 	         1,000,000 	 2007
+86 	 Haiti 	         1,000,000 	 2007
+87 	 Uruguay 	          968,000 	 2007
+88 	 Lebanon 	          950,000 	 2006
+89 	 Kuwait 	          900,000 	 2007
+90 	 Senegal 	          820,000 	 2007
+91 	 Estonia 	          780,000 	 2007
+92 	 Sri Lanka 	          771,700 	 2007
+93 	 Kyrgyzstan 	          750,000 	 2007
+94 	 El Salvador 	          700,000 	 2006
+95 	 Moldova 	          700,000 	 2007
+96 	 Macedonia 	          685,000 	 2007
+97 	 Ghana 	          650,000 	 2007
+98 	 Afghanistan 	          580,000 	 2007
+99 	 Panama 	          525,200 	 2007
+100 	 Bangladesh 	          500,000 	 2007
+101 	 Zambia 	          500,000 	 2007
+102 	 Albania 	          471,200 	 2006
+103 	 Trinidad and Tobago 	          430,800 	 2007
+104 	 Tanzania 	          400,000 	 2007
+105 	 Cyprus 	          380,000 	 2007
+106 	 Cameroon 	          370,000 	 2006
+107 	 Georgia 	          360,000 	 2007
+108 	 Gaza Strip 	          355,500 	 2007
+109 	 West Bank 	          355,500 	 2007
+110 	 Qatar 	          351,000 	 2007
+111 	 Luxembourg 	          345,000 	 2007
+112 	 Honduras 	          344,100 	 2006
+113 	 Mauritius 	          340,000 	 2007
+114 	 Oman 	          340,000 	 2007
+115 	 Nepal 	          337,100 	 2007
+116 	 Mongolia 	          320,000 	 2007
+117 	 Togo 	          320,000 	 2006
+118 	 Yemen 	          320,000 	 2007
+119 	 Cote d'Ivoire 	          300,000 	 2006
+120 	 Macau 	          300,000 	 2007
+121 	 Ethiopia 	          291,000 	 2007
+122 	 Montenegro 	          280,000 	 2007
+123 	 Paraguay 	          280,000 	 2007
+124 	 Libya 	          260,000 	 2006
+125 	 Bahrain 	          250,000 	 2007
+126 	 Congo, Democratic Republic of the 	          230,400 	 2007
+127 	 Iceland 	          202,300 	 2007
+128 	 Mozambique 	          200,000 	 2007
+129 	 Brunei 	          199,532 	 2007
+130 	 Guyana 	          190,000 	 2007
+131 	 Armenia 	          172,800 	 2006
+132 	 Barbados 	          160,000 	 2005
+133 	 Malta 	          158,000 	 2007
+134 	 Nicaragua 	          155,000 	 2006
+135 	 Benin 	          150,000 	 2007
+136 	 Gabon 	          145,000 	 2007
+137 	 Malawi 	          139,500 	 2007
+138 	 Bahamas, The 	          120,000 	 2007
+139 	 Eritrea 	          120,000 	 2007
+140 	 Madagascar 	          110,000 	 2006
+141 	 Papua New Guinea 	          110,000 	 2006
+142 	 Saint Lucia 	          110,000 	 2007
+143 	 Namibia 	          101,000 	 2007
+144 	 Gambia, The 	          100,200 	 2007
+145 	 Angola 	          100,000 	 2007
+146 	 Rwanda 	          100,000 	 2007
+147 	 Mali 	          100,000 	 2007
+148 	 Laos 	          100,000 	 2007
+149 	 Somalia 	           98,000 	 2007
+150 	 Botswana 	           80,000 	 2007
+151 	 New Caledonia 	           80,000 	 2006
+152 	 Burkina Faso 	           80,000 	 2006
+153 	 Fiji 	           80,000 	 2006
+154 	 French Polynesia 	           75,000 	 2007
+155 	 Cambodia 	           70,000 	 2007
+156 	 Lesotho 	           70,000 	 2007
+157 	 Turkmenistan 	           70,000 	 2007
+158 	 Congo, Republic of the 	           70,000 	 2006
+159 	 Guam 	           65,000 	 2005
+160 	 Antigua and Barbuda 	           60,000 	 2007
+161 	 Burundi 	           60,000 	 2006
+162 	 Chad 	           60,000 	 2006
+163 	 Andorra 	           58,900 	 2007
+164 	 Saint Vincent and the Grenadines 	           57,000 	 2007
+165 	 Iraq 	           54,000 	 2007
+166 	 Greenland 	           52,000 	 2007
+167 	 Guinea 	           50,000 	 2006
+168 	 Bermuda 	           48,000 	 2007
+169 	 Suriname 	           44,000 	 2007
+170 	 Swaziland 	           42,000 	 2006
+171 	 Burma 	           40,000 	 2007
+172 	 Bhutan 	           40,000 	 2007
+173 	 Niger 	           40,000 	 2006
+174 	 Cape Verde 	           37,000 	 2007
+175 	 Guinea-Bissau 	           37,000 	 2006
+176 	 Guernsey 	           36,000 	 2005
+177 	 Faroe Islands 	           34,000 	 2006
+178 	 Maldives 	           33,000 	 2007
+179 	 Belize 	           32,000 	 2007
+180 	 Seychelles 	           32,000 	 2007
+181 	 Mauritania 	           30,000 	 2006
+182 	 Virgin Islands 	           30,000 	 2007
+183 	 Jersey 	           27,000 	 2005
+184 	 Dominica 	           26,500 	 2006
+185 	 Aruba 	           24,000 	 2007
+186 	 Grenada 	           23,000 	 2007
+187 	 Sao Tome and Principe 	           23,000 	 2007
+188 	 Cayman Islands 	           22,000 	 2007
+189 	 Liechtenstein 	           22,000 	 2006
+190 	 Comoros 	           21,000 	 2006
+191 	 Monaco 	           20,000 	 2006
+192 	 Tajikistan 	           19,500 	 2005
+193 	 Vanuatu 	           17,000 	 2007
+194 	 San Marino 	           15,400 	 2006
+195 	 Micronesia, Federated States of 	           15,000 	 2007
+196 	 Central African Republic 	           13,000 	 2006
+197 	 Sierra Leone 	           13,000 	 2007
+198 	 Djibouti 	           11,000 	 2006
+199 	 Northern Mariana Islands 	           10,000 	 2003
+200 	 Saint Kitts and Nevis 	           10,000 	 2002
+201 	 Tonga 	            8,400 	 2007
+202 	 Solomon Islands 	            8,000 	 2006
+203 	 Equatorial Guinea 	            8,000 	 2006
+204 	 Samoa 	            8,000 	 2006
+205 	 Gibraltar 	            6,200 	 2002
+206 	 British Virgin Islands 	            4,000 	 2002
+207 	 Cook Islands 	            3,600 	 2002
+208 	 Anguilla 	            3,000 	 2002
+209 	 Marshall Islands 	            2,200 	 2006
+210 	 Kiribati 	            2,000 	 2007
+211 	 Netherlands Antilles 	            2,000 	 2000
+212 	 Falkland Islands (Islas Malvinas) 	            1,900 	 2002
+213 	 Tuvalu 	            1,300 	 2002
+214 	 Timor-Leste 	            1,200 	 2006
+215 	 Liberia 	            1,000 	 2002
+216 	 Saint Helena 	            1,000 	 2003
+217 	 Niue 	             900 	 2002
+218 	 Wallis and Futuna 	             900 	 2002
+219 	 Norfolk Island 	             700 	 2002 est.
+220 	 Christmas Island 	             464 	 2001
+221 	 Nauru 	             300 	 2002
+222 	 Holy See (Vatican City) 	              93 	 2000
+
+ This file was last updated on 18 December, 2008

@@ -1,0 +1,156 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 HIV/AIDS - deaths 	 Date of Information
+1 	 South Africa 	          370,000 	 2003 est.
+2 	 India 	          310,000 	 2001 est.
+3 	 Nigeria 	          310,000 	 2003 est.
+4 	 Zimbabwe 	          170,000 	 2003 est.
+5 	 Tanzania 	          160,000 	 2003 est.
+6 	 Kenya 	          150,000 	 2003 est.
+7 	 Ethiopia 	          120,000 	 2003 est.
+8 	 Mozambique 	          110,000 	 2003 est.
+9 	 Congo, Democratic Republic of the 	          100,000 	 2003 est.
+10 	 Zambia 	           89,000 	 2003 est.
+11 	 Malawi 	           84,000 	 2003 est.
+12 	 Uganda 	           78,000 	 2003 est.
+13 	 Thailand 	           58,000 	 2003 est.
+14 	 Cameroon 	           49,000 	 2003 est.
+15 	 Cote d'Ivoire 	           47,000 	 2003 est.
+16 	 China 	           44,000 	 2003 est.
+17 	 Botswana 	           33,000 	 2003 est.
+18 	 Ghana 	           30,000 	 2003 est.
+19 	 Lesotho 	           29,000 	 2003 est.
+20 	 Burkina Faso 	           29,000 	 2003 est.
+21 	 Burundi 	           25,000 	 2003 est.
+22 	 Haiti 	           24,000 	 2003 est.
+23 	 Central African Republic 	           23,000 	 2003 est.
+24 	 Sudan 	           23,000 	 2003 est.
+25 	 Rwanda 	           22,000 	 2003 est.
+26 	 Angola 	           21,000 	 2003 est.
+27 	 Burma 	           20,000 	 2003 est.
+28 	 Ukraine 	           20,000 	 2003 est.
+29 	 Chad 	           18,000 	 2003 est.
+30 	 United States 	           17,011 	 2005 est.
+31 	 Swaziland 	           17,000 	 2003 est.
+32 	 Namibia 	           16,000 	 2003 est.
+33 	 Brazil 	           15,000 	 2003 est.
+34 	 Cambodia 	           15,000 	 2003 est.
+35 	 Mali 	           12,000 	 2003 est.
+36 	 Sierra Leone 	           11,000 	 2001 est.
+37 	 Togo 	           10,000 	 2003 est.
+38 	 Congo, Republic of the 	            9,700 	 2003 est.
+39 	 Guinea 	            9,000 	 2003 est.
+40 	 Russia 	            9,000 	 2001 est.
+41 	 Vietnam 	            9,000 	 2003 est.
+42 	 Dominican Republic 	            7,900 	 2003 est.
+43 	 Madagascar 	            7,500 	 2003 est.
+44 	 Liberia 	            7,200 	 2003 est.
+45 	 Eritrea 	            6,300 	 2003 est.
+46 	 Benin 	            5,800 	 2003 est.
+47 	 Guatemala 	            5,800 	 2003 est.
+48 	 Mexico 	            5,000 	 2003 est.
+49 	 Pakistan 	            4,900 	 2003 est.
+50 	 Niger 	            4,800 	 2003 est.
+51 	 Peru 	            4,200 	 2003 est.
+52 	 Honduras 	            4,100 	 2003 est.
+53 	 Venezuela 	            4,100 	 2003 est.
+54 	 Colombia 	            3,600 	 2003 est.
+55 	 Senegal 	            3,500 	 2003 est.
+56 	 Nepal 	            3,100 	 2003 est.
+57 	 Gabon 	            3,000 	 2003 est.
+58 	 Indonesia 	            2,400 	 2003 est.
+59 	 El Salvador 	            2,200 	 2003 est.
+60 	 Malaysia 	            2,000 	 2003 est.
+61 	 Trinidad and Tobago 	            1,900 	 2003 est.
+62 	 Ecuador 	            1,700 	 2003 est.
+63 	 Iran 	            1,600 	 2005 est.
+64 	 Argentina 	            1,500 	 2003 est.
+65 	 Canada 	            1,500 	 2003 est.
+66 	 Chile 	            1,400 	 2003 est.
+67 	 Guinea-Bissau 	            1,200 	 2001 est.
+68 	 Guyana 	            1,100 	 2003 est.
+69 	 Belarus 	            1,000 	 2001 est.
+70 	 France 	            1,000 	 2003 est.
+71 	 Italy 	            1,000 	 2003 est.
+72 	 Spain 	            1,000 	 2003 est.
+73 	 Portugal 	            1,000 	 2003 est.
+74 	 Germany 	            1,000 	 2003 est.
+75 	 Costa Rica 	             900 	 2003 est.
+76 	 Jamaica 	             900 	 2003 est.
+77 	 Egypt 	             700 	 2003 est.
+78 	 Djibouti 	             690 	 2003 est.
+79 	 Bangladesh 	             650 	 2001 est.
+80 	 Gambia, The 	             600 	 2003 est.
+81 	 Paraguay 	             600 	 2003 est.
+82 	 Papua New Guinea 	             600 	 2003 est.
+83 	 Algeria 	             500 	 2003 est.
+84 	 Japan 	             500 	 2003 est.
+85 	 Bolivia 	             500 	 2003 est.
+86 	 Jordan 	             500 	 2003 est.
+87 	 Latvia 	             500 	 2003 est.
+88 	 Suriname 	             500 	 2003 est.
+89 	 Uzbekistan 	             500 	 2003 est.
+90 	 Uruguay 	             500 	 2003 est.
+91 	 United Kingdom 	             500 	 2003 est.
+92 	 Philippines 	             500 	 2003 est.
+93 	 Panama 	             500 	 2003 est.
+94 	 Nicaragua 	             500 	 2003 est.
+95 	 Mauritania 	             500 	 2003 est.
+96 	 Bermuda 	             392 	 2005
+97 	 Equatorial Guinea 	             370 	 2001 est.
+98 	 Romania 	             350 	 2001 est.
+99 	 Moldova 	             300 	 2001 est.
+100 	 Cape Verde 	             225 	 
+101 	 Armenia 	             200 	 2003 est.
+102 	 Belize 	             200 	 2003 est.
+103 	 Oman 	             200 	 2003 est.
+104 	 Lithuania 	             200 	 2003 est.
+105 	 Lebanon 	             200 	 2003 est.
+106 	 Laos 	             200 	 2003 est.
+107 	 Kazakhstan 	             200 	 2003 est.
+108 	 Korea, South 	             200 	 2003 est.
+109 	 Kyrgyzstan 	             200 	 2003 est.
+110 	 Hong Kong 	             200 	 2003 est.
+111 	 Georgia 	             200 	 2003 est.
+112 	 Fiji 	             200 	 2003 est.
+113 	 Tunisia 	             200 	 2003 est.
+114 	 Syria 	             200 	 2003 est.
+115 	 Singapore 	             200 	 2003 est.
+116 	 New Zealand 	             200 	 2003 est.
+117 	 Mongolia 	             200 	 2003 est.
+118 	 Estonia 	             200 	 2003 est.
+119 	 Cuba 	             200 	 2003 est.
+120 	 Sri Lanka 	             200 	 2003 est.
+121 	 Brunei 	             200 	 2003 est.
+122 	 Bahamas, The 	             200 	 2003 est.
+123 	 Barbados 	             200 	 2003 est.
+124 	 Bahrain 	             200 	 2003 est.
+125 	 Azerbaijan 	             100 	 2001 est.
+126 	 Turkmenistan 	             100 	 2004 est.
+127 	 Tajikistan 	             100 	 2001 est.
+128 	 Switzerland 	             100 	 2003 est.
+129 	 Sweden 	             100 	 2003 est.
+130 	 Slovenia 	             100 	 2003 est.
+131 	 Poland 	             100 	 2001 est.
+132 	 Norway 	             100 	 2003 est.
+133 	 Netherlands 	             100 	 2003 est.
+134 	 Malta 	             100 	 2003 est.
+135 	 Mauritius 	             100 	 2001 est.
+136 	 Macedonia 	             100 	 2003 est.
+137 	 Luxembourg 	             100 	 2003 est.
+138 	 Slovakia 	             100 	 2001 est.
+139 	 Israel 	             100 	 2001 est.
+140 	 Iceland 	             100 	 2003 est.
+141 	 Hungary 	             100 	 2001 est.
+142 	 Greece 	             100 	 2003 est.
+143 	 Finland 	             100 	 2003 est.
+144 	 Bulgaria 	             100 	 2001 est.
+145 	 Bosnia and Herzegovina 	             100 	 2001 est.
+146 	 Denmark 	             100 	 2003 est.
+147 	 Ireland 	             100 	 2003 est.
+148 	 Belgium 	             100 	 2003 est.
+149 	 Austria 	             100 	 2003 est.
+150 	 Czech Republic 	              10 	 2001 est.
+151 	 Croatia 	              10 	 2001 est.
+152 	 Svalbard 	               0 	 2001
+
+ This file was last updated on 18 December, 2008

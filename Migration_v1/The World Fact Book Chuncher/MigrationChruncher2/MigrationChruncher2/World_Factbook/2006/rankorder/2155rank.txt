@@ -1,0 +1,172 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 HIV/AIDS - adult prevalence rate(%) 	 Date of Information
+1 	 Swaziland 	     38.80 	 2003 est.
+2 	 Botswana 	     37.30 	 2003 est.
+3 	 Lesotho 	     28.90 	 2003 est.
+4 	 Zimbabwe 	     24.60 	 2001 est.
+5 	 South Africa 	     21.50 	 2003 est.
+6 	 Namibia 	     21.30 	 2003 est.
+7 	 Zambia 	     16.50 	 2003 est.
+8 	 Malawi 	     14.20 	 2003 est.
+9 	 Central African Republic 	     13.50 	 2003 est.
+10 	 Mozambique 	     12.20 	 2003 est.
+11 	 Guinea-Bissau 	     10.00 	 2003 est.
+12 	 Tanzania 	      8.80 	 2003 est.
+13 	 Gabon 	      8.10 	 2003 est.
+14 	 Cote d'Ivoire 	      7.00 	 2003 est.
+15 	 Sierra Leone 	      7.00 	 2001 est.
+16 	 Cameroon 	      6.90 	 2003 est.
+17 	 Kenya 	      6.70 	 2003 est.
+18 	 Burundi 	      6.00 	 2003 est.
+19 	 Liberia 	      5.90 	 2003 est.
+20 	 Haiti 	      5.60 	 2003 est.
+21 	 Nigeria 	      5.40 	 2003 est.
+22 	 Rwanda 	      5.10 	 2003 est.
+23 	 Congo, Republic of the 	      4.90 	 2003 est.
+24 	 Chad 	      4.80 	 2003 est.
+25 	 Ethiopia 	      4.40 	 2003 est.
+26 	 Congo, Democratic Republic of the 	      4.20 	 2003 est.
+27 	 Burkina Faso 	      4.20 	 2003 est.
+28 	 Togo 	      4.10 	 2003 est.
+29 	 Uganda 	      4.10 	 2003 est.
+30 	 Angola 	      3.90 	 2003 est.
+31 	 Equatorial Guinea 	      3.40 	 2001 est.
+32 	 Guinea 	      3.20 	 2003 est.
+33 	 Trinidad and Tobago 	      3.20 	 2003 est.
+34 	 Ghana 	      3.10 	 2003 est.
+35 	 Bahamas, The 	      3.00 	 2003 est.
+36 	 Djibouti 	      2.90 	 2003 est.
+37 	 Eritrea 	      2.70 	 2003 est.
+38 	 Cambodia 	      2.60 	 2003 est.
+39 	 Guyana 	      2.50 	 2003 est.
+40 	 Belize 	      2.40 	 2003 est.
+41 	 Sudan 	      2.30 	 2001 est.
+42 	 Benin 	      1.90 	 2003 est.
+43 	 Mali 	      1.90 	 2003 est.
+44 	 Honduras 	      1.80 	 2003 est.
+45 	 Dominican Republic 	      1.70 	 2003 est.
+46 	 Madagascar 	      1.70 	 2003 est.
+47 	 Suriname 	      1.70 	 2001 est.
+48 	 Barbados 	      1.50 	 2003 est.
+49 	 Thailand 	      1.50 	 2003 est.
+50 	 Ukraine 	      1.40 	 2003 est.
+51 	 Burma 	      1.20 	 2003 est.
+52 	 Niger 	      1.20 	 2003 est.
+53 	 Jamaica 	      1.20 	 2003 est.
+54 	 Gambia, The 	      1.20 	 2003 est.
+55 	 Estonia 	      1.10 	 2001 est.
+56 	 Russia 	      1.10 	 2001 est.
+57 	 Guatemala 	      1.10 	 2003 est.
+58 	 Somalia 	      1.00 	 2001 est.
+59 	 India 	      0.90 	 2001 est.
+60 	 Panama 	      0.90 	 2003 est.
+61 	 Senegal 	      0.80 	 2003 est.
+62 	 Argentina 	      0.70 	 2001 est.
+63 	 Brazil 	      0.70 	 2003 est.
+64 	 Venezuela 	      0.70 	 2001 est.
+65 	 Spain 	      0.70 	 2001 est.
+66 	 El Salvador 	      0.70 	 2003 est.
+67 	 Colombia 	      0.70 	 2003 est.
+68 	 Costa Rica 	      0.60 	 2003 est.
+69 	 Mauritania 	      0.60 	 2003 est.
+70 	 Latvia 	      0.60 	 2001 est.
+71 	 United States 	      0.60 	 2003 est.
+72 	 Papua New Guinea 	      0.60 	 2003 est.
+73 	 Italy 	      0.50 	 2001 est.
+74 	 Paraguay 	      0.50 	 2003 est.
+75 	 Peru 	      0.50 	 2003 est.
+76 	 Nepal 	      0.50 	 2001 est.
+77 	 France 	      0.40 	 2003 est.
+78 	 Vietnam 	      0.40 	 2003 est.
+79 	 Switzerland 	      0.40 	 2001 est.
+80 	 Portugal 	      0.40 	 2001 est.
+81 	 Malaysia 	      0.40 	 2003 est.
+82 	 Austria 	      0.30 	 2003 est.
+83 	 Ecuador 	      0.30 	 2003 est.
+84 	 Belarus 	      0.30 	 2001 est.
+85 	 Uruguay 	      0.30 	 2001 est.
+86 	 Chile 	      0.30 	 2003 est.
+87 	 Mexico 	      0.30 	 2003 est.
+88 	 Libya 	      0.30 	 2001 est.
+89 	 Canada 	      0.30 	 2003 est.
+90 	 Bermuda 	      0.30 	 2005
+91 	 Bahrain 	      0.20 	 2001 est.
+92 	 Belgium 	      0.20 	 2003 est.
+93 	 United Kingdom 	      0.20 	 2001 est.
+94 	 Singapore 	      0.20 	 2003 est.
+95 	 Nicaragua 	      0.20 	 2003 est.
+96 	 Netherlands 	      0.20 	 2001 est.
+97 	 Malta 	      0.20 	 2001 est.
+98 	 Moldova 	      0.20 	 2001 est.
+99 	 Luxembourg 	      0.20 	 2001 est.
+100 	 Kazakhstan 	      0.20 	 2001 est.
+101 	 Iceland 	      0.20 	 2001 est.
+102 	 Greece 	      0.20 	 2001 est.
+103 	 Denmark 	      0.20 	 2003 est.
+104 	 United Arab Emirates 	      0.18 	 2001 est.
+105 	 Comoros 	      0.12 	 2001 est.
+106 	 Kuwait 	      0.12 	 2001 est.
+107 	 Algeria 	      0.10 	 2001 est.
+108 	 Australia 	      0.10 	 2003 est.
+109 	 Bangladesh 	      0.10 	 2001 est.
+110 	 Bolivia 	      0.10 	 2003 est.
+111 	 Bulgaria 	      0.10 	 2001 est.
+112 	 Sri Lanka 	      0.10 	 2001 est.
+113 	 Maldives 	      0.10 	 2001 est.
+114 	 Oman 	      0.10 	 2001 est.
+115 	 Mauritius 	      0.10 	 2001 est.
+116 	 Morocco 	      0.10 	 2001 est.
+117 	 Macedonia 	      0.10 	 2001 est.
+118 	 Georgia 	      0.10 	 2001 est.
+119 	 Fiji 	      0.10 	 2003 est.
+120 	 Finland 	      0.10 	 2003 est.
+121 	 Czech Republic 	      0.10 	 2001 est.
+122 	 Ireland 	      0.10 	 2001 est.
+123 	 Egypt 	      0.10 	 2001 est.
+124 	 Cyprus 	      0.10 	 2003 est.
+125 	 Cuba 	      0.10 	 2003 est.
+126 	 China 	      0.10 	 2003 est.
+127 	 Tajikistan 	      0.10 	 2001 est.
+128 	 Syria 	      0.10 	 2001 est.
+129 	 Sweden 	      0.10 	 2001 est.
+130 	 Slovenia 	      0.10 	 2001 est.
+131 	 Philippines 	      0.10 	 2003 est.
+132 	 Romania 	      0.10 	 2001 est.
+133 	 Poland 	      0.10 	 2001 est.
+134 	 Pakistan 	      0.10 	 2001 est.
+135 	 Mongolia 	      0.10 	 2003 est.
+136 	 Yemen 	      0.10 	 2001 est.
+137 	 Uzbekistan 	      0.10 	 2001 est.
+138 	 Turkmenistan 	      0.10 	 2004 est.
+139 	 Turkey 	      0.10 	 2001 est.
+140 	 Tunisia 	      0.10 	 2005 est.
+141 	 Slovakia 	      0.10 	 2001 est.
+142 	 Lithuania 	      0.10 	 2001 est.
+143 	 Lebanon 	      0.10 	 2001 est.
+144 	 Laos 	      0.10 	 2003 est.
+145 	 Korea, South 	      0.10 	 2003 est.
+146 	 Kyrgyzstan 	      0.10 	 2001 est.
+147 	 Jordan 	      0.10 	 2001 est.
+148 	 Japan 	      0.10 	 2003 est.
+149 	 New Zealand 	      0.10 	 2003 est.
+150 	 Norway 	      0.10 	 2001 est.
+151 	 Iraq 	      0.10 	 2001 est.
+152 	 Israel 	      0.10 	 2001 est.
+153 	 Iran 	      0.10 	 2001 est.
+154 	 Indonesia 	      0.10 	 2003 est.
+155 	 Hungary 	      0.10 	 2001 est.
+156 	 Croatia 	      0.10 	 2001 est.
+157 	 Hong Kong 	      0.10 	 2003 est.
+158 	 Germany 	      0.10 	 2001 est.
+159 	 Brunei 	      0.10 	 2003 est.
+160 	 Bhutan 	      0.10 	 2001 est.
+161 	 Bosnia and Herzegovina 	      0.10 	 2001 est.
+162 	 Azerbaijan 	      0.10 	 2003 est.
+163 	 Armenia 	      0.10 	 2003 est.
+164 	 Qatar 	      0.09 	 2001 est.
+165 	 Cape Verde 	      0.04 	 
+166 	 Afghanistan 	      0.01 	 2001 est.
+167 	 Saudi Arabia 	      0.01 	 2001 est.
+168 	 Svalbard 	      0.00 	 2001
+
+ This file was last updated on 19 December, 2006

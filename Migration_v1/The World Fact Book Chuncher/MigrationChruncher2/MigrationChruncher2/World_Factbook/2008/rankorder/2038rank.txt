@@ -1,0 +1,217 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Electricity - production(kWh) 	 Date of Information
+1 	 World 	  18,960,000,000,000 	 2007 est.
+2 	 United States 	   4,167,000,000,000 	 2007 est.
+3 	 China 	   3,256,000,000,000 	 2007
+4 	 European Union 	   3,056,000,000,000 	 2007 est.
+5 	 Japan 	   1,082,000,000,000 	 2007 est.
+6 	 Russia 	    964,200,000,000 	 2007 est.
+7 	 India 	    665,300,000,000 	 2007 est.
+8 	 Canada 	    612,600,000,000 	 2007 est.
+9 	 Germany 	    594,700,000,000 	 2007 est.
+10 	 France 	    537,900,000,000 	 2007 est.
+11 	 Brazil 	    437,300,000,000 	 2007 est.
+12 	 Korea, South 	    412,700,000,000 	 2007 est.
+13 	 United Kingdom 	    371,000,000,000 	 2007 est.
+14 	 Italy 	    292,100,000,000 	 2007 est.
+15 	 Spain 	    287,400,000,000 	 2007 est.
+16 	 South Africa 	    264,000,000,000 	 2007
+17 	 Australia 	    244,200,000,000 	 2007 est.
+18 	 Mexico 	    243,300,000,000 	 2007 est.
+19 	 Taiwan 	    216,600,000,000 	 2006 est.
+20 	 Iran 	    189,900,000,000 	 2006 est.
+21 	 Ukraine 	    182,400,000,000 	 2006 est.
+22 	 Turkey 	    181,600,000,000 	 2007 est.
+23 	 Saudi Arabia 	    179,100,000,000 	 2007 est.
+24 	 Poland 	    149,300,000,000 	 2007 est.
+25 	 Sweden 	    143,800,000,000 	 2007 est.
+26 	 Norway 	    135,000,000,000 	 2007 est.
+27 	 Thailand 	    130,700,000,000 	 2006 est.
+28 	 Indonesia 	    125,700,000,000 	 2006 est.
+29 	 Venezuela 	    110,700,000,000 	 2007 est.
+30 	 Argentina 	    109,400,000,000 	 2006 est.
+31 	 Egypt 	    109,100,000,000 	 2006 est.
+32 	 Malaysia 	    102,900,000,000 	 2007 est.
+33 	 Netherlands 	     97,330,000,000 	 2007 est.
+34 	 Pakistan 	     93,260,000,000 	 2007 est.
+35 	 Belgium 	     82,940,000,000 	 2007 est.
+36 	 Czech Republic 	     82,880,000,000 	 2007 est.
+37 	 Finland 	     77,020,000,000 	 2007 est.
+38 	 Kazakhstan 	     74,930,000,000 	 2007 est.
+39 	 Paraguay 	     70,000,000,000 	 2007
+40 	 Switzerland 	     64,560,000,000 	 2007 est.
+41 	 United Arab Emirates 	     62,760,000,000 	 2006 est.
+42 	 Vietnam 	     61,020,000,000 	 2007 est.
+43 	 Greece 	     59,330,000,000 	 2007 est.
+44 	 Austria 	     59,310,000,000 	 2007 est.
+45 	 Romania 	     58,250,000,000 	 2007 est.
+46 	 Philippines 	     56,510,000,000 	 2007 est.
+47 	 Colombia 	     51,830,000,000 	 2006 est.
+48 	 Chile 	     50,370,000,000 	 2006 est.
+49 	 Uzbekistan 	     48,790,000,000 	 2007 est.
+50 	 Israel 	     48,700,000,000 	 2006 est.
+51 	 Portugal 	     44,830,000,000 	 2007 est.
+52 	 Kuwait 	     44,750,000,000 	 2006 est.
+53 	 Bulgaria 	     43,150,000,000 	 2006 est.
+54 	 New Zealand 	     42,410,000,000 	 2007 est.
+55 	 Singapore 	     38,680,000,000 	 2007 est.
+56 	 Hungary 	     37,660,000,000 	 2007 est.
+57 	 Denmark 	     36,990,000,000 	 2007 est.
+58 	 Hong Kong 	     36,610,000,000 	 2007 est.
+59 	 Syria 	     34,940,000,000 	 2007 est.
+60 	 Serbia 	     33,870,000,000 	 2004
+61 	 Iraq 	     33,530,000,000 	 2007 est.
+62 	 Algeria 	     33,120,000,000 	 2006 est.
+63 	 Belarus 	     29,910,000,000 	 2006 est.
+64 	 Slovakia 	     26,170,000,000 	 2007 est.
+65 	 Ireland 	     25,770,000,000 	 2007 est.
+66 	 Peru 	     24,920,000,000 	 2006 est.
+67 	 Libya 	     23,980,000,000 	 2007 est.
+68 	 Puerto Rico 	     23,840,000,000 	 2006 est.
+69 	 Azerbaijan 	     23,800,000,000 	 2007 est.
+70 	 Bangladesh 	     22,780,000,000 	 2007 est.
+71 	 Nigeria 	     22,110,000,000 	 2006 est.
+72 	 Morocco 	     21,880,000,000 	 2006 est.
+73 	 Korea, North 	     21,720,000,000 	 2006 est.
+74 	 Tajikistan 	     17,400,000,000 	 2007
+75 	 Cuba 	     16,970,000,000 	 2007 est.
+76 	 Kyrgyzstan 	     15,620,000,000 	 2006 est.
+77 	 Ecuador 	     14,840,000,000 	 2006 est.
+78 	 Mozambique 	     14,620,000,000 	 2006 est.
+79 	 Qatar 	     14,410,000,000 	 2006 est.
+80 	 Slovenia 	     14,130,000,000 	 2007 est.
+81 	 Oman 	     13,580,000,000 	 2007 est.
+82 	 Dominican Republic 	     13,370,000,000 	 2006 est.
+83 	 Bosnia and Herzegovina 	     12,840,000,000 	 2006 est.
+84 	 Turkmenistan 	     12,830,000,000 	 2006 est.
+85 	 Tunisia 	     12,650,000,000 	 2006 est.
+86 	 Croatia 	     12,410,000,000 	 2006 est.
+87 	 Lithuania 	     11,910,000,000 	 2006 est.
+88 	 Iceland 	     11,710,000,000 	 2007 est.
+89 	 Jordan 	     10,870,000,000 	 2006 est.
+90 	 Zimbabwe 	      9,467,000,000 	 2006 est.
+91 	 Zambia 	      9,289,000,000 	 2006 est.
+92 	 Bahrain 	      9,233,000,000 	 2006 est.
+93 	 Uruguay 	      9,200,000,000 	 2007
+94 	 Estonia 	      9,158,000,000 	 2006 est.
+95 	 Lebanon 	      8,764,000,000 	 2006 est.
+96 	 Costa Rica 	      8,521,000,000 	 2006 est.
+97 	 Sri Lanka 	      8,317,000,000 	 2006 est.
+98 	 Ghana 	      8,204,000,000 	 2006 est.
+99 	 Trinidad and Tobago 	      7,704,000,000 	 2007
+100 	 Guatemala 	      7,643,000,000 	 2006 est.
+101 	 Congo, Democratic Republic of the 	      7,243,000,000 	 2006 est.
+102 	 Georgia 	      7,116,000,000 	 2006 est.
+103 	 Jamaica 	      7,040,000,000 	 2006 est.
+104 	 Kenya 	      6,264,000,000 	 2006 est.
+105 	 Macedonia 	      6,051,000,000 	 2007
+106 	 Burma 	      5,961,000,000 	 2006 est.
+107 	 Panama 	      5,805,000,000 	 2006 est.
+108 	 Honduras 	      5,753,000,000 	 2006 est.
+109 	 Bolivia 	      5,668,000,000 	 2007 est.
+110 	 Armenia 	      5,544,000,000 	 2007 est.
+111 	 El Salvador 	      5,338,000,000 	 2007 est.
+112 	 Cote d'Ivoire 	      5,274,000,000 	 2006 est.
+113 	 Yemen 	      5,017,000,000 	 2006 est.
+114 	 Latvia 	      4,734,000,000 	 2006 est.
+115 	 Cyprus 	      4,520,000,000 	 2007 est.
+116 	 Bhutan 	      4,475,000,000 	 2007 est.
+117 	 Sudan 	      4,037,000,000 	 2006 est.
+118 	 Kosovo 	      3,996,000,000 	 2006
+119 	 Cameroon 	      3,903,000,000 	 2006 est.
+120 	 Moldova 	      3,824,000,000 	 2006 est.
+121 	 Angola 	      3,513,000,000 	 2006 est.
+122 	 Ethiopia 	      3,268,000,000 	 2006 est.
+123 	 Brunei 	      3,100,000,000 	 2006 est.
+124 	 Mongolia 	      3,078,000,000 	 2007 est.
+125 	 Nicaragua 	      3,012,000,000 	 2006 est.
+126 	 Luxembourg 	      3,010,000,000 	 2007 est.
+127 	 Albania 	      2,892,000,000 	 2007 est.
+128 	 Papua New Guinea 	      2,875,000,000 	 2006 est.
+129 	 Montenegro 	      2,864,000,000 	 2005 est.
+130 	 Nepal 	      2,703,000,000 	 2007 est.
+131 	 Tanzania 	      2,682,000,000 	 2006 est.
+132 	 Mauritius 	      2,321,000,000 	 2007 est.
+133 	 Senegal 	      2,280,000,000 	 2006 est.
+134 	 Malta 	      2,146,000,000 	 2007 est.
+135 	 Bahamas, The 	      2,050,000,000 	 2007 est.
+136 	 Guam 	      1,789,000,000 	 2006 est.
+137 	 Gabon 	      1,671,000,000 	 2006 est.
+138 	 Laos 	      1,639,000,000 	 2006 est.
+139 	 Namibia 	      1,606,000,000 	 2007 est.
+140 	 New Caledonia 	      1,602,000,000 	 2006 est.
+141 	 Suriname 	      1,595,000,000 	 2006 est.
+142 	 Macau 	      1,454,000,000 	 2007 est.
+143 	 Netherlands Antilles 	      1,195,000,000 	 2006 est.
+144 	 Cambodia 	      1,163,000,000 	 2006 est.
+145 	 Uganda 	      1,161,000,000 	 2006 est.
+146 	 Malawi 	      1,130,000,000 	 2006 est.
+147 	 Madagascar 	      1,045,000,000 	 2007 est.
+148 	 Barbados 	      1,003,000,000 	 2007 est.
+149 	 Botswana 	       979,000,000 	 2006 est.
+150 	 Virgin Islands 	       960,000,000 	 2006 est.
+151 	 Fiji 	       928,000,000 	 2007 est.
+152 	 Guyana 	       901,000,000 	 2006 est.
+153 	 Afghanistan 	       839,000,000 	 2007 est.
+154 	 Aruba 	       800,000,000 	 2006 est.
+155 	 Guinea 	       800,000,000 	 2006 est.
+156 	 Bermuda 	       675,600,000 	 2007 est.
+157 	 Burkina Faso 	       611,600,000 	 2007 est.
+158 	 Haiti 	       549,000,000 	 2006 est.
+159 	 Cayman Islands 	       546,100,000 	 2007 est.
+160 	 Mali 	       505,000,000 	 2006 est.
+161 	 French Polynesia 	       475,000,000 	 2006 est.
+162 	 Swaziland 	       460,000,000 	 2007
+163 	 Congo, Republic of the 	       444,000,000 	 2006 est.
+164 	 Mauritania 	       412,300,000 	 2006 est.
+165 	 Saint Lucia 	       325,000,000 	 2007 est.
+166 	 Liberia 	       320,000,000 	 2006 est.
+167 	 Greenland 	       305,000,000 	 2006 est.
+168 	 Faroe Islands 	       295,000,000 	 2006 est.
+169 	 Somalia 	       280,000,000 	 2006 est.
+170 	 Eritrea 	       253,000,000 	 2006 est.
+171 	 Djibouti 	       250,000,000 	 2006 est.
+172 	 Sierra Leone 	       250,000,000 	 2006 est.
+173 	 Niger 	       240,000,000 	 2006 est.
+174 	 Maldives 	       230,000,000 	 2007 est.
+175 	 Belize 	       213,500,000 	 2007 est.
+176 	 Seychelles 	       208,000,000 	 2006 est.
+177 	 Togo 	       203,000,000 	 2006 est.
+178 	 Gambia, The 	       200,200,000 	 2007 est.
+179 	 Lesotho 	       200,000,000 	 2006 est.
+180 	 Micronesia, Federated States of 	       192,000,000 	 2002
+181 	 American Samoa 	       180,000,000 	 2006 est.
+182 	 Grenada 	       167,200,000 	 2006 est.
+183 	 Gibraltar 	       142,000,000 	 2006 est.
+184 	 Rwanda 	       134,000,000 	 2006 est.
+185 	 Saint Kitts and Nevis 	       130,000,000 	 2006 est.
+186 	 Saint Vincent and the Grenadines 	       129,000,000 	 2006 est.
+187 	 Benin 	       120,000,000 	 2006 est.
+188 	 Central African Republic 	       110,000,000 	 2006 est.
+189 	 Samoa 	       109,000,000 	 2006 est.
+190 	 Antigua and Barbuda 	       105,000,000 	 2006 est.
+191 	 Chad 	        95,000,000 	 2006 est.
+192 	 Dominica 	        90,000,000 	 2006 est.
+193 	 Western Sahara 	        90,000,000 	 2006 est.
+194 	 Burundi 	        87,000,000 	 2006 est.
+195 	 Solomon Islands 	        70,000,000 	 2007 est.
+196 	 Guinea-Bissau 	        60,000,000 	 2006 est.
+197 	 Saint Pierre and Miquelon 	        53,000,000 	 2006 est.
+198 	 Cape Verde 	        47,000,000 	 2006 est.
+199 	 Vanuatu 	        46,000,000 	 2007 est.
+200 	 British Virgin Islands 	        45,000,000 	 2006 est.
+201 	 Tonga 	        43,000,000 	 2007 est.
+202 	 Nauru 	        31,000,000 	 2006 est.
+203 	 Cook Islands 	        30,000,000 	 2006 est.
+204 	 Equatorial Guinea 	        27,000,000 	 2006 est.
+205 	 Montserrat 	        22,000,000 	 2006 est.
+206 	 Comoros 	        20,000,000 	 2006 est.
+207 	 Sao Tome and Principe 	        18,000,000 	 2006 est.
+208 	 Falkland Islands (Islas Malvinas) 	        16,000,000 	 2006 est.
+209 	 Kiribati 	        10,000,000 	 2006 est.
+210 	 Turks and Caicos Islands 	        10,000,000 	 2006 est.
+211 	 Saint Helena 	         8,000,000 	 2006 est.
+212 	 Niue 	         4,000,000 	 2006 est.
+213 	 Gaza Strip 	          140,000 	 2005
+
+ This file was last updated on 18 December, 2008

@@ -1,0 +1,141 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Railways(km) 	 Date of Information
+1 	 World 	         1,115,205 	 2003
+2 	 United States 	          226,605 	 2004
+3 	 European Union 	          222,293 	 2003
+4 	 Russia 	           87,157 	 2005
+5 	 China 	           74,408 	 2004
+6 	 India 	           63,230 	 2005
+7 	 Canada 	           48,467 	 2005
+8 	 Australia 	           47,738 	 2005
+9 	 Germany 	           47,201 	 2005
+10 	 Argentina 	           31,902 	 2005
+11 	 Brazil 	           29,252 	 2005
+12 	 France 	           29,085 	 2005
+13 	 Japan 	           23,556 	 2005
+14 	 Poland 	           23,072 	 2005
+15 	 Ukraine 	           22,473 	 2005
+16 	 South Africa 	           20,872 	 2005
+17 	 Italy 	           19,459 	 2005
+18 	 Mexico 	           17,562 	 2005
+19 	 United Kingdom 	           17,156 	 2005
+20 	 Spain 	           14,873 	 2005
+21 	 Kazakhstan 	           13,700 	 2005
+22 	 Sweden 	           11,481 	 2005
+23 	 Romania 	           11,385 	 2005
+24 	 Czech Republic 	            9,572 	 2005
+25 	 Turkey 	            8,697 	 2005
+26 	 Pakistan 	            8,163 	 2004
+27 	 Hungary 	            7,937 	 2005
+28 	 Iran 	            7,256 	 2005
+29 	 Chile 	            6,585 	 2005
+30 	 Indonesia 	            6,458 	 2005
+31 	 Austria 	            6,011 	 2005
+32 	 Sudan 	            5,978 	 2005
+33 	 Finland 	            5,741 	 2005
+34 	 Belarus 	            5,512 	 2005
+35 	 Korea, North 	            5,214 	 2005
+36 	 Congo, Democratic Republic of the 	            5,138 	 2005
+37 	 Egypt 	            5,063 	 2005
+38 	 Switzerland 	            4,583 	 2005
+39 	 Bulgaria 	            4,294 	 2005
+40 	 Cuba 	            4,226 	 2005
+41 	 Serbia 	            4,135 	 2005
+42 	 New Zealand 	            4,128 	 2005
+43 	 Norway 	            4,077 	 2005
+44 	 Thailand 	            4,071 	 2005
+45 	 Algeria 	            3,973 	 2005
+46 	 Burma 	            3,955 	 2005
+47 	 Uzbekistan 	            3,950 	 2005
+48 	 Tanzania 	            3,690 	 2005
+49 	 Slovakia 	            3,662 	 2005
+50 	 Belgium 	            3,521 	 2005
+51 	 Bolivia 	            3,519 	 2005
+52 	 Nigeria 	            3,505 	 2005
+53 	 Korea, South 	            3,472 	 2005
+54 	 Peru 	            3,462 	 2005
+55 	 Ireland 	            3,312 	 2005
+56 	 Colombia 	            3,304 	 2005
+57 	 Mozambique 	            3,123 	 2005
+58 	 Zimbabwe 	            3,077 	 2005
+59 	 Azerbaijan 	            2,957 	 2005
+60 	 Portugal 	            2,850 	 2005
+61 	 Netherlands 	            2,808 	 2005
+62 	 Kenya 	            2,778 	 2005
+63 	 Bangladesh 	            2,768 	 2005
+64 	 Angola 	            2,761 	 2005
+65 	 Croatia 	            2,726 	 2005
+66 	 Syria 	            2,711 	 2005
+67 	 Denmark 	            2,673 	 2005
+68 	 Vietnam 	            2,600 	 2005
+69 	 Greece 	            2,571 	 2005
+70 	 Taiwan 	            2,497 	 2005
+71 	 Turkmenistan 	            2,440 	 2005
+72 	 Namibia 	            2,382 	 2005
+73 	 Latvia 	            2,303 	 2005
+74 	 Iraq 	            2,200 	 2005
+75 	 Zambia 	            2,173 	 2005
+76 	 Tunisia 	            2,153 	 2005
+77 	 Uruguay 	            2,073 	 2005
+78 	 Morocco 	            1,907 	 2005
+79 	 Malaysia 	            1,890 	 2005
+80 	 Mongolia 	            1,810 	 2005
+81 	 Lithuania 	            1,771 	 2005
+82 	 Georgia 	            1,612 	 2005
+83 	 Sri Lanka 	            1,449 	 2005
+84 	 Saudi Arabia 	            1,392 	 2005
+85 	 Uganda 	            1,244 	 2005
+86 	 Slovenia 	            1,229 	 2005
+87 	 Moldova 	            1,138 	 2005
+88 	 Cameroon 	             987 	 2005
+89 	 Ecuador 	             966 	 2005
+90 	 Estonia 	             958 	 2005
+91 	 Ghana 	             953 	 2005
+92 	 Senegal 	             906 	 2005
+93 	 Philippines 	             897 	 2005
+94 	 Congo, Republic of the 	             894 	 2005
+95 	 Botswana 	             888 	 2005
+96 	 Guatemala 	             886 	 2005
+97 	 Madagascar 	             854 	 2005
+98 	 Israel 	             853 	 2005
+99 	 Armenia 	             845 	 2005
+100 	 Guinea 	             837 	 2005
+101 	 Gabon 	             814 	 2005
+102 	 Malawi 	             797 	 2005
+103 	 Mali 	             729 	 2005
+104 	 Honduras 	             699 	 2005
+105 	 Macedonia 	             699 	 2005
+106 	 Venezuela 	             682 	 2005
+107 	 Ethiopia 	             681 	 2005
+108 	 Cote d'Ivoire 	             660 	 2005
+109 	 Burkina Faso 	             622 	 2005
+110 	 Bosnia and Herzegovina 	             608 	 2005
+111 	 Cambodia 	             602 	 2005
+112 	 Fiji 	             597 	 2005
+113 	 Benin 	             578 	 2005
+114 	 Togo 	             568 	 2005
+115 	 Dominican Republic 	             517 	 2005
+116 	 Jordan 	             505 	 2005
+117 	 Liberia 	             490 	 2005
+118 	 Tajikistan 	             482 	 2005
+119 	 Kyrgyzstan 	             470 	 2005
+120 	 Albania 	             447 	 2005
+121 	 Lebanon 	             401 	 2006
+122 	 Panama 	             355 	 2005
+123 	 Eritrea 	             306 	 2005
+124 	 Swaziland 	             301 	 2005
+125 	 El Salvador 	             283 	 2005
+126 	 Costa Rica 	             278 	 2005
+127 	 Luxembourg 	             274 	 2005
+128 	 Jamaica 	             272 	 2003
+129 	 Montenegro 	             250 	 2005
+130 	 Guyana 	             187 	 2001 est.
+131 	 Djibouti 	             100 	 2005
+132 	 Puerto Rico 	              96 	 2005
+133 	 Isle of Man 	              65 	 2006
+134 	 Nepal 	              59 	 2005
+135 	 Saint Kitts and Nevis 	              50 	 2005
+136 	 Paraguay 	              36 	 2005
+137 	 Nicaragua 	               6 	 2005
+
+ This file was last updated on 19 December, 2006

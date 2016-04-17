@@ -1,0 +1,217 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Oil - production(bbl/day) 	 Date of Information
+1 	 World 	        75,340,000 	 2001 est.
+2 	 Saudi Arabia 	         8,711,000 	 2001 est.
+3 	 United States 	         8,054,000 	 2001 est.
+4 	 Russia 	         7,286,000 	 2001 est.
+5 	 Iran 	         3,804,000 	 2001 est.
+6 	 Mexico 	         3,590,000 	 2001 est.
+7 	 Norway 	         3,408,000 	 2001 est.
+8 	 China 	         3,300,000 	 2001 est.
+9 	 European Union 	         3,244,000 	 2001
+10 	 Venezuela 	         3,080,000 	 2001 est.
+11 	 Canada 	         2,738,000 	 2001 est.
+12 	 United Arab Emirates 	         2,566,000 	 2001 est.
+13 	 United Kingdom 	         2,541,000 	 2001 est.
+14 	 Kuwait 	         2,270,000 	 2003 est.
+15 	 Nigeria 	         2,256,000 	 2001 est.
+16 	 Iraq 	         2,200,000 	 January 2004 est.
+17 	 Brazil 	         1,561,000 	 2001 est.
+18 	 Algeria 	         1,520,000 	 2001 est.
+19 	 Indonesia 	         1,451,000 	 2001 est.
+20 	 Libya 	         1,429,000 	 2001 est.
+21 	 Oman 	          963,800 	 2001 est.
+22 	 Qatar 	          864,200 	 2001 est.
+23 	 Argentina 	          828,600 	 2001 est.
+24 	 Egypt 	          816,900 	 2001 est.
+25 	 Kazakhstan 	          798,200 	 2001 est.
+26 	 Angola 	          742,400 	 2001 est.
+27 	 India 	          732,400 	 2001 est.
+28 	 Australia 	          731,000 	 2001 est.
+29 	 Malaysia 	          690,000 	 2003 est.
+30 	 Colombia 	          614,400 	 2001 est.
+31 	 Syria 	          522,700 	 2001 est.
+32 	 Yemen 	          438,500 	 2001 est.
+33 	 Ecuador 	          421,200 	 2001 est.
+34 	 Vietnam 	          356,700 	 2001 est.
+35 	 Denmark 	          346,200 	 2001 est.
+36 	 Azerbaijan 	          307,200 	 2001 est.
+37 	 Gabon 	          301,300 	 2001 est.
+38 	 Congo, Republic of the 	          275,000 	 2001 est.
+39 	 Brunei 	          217,200 	 2001 est.
+40 	 Sudan 	          209,100 	 2001 est.
+41 	 South Africa 	          196,200 	 2001 est.
+42 	 Equatorial Guinea 	          181,400 	 2001 est.
+43 	 Thailand 	          173,800 	 2001 est.
+44 	 Turkmenistan 	          162,500 	 2001 est.
+45 	 Uzbekistan 	          142,700 	 2001 est.
+46 	 Trinidad and Tobago 	          136,200 	 2001 est.
+47 	 Romania 	          127,500 	 2001 est.
+48 	 Peru 	           95,100 	 2001 est.
+49 	 Ukraine 	           86,490 	 2001 est.
+50 	 Germany 	           85,860 	 2001 est.
+51 	 Italy 	           79,460 	 2001 est.
+52 	 Cameroon 	           76,650 	 2001 est.
+53 	 Tunisia 	           72,580 	 2001 est.
+54 	 Papua New Guinea 	           67,500 	 2001 est.
+55 	 Pakistan 	           62,870 	 2001 est.
+56 	 Cuba 	           50,000 	 2001 est.
+57 	 Turkey 	           48,000 	 2001 est.
+58 	 Netherlands 	           46,200 	 2001 est.
+59 	 Bolivia 	           44,340 	 2001 est.
+60 	 Bahrain 	           43,000 	 2001 est.
+61 	 New Zealand 	           42,160 	 2001 est.
+62 	 Hungary 	           41,190 	 2001 est.
+63 	 Belarus 	           37,000 	 2001 est.
+64 	 France 	           34,920 	 2001 est.
+65 	 Croatia 	           29,000 	 2001 est.
+66 	 Congo, Democratic Republic of the 	           24,000 	 2001 est.
+67 	 Guatemala 	           21,080 	 2001 est.
+68 	 Austria 	           20,670 	 2001 est.
+69 	 Burma 	           18,590 	 2002 est.
+70 	 Japan 	           17,330 	 2001 est.
+71 	 Poland 	           17,180 	 2001 est.
+72 	 Serbia and Montenegro 	           15,000 	 2001 est.
+73 	 Chile 	           13,640 	 2001 est.
+74 	 Cote d'Ivoire 	           11,000 	 2001 est.
+75 	 Suriname 	           10,000 	 2001 est.
+76 	 Philippines 	            8,460 	 2001 est.
+77 	 Czech Republic 	            7,419 	 2001 est.
+78 	 Spain 	            7,099 	 2001 est.
+79 	 Ghana 	            7,000 	 2001 est.
+80 	 Greece 	            5,992 	 2001 est.
+81 	 Albania 	            5,952 	 2001 est.
+82 	 Estonia 	            5,100 	 2001 est.
+83 	 Lithuania 	            4,594 	 2001 est.
+84 	 Bangladesh 	            3,581 	 2001 est.
+85 	 Georgia 	            2,000 	 2001 est.
+86 	 Kyrgyzstan 	            2,000 	 2001 est.
+87 	 Barbados 	            1,271 	 2001 est.
+88 	 Taiwan 	            1,100 	 2001 est.
+89 	 Slovakia 	            1,000 	 2001 est.
+90 	 Benin 	             700 	 2001 est.
+91 	 Bulgaria 	             603 	 2001 est.
+92 	 Morocco 	             400 	 2001 est.
+93 	 Tajikistan 	             250 	 2001 est.
+94 	 Israel 	              80 	 2001 est.
+95 	 Jordan 	              40 	 2001 est.
+96 	 Slovenia 	              20 	 2001 est.
+97 	 Aruba 	               0 	 2001 est.
+98 	 Afghanistan 	               0 	 2001 est.
+99 	 Botswana 	               0 	 2001 est.
+100 	 Belgium 	               0 	 2001 est.
+101 	 Solomon Islands 	               0 	 2001 est.
+102 	 Lesotho 	               0 	 2001 est.
+103 	 Liberia 	               0 	 2001 est.
+104 	 Latvia 	               0 	 2001 est.
+105 	 Lebanon 	               0 	 2001 est.
+106 	 Laos 	               0 	 2001 est.
+107 	 Korea, South 	               0 	 2001 est.
+108 	 Kiribati 	               0 	 2001 est.
+109 	 Korea, North 	               0 	 2001 est.
+110 	 Kenya 	               0 	 2001 est.
+111 	 Zimbabwe 	               0 	 2001 est.
+112 	 Zambia 	               0 	 2001 est.
+113 	 Swaziland 	               0 	 2001 est.
+114 	 Samoa 	               0 	 2001 est.
+115 	 Western Sahara 	               0 	 2001 est.
+116 	 Namibia 	               0 	 2001 est.
+117 	 Virgin Islands 	               0 	 2001 est.
+118 	 British Virgin Islands 	               0 	 2001 est.
+119 	 Saint Vincent and the Grenadines 	               0 	 2001 est.
+120 	 Uruguay 	               0 	 2001 est.
+121 	 Burkina Faso 	               0 	 2001 est.
+122 	 Uganda 	               0 	 2001 est.
+123 	 Tanzania 	               0 	 2001 est.
+124 	 Sao Tome and Principe 	               0 	 2001 est.
+125 	 Togo 	               0 	 2001 est.
+126 	 Tonga 	               0 	 2001 est.
+127 	 Turks and Caicos Islands 	               0 	 2001 est.
+128 	 Switzerland 	               0 	 2001 est.
+129 	 Sweden 	               0 	 2001 est.
+130 	 Saint Lucia 	               0 	 2001 est.
+131 	 Somalia 	               0 	 2001 est.
+132 	 Singapore 	               0 	 2001 est.
+133 	 Sierra Leone 	               0 	 2001 est.
+134 	 Saint Helena 	               0 	 2001 est.
+135 	 Senegal 	               0 	 2001 est.
+136 	 Seychelles 	               0 	 2001 est.
+137 	 Saint Kitts and Nevis 	               0 	 2001 est.
+138 	 Saint Pierre and Miquelon 	               0 	 2001 est.
+139 	 Rwanda 	               0 	 2001 est.
+140 	 Puerto Rico 	               0 	 2001 est.
+141 	 Reunion 	               0 	 2001 est.
+142 	 Panama 	               0 	 2001 est.
+143 	 Paraguay 	               0 	 2001 est.
+144 	 Nicaragua 	               0 	 2001 est.
+145 	 Netherlands Antilles 	               0 	 2001 est.
+146 	 Nauru 	               0 	 2001 est.
+147 	 Nepal 	               0 	 2001 est.
+148 	 Vanuatu 	               0 	 2001 est.
+149 	 Niger 	               0 	 2001 est.
+150 	 Niue 	               0 	 2001 est.
+151 	 Guinea-Bissau 	               0 	 2001 est.
+152 	 Portugal 	               0 	 2001 est.
+153 	 New Caledonia 	               0 	 2001 est.
+154 	 Mozambique 	               0 	 2001 est.
+155 	 Maldives 	               0 	 2001 est.
+156 	 Malta 	               0 	 2001 est.
+157 	 Mauritania 	               0 	 2001 est.
+158 	 Mauritius 	               0 	 2001 est.
+159 	 Mali 	               0 	 2001 est.
+160 	 Macedonia 	               0 	 2001 est.
+161 	 Malawi 	               0 	 2001 est.
+162 	 Montserrat 	               0 	 2001 est.
+163 	 Mongolia 	               0 	 2001 est.
+164 	 Moldova 	               0 	 2001 est.
+165 	 Macau 	               0 	 2001 est.
+166 	 Martinique 	               0 	 2001 est.
+167 	 Madagascar 	               0 	 2001 est.
+168 	 Luxembourg 	               0 	 2001 est.
+169 	 Jamaica 	               0 	 2001 est.
+170 	 Iceland 	               0 	 2001 est.
+171 	 Honduras 	               0 	 2001 est.
+172 	 Hong Kong 	               0 	 2001 est.
+173 	 Haiti 	               0 	 2001 est.
+174 	 Guyana 	               0 	 2001 est.
+175 	 Guinea 	               0 	 2001 est.
+176 	 French Polynesia 	               0 	 2001 est.
+177 	 Faroe Islands 	               0 	 2001 est.
+178 	 Falkland Islands (Islas Malvinas) 	               0 	 2001 est.
+179 	 Fiji 	               0 	 2001 est.
+180 	 Finland 	               0 	 2001 est.
+181 	 French Guiana 	               0 	 2001 est.
+182 	 Ethiopia 	               0 	 2001 est.
+183 	 El Salvador 	               0 	 2001 est.
+184 	 Eritrea 	               0 	 2001 est.
+185 	 Guam 	               0 	 2001 est.
+186 	 Guadeloupe 	               0 	 2001 est.
+187 	 Greenland 	               0 	 2001 est.
+188 	 Grenada 	               0 	 2001 est.
+189 	 Gibraltar 	               0 	 2001 est.
+190 	 Gambia, The 	               0 	 2001 est.
+191 	 Ireland 	               0 	 2001 est.
+192 	 Dominican Republic 	               0 	 2001 est.
+193 	 Dominica 	               0 	 2001 est.
+194 	 Djibouti 	               0 	 2001 est.
+195 	 Cyprus 	               0 	 2001 est.
+196 	 Cook Islands 	               0 	 2001 est.
+197 	 Cape Verde 	               0 	 2001 est.
+198 	 Central African Republic 	               0 	 2001 est.
+199 	 Costa Rica 	               0 	 2001 est.
+200 	 Comoros 	               0 	 2001 est.
+201 	 Cayman Islands 	               0 	 2001 est.
+202 	 Sri Lanka 	               0 	 2001 est.
+203 	 Chad 	               0 	 2001 est.
+204 	 Cambodia 	               0 	 2001 est.
+205 	 Burundi 	               0 	 2001 est.
+206 	 Bhutan 	               0 	 2001 est.
+207 	 Bosnia and Herzegovina 	               0 	 2001 est.
+208 	 Belize 	               0 	 2001 est.
+209 	 Bahamas, The 	               0 	 2001 est.
+210 	 Bermuda 	               0 	 2001 est.
+211 	 Armenia 	               0 	 2001 est.
+212 	 American Samoa 	               0 	 2001 est.
+213 	 Antigua and Barbuda 	               0 	 2001 est.
+
+ This file was last updated on 10 February, 2005

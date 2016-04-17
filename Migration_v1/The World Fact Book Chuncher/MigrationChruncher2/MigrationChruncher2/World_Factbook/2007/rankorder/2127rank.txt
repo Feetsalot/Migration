@@ -1,0 +1,226 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Total fertility rate(children born/woman) 	 Date of Information
+1 	 Mali 	      7.38 	 2007 est.
+2 	 Niger 	      7.37 	 2007 est.
+3 	 Uganda 	      6.84 	 2007 est.
+4 	 Somalia 	      6.68 	 2007 est.
+5 	 Afghanistan 	      6.64 	 2007 est.
+6 	 Yemen 	      6.49 	 2007 est.
+7 	 Burundi 	      6.48 	 2007 est.
+8 	 Burkina Faso 	      6.41 	 2007 est.
+9 	 Congo, Democratic Republic of the 	      6.37 	 2007 est.
+10 	 Angola 	      6.27 	 2007 est.
+11 	 Sierra Leone 	      6.01 	 2007 est.
+12 	 Congo, Republic of the 	      5.99 	 2007 est.
+13 	 Liberia 	      5.94 	 2007 est.
+14 	 Mauritania 	      5.78 	 2007 est.
+15 	 Guinea 	      5.75 	 2007 est.
+16 	 Malawi 	      5.74 	 2007 est.
+17 	 Oman 	      5.70 	 2007 est.
+18 	 Mayotte 	      5.69 	 2007 est.
+19 	 Gaza Strip 	      5.64 	 2007 est.
+20 	 Chad 	      5.56 	 2007 est.
+21 	 Sao Tome and Principe 	      5.53 	 2007 est.
+22 	 Nigeria 	      5.45 	 2007 est.
+23 	 Rwanda 	      5.37 	 2007 est.
+24 	 Zambia 	      5.31 	 2007 est.
+25 	 Mozambique 	      5.29 	 2007 est.
+26 	 Madagascar 	      5.24 	 2007 est.
+27 	 Djibouti 	      5.23 	 2007 est.
+28 	 Gambia, The 	      5.21 	 2007 est.
+29 	 Ethiopia 	      5.10 	 2007 est.
+30 	 Benin 	      5.08 	 2007 est.
+31 	 Senegal 	      5.00 	 2007 est.
+32 	 Comoros 	      4.97 	 2007 est.
+33 	 Eritrea 	      4.96 	 2007 est.
+34 	 Togo 	      4.90 	 2007 est.
+35 	 Haiti 	      4.86 	 2007 est.
+36 	 Kenya 	      4.82 	 2007 est.
+37 	 Guinea-Bissau 	      4.79 	 2007 est.
+38 	 Maldives 	      4.78 	 2007 est.
+39 	 Tanzania 	      4.77 	 2007 est.
+40 	 Gabon 	      4.71 	 2007 est.
+41 	 Sudan 	      4.69 	 2007 est.
+42 	 Bhutan 	      4.67 	 2007 est.
+43 	 Laos 	      4.59 	 2007 est.
+44 	 Cameroon 	      4.49 	 2007 est.
+45 	 Equatorial Guinea 	      4.48 	 2007 est.
+46 	 Cote d'Ivoire 	      4.43 	 2007 est.
+47 	 Central African Republic 	      4.32 	 2007 est.
+48 	 Samoa 	      4.21 	 2007 est.
+49 	 West Bank 	      4.17 	 2007 est.
+50 	 Kiribati 	      4.12 	 2007 est.
+51 	 Iraq 	      4.07 	 2007 est.
+52 	 Nepal 	      4.01 	 2007 est.
+53 	 Saudi Arabia 	      3.94 	 2007 est.
+54 	 Ghana 	      3.89 	 2007 est.
+55 	 Paraguay 	      3.84 	 2007 est.
+56 	 Papua New Guinea 	      3.79 	 2007 est.
+57 	 Solomon Islands 	      3.78 	 2007 est.
+58 	 Marshall Islands 	      3.76 	 2007 est.
+59 	 Pakistan 	      3.71 	 2007 est.
+60 	 Guatemala 	      3.70 	 2007 est.
+61 	 Belize 	      3.52 	 2007 est.
+62 	 Honduras 	      3.48 	 2007 est.
+63 	 Timor-Leste 	      3.45 	 2007 est.
+64 	 Swaziland 	      3.43 	 2007 est.
+65 	 Syria 	      3.31 	 2007 est.
+66 	 Cape Verde 	      3.28 	 2007 est.
+67 	 Lesotho 	      3.21 	 2007 est.
+68 	 Libya 	      3.21 	 2007 est.
+69 	 Turkmenistan 	      3.13 	 2007 est.
+70 	 Cambodia 	      3.12 	 2007 est.
+71 	 Bangladesh 	      3.09 	 2007 est.
+72 	 Tajikistan 	      3.09 	 2007 est.
+73 	 El Salvador 	      3.08 	 2007 est.
+74 	 Zimbabwe 	      3.08 	 2007 est.
+75 	 American Samoa 	      3.07 	 2007 est.
+76 	 Micronesia, Federated States of 	      3.07 	 2007 est.
+77 	 Philippines 	      3.05 	 2007 est.
+78 	 Nauru 	      3.02 	 2007 est.
+79 	 Turks and Caicos Islands 	      3.02 	 2007 est.
+80 	 Malaysia 	      3.01 	 2007 est.
+81 	 Tuvalu 	      2.96 	 2007 est.
+82 	 Namibia 	      2.94 	 2007 est.
+83 	 Uzbekistan 	      2.88 	 2007 est.
+84 	 Kuwait 	      2.86 	 2007 est.
+85 	 Dominican Republic 	      2.81 	 2007 est.
+86 	 India 	      2.81 	 2007 est.
+87 	 Egypt 	      2.77 	 2007 est.
+88 	 Bolivia 	      2.76 	 2007 est.
+89 	 Qatar 	      2.75 	 2007 est.
+90 	 Tonga 	      2.75 	 2007 est.
+91 	 Botswana 	      2.73 	 2007 est.
+92 	 Fiji 	      2.70 	 2007 est.
+93 	 Nicaragua 	      2.69 	 2007 est.
+94 	 Kyrgyzstan 	      2.68 	 2007 est.
+95 	 Panama 	      2.66 	 2007 est.
+96 	 Ecuador 	      2.63 	 2007 est.
+97 	 Vanuatu 	      2.63 	 2007 est.
+98 	 Morocco 	      2.62 	 2007 est.
+99 	 World 	      2.59 	 2007 est.
+100 	 Bahrain 	      2.57 	 2007 est.
+101 	 Guam 	      2.57 	 2007 est.
+102 	 Jordan 	      2.55 	 2007 est.
+103 	 Venezuela 	      2.55 	 2007 est.
+104 	 Colombia 	      2.51 	 2007 est.
+105 	 Peru 	      2.46 	 2007 est.
+106 	 Palau 	      2.46 	 2007 est.
+107 	 United Arab Emirates 	      2.43 	 2007 est.
+108 	 Greenland 	      2.40 	 2007 est.
+109 	 Mexico 	      2.39 	 2007 est.
+110 	 Indonesia 	      2.38 	 2007 est.
+111 	 Israel 	      2.38 	 2007 est.
+112 	 Jamaica 	      2.36 	 2007 est.
+113 	 Grenada 	      2.30 	 2007 est.
+114 	 Saint Kitts and Nevis 	      2.29 	 2007 est.
+115 	 Mongolia 	      2.25 	 2007 est.
+116 	 New Caledonia 	      2.25 	 2007 est.
+117 	 Antigua and Barbuda 	      2.23 	 2007 est.
+118 	 Costa Rica 	      2.21 	 2007 est.
+119 	 South Africa 	      2.16 	 2007 est.
+120 	 Virgin Islands 	      2.16 	 2007 est.
+121 	 Bahamas, The 	      2.15 	 2007 est.
+122 	 Faroe Islands 	      2.15 	 2007 est.
+123 	 Saint Lucia 	      2.15 	 2007 est.
+124 	 Argentina 	      2.13 	 2007 est.
+125 	 Dominica 	      2.12 	 2007 est.
+126 	 United States 	      2.09 	 2007 est.
+127 	 Azerbaijan 	      2.05 	 2007 est.
+128 	 Sri Lanka 	      2.05 	 2007 est.
+129 	 Korea, North 	      2.05 	 2007 est.
+130 	 Guyana 	      2.04 	 2007 est.
+131 	 Albania 	      2.03 	 2007 est.
+132 	 Suriname 	      2.03 	 2007 est.
+133 	 Saint Pierre and Miquelon 	      2.00 	 2007 est.
+134 	 Netherlands Antilles 	      1.99 	 2007 est.
+135 	 French Polynesia 	      1.98 	 2007 est.
+136 	 France 	      1.98 	 2007 est.
+137 	 Brunei 	      1.97 	 2007 est.
+138 	 Chile 	      1.97 	 2007 est.
+139 	 Uruguay 	      1.97 	 2007 est.
+140 	 Burma 	      1.95 	 2007 est.
+141 	 Mauritius 	      1.94 	 2007 est.
+142 	 Iceland 	      1.91 	 2007 est.
+143 	 Cayman Islands 	      1.89 	 2007 est.
+144 	 Turkey 	      1.89 	 2007 est.
+145 	 Kazakhstan 	      1.89 	 2007 est.
+146 	 Vietnam 	      1.89 	 2007 est.
+147 	 Bermuda 	      1.88 	 2007 est.
+148 	 Lebanon 	      1.88 	 2007 est.
+149 	 Brazil 	      1.88 	 2007 est.
+150 	 Algeria 	      1.86 	 2007 est.
+151 	 Ireland 	      1.86 	 2007 est.
+152 	 Aruba 	      1.85 	 2007 est.
+153 	 Saint Vincent and the Grenadines 	      1.81 	 2007 est.
+154 	 Cyprus 	      1.80 	 2007 est.
+155 	 New Zealand 	      1.79 	 2007 est.
+156 	 Luxembourg 	      1.78 	 2007 est.
+157 	 Norway 	      1.78 	 2007 est.
+158 	 Montserrat 	      1.77 	 2007 est.
+159 	 Puerto Rico 	      1.77 	 2007 est.
+160 	 Australia 	      1.76 	 2007 est.
+161 	 China 	      1.75 	 2007 est.
+162 	 Monaco 	      1.75 	 2007 est.
+163 	 Denmark 	      1.74 	 2007 est.
+164 	 Trinidad and Tobago 	      1.74 	 2007 est.
+165 	 Seychelles 	      1.74 	 2007 est.
+166 	 Finland 	      1.73 	 2007 est.
+167 	 Tunisia 	      1.73 	 2007 est.
+168 	 Anguilla 	      1.72 	 2007 est.
+169 	 British Virgin Islands 	      1.72 	 2007 est.
+170 	 Iran 	      1.71 	 2007 est.
+171 	 Serbia 	      1.69 	 2007 est.
+172 	 Netherlands 	      1.66 	 2007 est.
+173 	 Sweden 	      1.66 	 2007 est.
+174 	 United Kingdom 	      1.66 	 2007 est.
+175 	 Barbados 	      1.65 	 2007 est.
+176 	 Isle of Man 	      1.65 	 2007 est.
+177 	 Gibraltar 	      1.65 	 2007 est.
+178 	 Belgium 	      1.64 	 2007 est.
+179 	 Thailand 	      1.64 	 2007 est.
+180 	 Canada 	      1.61 	 2007 est.
+181 	 Cuba 	      1.60 	 2007 est.
+182 	 Jersey 	      1.58 	 2007 est.
+183 	 Macedonia 	      1.57 	 2007 est.
+184 	 Saint Helena 	      1.55 	 2007 est.
+185 	 Liechtenstein 	      1.51 	 2007 est.
+186 	 Malta 	      1.51 	 2007 est.
+187 	 European Union 	      1.50 	 2007 est.
+188 	 Portugal 	      1.48 	 2007 est.
+189 	 Switzerland 	      1.44 	 2007 est.
+190 	 Georgia 	      1.42 	 2007 est.
+191 	 Estonia 	      1.41 	 2007 est.
+192 	 Croatia 	      1.41 	 2007 est.
+193 	 Guernsey 	      1.40 	 2007 est.
+194 	 Germany 	      1.40 	 2007 est.
+195 	 Bulgaria 	      1.39 	 2007 est.
+196 	 Russia 	      1.39 	 2007 est.
+197 	 Romania 	      1.38 	 2007 est.
+198 	 Austria 	      1.37 	 2007 est.
+199 	 Greece 	      1.35 	 2007 est.
+200 	 Armenia 	      1.34 	 2007 est.
+201 	 San Marino 	      1.34 	 2007 est.
+202 	 Hungary 	      1.33 	 2007 est.
+203 	 Slovakia 	      1.33 	 2007 est.
+204 	 Andorra 	      1.31 	 2007 est.
+205 	 Italy 	      1.29 	 2007 est.
+206 	 Spain 	      1.29 	 2007 est.
+207 	 Korea, South 	      1.28 	 2007 est.
+208 	 Latvia 	      1.28 	 2007 est.
+209 	 Poland 	      1.26 	 2007 est.
+210 	 Slovenia 	      1.26 	 2007 est.
+211 	 Moldova 	      1.25 	 2007 est.
+212 	 Ukraine 	      1.24 	 2007 est.
+213 	 Bosnia and Herzegovina 	      1.23 	 2007 est.
+214 	 Japan 	      1.23 	 2007 est.
+215 	 Belarus 	      1.22 	 2007 est.
+216 	 Czech Republic 	      1.22 	 2007 est.
+217 	 Northern Mariana Islands 	      1.21 	 2007 est.
+218 	 Lithuania 	      1.21 	 2007 est.
+219 	 Taiwan 	      1.12 	 2007 est.
+220 	 Singapore 	      1.07 	 2007 est.
+221 	 Macau 	      1.03 	 2007 est.
+222 	 Hong Kong 	      0.98 	 2007 est.
+
+ This file was last updated on 13 December, 2007

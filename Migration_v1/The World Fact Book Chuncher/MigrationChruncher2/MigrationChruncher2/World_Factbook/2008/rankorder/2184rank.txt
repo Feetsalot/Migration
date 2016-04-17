@@ -1,0 +1,235 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Internet hosts 	 Date of Information
+1 	 United States 	       316,000,000 	 
+2 	 Japan 	        39,909,000 	 2008
+3 	 Germany 	        22,606,000 	 2008
+4 	 Italy 	        17,702,000 	 2008
+5 	 China 	        14,306,000 	 2008
+6 	 France 	        14,256,000 	 2008
+7 	 Australia 	        11,134,000 	 2008
+8 	 Netherlands 	        10,983,000 	 2008
+9 	 Mexico 	        10,653,000 	 2008
+10 	 Brazil 	         9,573,000 	 2008
+11 	 United Kingdom 	         8,269,000 	 2008
+12 	 Poland 	         7,808,000 	 2008
+13 	 Taiwan 	         5,225,000 	 2008
+14 	 Canada 	         5,119,000 	 2008
+15 	 Russia 	         4,822,000 	 2008
+16 	 Finland 	         3,877,000 	 2008
+17 	 Belgium 	         3,841,000 	 2008
+18 	 Argentina 	         3,813,000 	 2008
+19 	 Denmark 	         3,642,000 	 2008
+20 	 Sweden 	         3,579,000 	 2008
+21 	 Switzerland 	         3,437,000 	 2008
+22 	 Spain 	         3,264,000 	 2008
+23 	 Norway 	         2,995,000 	 2008
+24 	 Austria 	         2,806,000 	 2008
+25 	 India 	         2,707,000 	 2008
+26 	 Turkey 	         2,667,000 	 2008
+27 	 Czech Republic 	         2,434,000 	 2008
+28 	 Romania 	         2,195,000 	 2008
+29 	 Hungary 	         1,879,000 	 2008
+30 	 Portugal 	         1,858,000 	 2008
+31 	 New Zealand 	         1,720,000 	 2008
+32 	 Greece 	         1,626,000 	 2008
+33 	 Colombia 	         1,554,000 	 2008
+34 	 Israel 	         1,415,000 	 2008
+35 	 South Africa 	         1,297,000 	 2008
+36 	 Ireland 	         1,242,000 	 2008
+37 	 Thailand 	         1,116,000 	 2008
+38 	 Croatia 	         1,111,000 	 2008
+39 	 Chile 	          847,215 	 2008
+40 	 Singapore 	          837,559 	 2008
+41 	 Hong Kong 	          817,766 	 2008
+42 	 Lithuania 	          812,083 	 2008
+43 	 Indonesia 	          753,200 	 2008
+44 	 Slovakia 	          717,744 	 2008
+45 	 Estonia 	          645,495 	 2008
+46 	 Ukraine 	          524,202 	 2008
+47 	 Bulgaria 	          513,470 	 2008
+48 	 Uruguay 	          480,593 	 2008
+49 	 Niue 	          382,599 	 2008
+50 	 United Arab Emirates 	          381,915 	 2008
+51 	 Malaysia 	          377,716 	 2008
+52 	 Korea, South 	          333,823 	 2008
+53 	 Philippines 	          283,579 	 2008
+54 	 Morocco 	          275,889 	 2008
+55 	 Peru 	          271,745 	 2008
+56 	 Iceland 	          263,980 	 2008
+57 	 Moldova 	          223,869 	 2008
+58 	 Latvia 	          220,082 	 2008
+59 	 Pakistan 	          197,264 	 2008
+60 	 Luxembourg 	          180,756 	 2008
+61 	 Egypt 	          175,342 	 2008
+62 	 Trinidad and Tobago 	          155,722 	 2008
+63 	 Venezuela 	          145,394 	 2008
+64 	 Cyprus 	          143,099 	 2008
+65 	 Saudi Arabia 	          141,232 	 2008
+66 	 Guatemala 	          124,095 	 2008
+67 	 Dominican Republic 	          105,546 	 2008
+68 	 Vietnam 	           84,151 	 2008
+69 	 Slovenia 	           75,984 	 2008
+70 	 Bolivia 	           68,428 	 2008
+71 	 Belarus 	           68,118 	 2008
+72 	 Nicaragua 	           58,157 	 2008
+73 	 Kyrgyzstan 	           56,905 	 2008
+74 	 Tuvalu 	           56,209 	 2008
+75 	 Bosnia and Herzegovina 	           56,032 	 2008
+76 	 Netherlands Antilles 	           47,597 	 2008
+77 	 Ecuador 	           45,404 	 2008
+78 	 Nepal 	           42,219 	 2008
+79 	 Uzbekistan 	           38,183 	 2008
+80 	 Macedonia 	           36,905 	 2008
+81 	 Lebanon 	           36,681 	 2008
+82 	 Kazakhstan 	           36,417 	 2008
+83 	 European Union 	           31,693 	 
+84 	 Georgia 	           27,905 	 2008
+85 	 Kenya 	           27,376 	 2008
+86 	 Malta 	           26,494 	 2008
+87 	 Armenia 	           26,081 	 2008
+88 	 Tanzania 	           24,271 	 2008
+89 	 Ghana 	           24,018 	 2008
+90 	 Andorra 	           23,368 	 2008
+91 	 Mozambique 	           22,532 	 2008
+92 	 Jordan 	           21,150 	 2008
+93 	 Monaco 	           21,058 	 2008
+94 	 Paraguay 	           19,691 	 2008
+95 	 Tonga 	           19,231 	 2008
+96 	 Zimbabwe 	           19,157 	 2008
+97 	 Aruba 	           17,661 	 2008
+98 	 Costa Rica 	           16,440 	 2008
+99 	 New Caledonia 	           15,487 	 2008
+100 	 Brunei 	           14,950 	 2008
+101 	 Greenland 	           14,132 	 2008
+102 	 French Polynesia 	           14,070 	 2008
+103 	 Honduras 	           13,370 	 2008
+104 	 Fiji 	           12,592 	 2008
+105 	 El Salvador 	           11,434 	 2008
+106 	 Samoa 	           11,307 	 2008
+107 	 Madagascar 	           11,016 	 2008
+108 	 Albania 	           10,162 	 2008
+109 	 Mauritius 	            9,609 	 2008
+110 	 Bhutan 	            9,046 	 2008
+111 	 Faroe Islands 	            8,516 	 2008
+112 	 Panama 	            7,858 	 2008
+113 	 Syria 	            7,857 	 2008
+114 	 Antarctica 	            7,748 	 2008
+115 	 Liechtenstein 	            7,639 	 2008
+116 	 Zambia 	            7,610 	 2008
+117 	 Azerbaijan 	            6,995 	 2008
+118 	 San Marino 	            6,665 	 2008
+119 	 Botswana 	            6,374 	 2008
+120 	 Namibia 	            6,296 	 2008
+121 	 Guyana 	            6,218 	 2008
+122 	 Cote d'Ivoire 	            5,569 	 2008
+123 	 Sri Lanka 	            4,940 	 2008
+124 	 Oman 	            4,785 	 2008
+125 	 Cayman Islands 	            4,648 	 2008
+126 	 Virgin Islands 	            4,610 	 2008
+127 	 Solomon Islands 	            3,804 	 2008
+128 	 Cuba 	            3,664 	 2008
+129 	 Angola 	            3,562 	 2008
+130 	 Papua New Guinea 	            3,422 	 2008
+131 	 Kuwait 	            3,289 	 2008
+132 	 Congo, Democratic Republic of the 	            3,211 	 2008
+133 	 Iran 	            2,860 	 2008
+134 	 Belize 	            2,751 	 2008
+135 	 Bahrain 	            2,621 	 2008
+136 	 Swaziland 	            2,582 	 2008
+137 	 Rwanda 	            2,363 	 2008
+138 	 Turks and Caicos Islands 	            2,352 	 2008
+139 	 Cook Islands 	            2,234 	 2008
+140 	 Antigua and Barbuda 	            2,215 	 2008
+141 	 American Samoa 	            1,923 	 2008
+142 	 Gibraltar 	            1,904 	 2008
+143 	 Christmas Island 	            1,821 	 2008
+144 	 Bermuda 	            1,628 	 2008
+145 	 Maldives 	            1,600 	 2008
+146 	 Bangladesh 	            1,440 	 2008
+147 	 Sao Tome and Principe 	            1,355 	 2008
+148 	 Jamaica 	            1,292 	 2008
+149 	 Cambodia 	            1,230 	 2008
+150 	 Tajikistan 	            1,158 	 2008
+151 	 Uganda 	            1,090 	 2008
+152 	 Eritrea 	            1,074 	 2008
+153 	 Nigeria 	            1,048 	 2008
+154 	 Laos 	            1,015 	 2008
+155 	 Vanuatu 	             990 	 2008
+156 	 Micronesia, Federated States of 	             866 	 2008
+157 	 Benin 	             848 	 2008
+158 	 Togo 	             769 	 2008
+159 	 Turkmenistan 	             640 	 2008
+160 	 Qatar 	             563 	 2008
+161 	 Algeria 	             477 	 2008
+162 	 British Virgin Islands 	             465 	 2008
+163 	 Isle of Man 	             426 	 2008
+164 	 Montserrat 	             409 	 2008
+165 	 Puerto Rico 	             404 	 2008
+166 	 Mali 	             387 	 2008
+167 	 Tunisia 	             376 	 2008
+168 	 Mongolia 	             356 	 2008
+169 	 Gambia, The 	             320 	 2008
+170 	 Saint Helena 	             306 	 2008
+171 	 Timor-Leste 	             285 	 2008
+172 	 Seychelles 	             284 	 2008
+173 	 Tokelau 	             273 	 2008
+174 	 Macau 	             263 	 2008
+175 	 Senegal 	             217 	 2008
+176 	 Niger 	             216 	 2008
+177 	 Anguilla 	             205 	 2008
+178 	 South Georgia and the South Sandwich Islands 	             196 	 2008
+179 	 Jersey 	             190 	 2008
+180 	 Yemen 	             167 	 2008
+181 	 Burundi 	             162 	 2008
+182 	 Djibouti 	             161 	 2008
+183 	 Guernsey 	             156 	 2008
+184 	 Ethiopia 	             128 	 2008
+185 	 Saint Vincent and the Grenadines 	             124 	 2008
+186 	 Burkina Faso 	             116 	 2008
+187 	 Burma 	             108 	 2008
+188 	 Malawi 	             107 	 2008
+189 	 Barbados 	             104 	 2008
+190 	 Falkland Islands (Islas Malvinas) 	              91 	 2008
+191 	 British Indian Ocean Territory 	              89 	 2008
+192 	 Gabon 	              88 	 2008
+193 	 Lesotho 	              83 	 2008
+194 	 Guinea-Bissau 	              82 	 2008
+195 	 Cameroon 	              69 	 2008
+196 	 Holy See (Vatican City) 	              55 	 2008
+197 	 Norfolk Island 	              51 	 2008
+198 	 Saint Kitts and Nevis 	              45 	 2008
+199 	 Nauru 	              42 	 2008
+200 	 Bahamas, The 	              41 	 2008
+201 	 French Southern and Antarctic Lands 	              38 	 2008
+202 	 Guam 	              36 	 2008
+203 	 Mauritania 	              34 	 2008
+204 	 Suriname 	              33 	 2008
+205 	 Sudan 	              33 	 2008
+206 	 Afghanistan 	              31 	 2008
+207 	 Libya 	              31 	 2008
+208 	 Dominica 	              29 	 2008
+209 	 Central African Republic 	              21 	 2008
+210 	 Cape Verde 	              20 	 2008
+211 	 Saint Lucia 	              17 	 2008
+212 	 Guinea 	              16 	 2008
+213 	 Pitcairn Islands 	              12 	 2008
+214 	 Equatorial Guinea 	               9 	 2008
+215 	 Kiribati 	               9 	 2008
+216 	 Grenada 	               9 	 2008
+217 	 Comoros 	               8 	 2008
+218 	 Sierra Leone 	               8 	 2008
+219 	 Haiti 	               7 	 2008
+220 	 Liberia 	               7 	 2008
+221 	 Bouvet Island 	               6 	 2008
+222 	 Northern Mariana Islands 	               6 	 2008
+223 	 Chad 	               5 	 2008
+224 	 Congo, Republic of the 	               5 	 2008
+225 	 Iraq 	               3 	 2008
+226 	 Marshall Islands 	               3 	 2008
+227 	 Mayotte 	               1 	 2008
+228 	 Wallis and Futuna 	               1 	 2008
+229 	 Somalia 	               1 	 2008
+230 	 Palau 	               0 	 2008
+231 	 Saint Pierre and Miquelon 	               0 	 2008
+
+ This file was last updated on 18 December, 2008

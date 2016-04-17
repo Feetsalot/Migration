@@ -1,0 +1,174 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Military expenditures - dollar figure 	 Date of Information
+1 	 United States 	 $     370,700,000,000 	 March 2003
+2 	 China 	 $      67,490,000,000 	 2004
+3 	 Japan 	 $      45,841,000,000 	 2004
+4 	 France 	 $      45,000,000,000 	 2005
+5 	 United Kingdom 	 $      42,836,500,000 	 2003
+6 	 Germany 	 $      35,063,000,000 	 2003
+7 	 Italy 	 $      28,182,800,000 	 2003
+8 	 Korea, South 	 $      20,000,000,000 	 2005
+9 	 India 	 $      18,860,000,000 	 2005
+10 	 Saudi Arabia 	 $      18,000,000,000 	 2002
+11 	 Australia 	 $      16,650,000,000 	 2004
+12 	 Turkey 	 $      12,155,000,000 	 2003
+13 	 Brazil 	 $      11,000,000,000 	 2004
+14 	 Spain 	 $       9,906,500,000 	 2003
+15 	 Canada 	 $       9,801,700,000 	 2003
+16 	 Netherlands 	 $       9,408,000,000 	 2004
+17 	 Israel 	 $       9,110,000,000 	 FY03
+18 	 Taiwan 	 $       7,574,000,000 	 2003
+19 	 Mexico 	 $       6,043,000,000 	 2004
+20 	 Greece 	 $       5,890,000,000 	 2004
+21 	 Sweden 	 $       5,729,000,000 	 2004
+22 	 Korea, North 	 $       5,217,400,000 	 FY02
+23 	 Singapore 	 $       4,470,000,000 	 
+24 	 Argentina 	 $       4,300,000,000 	 
+25 	 Iran 	 $       4,300,000,000 	 2003 est.
+26 	 Norway 	 $       4,033,500,000 	 2003
+27 	 Belgium 	 $       3,999,000,000 	 2003
+28 	 Pakistan 	 $       3,848,000,000 	 2004
+29 	 Poland 	 $       3,500,000,000 	 2002
+30 	 Portugal 	 $       3,497,800,000 	 2003
+31 	 Chile 	 $       3,420,000,000 	 2004
+32 	 Colombia 	 $       3,300,000,000 	 
+33 	 Denmark 	 $       3,271,600,000 	 2003
+34 	 South Africa 	 $       3,172,000,000 	 2004
+35 	 Kuwait 	 $       2,584,500,000 	 2004
+36 	 Switzerland 	 $       2,548,000,000 	 FY01
+37 	 Algeria 	 $       2,480,000,000 	 2004
+38 	 Egypt 	 $       2,440,000,000 	 2003
+39 	 Morocco 	 $       2,305,600,000 	 2003
+40 	 Czech Republic 	 $       2,170,000,000 	 2004
+41 	 Finland 	 $       1,800,000,000 	 FY98/99
+42 	 Thailand 	 $       1,775,000,000 	 
+43 	 Malaysia 	 $       1,690,000,000 	 
+44 	 Venezuela 	 $       1,687,000,000 	 2004
+45 	 United Arab Emirates 	 $       1,600,000,000 	 
+46 	 Austria 	 $       1,497,000,000 	 FY01/02
+47 	 Jordan 	 $       1,460,000,000 	 2004
+48 	 Indonesia 	 $       1,300,000,000 	 2004
+49 	 Iraq 	 $       1,300,000,000 	 FY00
+50 	 Libya 	 $       1,300,000,000 	 
+51 	 New Zealand 	 $       1,147,000,000 	 FY03/04
+52 	 Hungary 	 $       1,080,000,000 	 2002 est.
+53 	 Bangladesh 	 $        995,300,000 	 2004
+54 	 Romania 	 $        985,000,000 	 2002
+55 	 Yemen 	 $        885,500,000 	 2003
+56 	 Syria 	 $        858,000,000 	 
+57 	 Peru 	 $        829,300,000 	 2003
+58 	 Philippines 	 $        805,500,000 	 2004
+59 	 Qatar 	 $        723,000,000 	 
+60 	 Ireland 	 $        700,000,000 	 FY00/01
+61 	 Ecuador 	 $        655,000,000 	 2004
+62 	 Serbia and Montenegro 	 $        654,000,000 	 2002
+63 	 Vietnam 	 $        650,000,000 	 
+64 	 Bahrain 	 $        628,900,000 	 2004
+65 	 Croatia 	 $        620,000,000 	 2004
+66 	 Ukraine 	 $        617,900,000 	 FY02
+67 	 Sudan 	 $        587,000,000 	 2004
+68 	 Cuba 	 $        572,300,000 	 2003
+69 	 Nigeria 	 $        544,600,000 	 2004
+70 	 Lebanon 	 $        540,600,000 	 2004
+71 	 Sri Lanka 	 $        514,800,000 	 2004
+72 	 Slovakia 	 $        406,000,000 	 2002
+73 	 Cyprus 	 $        384,000,000 	 
+74 	 Slovenia 	 $        370,000,000 	 FY00
+75 	 Bulgaria 	 $        356,000,000 	 FY02
+76 	 Tunisia 	 $        356,000,000 	 
+77 	 Botswana 	 $        338,500,000 	 2004
+78 	 Ethiopia 	 $        337,100,000 	 2004
+79 	 Brunei 	 $        290,700,000 	 2004
+80 	 Uruguay 	 $        257,500,000 	 2004
+81 	 Oman 	 $        252,990,000 	 2004
+82 	 Bosnia and Herzegovina 	 $        234,300,000 	 
+83 	 Luxembourg 	 $        231,600,000 	 2003
+84 	 Lithuania 	 $        230,800,000 	 FY01
+85 	 Kazakhstan 	 $        221,800,000 	 FY02
+86 	 Cameroon 	 $        221,100,000 	 2004
+87 	 Zimbabwe 	 $        217,000,000 	 2004
+88 	 Guatemala 	 $        201,900,000 	 2004
+89 	 Macedonia 	 $        200,000,000 	 
+90 	 Uzbekistan 	 $        200,000,000 	 
+91 	 Afghanistan 	 $        188,400,000 	 2004
+92 	 Gabon 	 $        184,800,000 	 2004
+93 	 Angola 	 $        183,580,000 	 2004
+94 	 Cote d'Ivoire 	 $        180,200,000 	 2004
+95 	 Dominican Republic 	 $        180,000,000 	 1998
+96 	 Kenya 	 $        177,100,000 	 2004
+97 	 Belarus 	 $        176,100,000 	 FY02
+98 	 Uganda 	 $        170,300,000 	 2004
+99 	 Namibia 	 $        168,400,000 	 2004
+100 	 El Salvador 	 $        157,000,000 	 2003
+101 	 Estonia 	 $        155,000,000 	 2002 est.
+102 	 Eritrea 	 $        151,000,000 	 2004
+103 	 Panama 	 $        147,000,000 	 2004
+104 	 Armenia 	 $        135,000,000 	 FY01
+105 	 Bolivia 	 $        132,200,000 	 2004
+106 	 Congo, Republic of the 	 $        126,500,000 	 2004
+107 	 Equatorial Guinea 	 $        126,200,000 	 2004
+108 	 Azerbaijan 	 $        121,000,000 	 
+109 	 Mozambique 	 $        117,300,000 	 2004
+110 	 Cambodia 	 $        112,000,000 	 
+111 	 Senegal 	 $        107,300,000 	 2004
+112 	 Zambia 	 $        106,800,000 	 2004
+113 	 Chad 	 $        101,300,000 	 2004
+114 	 Honduras 	 $        100,600,000 	 2004
+115 	 Nepal 	 $         99,200,000 	 2004
+116 	 Benin 	 $         96,500,000 	 2004
+117 	 Congo, Democratic Republic of the 	 $         93,500,000 	 2004
+118 	 Turkmenistan 	 $         90,000,000 	 
+119 	 Latvia 	 $         87,000,000 	 FY01
+120 	 Trinidad and Tobago 	 $         66,700,000 	 2003
+121 	 Costa Rica 	 $         64,200,000 	 2004
+122 	 Burkina Faso 	 $         64,200,000 	 2004
+123 	 Guinea 	 $         56,700,000 	 2004
+124 	 Albania 	 $         56,500,000 	 FY02
+125 	 Paraguay 	 $         53,100,000 	 2004
+126 	 Rwanda 	 $         50,100,000 	 2004
+127 	 Ghana 	 $         49,200,000 	 2004
+128 	 Madagascar 	 $         44,600,000 	 2004
+129 	 Maldives 	 $         41,100,000 	 2004
+130 	 Swaziland 	 $         40,500,000 	 2004
+131 	 Burma 	 $         39,000,000 	 
+132 	 Burundi 	 $         38,700,000 	 2004
+133 	 Fiji 	 $         36,000,000 	 2004
+134 	 Togo 	 $         35,500,000 	 2004
+135 	 Tajikistan 	 $         35,400,000 	 FY01
+136 	 Niger 	 $         33,300,000 	 2004
+137 	 Nicaragua 	 $         32,800,000 	 2004
+138 	 Lesotho 	 $         32,300,000 	 2004
+139 	 Jamaica 	 $         31,200,000 	 2003
+140 	 Malta 	 $         31,100,000 	 2004
+141 	 Djibouti 	 $         28,600,000 	 2004
+142 	 Haiti 	 $         26,000,000 	 2003
+143 	 Mongolia 	 $         23,100,000 	 FY02
+144 	 Georgia 	 $         23,000,000 	 
+145 	 Mali 	 $         22,400,000 	 2004
+146 	 Mauritania 	 $         20,800,000 	 2004
+147 	 Tanzania 	 $         20,600,000 	 2004
+148 	 Kyrgyzstan 	 $         19,200,000 	 FY01
+149 	 Somalia 	 $         18,900,000 	 2003
+150 	 Belize 	 $         18,000,000 	 2003
+151 	 Papua New Guinea 	 $         16,900,000 	 2003
+152 	 Central African Republic 	 $         15,500,000 	 2004
+153 	 Cape Verde 	 $         14,100,000 	 2004
+154 	 Bhutan 	 $         13,700,000 	 2004
+155 	 Sierra Leone 	 $         13,200,000 	 2004
+156 	 Mauritius 	 $         12,500,000 	 2004
+157 	 Seychelles 	 $         12,300,000 	 2004
+158 	 Comoros 	 $         11,600,000 	 2004
+159 	 Malawi 	 $         11,100,000 	 2004
+160 	 Laos 	 $         10,700,000 	 2004
+161 	 Guinea-Bissau 	 $          8,900,000 	 2004
+162 	 Moldova 	 $          8,700,000 	 2004
+163 	 Suriname 	 $          7,500,000 	 2003
+164 	 Guyana 	 $          6,500,000 	 2003
+165 	 East Timor 	 $          4,400,000 	 FY03
+166 	 Bermuda 	 $          4,030,000 	 2001
+167 	 Liberia 	 $          1,500,000 	 2004
+168 	 Gambia, The 	 $          1,000,000 	 2004
+169 	 San Marino 	 $           700,000 	 FY00/01
+170 	 Sao Tome and Principe 	 $           700,000 	 2004
+
+ This file was last updated on 10 January, 2006

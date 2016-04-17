@@ -1,0 +1,153 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Current account balance 	 Date of Information
+1 	 Japan 	 $     135,900,000,000 	 2003
+2 	 Germany 	 $      57,240,000,000 	 2003
+3 	 Switzerland 	 $      36,000,000,000 	 2003
+4 	 Russia 	 $      35,910,000,000 	 2003
+5 	 China 	 $      31,170,000,000 	 2003
+6 	 Norway 	 $      29,340,000,000 	 2003
+7 	 Taiwan 	 $      28,570,000,000 	 2003
+8 	 Singapore 	 $      26,150,000,000 	 2003
+9 	 Saudi Arabia 	 $      22,270,000,000 	 2003
+10 	 Sweden 	 $      19,560,000,000 	 2003
+11 	 Canada 	 $      18,630,000,000 	 2003
+12 	 Hong Kong 	 $      17,420,000,000 	 2003
+13 	 France 	 $      13,800,000,000 	 2003
+14 	 Malaysia 	 $      13,380,000,000 	 2003
+15 	 United Arab Emirates 	 $      12,470,000,000 	 2003
+16 	 Korea, South 	 $      12,320,000,000 	 2003
+17 	 Netherlands 	 $      12,090,000,000 	 2003
+18 	 Belgium 	 $      10,690,000,000 	 2003
+19 	 Finland 	 $      10,300,000,000 	 2003
+20 	 Venezuela 	 $       9,659,000,000 	 2003
+21 	 Thailand 	 $       9,440,000,000 	 2003
+22 	 Kuwait 	 $       8,652,000,000 	 2003
+23 	 Argentina 	 $       7,855,000,000 	 2003
+24 	 Algeria 	 $       7,836,000,000 	 2003
+25 	 Indonesia 	 $       7,336,000,000 	 2003
+26 	 Libya 	 $       6,641,000,000 	 2003
+27 	 Denmark 	 $       6,397,000,000 	 2003
+28 	 Qatar 	 $       4,149,000,000 	 2003
+29 	 Iran 	 $       3,935,000,000 	 2003
+30 	 Egypt 	 $       3,874,000,000 	 2003
+31 	 Brazil 	 $       3,520,000,000 	 2003
+32 	 India 	 $       3,410,000,000 	 2003
+33 	 Pakistan 	 $       3,358,000,000 	 2003
+34 	 Philippines 	 $       3,349,000,000 	 2003
+35 	 Ukraine 	 $       2,891,000,000 	 2003
+36 	 Oman 	 $       2,173,000,000 	 2003
+37 	 Nigeria 	 $       1,439,000,000 	 2003
+38 	 Iraq 	 $       1,136,000,000 	 2003
+39 	 Morocco 	 $        963,000,000 	 2003
+40 	 Turkmenistan 	 $        957,000,000 	 2003
+41 	 Trinidad and Tobago 	 $        954,000,000 	 2003
+42 	 Jordan 	 $        903,000,000 	 2003
+43 	 Dominican Republic 	 $        867,000,000 	 2003
+44 	 Botswana 	 $        539,000,000 	 2003
+45 	 Cote d'Ivoire 	 $        501,000,000 	 2003
+46 	 Uzbekistan 	 $        462,000,000 	 2003
+47 	 Bangladesh 	 $        393,000,000 	 2003
+48 	 Mauritius 	 $        289,000,000 	 2003
+49 	 Yemen 	 $        157,000,000 	 2003
+50 	 Paraguay 	 $        146,000,000 	 2003
+51 	 Congo, Republic of the 	 $        139,200,000 	 2003
+52 	 Namibia 	 $        123,000,000 	 2003
+53 	 Ghana 	 $        110,000,000 	 2003
+54 	 Uruguay 	 $         76,000,000 	 2003
+55 	 Bahrain 	 $         53,000,000 	 2003
+56 	 Bolivia 	 $         50,000,000 	 2003
+57 	 Slovenia 	 $         15,100,000 	 2003
+58 	 Papua New Guinea 	 $         12,000,000 	 2003
+59 	 Sao Tome and Principe 	 $         -8,000,000 	 2003
+60 	 Burma 	 $        -35,000,000 	 2003
+61 	 Burundi 	 $        -35,000,000 	 2003
+62 	 Gambia, The 	 $        -42,000,000 	 2003
+63 	 Haiti 	 $        -48,000,000 	 2003
+64 	 Tajikistan 	 $        -50,000,000 	 2003
+65 	 Laos 	 $        -58,000,000 	 2003
+66 	 Malawi 	 $        -58,000,000 	 2003
+67 	 Kazakhstan 	 $        -68,800,000 	 2003
+68 	 Syria 	 $        -72,000,000 	 2003
+69 	 Swaziland 	 $        -72,690,000 	 2003
+70 	 Seychelles 	 $        -73,000,000 	 2003
+71 	 Gabon 	 $       -101,000,000 	 2003
+72 	 Cape Verde 	 $       -106,300,000 	 2003
+73 	 Kyrgyzstan 	 $       -108,000,000 	 2003
+74 	 Benin 	 $       -112,000,000 	 2003
+75 	 Lesotho 	 $       -112,000,000 	 2003
+76 	 Ecuador 	 $       -117,000,000 	 2003
+77 	 Moldova 	 $       -135,000,000 	 2003
+78 	 Togo 	 $       -140,000,000 	 2003
+79 	 Belize 	 $       -142,000,000 	 2003
+80 	 Guyana 	 $       -158,000,000 	 2003
+81 	 Eritrea 	 $       -159,000,000 	 2003
+82 	 Rwanda 	 $       -163,000,000 	 2003
+83 	 Israel 	 $       -174,000,000 	 2003
+84 	 Armenia 	 $       -210,000,000 	 2003
+85 	 Cambodia 	 $       -218,100,000 	 2003
+86 	 Uganda 	 $       -237,000,000 	 2003
+87 	 Malta 	 $       -250,000,000 	 2003
+88 	 Guinea 	 $       -252,000,000 	 2003
+89 	 Cuba 	 $       -273,000,000 	 2003
+90 	 Slovakia 	 $       -277,400,000 	 2003
+91 	 Sri Lanka 	 $       -278,000,000 	 2003
+92 	 Macedonia 	 $       -278,000,000 	 2003
+93 	 Honduras 	 $       -279,600,000 	 2003
+94 	 Kenya 	 $       -306,000,000 	 2003
+95 	 Zambia 	 $       -340,000,000 	 2003
+96 	 Burkina Faso 	 $       -341,000,000 	 2003
+97 	 Zimbabwe 	 $       -346,000,000 	 2003
+98 	 Georgia 	 $       -365,000,000 	 2003
+99 	 Senegal 	 $       -389,000,000 	 2003
+100 	 Madagascar 	 $       -398,000,000 	 2003
+101 	 Albania 	 $       -407,000,000 	 2003
+102 	 Ethiopia 	 $       -408,000,000 	 2003
+103 	 Panama 	 $       -408,000,000 	 2003
+104 	 Chad 	 $       -474,000,000 	 2003
+105 	 Angola 	 $       -475,000,000 	 2003
+106 	 Cyprus 	 $       -545,000,000 	 2003
+107 	 Cameroon 	 $       -564,000,000 	 2003
+108 	 Mozambique 	 $       -566,000,000 	 2003
+109 	 Iceland 	 $       -574,000,000 	 2003
+110 	 Chile 	 $       -594,000,000 	 2003
+111 	 Tanzania 	 $       -617,000,000 	 2003
+112 	 Sudan 	 $       -718,000,000 	 2003
+113 	 El Salvador 	 $       -734,000,000 	 2003
+114 	 Tunisia 	 $       -738,600,000 	 2003
+115 	 Jamaica 	 $       -842,000,000 	 2003
+116 	 Nicaragua 	 $       -859,000,000 	 2003
+117 	 Belarus 	 $       -945,000,000 	 2003
+118 	 Latvia 	 $       -955,900,000 	 2003
+119 	 Costa Rica 	 $       -970,000,000 	 2003
+120 	 Guatemala 	 $      -1,106,000,000 	 2003
+121 	 Peru 	 $      -1,116,000,000 	 2003
+122 	 Estonia 	 $      -1,150,000,000 	 2003
+123 	 Equatorial Guinea 	 $      -1,168,000,000 	 2003
+124 	 Lithuania 	 $      -1,218,000,000 	 2003
+125 	 South Africa 	 $      -1,234,000,000 	 2003
+126 	 Austria 	 $      -1,353,000,000 	 2003
+127 	 Colombia 	 $      -1,417,000,000 	 2003
+128 	 Bulgaria 	 $      -1,666,000,000 	 2003
+129 	 Vietnam 	 $      -1,781,000,000 	 2003
+130 	 Azerbaijan 	 $      -2,021,000,000 	 2003
+131 	 Croatia 	 $      -2,039,000,000 	 2003
+132 	 Bosnia and Herzegovina 	 $      -2,195,000,000 	 2003
+133 	 Serbia and Montenegro 	 $      -2,416,000,000 	 2003
+134 	 Lebanon 	 $      -2,865,000,000 	 2003
+135 	 Ireland 	 $      -2,994,000,000 	 2003
+136 	 Romania 	 $      -3,368,000,000 	 2003
+137 	 New Zealand 	 $      -3,446,000,000 	 2003
+138 	 Poland 	 $      -4,085,000,000 	 2003
+139 	 Czech Republic 	 $      -5,570,000,000 	 2003
+140 	 Turkey 	 $      -6,806,000,000 	 2003
+141 	 Hungary 	 $      -7,347,000,000 	 2003
+142 	 United Kingdom 	 $      -7,556,000,000 	 2003
+143 	 Portugal 	 $      -7,592,000,000 	 2003
+144 	 Mexico 	 $      -9,150,000,000 	 2003
+145 	 Greece 	 $     -11,330,000,000 	 2003
+146 	 Italy 	 $     -22,280,000,000 	 2003
+147 	 Spain 	 $     -23,770,000,000 	 2003
+148 	 Australia 	 $     -30,140,000,000 	 2003
+149 	 United States 	 $    -541,800,000,000 	 2003
+
+ This file was last updated on 10 February, 2005

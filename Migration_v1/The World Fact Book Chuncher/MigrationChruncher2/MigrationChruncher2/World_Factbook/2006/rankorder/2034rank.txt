@@ -1,0 +1,171 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Military expenditures - percent of GDP(%) 	 Date of Information
+1 	 Eritrea 	     17.70 	 2005 est.
+2 	 Jordan 	     11.40 	 2005 est.
+3 	 Oman 	     11.40 	 2003
+4 	 Qatar 	     10.00 	 
+5 	 Saudi Arabia 	     10.00 	 2002
+6 	 Angola 	      8.80 	 2005 est.
+7 	 Israel 	      7.70 	 2005 est.
+8 	 Liberia 	      7.50 	 2005 est.
+9 	 Madagascar 	      7.20 	 2005 est.
+10 	 Armenia 	      6.50 	 FY01
+11 	 Yemen 	      6.40 	 2005 est.
+12 	 Macedonia 	      6.00 	 
+13 	 Syria 	      5.90 	 
+14 	 Burundi 	      5.60 	 2005 est.
+15 	 Maldives 	      5.50 	 2005 est.
+16 	 Turkey 	      5.30 	 2003
+17 	 Brunei 	      5.10 	 2003 est.
+18 	 Morocco 	      5.00 	 2003 est.
+19 	 Bahrain 	      4.90 	 2005 est.
+20 	 Singapore 	      4.90 	 
+21 	 Bosnia and Herzegovina 	      4.50 	 
+22 	 China 	      4.30 	 2005 est.
+23 	 Djibouti 	      4.30 	 2005 est.
+24 	 Greece 	      4.30 	 2003
+25 	 Kuwait 	      4.20 	 2005 est.
+26 	 United States 	      4.06 	 2005 est.
+27 	 Zimbabwe 	      4.00 	 2005 est.
+28 	 Libya 	      3.90 	 
+29 	 Tajikistan 	      3.90 	 FY01
+30 	 Pakistan 	      3.90 	 2005 est.
+31 	 Cyprus 	      3.80 	 
+32 	 Chile 	      3.50 	 2005 est.
+33 	 Botswana 	      3.40 	 2005 est.
+34 	 Ethiopia 	      3.40 	 2005 est.
+35 	 Gabon 	      3.40 	 2005 est.
+36 	 Egypt 	      3.40 	 2004
+37 	 Turkmenistan 	      3.40 	 
+38 	 Colombia 	      3.40 	 FY01
+39 	 Iran 	      3.30 	 2003 est.
+40 	 Algeria 	      3.20 	 2005 est.
+41 	 United Arab Emirates 	      3.10 	 
+42 	 Guinea-Bissau 	      3.10 	 2005 est.
+43 	 Lebanon 	      3.10 	 2004
+44 	 Cambodia 	      3.00 	 
+45 	 Comoros 	      3.00 	 2005 est.
+46 	 Sudan 	      3.00 	 2004
+47 	 Indonesia 	      3.00 	 2004
+48 	 Guinea 	      2.90 	 2005 est.
+49 	 Rwanda 	      2.90 	 2005 est.
+50 	 Australia 	      2.70 	 2005 est.
+51 	 Azerbaijan 	      2.60 	 
+52 	 Korea, South 	      2.60 	 2005 est.
+53 	 Sri Lanka 	      2.60 	 2005 est.
+54 	 France 	      2.60 	 2005 est.
+55 	 Bulgaria 	      2.60 	 2003
+56 	 Honduras 	      2.55 	 2005 est.
+57 	 India 	      2.50 	 2005 est.
+58 	 Vietnam 	      2.50 	 
+59 	 Romania 	      2.47 	 2002
+60 	 Taiwan 	      2.40 	 2005 est.
+61 	 United Kingdom 	      2.40 	 2003
+62 	 Croatia 	      2.39 	 2002 est.
+63 	 Benin 	      2.30 	 2005 est.
+64 	 Namibia 	      2.30 	 2005 est.
+65 	 Portugal 	      2.30 	 2003
+66 	 Fiji 	      2.20 	 FY02
+67 	 Uganda 	      2.20 	 2005 est.
+68 	 Mongolia 	      2.20 	 FY02
+69 	 Burma 	      2.10 	 
+70 	 Uruguay 	      2.10 	 2005 est.
+71 	 Seychelles 	      2.10 	 2005 est.
+72 	 Lesotho 	      2.10 	 2005 est.
+73 	 Equatorial Guinea 	      2.10 	 2005 est.
+74 	 Malaysia 	      2.03 	 
+75 	 Ecuador 	      2.00 	 2005 est.
+76 	 World 	      2.00 	 
+77 	 Uzbekistan 	      2.00 	 
+78 	 Finland 	      2.00 	 FY98/99
+79 	 Estonia 	      2.00 	 2002 est.
+80 	 Lithuania 	      1.90 	 FY01
+81 	 Mali 	      1.90 	 2005 est.
+82 	 Norway 	      1.90 	 2003
+83 	 Slovakia 	      1.87 	 2005
+84 	 Czech Republic 	      1.81 	 
+85 	 Bangladesh 	      1.80 	 2005 est.
+86 	 Zambia 	      1.80 	 2005 est.
+87 	 Thailand 	      1.80 	 2003
+88 	 Italy 	      1.80 	 2004
+89 	 Cuba 	      1.80 	 2005 est.
+90 	 Hungary 	      1.75 	 2002 est.
+91 	 Poland 	      1.71 	 2002
+92 	 Afghanistan 	      1.70 	 2005 est.
+93 	 Sierra Leone 	      1.70 	 2005 est.
+94 	 Slovenia 	      1.70 	 FY00
+95 	 Belize 	      1.70 	 2005 est.
+96 	 Cote d'Ivoire 	      1.60 	 2005 est.
+97 	 Togo 	      1.60 	 2005 est.
+98 	 Netherlands 	      1.60 	 2004
+99 	 Kenya 	      1.60 	 2005 est.
+100 	 Congo, Democratic Republic of the 	      1.50 	 2005 est.
+101 	 Tunisia 	      1.50 	 
+102 	 Sweden 	      1.50 	 2005 est.
+103 	 South Africa 	      1.50 	 2005 est.
+104 	 Nepal 	      1.50 	 2005 est.
+105 	 Cameroon 	      1.50 	 2005 est.
+106 	 Germany 	      1.50 	 2003
+107 	 Denmark 	      1.50 	 2004
+108 	 Albania 	      1.49 	 FY02
+109 	 Bolivia 	      1.40 	 2005 est.
+110 	 Senegal 	      1.40 	 2005 est.
+111 	 Swaziland 	      1.40 	 2005 est.
+112 	 Ukraine 	      1.40 	 FY02
+113 	 Papua New Guinea 	      1.40 	 FY02
+114 	 Peru 	      1.40 	 2003 est.
+115 	 Niger 	      1.40 	 2005 est.
+116 	 Belarus 	      1.40 	 FY02
+117 	 Kyrgyzstan 	      1.40 	 FY01
+118 	 Mauritania 	      1.40 	 2005 est.
+119 	 Congo, Republic of the 	      1.40 	 2005 est.
+120 	 Argentina 	      1.30 	 FY00
+121 	 Burkina Faso 	      1.30 	 2005 est.
+122 	 Mozambique 	      1.30 	 2005 est.
+123 	 Belgium 	      1.30 	 2003
+124 	 Brazil 	      1.30 	 2005 est.
+125 	 Latvia 	      1.20 	 FY01
+126 	 Spain 	      1.20 	 2003
+127 	 Venezuela 	      1.20 	 2005 est.
+128 	 Canada 	      1.10 	 2003
+129 	 Bhutan 	      1.00 	 2005 est.
+130 	 Switzerland 	      1.00 	 FY01
+131 	 Panama 	      1.00 	 2005 est.
+132 	 New Zealand 	      1.00 	 FY02
+133 	 Malta 	      1.00 	 2005 est.
+134 	 Japan 	      1.00 	 2005 est.
+135 	 Central African Republic 	      1.00 	 2005 est.
+136 	 Chad 	      1.00 	 2005 est.
+137 	 El Salvador 	      1.00 	 2005 est.
+138 	 Austria 	      0.90 	 2004
+139 	 Somalia 	      0.90 	 2005 est.
+140 	 Philippines 	      0.90 	 2005 est.
+141 	 Paraguay 	      0.90 	 2003 est.
+142 	 Luxembourg 	      0.90 	 2003
+143 	 Kazakhstan 	      0.90 	 FY02
+144 	 Haiti 	      0.90 	 2003 est.
+145 	 Guyana 	      0.90 	 2003 est.
+146 	 Ireland 	      0.90 	 FY00/01
+147 	 Ghana 	      0.80 	 2005 est.
+148 	 Sao Tome and Principe 	      0.80 	 2005 est.
+149 	 Malawi 	      0.80 	 2005 est.
+150 	 Mexico 	      0.80 	 2005 est.
+151 	 Nigeria 	      0.80 	 2005 est.
+152 	 Cape Verde 	      0.70 	 2005 est.
+153 	 Nicaragua 	      0.70 	 2005 est.
+154 	 Suriname 	      0.70 	 2003 est.
+155 	 Trinidad and Tobago 	      0.60 	 2003 est.
+156 	 Georgia 	      0.59 	 
+157 	 Guatemala 	      0.50 	 2005 est.
+158 	 Costa Rica 	      0.40 	 2005 est.
+159 	 Jamaica 	      0.40 	 2003 est.
+160 	 Gambia, The 	      0.40 	 2005 est.
+161 	 Laos 	      0.40 	 2005 est.
+162 	 Moldova 	      0.40 	 FY02
+163 	 Mauritius 	      0.20 	 2005 est.
+164 	 Tanzania 	      0.20 	 2005 est.
+165 	 Bermuda 	      0.11 	 
+166 	 Dominican Republic 	      0.00 	 2002 est.
+167 	 Iceland 	      0.00 	 
+
+ This file was last updated on 19 December, 2006

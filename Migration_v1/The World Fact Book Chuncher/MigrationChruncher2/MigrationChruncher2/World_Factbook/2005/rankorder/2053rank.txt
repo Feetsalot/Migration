@@ -1,0 +1,247 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Airports 	 Date of Information
+1 	 World 	           49,973 	 2004
+2 	 United States 	           14,857 	 2004 est.
+3 	 Brazil 	            4,136 	 2004 est.
+4 	 European Union 	            3,130 	 2004 est.
+5 	 Russia 	            2,586 	 2004 est.
+6 	 Mexico 	            1,833 	 2004 est.
+7 	 Argentina 	            1,334 	 2004 est.
+8 	 Canada 	            1,326 	 2004 est.
+9 	 Bolivia 	            1,065 	 2004 est.
+10 	 Colombia 	             980 	 2004 est.
+11 	 Paraguay 	             878 	 2004 est.
+12 	 South Africa 	             728 	 2004 est.
+13 	 Indonesia 	             667 	 2004 est.
+14 	 Ukraine 	             656 	 2004 est.
+15 	 Papua New Guinea 	             571 	 2004 est.
+16 	 Germany 	             550 	 2004 est.
+17 	 France 	             478 	 2004 est.
+18 	 China 	             472 	 2004 est.
+19 	 United Kingdom 	             471 	 2004 est.
+20 	 Guatemala 	             452 	 2004 est.
+21 	 Australia 	             448 	 2004 est.
+22 	 Zimbabwe 	             404 	 2004 est.
+23 	 Venezuela 	             369 	 2004 est.
+24 	 Chile 	             364 	 2004 est.
+25 	 India 	             333 	 2004 est.
+26 	 Kazakhstan 	             314 	 2004 est.
+27 	 Iran 	             305 	 2004 est.
+28 	 Philippines 	             255 	 2004 est.
+29 	 Sweden 	             254 	 2004 est.
+30 	 Angola 	             243 	 2004 est.
+31 	 Peru 	             234 	 2004 est.
+32 	 Congo, Democratic Republic of the 	             230 	 2004 est.
+33 	 Uzbekistan 	             226 	 2004 est.
+34 	 Kenya 	             221 	 2004 est.
+35 	 Bulgaria 	             213 	 2004 est.
+36 	 Ecuador 	             205 	 2004 est.
+37 	 Saudi Arabia 	             201 	 2004 est.
+38 	 Korea, South 	             179 	 2004 est.
+39 	 Nicaragua 	             176 	 2004 est.
+40 	 Japan 	             174 	 2004 est.
+41 	 Cuba 	             170 	 2004 est.
+42 	 Mozambique 	             158 	 2004 est.
+43 	 Spain 	             156 	 2004 est.
+44 	 Costa Rica 	             149 	 2004 est.
+45 	 Finland 	             148 	 2004 est.
+46 	 Libya 	             139 	 2004 est.
+47 	 Algeria 	             137 	 2004 est.
+48 	 Oman 	             136 	 2004 est.
+49 	 Namibia 	             136 	 2004 est.
+50 	 Italy 	             134 	 2004 est.
+51 	 Belarus 	             133 	 2004 est.
+52 	 Pakistan 	             131 	 2004 est.
+53 	 Poland 	             123 	 2004 est.
+54 	 Tanzania 	             123 	 2004 est.
+55 	 Czech Republic 	             120 	 2004 est.
+56 	 Turkey 	             119 	 2004 est.
+57 	 Malaysia 	             117 	 2004 est.
+58 	 Madagascar 	             116 	 2004 est.
+59 	 New Zealand 	             116 	 2004 est.
+60 	 Honduras 	             115 	 2004 est.
+61 	 Iraq 	             111 	 2004 est.
+62 	 Thailand 	             109 	 2004 est.
+63 	 Zambia 	             109 	 2004 est.
+64 	 Panama 	             105 	 2004 est.
+65 	 Lithuania 	             102 	 2004 est.
+66 	 Norway 	             101 	 2004 est.
+67 	 Iceland 	              98 	 2004 est.
+68 	 Denmark 	              97 	 2004 est.
+69 	 Syria 	              92 	 2004 est.
+70 	 Egypt 	              87 	 2004 est.
+71 	 Botswana 	              85 	 2004 est.
+72 	 Ethiopia 	              83 	 2004 est.
+73 	 Greece 	              80 	 2004 est.
+74 	 Burma 	              78 	 2004 est.
+75 	 Korea, North 	              78 	 2004 est.
+76 	 Sudan 	              75 	 2004 est.
+77 	 El Salvador 	              73 	 2004 est.
+78 	 Nigeria 	              70 	 2004 est.
+79 	 Croatia 	              68 	 2004 est.
+80 	 Portugal 	              65 	 2004 est.
+81 	 Switzerland 	              65 	 2004 est.
+82 	 Uruguay 	              64 	 2004 est.
+83 	 Bahamas, The 	              63 	 2004 est.
+84 	 Morocco 	              63 	 2004 est.
+85 	 Romania 	              61 	 2004 est.
+86 	 Somalia 	              60 	 2004 est.
+87 	 Gabon 	              56 	 2004 est.
+88 	 Austria 	              55 	 2004 est.
+89 	 Tajikistan 	              55 	 2004 est.
+90 	 Liberia 	              53 	 2004 est.
+91 	 Turkmenistan 	              53 	 2004 est.
+92 	 Kyrgyzstan 	              52 	 2004 est.
+93 	 Israel 	              51 	 2004 est.
+94 	 Azerbaijan 	              50 	 2004 est.
+95 	 Chad 	              50 	 2004 est.
+96 	 Central African Republic 	              50 	 2004 est.
+97 	 Latvia 	              50 	 2004 est.
+98 	 French Polynesia 	              50 	 2004 est.
+99 	 Guyana 	              49 	 2004 est.
+100 	 Afghanistan 	              47 	 2004 est.
+101 	 Cameroon 	              47 	 2004 est.
+102 	 Mongolia 	              46 	 2004 est.
+103 	 Suriname 	              46 	 2004 est.
+104 	 Nepal 	              46 	 2004 est.
+105 	 Hungary 	              44 	 2004 est.
+106 	 Serbia and Montenegro 	              44 	 2004 est.
+107 	 Yemen 	              44 	 2004 est.
+108 	 Laos 	              44 	 2004 est.
+109 	 Belgium 	              43 	 2004 est.
+110 	 Belize 	              43 	 2004 est.
+111 	 Malawi 	              42 	 2004 est.
+112 	 Taiwan 	              40 	 2004 est.
+113 	 Cote d'Ivoire 	              37 	 2004 est.
+114 	 Ireland 	              36 	 2004 est.
+115 	 United Arab Emirates 	              35 	 2004 est.
+116 	 Jamaica 	              35 	 2004 est.
+117 	 Slovakia 	              34 	 2004 est.
+118 	 Solomon Islands 	              33 	 2004 est.
+119 	 Burkina Faso 	              33 	 2004 est.
+120 	 Congo, Republic of the 	              32 	 2004 est.
+121 	 Dominican Republic 	              31 	 2004 est.
+122 	 Georgia 	              30 	 2004 est.
+123 	 Tunisia 	              30 	 2004 est.
+124 	 Puerto Rico 	              30 	 2004 est.
+125 	 Vanuatu 	              30 	 2004 est.
+126 	 Estonia 	              29 	 2004 est.
+127 	 Uganda 	              29 	 2004 est.
+128 	 Fiji 	              28 	 2004 est.
+129 	 Lesotho 	              28 	 2004 est.
+130 	 Mali 	              28 	 2004 est.
+131 	 Guinea-Bissau 	              28 	 2004 est.
+132 	 Bosnia and Herzegovina 	              27 	 2004 est.
+133 	 Niger 	              27 	 2004 est.
+134 	 Netherlands 	              27 	 2004 est.
+135 	 New Caledonia 	              25 	 2004 est.
+136 	 Mauritania 	              24 	 2004 est.
+137 	 Vietnam 	              24 	 2004 est.
+138 	 Moldova 	              23 	 2004 est.
+139 	 Cambodia 	              20 	 2004 est.
+140 	 Senegal 	              20 	 2004 est.
+141 	 Kiribati 	              20 	 2004 est.
+142 	 Swaziland 	              18 	 2004 est.
+143 	 Cyprus 	              17 	 2004 est.
+144 	 Macedonia 	              17 	 2004 est.
+145 	 Jordan 	              17 	 2004 est.
+146 	 Eritrea 	              17 	 2004 est.
+147 	 Armenia 	              16 	 2004 est.
+148 	 Guinea 	              16 	 2004 est.
+149 	 Bangladesh 	              16 	 2004 est.
+150 	 Marshall Islands 	              15 	 2004 est.
+151 	 Seychelles 	              15 	 2004 est.
+152 	 Sri Lanka 	              14 	 2004 est.
+153 	 Greenland 	              14 	 2004 est.
+154 	 Slovenia 	              14 	 2004 est.
+155 	 Djibouti 	              13 	 2004 est.
+156 	 Haiti 	              13 	 2004 est.
+157 	 Ghana 	              12 	 2004 est.
+158 	 Albania 	              11 	 2004 est.
+159 	 Western Sahara 	              11 	 2004 est.
+160 	 French Guiana 	              11 	 2004 est.
+161 	 Sierra Leone 	              10 	 2004 est.
+162 	 Singapore 	              10 	 2004 est.
+163 	 Cook Islands 	               9 	 2004 est.
+164 	 Togo 	               9 	 2004 est.
+165 	 Rwanda 	               9 	 2004 est.
+166 	 Guadeloupe 	               9 	 2004 est.
+167 	 Burundi 	               8 	 2004 est.
+168 	 East Timor 	               8 	 2004 est.
+169 	 Turks and Caicos Islands 	               8 	 2004 est.
+170 	 Lebanon 	               8 	 2004 est.
+171 	 Cape Verde 	               7 	 2004 est.
+172 	 Kuwait 	               7 	 2004 est.
+173 	 Micronesia, Federated States of 	               6 	 2004 est.
+174 	 Trinidad and Tobago 	               6 	 2004 est.
+175 	 Mauritius 	               6 	 2004 est.
+176 	 Tonga 	               6 	 2004 est.
+177 	 Saint Vincent and the Grenadines 	               6 	 2004 est.
+178 	 Benin 	               5 	 2004 est.
+179 	 Falkland Islands (Islas Malvinas) 	               5 	 2004 est.
+180 	 Northern Mariana Islands 	               5 	 2004 est.
+181 	 Maldives 	               5 	 2004 est.
+182 	 Netherlands Antilles 	               5 	 2004 est.
+183 	 Guam 	               5 	 2004 est.
+184 	 Bahrain 	               4 	 2004 est.
+185 	 Equatorial Guinea 	               4 	 2004 est.
+186 	 Qatar 	               4 	 2004 est.
+187 	 Samoa 	               4 	 2004 est.
+188 	 Svalbard 	               4 	 2004 est.
+189 	 Comoros 	               4 	 2004 est.
+190 	 Hong Kong 	               4 	 2004 est.
+191 	 Antigua and Barbuda 	               3 	 2004 est.
+192 	 Cayman Islands 	               3 	 2004 est.
+193 	 West Bank 	               3 	 2004 est.
+194 	 British Virgin Islands 	               3 	 2004 est.
+195 	 Palau 	               3 	 2004 est.
+196 	 Spratly Islands 	               3 	 2004 est.
+197 	 Midway Islands 	               3 	 2004 est.
+198 	 Grenada 	               3 	 2004 est.
+199 	 Anguilla 	               3 	 2004 est.
+200 	 American Samoa 	               3 	 2004 est.
+201 	 Bhutan 	               2 	 2004 est.
+202 	 Saint Pierre and Miquelon 	               2 	 2004 est.
+203 	 Wallis and Futuna 	               2 	 2004 est.
+204 	 Virgin Islands 	               2 	 2004 est.
+205 	 Sao Tome and Principe 	               2 	 2004 est.
+206 	 Saint Lucia 	               2 	 2004 est.
+207 	 Saint Kitts and Nevis 	               2 	 2004 est.
+208 	 Reunion 	               2 	 2004 est.
+209 	 Luxembourg 	               2 	 2004 est.
+210 	 Martinique 	               2 	 2004 est.
+211 	 Gaza Strip 	               2 	 2004 est.
+212 	 Brunei 	               2 	 2004 est.
+213 	 Guernsey 	               2 	 2004 est.
+214 	 Dominica 	               2 	 2004 est.
+215 	 Aruba 	               1 	 2004 est.
+216 	 Wake Island 	               1 	 2004 est.
+217 	 Tuvalu 	               1 	 2004 est.
+218 	 Tromelin Island 	               1 	 2004 est.
+219 	 Saint Helena 	               1 	 2004 est.
+220 	 Paracel Islands 	               1 	 2004 est.
+221 	 Palmyra Atoll 	               1 	 2004 est.
+222 	 Christmas Island 	               1 	 2004 est.
+223 	 Juan de Nova Island 	               1 	 2004 est.
+224 	 Johnston Atoll 	               1 	 2005
+225 	 Jan Mayen 	               1 	 2004 est.
+226 	 Jersey 	               1 	 2004 est.
+227 	 British Indian Ocean Territory 	               1 	 2004 est.
+228 	 Isle of Man 	               1 	 2004 est.
+229 	 Glorioso Islands 	               1 	 2004 est.
+230 	 Nauru 	               1 	 2004 est.
+231 	 Norfolk Island 	               1 	 2004 est.
+232 	 Niue 	               1 	 2004 est.
+233 	 Malta 	               1 	 2004 est.
+234 	 Montserrat 	               1 	 2004 est.
+235 	 Mayotte 	               1 	 2004 est.
+236 	 Macau 	               1 	 2004 est.
+237 	 Gibraltar 	               1 	 2004 est.
+238 	 Gambia, The 	               1 	 2004 est.
+239 	 Bermuda 	               1 	 2004 est.
+240 	 Cocos (Keeling) Islands 	               1 	 2004 est.
+241 	 Faroe Islands 	               1 	 2004 est.
+242 	 Europa Island 	               1 	 2004 est.
+243 	 Barbados 	               1 	 2004 est.
+
+ This file was last updated on 10 January, 2006

@@ -1,0 +1,217 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Oil - production(bbl/day) 	 Date of Information
+1 	 World 	        79,650,000 	 2003 est.
+2 	 Saudi Arabia 	         9,475,000 	 2005 est.
+3 	 Russia 	         9,150,000 	 2005 est.
+4 	 United States 	         7,610,000 	 2005 est.
+5 	 Iran 	         3,979,000 	 2005 est.
+6 	 China 	         3,504,000 	 2004
+7 	 European Union 	         3,424,000 	 2001
+8 	 Mexico 	         3,420,000 	 2005 est.
+9 	 Norway 	         3,220,000 	 2005 est.
+10 	 Venezuela 	         3,081,000 	 2005 est.
+11 	 Nigeria 	         2,451,000 	 2005 est.
+12 	 Kuwait 	         2,418,000 	 2005 est.
+13 	 Canada 	         2,400,000 	 2004
+14 	 United Arab Emirates 	         2,396,000 	 2005 est.
+15 	 United Kingdom 	         2,393,000 	 2003 est.
+16 	 Iraq 	         2,093,000 	 2005 est.
+17 	 Brazil 	         2,010,000 	 2005 est.
+18 	 Libya 	         1,643,000 	 2005 est.
+19 	 Angola 	         1,600,000 	 2005 est.
+20 	 Algeria 	         1,373,000 	 2005 est.
+21 	 Kazakhstan 	         1,300,000 	 2005 est.
+22 	 Indonesia 	         1,061,000 	 2005 est.
+23 	 Qatar 	          790,500 	 2005 est.
+24 	 India 	          785,000 	 2005 est.
+25 	 Malaysia 	          770,000 	 2005 est.
+26 	 Oman 	          769,000 	 2005 est.
+27 	 Argentina 	          745,000 	 2005 est.
+28 	 Egypt 	          700,000 	 2005 est.
+29 	 Australia 	          530,000 	 2005 est.
+30 	 Colombia 	          512,400 	 2005 est.
+31 	 Ecuador 	          493,200 	 2005 est.
+32 	 Azerbaijan 	          477,000 	 2005 est.
+33 	 Equatorial Guinea 	          420,000 	 2005 est.
+34 	 Syria 	          403,800 	 2005 est.
+35 	 Sudan 	          401,300 	 2005 est.
+36 	 Vietnam 	          400,000 	 2005 est.
+37 	 Yemen 	          387,500 	 2005 est.
+38 	 Denmark 	          376,900 	 2003
+39 	 Gabon 	          268,900 	 2005 est.
+40 	 Congo, Republic of the 	          267,100 	 2005 est.
+41 	 Thailand 	          230,000 	 2005 est.
+42 	 Chad 	          225,000 	 2005 est.
+43 	 South Africa 	          216,700 	 2003 est.
+44 	 Turkmenistan 	          203,400 	 2003 est.
+45 	 Brunei 	          200,800 	 2005
+46 	 Bahrain 	          188,300 	 2005 est.
+47 	 Germany 	          158,700 	 2003
+48 	 Uzbekistan 	          152,000 	 2004
+49 	 Trinidad and Tobago 	          150,000 	 2005 est.
+50 	 Italy 	          136,200 	 2003 est.
+51 	 Japan 	          120,700 	 2003 est.
+52 	 Peru 	          120,000 	 2005 est.
+53 	 Romania 	          119,000 	 2005 est.
+54 	 Netherlands 	           94,870 	 2003
+55 	 Ukraine 	           85,660 	 2004
+56 	 Cameroon 	           82,300 	 2005 est.
+57 	 France 	           76,300 	 2003 est.
+58 	 Tunisia 	           76,000 	 2004 est.
+59 	 Cuba 	           72,000 	 2005 est.
+60 	 Pakistan 	           63,000 	 2005 est.
+61 	 Papua New Guinea 	           50,000 	 January 2006 est.
+62 	 Turkey 	           50,000 	 2005 est.
+63 	 Hungary 	           45,190 	 2005
+64 	 Bolivia 	           42,000 	 2005 est.
+65 	 Belarus 	           36,000 	 2004 est.
+66 	 Cote d'Ivoire 	           32,900 	 2005 est.
+67 	 New Zealand 	           31,740 	 2003 est.
+68 	 Spain 	           24,540 	 2003 est.
+69 	 Poland 	           24,530 	 2003 est.
+70 	 Guatemala 	           22,300 	 2005 est.
+71 	 Congo, Democratic Republic of the 	           22,000 	 2003
+72 	 Croatia 	           20,500 	 2005 est.
+73 	 Burma 	           18,500 	 2005 est.
+74 	 Austria 	           17,810 	 2004
+75 	 Czech Republic 	           15,240 	 2005
+76 	 Serbia 	           14,660 	 2003
+77 	 Virgin Islands 	           14,650 	 2003 est.
+78 	 Philippines 	           14,360 	 2003 est.
+79 	 Nicaragua 	           14,300 	 2005 est.
+80 	 Lithuania 	           14,000 	 2004
+81 	 Belgium 	           13,060 	 2003
+82 	 Suriname 	           12,000 	 2004 est.
+83 	 Slovakia 	           11,480 	 2005 est.
+84 	 Finland 	            9,013 	 2003 est.
+85 	 Taiwan 	            8,354 	 2003 est.
+86 	 Singapore 	            8,290 	 2003 est.
+87 	 Ghana 	            7,433 	 2003 est.
+88 	 Bangladesh 	            6,825 	 2003
+89 	 Estonia 	            6,000 	 2004
+90 	 Greece 	            5,805 	 2003 est.
+91 	 Chile 	            4,000 	 2005 est.
+92 	 Albania 	            3,600 	 2005 est.
+93 	 Israel 	            2,740 	 2003 est.
+94 	 Sweden 	            2,441 	 2003 est.
+95 	 Aruba 	            2,363 	 2003
+96 	 Kyrgyzstan 	            1,990 	 2003
+97 	 Georgia 	            1,982 	 2003
+98 	 Switzerland 	            1,950 	 2003 est.
+99 	 Barbados 	            1,000 	 2003
+100 	 Bulgaria 	            1,000 	 2004
+101 	 Mongolia 	             549 	 2005 est.
+102 	 Puerto Rico 	             436 	 2003 est.
+103 	 Uruguay 	             435 	 2003 est.
+104 	 Benin 	             400 	 2003
+105 	 Tajikistan 	             355 	 2003 est.
+106 	 Cyprus 	             300 	 2005 est.
+107 	 Morocco 	             300 	 2005 est.
+108 	 Zambia 	             130 	 2003 est.
+109 	 Madagascar 	              89 	 2003 est.
+110 	 Jordan 	              40 	 2004 est.
+111 	 Slovenia 	              11 	 2003 est.
+112 	 Sierra Leone 	               1 	 2003 est.
+113 	 Antigua and Barbuda 	               0 	 2003
+114 	 Botswana 	               0 	 2003
+115 	 Bahamas, The 	               0 	 2003
+116 	 Solomon Islands 	               0 	 2003 est.
+117 	 Liberia 	               0 	 2003 est.
+118 	 Latvia 	               0 	 2004
+119 	 Lebanon 	               0 	 2003 est.
+120 	 Laos 	               0 	 2003 est.
+121 	 Korea, South 	               0 	 2004
+122 	 Kiribati 	               0 	 2003 est.
+123 	 Korea, North 	               0 	 2004 est.
+124 	 Kenya 	               0 	 2003 est.
+125 	 Jamaica 	               0 	 2003 est.
+126 	 Zimbabwe 	               0 	 2003 est.
+127 	 Swaziland 	               0 	 2004 est.
+128 	 Samoa 	               0 	 2003 est.
+129 	 Western Sahara 	               0 	 2003 est.
+130 	 Namibia 	               0 	 2003 est.
+131 	 British Virgin Islands 	               0 	 2003
+132 	 Saint Vincent and the Grenadines 	               0 	 2003 est.
+133 	 Burkina Faso 	               0 	 2003
+134 	 Uganda 	               0 	 2003 est.
+135 	 Tanzania 	               0 	 2003 est.
+136 	 Sao Tome and Principe 	               0 	 2003 est.
+137 	 Togo 	               0 	 2003 est.
+138 	 Tonga 	               0 	 2003 est.
+139 	 Turks and Caicos Islands 	               0 	 2003 est.
+140 	 Saint Lucia 	               0 	 2003 est.
+141 	 Somalia 	               0 	 2003 est.
+142 	 Saint Helena 	               0 	 2003 est.
+143 	 Senegal 	               0 	 2003 est.
+144 	 Seychelles 	               0 	 2003 est.
+145 	 Saint Kitts and Nevis 	               0 	 2003 est.
+146 	 Saint Pierre and Miquelon 	               0 	 2003 est.
+147 	 Rwanda 	               0 	 2003 est.
+148 	 Reunion 	               0 	 2003 est.
+149 	 Guinea-Bissau 	               0 	 2003 est.
+150 	 Portugal 	               0 	 2003 est.
+151 	 Panama 	               0 	 2004 est.
+152 	 Paraguay 	               0 	 2003 est.
+153 	 Netherlands Antilles 	               0 	 2003 est.
+154 	 Nauru 	               0 	 2003 est.
+155 	 Nepal 	               0 	 2005 est.
+156 	 Vanuatu 	               0 	 2003 est.
+157 	 Niger 	               0 	 2003 est.
+158 	 Niue 	               0 	 2003 est.
+159 	 New Caledonia 	               0 	 2003 est.
+160 	 Mozambique 	               0 	 2003 est.
+161 	 Maldives 	               0 	 2003 est.
+162 	 Malta 	               0 	 2003 est.
+163 	 Mauritania 	               0 	 2005 est.
+164 	 Mauritius 	               0 	 2003 est.
+165 	 Mali 	               0 	 2003 est.
+166 	 Macedonia 	               0 	 2005 est.
+167 	 Malawi 	               0 	 2003 est.
+168 	 Montserrat 	               0 	 2003 est.
+169 	 Moldova 	               0 	 2003 est.
+170 	 Macau 	               0 	 2004 est.
+171 	 Martinique 	               0 	 2003 est.
+172 	 Luxembourg 	               0 	 2003 est.
+173 	 Lesotho 	               0 	 2003 est.
+174 	 Iceland 	               0 	 2003 est.
+175 	 Honduras 	               0 	 2003 est.
+176 	 Hong Kong 	               0 	 2003 est.
+177 	 Ireland 	               0 	 2003 est.
+178 	 Dominican Republic 	               0 	 2003
+179 	 Dominica 	               0 	 2003
+180 	 Djibouti 	               0 	 2003
+181 	 Cook Islands 	               0 	 2003
+182 	 Cape Verde 	               0 	 2003
+183 	 Central African Republic 	               0 	 2003
+184 	 Costa Rica 	               0 	 2003
+185 	 Comoros 	               0 	 2003
+186 	 Cayman Islands 	               0 	 2003
+187 	 Sri Lanka 	               0 	 2003 est.
+188 	 Cambodia 	               0 	 2003
+189 	 Burundi 	               0 	 2003
+190 	 Haiti 	               0 	 2003 est.
+191 	 Guyana 	               0 	 2003 est.
+192 	 Guinea 	               0 	 2003 est.
+193 	 Guam 	               0 	 2003 est.
+194 	 Guadeloupe 	               0 	 2003 est.
+195 	 Greenland 	               0 	 2003 est.
+196 	 Grenada 	               0 	 2003 est.
+197 	 Gibraltar 	               0 	 2003 est.
+198 	 Gambia, The 	               0 	 2003 est.
+199 	 French Polynesia 	               0 	 2003 est.
+200 	 Faroe Islands 	               0 	 2003 est.
+201 	 Falkland Islands (Islas Malvinas) 	               0 	 2003 est.
+202 	 Fiji 	               0 	 2003 est.
+203 	 French Guiana 	               0 	 2003 est.
+204 	 Ethiopia 	               0 	 2003 est.
+205 	 El Salvador 	               0 	 2003 est.
+206 	 Eritrea 	               0 	 2003 est.
+207 	 Bhutan 	               0 	 2003
+208 	 Bosnia and Herzegovina 	               0 	 2003
+209 	 Belize 	               0 	 2003
+210 	 Bermuda 	               0 	 2003
+211 	 Armenia 	               0 	 2005
+212 	 American Samoa 	               0 	 2003
+213 	 Afghanistan 	               0 	 2003
+
+ This file was last updated on 19 December, 2006

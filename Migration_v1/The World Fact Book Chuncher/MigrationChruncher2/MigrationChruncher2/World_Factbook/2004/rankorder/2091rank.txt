@@ -1,0 +1,230 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Infant mortality rate(deaths/1,000 live births) 	 Date of Information
+1 	 Angola 	    191.19 	 2004 est.
+2 	 Afghanistan 	    163.07 	 2004 est.
+3 	 Sierra Leone 	    143.64 	 2004 est.
+4 	 Mozambique 	    130.79 	 2004 est.
+5 	 Liberia 	    128.87 	 2004 est.
+6 	 Niger 	    121.69 	 2004 est.
+7 	 Mali 	    116.79 	 2004 est.
+8 	 Somalia 	    116.70 	 2004 est.
+9 	 Tajikistan 	    110.76 	 2004 est.
+10 	 Guinea-Bissau 	    107.17 	 2004 est.
+11 	 Djibouti 	    104.13 	 2004 est.
+12 	 Malawi 	    103.32 	 2004 est.
+13 	 Bhutan 	    100.44 	 2004 est.
+14 	 Nigeria 	     98.80 	 2004 est.
+15 	 Tanzania 	     98.54 	 2004 est.
+16 	 Burkina Faso 	     97.57 	 2004 est.
+17 	 Ethiopia 	     95.32 	 2004 est.
+18 	 Congo, Democratic Republic of the 	     94.69 	 2004 est.
+19 	 Congo, Republic of the 	     93.86 	 2004 est.
+20 	 Chad 	     93.82 	 2004 est.
+21 	 Rwanda 	     91.23 	 2004 est.
+22 	 Central African Republic 	     91.00 	 2004 est.
+23 	 Cote d'Ivoire 	     90.83 	 2004 est.
+24 	 Guinea 	     90.37 	 2004 est.
+25 	 Zambia 	     88.29 	 2004 est.
+26 	 Laos 	     85.22 	 2004 est.
+27 	 Equatorial Guinea 	     85.13 	 2004 est.
+28 	 Benin 	     85.00 	 2004 est.
+29 	 Lesotho 	     84.23 	 2004 est.
+30 	 Azerbaijan 	     81.74 	 2004 est.
+31 	 Madagascar 	     76.83 	 2004 est.
+32 	 Comoros 	     74.93 	 2004 est.
+33 	 Eritrea 	     74.87 	 2004 est.
+34 	 Haiti 	     73.45 	 2004 est.
+35 	 Turkmenistan 	     73.08 	 2004 est.
+36 	 Pakistan 	     72.44 	 2004 est.
+37 	 Gambia, The 	     72.02 	 2004 est.
+38 	 Cambodia 	     71.48 	 2004 est.
+39 	 Uzbekistan 	     71.10 	 2004 est.
+40 	 Mauritania 	     70.89 	 2004 est.
+41 	 Burundi 	     69.29 	 2004 est.
+42 	 Swaziland 	     69.27 	 2004 est.
+43 	 Cameroon 	     68.26 	 2004 est.
+44 	 Uganda 	     67.83 	 2004 est.
+45 	 Zimbabwe 	     67.69 	 2004 est.
+46 	 Burma 	     67.24 	 2004 est.
+47 	 Nepal 	     66.98 	 2004 est.
+48 	 Togo 	     66.61 	 2004 est.
+49 	 Bangladesh 	     62.60 	 2004 est.
+50 	 Sudan 	     62.50 	 2004 est.
+51 	 Mayotte 	     62.40 	 2004 est.
+52 	 South Africa 	     61.81 	 2004 est.
+53 	 Yemen 	     61.50 	 2004 est.
+54 	 Kenya 	     61.47 	 2004 est.
+55 	 Maldives 	     56.52 	 2004 est.
+56 	 India 	     56.29 	 2004 est.
+57 	 Senegal 	     55.51 	 2004 est.
+58 	 Vanuatu 	     55.16 	 2004 est.
+59 	 Botswana 	     54.58 	 2004 est.
+60 	 Mongolia 	     53.79 	 2004 est.
+61 	 Gabon 	     53.64 	 2004 est.
+62 	 Bolivia 	     53.11 	 2004 est.
+63 	 Papua New Guinea 	     51.45 	 2004 est.
+64 	 Ghana 	     51.43 	 2004 est.
+65 	 World 	     51.23 	 2004 est.
+66 	 Iraq 	     50.25 	 2004 est.
+67 	 Namibia 	     48.98 	 2004 est.
+68 	 Kiribati 	     48.52 	 2004 est.
+69 	 Cape Verde 	     47.77 	 2004 est.
+70 	 East Timor 	     47.41 	 2004 est.
+71 	 Sao Tome and Principe 	     43.11 	 2004 est.
+72 	 Morocco 	     41.62 	 2004 est.
+73 	 Iran 	     41.58 	 2004 est.
+74 	 Turkey 	     41.04 	 2004 est.
+75 	 Moldova 	     40.42 	 2004 est.
+76 	 Guatemala 	     35.93 	 2004 est.
+77 	 Kyrgyzstan 	     35.64 	 2004 est.
+78 	 Indonesia 	     35.60 	 2004 est.
+79 	 Guyana 	     33.26 	 2004 est.
+80 	 Egypt 	     32.59 	 2004 est.
+81 	 Dominican Republic 	     32.38 	 2004 est.
+82 	 Peru 	     31.94 	 2004 est.
+83 	 Algeria 	     31.00 	 2004 est.
+84 	 Micronesia, Federated States of 	     30.21 	 2004 est.
+85 	 Brazil 	     29.61 	 2004 est.
+86 	 Syria 	     29.53 	 2004 est.
+87 	 Marshall Islands 	     29.45 	 2004 est.
+88 	 Honduras 	     29.32 	 2004 est.
+89 	 Kazakhstan 	     29.21 	 2004 est.
+90 	 Nicaragua 	     29.11 	 2004 est.
+91 	 Samoa 	     27.71 	 2004 est.
+92 	 Romania 	     26.43 	 2004 est.
+93 	 Vietnam 	     25.95 	 2004 est.
+94 	 Belize 	     25.69 	 2004 est.
+95 	 Paraguay 	     25.63 	 2004 est.
+96 	 Bahamas, The 	     25.21 	 2004 est.
+97 	 El Salvador 	     25.10 	 2004 est.
+98 	 Tunisia 	     24.77 	 2004 est.
+99 	 Libya 	     24.60 	 2004 est.
+100 	 Lebanon 	     24.52 	 2004 est.
+101 	 Trinidad and Tobago 	     24.31 	 2004 est.
+102 	 China 	     24.18 	 2004 est.
+103 	 Korea, North 	     24.04 	 2004 est.
+104 	 Ecuador 	     23.66 	 2004 est.
+105 	 Suriname 	     23.57 	 2004 est.
+106 	 Philippines 	     23.51 	 2004 est.
+107 	 Armenia 	     23.28 	 2004 est.
+108 	 Gaza Strip 	     22.93 	 2004 est.
+109 	 Venezuela 	     22.20 	 2004 est.
+110 	 Albania 	     21.52 	 2004 est.
+111 	 Solomon Islands 	     21.29 	 2004 est.
+112 	 Bosnia and Herzegovina 	     21.05 	 2004 est.
+113 	 Anguilla 	     21.03 	 2004 est.
+114 	 Colombia 	     20.97 	 2004 est.
+115 	 Mexico 	     20.91 	 2004 est.
+116 	 Bulgaria 	     20.55 	 2004 est.
+117 	 Thailand 	     20.48 	 2004 est.
+118 	 Panama 	     20.47 	 2004 est.
+119 	 Ukraine 	     20.34 	 2004 est.
+120 	 Tuvalu 	     20.03 	 2004 est.
+121 	 West Bank 	     19.62 	 2004 est.
+122 	 Oman 	     19.51 	 2004 est.
+123 	 Antigua and Barbuda 	     19.46 	 2004 est.
+124 	 Saint Helena 	     19.00 	 2004 est.
+125 	 Qatar 	     18.61 	 2004 est.
+126 	 Georgia 	     18.59 	 2004 est.
+127 	 British Virgin Islands 	     18.05 	 2004 est.
+128 	 Malaysia 	     17.70 	 2004 est.
+129 	 Jordan 	     17.35 	 2004 est.
+130 	 Bahrain 	     17.27 	 2004 est.
+131 	 Greenland 	     15.82 	 2004 est.
+132 	 Turks and Caicos Islands 	     15.67 	 2004 est.
+133 	 Seychelles 	     15.53 	 2004 est.
+134 	 Russia 	     15.39 	 2004 est.
+135 	 Argentina 	     15.18 	 2004 est.
+136 	 Mauritius 	     15.03 	 2004 est.
+137 	 Palau 	     14.84 	 2004 est.
+138 	 Saint Vincent and the Grenadines 	     14.78 	 2004 est.
+139 	 Grenada 	     14.62 	 2004 est.
+140 	 United Arab Emirates 	     14.51 	 2004 est.
+141 	 Saint Kitts and Nevis 	     14.49 	 2004 est.
+142 	 Sri Lanka 	     14.35 	 2004 est.
+143 	 Dominica 	     14.15 	 2004 est.
+144 	 Saint Lucia 	     13.53 	 2004 est.
+145 	 Belarus 	     13.37 	 2004 est.
+146 	 Saudi Arabia 	     13.24 	 2004 est.
+147 	 Serbia and Montenegro 	     12.89 	 2004 est.
+148 	 Fiji 	     12.62 	 2004 est.
+149 	 Tonga 	     12.62 	 2004 est.
+150 	 Brunei 	     12.61 	 2004 est.
+151 	 Barbados 	     12.50 	 2004 est.
+152 	 Jamaica 	     12.36 	 2004 est.
+153 	 French Guiana 	     12.07 	 2004 est.
+154 	 Uruguay 	     11.95 	 2004 est.
+155 	 Macedonia 	     10.09 	 2004 est.
+156 	 Netherlands Antilles 	     10.03 	 2004 est.
+157 	 Costa Rica 	      9.95 	 2004 est.
+158 	 Kuwait 	      9.95 	 2004 est.
+159 	 Nauru 	      9.95 	 2004 est.
+160 	 Latvia 	      9.55 	 2004 est.
+161 	 American Samoa 	      9.27 	 2004 est.
+162 	 Chile 	      8.80 	 2004 est.
+163 	 Guadeloupe 	      8.60 	 2004 est.
+164 	 Hungary 	      8.57 	 2004 est.
+165 	 Bermuda 	      8.53 	 2004 est.
+166 	 Poland 	      8.51 	 2004 est.
+167 	 French Polynesia 	      8.44 	 2004 est.
+168 	 Puerto Rico 	      8.24 	 2004 est.
+169 	 Cayman Islands 	      8.19 	 2004 est.
+170 	 Virgin Islands 	      8.03 	 2004 est.
+171 	 Estonia 	      7.87 	 2004 est.
+172 	 Reunion 	      7.78 	 2004 est.
+173 	 New Caledonia 	      7.72 	 2004 est.
+174 	 Saint Pierre and Miquelon 	      7.54 	 2004 est.
+175 	 Slovakia 	      7.41 	 2004 est.
+176 	 Montserrat 	      7.35 	 2004 est.
+177 	 Cyprus 	      7.18 	 2004 est.
+178 	 Northern Mariana Islands 	      7.11 	 2004 est.
+179 	 Martinique 	      7.09 	 2004 est.
+180 	 Korea, South 	      7.05 	 2004 est.
+181 	 Israel 	      7.03 	 2004 est.
+182 	 Guam 	      6.94 	 2004 est.
+183 	 Lithuania 	      6.89 	 2004 est.
+184 	 Croatia 	      6.84 	 2004 est.
+185 	 United States 	      6.50 	 2004 est.
+186 	 Taiwan 	      6.40 	 2004 est.
+187 	 Cuba 	      6.33 	 2004 est.
+188 	 Faroe Islands 	      6.24 	 2004 est.
+189 	 Italy 	      5.94 	 2004 est.
+190 	 Man, Isle of 	      5.93 	 2004 est.
+191 	 Aruba 	      5.89 	 2004 est.
+192 	 New Zealand 	      5.85 	 2004 est.
+193 	 San Marino 	      5.73 	 2004 est.
+194 	 Greece 	      5.53 	 2004 est.
+195 	 Monaco 	      5.43 	 2004 est.
+196 	 Ireland 	      5.39 	 2004 est.
+197 	 European Union 	      5.30 	 July 2004 est.
+198 	 Jersey 	      5.24 	 2004 est.
+199 	 United Kingdom 	      5.16 	 2004 est.
+200 	 Gibraltar 	      5.13 	 2004 est.
+201 	 Portugal 	      5.05 	 2004 est.
+202 	 Netherlands 	      5.04 	 2004 est.
+203 	 Luxembourg 	      4.81 	 2004 est.
+204 	 Canada 	      4.75 	 2004 est.
+205 	 Guernsey 	      4.71 	 2004 est.
+206 	 Liechtenstein 	      4.70 	 2004 est.
+207 	 Australia 	      4.69 	 2004 est.
+208 	 Belgium 	      4.68 	 2004 est.
+209 	 Austria 	      4.66 	 2004 est.
+210 	 Denmark 	      4.56 	 2004 est.
+211 	 Slovenia 	      4.45 	 2004 est.
+212 	 Spain 	      4.42 	 2004 est.
+213 	 Macau 	      4.39 	 2004 est.
+214 	 Switzerland 	      4.39 	 2004 est.
+215 	 France 	      4.26 	 2004 est.
+216 	 Germany 	      4.16 	 2004 est.
+217 	 Andorra 	      4.05 	 2004 est.
+218 	 Czech Republic 	      3.93 	 2004 est.
+219 	 Malta 	      3.89 	 2004 est.
+220 	 Norway 	      3.70 	 2004 est.
+221 	 Finland 	      3.57 	 2004 est.
+222 	 Iceland 	      3.31 	 2004 est.
+223 	 Japan 	      3.26 	 2004 est.
+224 	 Hong Kong 	      2.97 	 2004 est.
+225 	 Sweden 	      2.77 	 2004 est.
+226 	 Singapore 	      2.29 	 2004 est.
+
+ This file was last updated on 10 February, 2005

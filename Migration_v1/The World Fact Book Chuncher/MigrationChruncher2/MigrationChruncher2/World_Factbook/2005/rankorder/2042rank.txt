@@ -1,0 +1,220 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Electricity - consumption(kWh) 	 Date of Information
+1 	 World 	  14,280,000,000,000 	 2003 est.
+2 	 United States 	   3,656,000,000,000 	 2003
+3 	 European Union 	   2,711,000,000,000 	 2002 est.
+4 	 China 	   2,170,000,000,000 	 2004
+5 	 Japan 	    946,300,000,000 	 2003
+6 	 Russia 	    811,500,000,000 	 2004
+7 	 Canada 	    520,900,000,000 	 2003
+8 	 India 	    519,000,000,000 	 2003
+9 	 Germany 	    510,400,000,000 	 2003
+10 	 France 	    433,300,000,000 	 2003
+11 	 Brazil 	    371,400,000,000 	 2003
+12 	 United Kingdom 	    346,100,000,000 	 2003
+13 	 Korea, South 	    303,300,000,000 	 2003
+14 	 Italy 	    302,200,000,000 	 2003
+15 	 Spain 	    231,200,000,000 	 2003
+16 	 Taiwan 	    206,100,000,000 	 2004
+17 	 Australia 	    200,700,000,000 	 2003
+18 	 South Africa 	    197,400,000,000 	 2003
+19 	 Mexico 	    193,900,000,000 	 2003
+20 	 Ukraine 	    153,100,000,000 	 2003
+21 	 Turkey 	    140,300,000,000 	 2005
+22 	 Saudi Arabia 	    134,900,000,000 	 2003
+23 	 Iran 	    132,100,000,000 	 2003
+24 	 Sweden 	    131,800,000,000 	 2003
+25 	 Poland 	    121,300,000,000 	 2004
+26 	 Thailand 	    107,300,000,000 	 2003
+27 	 Norway 	    106,100,000,000 	 2003
+28 	 Indonesia 	    101,800,000,000 	 2003
+29 	 Netherlands 	    101,600,000,000 	 2003
+30 	 Argentina 	     83,310,000,000 	 2003
+31 	 Venezuela 	     81,320,000,000 	 2003
+32 	 Belgium 	     79,660,000,000 	 2003
+33 	 Finland 	     78,940,000,000 	 2003
+34 	 Egypt 	     78,160,000,000 	 2003
+35 	 Malaysia 	     73,630,000,000 	 2003
+36 	 Pakistan 	     71,540,000,000 	 2003
+37 	 Austria 	     57,450,000,000 	 2003
+38 	 Czech Republic 	     56,500,000,000 	 2003
+39 	 Switzerland 	     55,860,000,000 	 2003
+40 	 Greece 	     53,500,000,000 	 2005 est.
+41 	 Kazakhstan 	     52,550,000,000 	 2003
+42 	 Uzbekistan 	     48,450,000,000 	 2003
+43 	 Romania 	     45,160,000,000 	 2003
+44 	 Philippines 	     44,480,000,000 	 2003
+45 	 Chile 	     44,130,000,000 	 2003
+46 	 Portugal 	     44,010,000,000 	 2003
+47 	 Colombia 	     42,850,000,000 	 2003
+48 	 Israel 	     39,670,000,000 	 2003
+49 	 Hong Kong 	     38,430,000,000 	 2003
+50 	 United Arab Emirates 	     38,320,000,000 	 2002
+51 	 New Zealand 	     37,030,000,000 	 2003
+52 	 Hungary 	     36,960,000,000 	 2003
+53 	 Vietnam 	     36,920,000,000 	 2003
+54 	 Serbia and Montenegro 	     36,620,000,000 	 2003
+55 	 Kuwait 	     35,520,000,000 	 2003
+56 	 Belarus 	     34,300,000,000 	 2004
+57 	 Iraq 	     33,300,000,000 	 2005
+58 	 Bulgaria 	     31,750,000,000 	 2003
+59 	 Denmark 	     31,680,000,000 	 2003
+60 	 Singapore 	     30,890,000,000 	 2003
+61 	 Syria 	     25,280,000,000 	 2003
+62 	 Slovakia 	     25,230,000,000 	 2003
+63 	 Algeria 	     24,900,000,000 	 2003
+64 	 Ireland 	     22,970,000,000 	 2003
+65 	 Puerto Rico 	     21,420,000,000 	 2003
+66 	 Peru 	     21,090,000,000 	 2003
+67 	 Azerbaijan 	     20,250,000,000 	 2003
+68 	 Morocco 	     17,580,000,000 	 2003
+69 	 Korea, North 	     17,430,000,000 	 2003
+70 	 Bangladesh 	     16,200,000,000 	 2003
+71 	 Croatia 	     15,810,000,000 	 2003
+72 	 Tajikistan 	     15,050,000,000 	 2003
+73 	 Cuba 	     14,620,000,000 	 2003
+74 	 Nigeria 	     14,460,000,000 	 2003
+75 	 Libya 	     13,390,000,000 	 2003
+76 	 Slovenia 	     12,470,000,000 	 2003
+77 	 Dominican Republic 	     11,710,000,000 	 2003
+78 	 Zimbabwe 	     11,220,000,000 	 2003
+79 	 Tunisia 	     10,760,000,000 	 2003
+80 	 Lebanon 	     10,670,000,000 	 2003
+81 	 Ecuador 	     10,550,000,000 	 2003
+82 	 Mozambique 	     10,460,000,000 	 2003
+83 	 Oman 	      9,582,000,000 	 2003
+84 	 Lithuania 	      9,109,000,000 	 2003
+85 	 Qatar 	      9,053,000,000 	 2003
+86 	 Bosnia and Herzegovina 	      8,849,000,000 	 2003
+87 	 Turkmenistan 	      8,847,000,000 	 2002
+88 	 Kyrgyzstan 	      8,783,000,000 	 2003
+89 	 Georgia 	      8,630,000,000 	 2003
+90 	 Jordan 	      7,959,000,000 	 2003
+91 	 Iceland 	      7,769,000,000 	 2003
+92 	 Uruguay 	      7,762,000,000 	 2003
+93 	 Costa Rica 	      7,120,000,000 	 2003
+94 	 Estonia 	      7,024,000,000 	 2003
+95 	 Burma 	      6,875,000,000 	 2003
+96 	 Bahrain 	      6,830,000,000 	 2003
+97 	 Sri Lanka 	      6,796,000,000 	 2003
+98 	 Albania 	      6,760,000,000 	 2004
+99 	 Jamaica 	      6,124,000,000 	 2003
+100 	 Luxembourg 	      6,112,000,000 	 2003
+101 	 Guatemala 	      6,025,000,000 	 2003
+102 	 Latvia 	      5,839,000,000 	 2003
+103 	 Trinidad and Tobago 	      5,651,000,000 	 2003
+104 	 Zambia 	      5,345,000,000 	 2003
+105 	 Macedonia 	      5,289,000,000 	 2003
+106 	 Ghana 	      5,081,000,000 	 2003
+107 	 Panama 	      4,870,000,000 	 2003
+108 	 El Salvador 	      4,450,000,000 	 2004
+109 	 Armenia 	      4,420,000,000 	 2003
+110 	 Honduras 	      4,369,000,000 	 2003
+111 	 Congo, Democratic Republic of the 	      4,324,000,000 	 2003
+112 	 Kenya 	      4,238,000,000 	 2003
+113 	 Bolivia 	      3,963,000,000 	 2003
+114 	 Cyprus 	      3,535,000,000 	 2003
+115 	 Paraguay 	      3,528,000,000 	 2003
+116 	 Cote d'Ivoire 	      3,418,000,000 	 2003
+117 	 Laos 	      3,298,000,000 	 2003
+118 	 Moldova 	      3,036,000,000 	 2003
+119 	 Tanzania 	      2,959,000,000 	 2003
+120 	 Sudan 	      2,943,000,000 	 2003
+121 	 Mongolia 	      2,908,000,000 	 2004 est.
+122 	 Yemen 	      2,827,000,000 	 2003 est.
+123 	 Cameroon 	      2,779,000,000 	 2003
+124 	 Botswana 	      2,641,000,000 	 2004
+125 	 Brunei 	      2,473,000,000 	 2003
+126 	 Namibia 	      2,372,000,000 	 2003
+127 	 Nicaragua 	      2,343,000,000 	 2003
+128 	 Nepal 	      2,299,000,000 	 2003
+129 	 Malta 	      1,936,000,000 	 2003
+130 	 Ethiopia 	      1,914,000,000 	 2003
+131 	 Suriname 	      1,873,000,000 	 2003
+132 	 Mauritius 	      1,805,000,000 	 2003
+133 	 Angola 	      1,782,000,000 	 2003
+134 	 Bahamas, The 	      1,683,000,000 	 2003
+135 	 Macau 	      1,682,000,000 	 2003
+136 	 Papua New Guinea 	      1,481,000,000 	 2003
+137 	 New Caledonia 	      1,470,000,000 	 2003
+138 	 Uganda 	      1,448,000,000 	 2003
+139 	 Gabon 	      1,383,000,000 	 2003
+140 	 Senegal 	      1,239,000,000 	 2003
+141 	 Malawi 	      1,206,000,000 	 2003
+142 	 Swaziland 	      1,161,000,000 	 2003
+143 	 Martinique 	      1,120,000,000 	 2003
+144 	 Reunion 	      1,107,000,000 	 2003
+145 	 Guadeloupe 	      1,084,000,000 	 2003
+146 	 Afghanistan 	      1,042,000,000 	 2003
+147 	 Virgin Islands 	       967,300,000 	 2003
+148 	 Netherlands Antilles 	       945,800,000 	 2003
+149 	 Guam 	       781,300,000 	 2003
+150 	 Madagascar 	       767,700,000 	 2003
+151 	 Mali 	       762,600,000 	 2003
+152 	 Barbados 	       761,700,000 	 2003
+153 	 Guyana 	       724,500,000 	 2003
+154 	 Fiji 	       721,400,000 	 2003
+155 	 Guinea 	       720,800,000 	 2003
+156 	 Aruba 	       716,100,000 	 2003
+157 	 Togo 	       654,300,000 	 2003
+158 	 Jersey 	       630,100,000 	 2004 est.
+159 	 Congo, Republic of the 	       619,000,000 	 2003
+160 	 Bermuda 	       580,300,000 	 2003
+161 	 Benin 	       538,200,000 	 2003
+162 	 Haiti 	       507,800,000 	 2003
+163 	 Liberia 	       473,800,000 	 2003
+164 	 French Polynesia 	       459,200,000 	 2003
+165 	 French Guiana 	       432,600,000 	 2003
+166 	 Cayman Islands 	       411,000,000 	 2003
+167 	 Lesotho 	       363,500,000 	 2003
+168 	 Burkina Faso 	       349,300,000 	 2003
+169 	 Niger 	       263,900,000 	 2003
+170 	 Saint Lucia 	       261,400,000 	 2003
+171 	 Eritrea 	       251,900,000 	 2003
+172 	 Bhutan 	       250,300,000 	 2003
+173 	 Sierra Leone 	       242,400,000 	 2003
+174 	 Faroe Islands 	       242,000,000 	 2003
+175 	 Greenland 	       225,300,000 	 2003
+176 	 Seychelles 	       224,400,000 	 2003
+177 	 Djibouti 	       223,200,000 	 2003
+178 	 Somalia 	       219,100,000 	 2003
+179 	 Micronesia, Federated States of 	       178,600,000 	 2002
+180 	 Mauritania 	       172,600,000 	 2003
+181 	 Grenada 	       148,600,000 	 2003
+182 	 Burundi 	       141,400,000 	 2003
+183 	 Gambia, The 	       130,200,000 	 2003
+184 	 Maldives 	       125,600,000 	 2003
+185 	 Rwanda 	       121,100,000 	 2003
+186 	 American Samoa 	       120,900,000 	 2003
+187 	 Cambodia 	       115,000,000 	 2003
+188 	 Belize 	       111,600,000 	 2003
+189 	 Chad 	       111,600,000 	 2003
+190 	 Samoa 	       107,900,000 	 2003
+191 	 Saint Kitts and Nevis 	       103,900,000 	 2003
+192 	 Gibraltar 	        98,690,000 	 2003
+193 	 Central African Republic 	        98,580,000 	 2003
+194 	 Antigua and Barbuda 	        93,000,000 	 2003
+195 	 Saint Vincent and the Grenadines 	        88,350,000 	 2003
+196 	 Western Sahara 	        83,700,000 	 2003
+197 	 Dominica 	        65,090,000 	 2003
+198 	 Guinea-Bissau 	        52,080,000 	 2003
+199 	 Solomon Islands 	        51,150,000 	 2003
+200 	 Anguilla 	        42,600,000 	 
+201 	 Cape Verde 	        41,060,000 	 2003
+202 	 Saint Pierre and Miquelon 	        41,060,000 	 2003
+203 	 Vanuatu 	        38,130,000 	 2003
+204 	 British Virgin Islands 	        32,130,000 	 2003
+205 	 Tonga 	        31,620,000 	 2003
+206 	 Equatorial Guinea 	        27,370,000 	 2003
+207 	 Cook Islands 	        26,040,000 	 2003
+208 	 Nauru 	        21,390,000 	 2003
+209 	 Falkland Islands (Islas Malvinas) 	        20,680,000 	 2003
+210 	 Comoros 	        16,740,000 	 2003
+211 	 Sao Tome and Principe 	        13,950,000 	 2003
+212 	 Kiribati 	        11,160,000 	 2003
+213 	 Saint Helena 	         4,650,000 	 2003
+214 	 Turks and Caicos Islands 	         4,650,000 	 2003
+215 	 Niue 	         2,790,000 	 2003
+216 	 Montserrat 	         1,860,000 	 2003
+
+ This file was last updated on 10 January, 2006

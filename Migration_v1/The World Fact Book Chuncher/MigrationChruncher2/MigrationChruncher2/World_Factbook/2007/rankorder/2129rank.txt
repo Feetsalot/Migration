@@ -1,0 +1,202 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Unemployment rate(%) 	 Date of Information
+1 	 Andorra 	      0.00 	 1996 est.
+2 	 Monaco 	      0.00 	 2005
+3 	 Guernsey 	      0.90 	 March 2006 est.
+4 	 Azerbaijan 	      1.20 	 2006 est.
+5 	 Iceland 	      1.30 	 2006 est.
+6 	 Liechtenstein 	      1.30 	 September 2002
+7 	 Isle of Man 	      1.50 	 December 2006 est.
+8 	 Belarus 	      1.60 	 2005
+9 	 Vanuatu 	      1.70 	 1999
+10 	 Cuba 	      1.90 	 2006 est.
+11 	 Gibraltar 	      2.00 	 2001 est.
+12 	 Kiribati 	      2.00 	 1992 est.
+13 	 Vietnam 	      2.00 	 2006 est.
+14 	 Papua New Guinea 	      2.00 	 2004
+15 	 Bermuda 	      2.10 	 2004 est.
+16 	 Thailand 	      2.10 	 2006 est.
+17 	 Faroe Islands 	      2.10 	 2006
+18 	 Jersey 	      2.20 	 2006 est.
+19 	 Kuwait 	      2.20 	 2004 est.
+20 	 United Arab Emirates 	      2.40 	 2001
+21 	 Laos 	      2.40 	 2005 est.
+22 	 Bangladesh 	      2.50 	 2006 est.
+23 	 Bhutan 	      2.50 	 2004
+24 	 Cambodia 	      2.50 	 2000 est.
+25 	 Ukraine 	      2.70 	 2006 est.
+26 	 United Kingdom 	      2.90 	 2006 est.
+27 	 Uzbekistan 	      3.00 	 2006
+28 	 Singapore 	      3.10 	 2006 est.
+29 	 Guatemala 	      3.20 	 2005 est.
+30 	 Qatar 	      3.20 	 2006 est.
+31 	 Mexico 	      3.20 	 2006 est.
+32 	 Korea, South 	      3.30 	 2006 est.
+33 	 Switzerland 	      3.30 	 2006 est.
+34 	 Mongolia 	      3.30 	 2005
+35 	 Malaysia 	      3.50 	 2006 est.
+36 	 Norway 	      3.50 	 2006 est.
+37 	 British Virgin Islands 	      3.60 	 1997
+38 	 Lithuania 	      3.70 	 2006 est.
+39 	 Denmark 	      3.80 	 2006 est.
+40 	 New Zealand 	      3.80 	 2006 est.
+41 	 San Marino 	      3.80 	 2004
+42 	 Nicaragua 	      3.80 	 2006 est.
+43 	 Northern Mariana Islands 	      3.90 	 2001
+44 	 Taiwan 	      3.90 	 2006 est.
+45 	 Brunei 	      4.00 	 2006
+46 	 Japan 	      4.10 	 2006 est.
+47 	 Luxembourg 	      4.10 	 2006 est.
+48 	 Macau 	      4.10 	 2005
+49 	 China 	      4.20 	 2005
+50 	 Palau 	      4.20 	 2005 est.
+51 	 Ireland 	      4.30 	 2006 est.
+52 	 Cayman Islands 	      4.40 	 2004
+53 	 Estonia 	      4.50 	 2006 est.
+54 	 Saint Kitts and Nevis 	      4.50 	 1997
+55 	 United States 	      4.80 	 2006 est.
+56 	 Australia 	      4.90 	 2006 est.
+57 	 Hong Kong 	      4.90 	 2006 est.
+58 	 Austria 	      4.90 	 2006 est.
+59 	 Namibia 	      5.30 	 2006 est.
+60 	 Cyprus 	      5.50 	 2006 est.
+61 	 Netherlands 	      5.50 	 2006 est.
+62 	 Cyprus 	      5.60 	 2006 est.
+63 	 Sweden 	      5.60 	 2006 est.
+64 	 Nigeria 	      5.80 	 2006 est.
+65 	 El Salvador 	      6.00 	 2006 est.
+66 	 Montserrat 	      6.00 	 1998 est.
+67 	 Romania 	      6.10 	 2006 est.
+68 	 Virgin Islands 	      6.20 	 2004
+69 	 Canada 	      6.40 	 2006 est.
+70 	 Latvia 	      6.50 	 2006 est.
+71 	 Pakistan 	      6.50 	 2006 est.
+72 	 Costa Rica 	      6.60 	 2006 est.
+73 	 Russia 	      6.60 	 2006 est.
+74 	 Malta 	      6.80 	 2005 est.
+75 	 Aruba 	      6.90 	 2005 est.
+76 	 Finland 	      7.00 	 2006 est.
+77 	 Italy 	      7.00 	 2006 est.
+78 	 Trinidad and Tobago 	      7.00 	 2006 est.
+79 	 Germany 	      7.10 	 2006 est.
+80 	 Peru 	      7.20 	 2006 est.
+81 	 Moldova 	      7.30 	 2005 est.
+82 	 Armenia 	      7.40 	 November 2006 est.
+83 	 Kazakhstan 	      7.40 	 2006 est.
+84 	 Hungary 	      7.40 	 2006 est.
+85 	 Sri Lanka 	      7.60 	 2006 est.
+86 	 Portugal 	      7.60 	 2006 est.
+87 	 Fiji 	      7.60 	 1999
+88 	 Morocco 	      7.70 	 2006 est.
+89 	 Bolivia 	      7.80 	 2006 est.
+90 	 Chile 	      7.80 	 2006 est.
+91 	 India 	      7.80 	 2006 est.
+92 	 Philippines 	      7.90 	 2006 est.
+93 	 Anguilla 	      8.00 	 2002
+94 	 Central African Republic 	      8.00 	 2001 est.
+95 	 Belgium 	      8.10 	 2006 est.
+96 	 Spain 	      8.10 	 2006 est.
+97 	 Israel 	      8.30 	 2006 est.
+98 	 Czech Republic 	      8.40 	 2006 est.
+99 	 European Union 	      8.50 	 2006 est.
+100 	 Argentina 	      8.70 	 2006 est.
+101 	 France 	      8.70 	 2006 est.
+102 	 Panama 	      8.80 	 2006 est.
+103 	 Venezuela 	      8.90 	 2006 est.
+104 	 Greece 	      9.20 	 2006 est.
+105 	 Greenland 	      9.30 	 2005 est.
+106 	 Belize 	      9.40 	 2006
+107 	 Mauritius 	      9.40 	 2006 est.
+108 	 Paraguay 	      9.40 	 2005 est.
+109 	 Suriname 	      9.50 	 2004
+110 	 Brazil 	      9.60 	 2006 est.
+111 	 Bulgaria 	      9.60 	 2006 est.
+112 	 Slovenia 	      9.60 	 2006 est.
+113 	 Turks and Caicos Islands 	     10.00 	 1997 est.
+114 	 Bahamas, The 	     10.20 	 2005 est.
+115 	 Turkey 	     10.20 	 2006 est.
+116 	 Burma 	     10.20 	 2006 est.
+117 	 Slovakia 	     10.20 	 2006 est.
+118 	 Egypt 	     10.30 	 2006 est.
+119 	 Saint Pierre and Miquelon 	     10.30 	 1999
+120 	 Ecuador 	     10.60 	 2006 est.
+121 	 Barbados 	     10.70 	 2003 est.
+122 	 Uruguay 	     10.80 	 2006 est.
+123 	 Antigua and Barbuda 	     11.00 	 2001 est.
+124 	 Colombia 	     11.10 	 2006 est.
+125 	 Jamaica 	     11.30 	 2006 est.
+126 	 Guam 	     11.40 	 2002 est.
+127 	 French Polynesia 	     11.70 	 2005
+128 	 Niue 	     12.00 	 2001
+129 	 Puerto Rico 	     12.00 	 2002
+130 	 Tajikistan 	     12.00 	 2004 est.
+131 	 Grenada 	     12.50 	 2000
+132 	 Syria 	     12.50 	 2005 est.
+133 	 Indonesia 	     12.50 	 2006 est.
+134 	 Georgia 	     12.60 	 2004 est.
+135 	 Cote d'Ivoire 	     13.00 	 1998
+136 	 Saudi Arabia 	     13.00 	 2004 est.
+137 	 Tonga 	     13.00 	 FY03/04 est.
+138 	 Cook Islands 	     13.10 	 2005
+139 	 Albania 	     13.80 	 2006 est.
+140 	 Tunisia 	     13.90 	 2006 est.
+141 	 Saint Helena 	     14.00 	 1998 est.
+142 	 Mali 	     14.60 	 2001 est.
+143 	 Poland 	     14.90 	 2006 est.
+144 	 Bahrain 	     15.00 	 2005 est.
+145 	 Oman 	     15.00 	 2004 est.
+146 	 Saint Vincent and the Grenadines 	     15.00 	 2001 est.
+147 	 Iran 	     15.00 	 2007 est.
+148 	 Wallis and Futuna 	     15.20 	 2003
+149 	 Jordan 	     15.40 	 2006 est.
+150 	 Algeria 	     15.70 	 2006 est.
+151 	 Dominican Republic 	     16.00 	 2006 est.
+152 	 Netherlands Antilles 	     17.00 	 2002 est.
+153 	 New Caledonia 	     17.10 	 2004
+154 	 Croatia 	     17.20 	 2006 est.
+155 	 Kyrgyzstan 	     18.00 	 2004 est.
+156 	 Sudan 	     18.70 	 2002 est.
+157 	 Comoros 	     20.00 	 1996 est.
+158 	 Saint Lucia 	     20.00 	 2003 est.
+159 	 Mauritania 	     20.00 	 2004 est.
+160 	 Ghana 	     20.00 	 1997 est.
+161 	 Lebanon 	     20.00 	 2006 est.
+162 	 Gaza Strip 	     20.30 	 2005
+163 	 West Bank 	     20.30 	 2005
+164 	 Cape Verde 	     21.00 	 2000 est.
+165 	 Gabon 	     21.00 	 2006 est.
+166 	 Mozambique 	     21.00 	 1997 est.
+167 	 Micronesia, Federated States of 	     22.00 	 2000 est.
+168 	 Dominica 	     23.00 	 2000 est.
+169 	 Botswana 	     23.80 	 2004
+170 	 Iraq 	     25.00 	 2005 est.
+171 	 Mayotte 	     25.40 	 2005
+172 	 South Africa 	     25.50 	 2006 est.
+173 	 Montenegro 	     27.70 	 2005
+174 	 Honduras 	     27.90 	 2006 est.
+175 	 American Samoa 	     29.80 	 2005
+176 	 Cameroon 	     30.00 	 2001 est.
+177 	 Equatorial Guinea 	     30.00 	 1998 est.
+178 	 Libya 	     30.00 	 2004 est.
+179 	 World 	     30.00 	 2006 est.
+180 	 Marshall Islands 	     30.90 	 2000 est.
+181 	 Serbia 	     31.60 	 2005 est.
+182 	 Yemen 	     35.00 	 2003 est.
+183 	 Macedonia 	     36.00 	 2006 est.
+184 	 Afghanistan 	     40.00 	 2005 est.
+185 	 Swaziland 	     40.00 	 2006 est.
+186 	 Kenya 	     40.00 	 2001 est.
+187 	 Nepal 	     42.00 	 2004 est.
+188 	 Lesotho 	     45.00 	 2002
+189 	 Bosnia and Herzegovina 	     45.50 	 31 December 2004 est.
+190 	 Senegal 	     48.00 	 2001 est.
+191 	 Djibouti 	     50.00 	 2004 est.
+192 	 Zambia 	     50.00 	 2000 est.
+193 	 Timor-Leste 	     50.00 	 2001 est.
+194 	 Cocos (Keeling) Islands 	     60.00 	 2000 est.
+195 	 Turkmenistan 	     60.00 	 2004 est.
+196 	 Zimbabwe 	     80.00 	 2005 est.
+197 	 Liberia 	     85.00 	 2003 est.
+198 	 Nauru 	     90.00 	 2004 est.
+
+ This file was last updated on 13 December, 2007

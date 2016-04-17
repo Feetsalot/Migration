@@ -1,0 +1,111 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - exports(cu m) 	 Date of Information
+1 	 World 	    667,600,000,000 	 2001 est.
+2 	 Russia 	    157,200,000,000 	 2004 est.
+3 	 Canada 	     91,520,000,000 	 2003 est.
+4 	 European Union 	     78,100,000,000 	 2001
+5 	 Algeria 	     57,980,000,000 	 2001 est.
+6 	 Norway 	     50,500,000,000 	 2001 est.
+7 	 Netherlands 	     49,280,000,000 	 2001 est.
+8 	 Turkmenistan 	     38,600,000,000 	 2004 est.
+9 	 Indonesia 	     37,500,000,000 	 2005 est.
+10 	 United States 	     24,190,000,000 	 2004
+11 	 Malaysia 	     22,410,000,000 	 2001 est.
+12 	 Qatar 	     18,200,000,000 	 2004 est.
+13 	 United Kingdom 	     15,750,000,000 	 2001 est.
+14 	 Trinidad and Tobago 	     11,790,000,000 	 2003 est.
+15 	 Australia 	      9,744,000,000 	 2001 est.
+16 	 Brunei 	      9,000,000,000 	 2001 est.
+17 	 Burma 	      8,424,000,000 	 2003 est.
+18 	 Nigeria 	      7,830,000,000 	 2001 est.
+19 	 Germany 	      7,731,000,000 	 2003
+20 	 Oman 	      7,430,000,000 	 2001 est.
+21 	 United Arab Emirates 	      7,190,000,000 	 2003 est.
+22 	 Uzbekistan 	      6,500,000,000 	 2004
+23 	 Argentina 	      6,050,000,000 	 2001 est.
+24 	 Kazakhstan 	      4,100,000,000 	 2004 est.
+25 	 Ukraine 	      3,900,000,000 	 2004
+26 	 Iran 	      3,400,000,000 	 2003 est.
+27 	 Denmark 	      3,100,000,000 	 2001 est.
+28 	 Bolivia 	      2,900,000,000 	 2001 est.
+29 	 China 	      2,790,000,000 	 2004
+30 	 France 	      1,725,000,000 	 2001 est.
+31 	 Libya 	       770,000,000 	 2001 est.
+32 	 Italy 	        61,000,000 	 2001 est.
+33 	 Poland 	        44,000,000 	 2004
+34 	 Hungary 	         4,000,000 	 2001 est.
+35 	 Czech Republic 	         1,000,000 	 2001 est.
+36 	 Slovakia 	         1,000,000 	 2004 est.
+37 	 Afghanistan 	               0 	 2001 est.
+38 	 Austria 	               0 	 2004
+39 	 Barbados 	               0 	 2001 est.
+40 	 Bangladesh 	               0 	 2001 est.
+41 	 Japan 	               0 	 2001 est.
+42 	 Iraq 	               0 	 2004 est.
+43 	 Cote d'Ivoire 	               0 	 2001 est.
+44 	 Israel 	               0 	 2001 est.
+45 	 India 	               0 	 2001 est.
+46 	 Croatia 	               0 	 2001 est.
+47 	 Hong Kong 	               0 	 2004 est.
+48 	 Greece 	               0 	 2001 est.
+49 	 Ecuador 	               0 	 2001 est.
+50 	 Spain 	               0 	 2001 est.
+51 	 Singapore 	               0 	 2001 est.
+52 	 Slovenia 	               0 	 2003
+53 	 Senegal 	               0 	 2001 est.
+54 	 South Africa 	               0 	 2001 est.
+55 	 Saudi Arabia 	               0 	 2002
+56 	 Puerto Rico 	               0 	 2001 est.
+57 	 Philippines 	               0 	 2004 est.
+58 	 Romania 	               0 	 2003 est.
+59 	 Yemen 	               0 	 2003 est.
+60 	 Vietnam 	               0 	 2005 est.
+61 	 Venezuela 	               0 	 2004 est.
+62 	 Uruguay 	               0 	 2003 est.
+63 	 Taiwan 	               0 	 2005 est.
+64 	 Turkey 	               0 	 2001 est.
+65 	 Tunisia 	               0 	 2001 est.
+66 	 Tajikistan 	               0 	 2004 est.
+67 	 Thailand 	               0 	 2001 est.
+68 	 Switzerland 	               0 	 2001 est.
+69 	 Syria 	               0 	 2001 est.
+70 	 Sweden 	               0 	 2001 est.
+71 	 Serbia 	               0 	 
+72 	 Papua New Guinea 	               0 	 2001 est.
+73 	 Portugal 	               0 	 2001 est.
+74 	 Pakistan 	               0 	 2001 est.
+75 	 Peru 	               0 	 2004 est.
+76 	 New Zealand 	               0 	 2001 est.
+77 	 Mozambique 	               0 	 2001 est.
+78 	 Mexico 	               0 	 2004 est.
+79 	 Moldova 	               0 	 2001 est.
+80 	 Luxembourg 	               0 	 2001 est.
+81 	 Lithuania 	               0 	 2004
+82 	 Latvia 	               0 	 2004 est.
+83 	 Kuwait 	               0 	 2002 est.
+84 	 Korea, South 	               0 	 2003 est.
+85 	 Kyrgyzstan 	               0 	 2004 est.
+86 	 Jordan 	               0 	 2001 est.
+87 	 Cuba 	               0 	 2004
+88 	 Colombia 	               0 	 2004 est.
+89 	 Cameroon 	               0 	 
+90 	 Chile 	               0 	 2002
+91 	 Congo, Republic of the 	               0 	 
+92 	 Bulgaria 	               0 	 2003
+93 	 Brazil 	               0 	 2005 est.
+94 	 Belarus 	               0 	 2004 est.
+95 	 Gabon 	               0 	 2001 est.
+96 	 Finland 	               0 	 2001 est.
+97 	 Estonia 	               0 	 2004
+98 	 Equatorial Guinea 	               0 	 2001 est.
+99 	 Ireland 	               0 	 2001 est.
+100 	 Egypt 	               0 	 2001 est.
+101 	 Bosnia and Herzegovina 	               0 	 2001 est.
+102 	 Belgium 	               0 	 2001 est.
+103 	 Bahrain 	               0 	 2002 est.
+104 	 Azerbaijan 	               0 	 2001 est.
+105 	 Albania 	               0 	 2001 est.
+106 	 Armenia 	               0 	 2005 est.
+107 	 Angola 	               0 	 2001 est.
+
+ This file was last updated on 19 December, 2006

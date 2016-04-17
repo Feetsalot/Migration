@@ -1,0 +1,233 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 GDP - per capita (PPP) 	 Date of Information
+1 	 Qatar 	 $            87,600 	 2007 est.
+2 	 Luxembourg 	 $            79,400 	 2007 est.
+3 	 Bermuda 	 $            69,900 	 2004 est.
+4 	 Jersey 	 $            57,000 	 2005 est.
+5 	 Kuwait 	 $            55,900 	 2007 est.
+6 	 Norway 	 $            53,300 	 2007 est.
+7 	 Brunei 	 $            51,000 	 2007 est.
+8 	 Singapore 	 $            49,900 	 2007 est.
+9 	 Ireland 	 $            46,600 	 2007 est.
+10 	 United States 	 $            45,800 	 2007 est.
+11 	 Guernsey 	 $            44,600 	 2005
+12 	 Cayman Islands 	 $            43,800 	 2004 est.
+13 	 Hong Kong 	 $            42,000 	 2007 est.
+14 	 Iceland 	 $            40,400 	 2007 est.
+15 	 Switzerland 	 $            40,100 	 2007 est.
+16 	 Austria 	 $            39,300 	 2007 est.
+17 	 Netherlands 	 $            39,000 	 2007 est.
+18 	 Andorra 	 $            38,800 	 2005
+19 	 Canada 	 $            38,600 	 2007 est.
+20 	 British Virgin Islands 	 $            38,500 	 2004 est.
+21 	 Gibraltar 	 $            38,200 	 2005 est.
+22 	 Sweden 	 $            37,500 	 2007 est.
+23 	 Australia 	 $            37,300 	 2007 est.
+24 	 Denmark 	 $            37,200 	 2007 est.
+25 	 United Arab Emirates 	 $            37,000 	 2007 est.
+26 	 Belgium 	 $            36,200 	 2007 est.
+27 	 Finland 	 $            36,000 	 2007 est.
+28 	 Isle of Man 	 $            35,000 	 2005 est.
+29 	 United Kingdom 	 $            35,000 	 2007 est.
+30 	 Germany 	 $            34,100 	 2007 est.
+31 	 San Marino 	 $            34,100 	 2004 est.
+32 	 Bahrain 	 $            33,900 	 2007 est.
+33 	 Spain 	 $            33,600 	 2007 est.
+34 	 Japan 	 $            33,500 	 2007 est.
+35 	 European Union 	 $            32,700 	 2007 est.
+36 	 France 	 $            32,600 	 2007 est.
+37 	 Faroe Islands 	 $            31,000 	 2001 est.
+38 	 Italy 	 $            30,900 	 2007 est.
+39 	 Greece 	 $            30,600 	 2007 est.
+40 	 Taiwan 	 $            30,100 	 2007 est.
+41 	 Monaco 	 $            30,000 	 2006 est.
+42 	 Macau 	 $            28,400 	 2006
+43 	 Equatorial Guinea 	 $            28,200 	 2007 est.
+44 	 Bahamas, The 	 $            28,000 	 2007 est.
+45 	 Slovenia 	 $            28,000 	 2007 est.
+46 	 New Zealand 	 $            27,200 	 2007 est.
+47 	 Cyprus 	 $            27,100 	 2007 est.
+48 	 Israel 	 $            26,600 	 2007 est.
+49 	 Trinidad and Tobago 	 $            25,400 	 2007 est.
+50 	 Falkland Islands (Islas Malvinas) 	 $            25,000 	 2002 est.
+51 	 Liechtenstein 	 $            25,000 	 1999 est.
+52 	 Korea, South 	 $            25,000 	 2007 est.
+53 	 Czech Republic 	 $            24,500 	 2007 est.
+54 	 Malta 	 $            23,400 	 2007 est.
+55 	 Aruba 	 $            21,800 	 2004 est.
+56 	 Portugal 	 $            21,800 	 2007 est.
+57 	 Estonia 	 $            21,800 	 2007 est.
+58 	 Slovakia 	 $            20,200 	 2007 est.
+59 	 Greenland 	 $            20,000 	 2001 est.
+60 	 Saudi Arabia 	 $            19,800 	 2007 est.
+61 	 Hungary 	 $            19,300 	 2007 est.
+62 	 Oman 	 $            19,000 	 2007 est.
+63 	 Barbados 	 $            18,900 	 2007 est.
+64 	 Puerto Rico 	 $            18,400 	 2007 est.
+65 	 Antigua and Barbuda 	 $            18,300 	 2007 est.
+66 	 Latvia 	 $            17,700 	 2007 est.
+67 	 French Polynesia 	 $            17,500 	 2003 est.
+68 	 Lithuania 	 $            16,800 	 2007 est.
+69 	 Seychelles 	 $            16,600 	 2007 est.
+70 	 Poland 	 $            16,200 	 2007 est.
+71 	 Netherlands Antilles 	 $            16,000 	 2004 est.
+72 	 Croatia 	 $            15,500 	 2007 est.
+73 	 Guam 	 $            15,000 	 2005 est.
+74 	 New Caledonia 	 $            15,000 	 2003 est.
+75 	 Russia 	 $            14,800 	 2007 est.
+76 	 Malaysia 	 $            14,500 	 2007 est.
+77 	 Virgin Islands 	 $            14,500 	 2004 est.
+78 	 Botswana 	 $            14,300 	 2007 est.
+79 	 Chile 	 $            14,300 	 2007 est.
+80 	 Gabon 	 $            14,000 	 2007 est.
+81 	 Saint Kitts and Nevis 	 $            13,900 	 2007 est.
+82 	 Argentina 	 $            13,100 	 2007 est.
+83 	 Venezuela 	 $            12,800 	 2007 est.
+84 	 Northern Mariana Islands 	 $            12,500 	 2000 est.
+85 	 Libya 	 $            12,400 	 2007 est.
+86 	 Mexico 	 $            12,400 	 2007 est.
+87 	 Turkey 	 $            12,000 	 2007 est.
+88 	 Bulgaria 	 $            11,800 	 2007 est.
+89 	 Iran 	 $            11,700 	 2007 est.
+90 	 Turks and Caicos Islands 	 $            11,500 	 2002 est.
+91 	 Mauritius 	 $            11,300 	 2007 est.
+92 	 Costa Rica 	 $            11,100 	 2007 est.
+93 	 Romania 	 $            11,100 	 2007 est.
+94 	 Cuba 	 $            11,000 	 2007 est.
+95 	 Kazakhstan 	 $            11,000 	 2007 est.
+96 	 Uruguay 	 $            10,800 	 2007 est.
+97 	 Panama 	 $            10,700 	 2007 est.
+98 	 Saint Lucia 	 $            10,700 	 2007 est.
+99 	 Belarus 	 $            10,600 	 2007 est.
+100 	 Grenada 	 $            10,500 	 2007 est.
+101 	 Serbia 	 $            10,400 	 2007 est.
+102 	 Lebanon 	 $            10,300 	 2007 est.
+103 	 World 	 $            10,000 	 2007 est.
+104 	 Saint Vincent and the Grenadines 	 $             9,800 	 2007 est.
+105 	 South Africa 	 $             9,700 	 2007 est.
+106 	 Brazil 	 $             9,500 	 2007 est.
+107 	 Cook Islands 	 $             9,100 	 2005 est.
+108 	 Dominica 	 $             9,000 	 2007 est.
+109 	 Anguilla 	 $             8,800 	 2004 est.
+110 	 Suriname 	 $             8,700 	 2007 est.
+111 	 Macedonia 	 $             8,400 	 2007 est.
+112 	 Azerbaijan 	 $             8,000 	 2007 est.
+113 	 Thailand 	 $             8,000 	 2007 est.
+114 	 Belize 	 $             7,900 	 2007 est.
+115 	 Angola 	 $             7,800 	 2007 est.
+116 	 Peru 	 $             7,600 	 2007 est.
+117 	 Palau 	 $             7,600 	 2005 est.
+118 	 Colombia 	 $             7,400 	 2007 est.
+119 	 Jamaica 	 $             7,400 	 2007 est.
+120 	 Tunisia 	 $             7,400 	 2007 est.
+121 	 Ecuador 	 $             7,200 	 2007 est.
+122 	 Saint Pierre and Miquelon 	 $             7,000 	 2001 est.
+123 	 Ukraine 	 $             7,000 	 2007 est.
+124 	 Algeria 	 $             6,700 	 2007 est.
+125 	 Dominican Republic 	 $             6,600 	 2007 est.
+126 	 Bosnia and Herzegovina 	 $             6,100 	 2007 est.
+127 	 El Salvador 	 $             6,000 	 2007 est.
+128 	 Albania 	 $             5,800 	 2007 est.
+129 	 Armenia 	 $             5,800 	 2007 est.
+130 	 American Samoa 	 $             5,800 	 2005 est.
+131 	 Niue 	 $             5,800 	 2003 est.
+132 	 China 	 $             5,400 	 2007 est.
+133 	 Samoa 	 $             5,400 	 2007 est.
+134 	 Turkmenistan 	 $             5,300 	 2007 est.
+135 	 Bhutan 	 $             5,200 	 2007 est.
+136 	 Namibia 	 $             5,200 	 2007 est.
+137 	 Guatemala 	 $             5,100 	 2007 est.
+138 	 Tonga 	 $             5,100 	 2007 est.
+139 	 Egypt 	 $             5,000 	 2007 est.
+140 	 Nauru 	 $             5,000 	 2005 est.
+141 	 Mayotte 	 $             4,900 	 2005 est.
+142 	 Jordan 	 $             4,700 	 2007 est.
+143 	 Swaziland 	 $             4,700 	 2007 est.
+144 	 Syria 	 $             4,700 	 2007 est.
+145 	 Maldives 	 $             4,600 	 2007 est.
+146 	 Bolivia 	 $             4,400 	 2007 est.
+147 	 Georgia 	 $             4,400 	 2007 est.
+148 	 Honduras 	 $             4,300 	 2007 est.
+149 	 Sri Lanka 	 $             4,000 	 2007 est.
+150 	 Paraguay 	 $             4,000 	 2007 est.
+151 	 Fiji 	 $             3,900 	 2007 est.
+152 	 Vanuatu 	 $             3,900 	 2007 est.
+153 	 Montenegro 	 $             3,800 	 2005 est.
+154 	 Wallis and Futuna 	 $             3,800 	 2004 est.
+155 	 Guyana 	 $             3,700 	 2007 est.
+156 	 Morocco 	 $             3,700 	 2007 est.
+157 	 Iraq 	 $             3,700 	 2007 est.
+158 	 Indonesia 	 $             3,600 	 2007 est.
+159 	 Kiribati 	 $             3,600 	 2007 est.
+160 	 Congo, Republic of the 	 $             3,400 	 2007 est.
+161 	 Montserrat 	 $             3,400 	 2002 est.
+162 	 Cape Verde 	 $             3,200 	 2007 est.
+163 	 Philippines 	 $             3,200 	 2007 est.
+164 	 Mongolia 	 $             2,900 	 2007 est.
+165 	 Marshall Islands 	 $             2,900 	 2005 est.
+166 	 Nicaragua 	 $             2,800 	 2007 est.
+167 	 India 	 $             2,600 	 2007 est.
+168 	 Vietnam 	 $             2,600 	 2007 est.
+169 	 Saint Helena 	 $             2,500 	 1998 est.
+170 	 Timor-Leste 	 $             2,500 	 2007 est.
+171 	 Yemen 	 $             2,500 	 2007 est.
+172 	 Pakistan 	 $             2,400 	 2007 est.
+173 	 Uzbekistan 	 $             2,400 	 2007 est.
+174 	 Djibouti 	 $             2,300 	 2007 est.
+175 	 Micronesia, Federated States of 	 $             2,300 	 2005 est.
+176 	 Moldova 	 $             2,300 	 2007 est.
+177 	 Cameroon 	 $             2,200 	 2007 est.
+178 	 Nigeria 	 $             2,100 	 2007 est.
+179 	 Papua New Guinea 	 $             2,100 	 2007 est.
+180 	 Kyrgyzstan 	 $             2,000 	 2007 est.
+181 	 Laos 	 $             2,000 	 2007 est.
+182 	 Burma 	 $             1,900 	 2007 est.
+183 	 Solomon Islands 	 $             1,900 	 2007 est.
+184 	 Sudan 	 $             1,900 	 2007 est.
+185 	 Cambodia 	 $             1,900 	 2007 est.
+186 	 Kosovo 	 $             1,800 	 2007 est.
+187 	 Mauritania 	 $             1,800 	 2007 est.
+188 	 Cote d'Ivoire 	 $             1,700 	 2007 est.
+189 	 Korea, North 	 $             1,700 	 2007 est.
+190 	 Kenya 	 $             1,700 	 2007 est.
+191 	 Senegal 	 $             1,700 	 2007 est.
+192 	 Tajikistan 	 $             1,600 	 2007 est.
+193 	 Sao Tome and Principe 	 $             1,600 	 2007 est.
+194 	 Tuvalu 	 $             1,600 	 2002 est.
+195 	 Chad 	 $             1,500 	 2007 est.
+196 	 Bangladesh 	 $             1,400 	 2007 est.
+197 	 Zambia 	 $             1,400 	 2007 est.
+198 	 Benin 	 $             1,400 	 2007 est.
+199 	 Lesotho 	 $             1,400 	 2007 est.
+200 	 Ghana 	 $             1,400 	 2007 est.
+201 	 Haiti 	 $             1,300 	 2007 est.
+202 	 Tanzania 	 $             1,300 	 2007 est.
+203 	 Gambia, The 	 $             1,200 	 2007 est.
+204 	 Burkina Faso 	 $             1,200 	 2007 est.
+205 	 Comoros 	 $             1,100 	 2007 est.
+206 	 Guinea 	 $             1,100 	 2007 est.
+207 	 West Bank 	 $             1,100 	 2006 est.
+208 	 Mali 	 $             1,100 	 2007 est.
+209 	 Gaza Strip 	 $             1,100 	 2006 est.
+210 	 Afghanistan 	 $             1,000 	 2007 est.
+211 	 Uganda 	 $             1,000 	 2007 est.
+212 	 Nepal 	 $             1,000 	 2007 est.
+213 	 Tokelau 	 $             1,000 	 1993 est.
+214 	 Madagascar 	 $              900 	 2007 est.
+215 	 Togo 	 $              900 	 2007 est.
+216 	 Eritrea 	 $              800 	 2007 est.
+217 	 Rwanda 	 $              800 	 2007 est.
+218 	 Malawi 	 $              800 	 2007 est.
+219 	 Mozambique 	 $              800 	 2007 est.
+220 	 Central African Republic 	 $              700 	 2007 est.
+221 	 Niger 	 $              700 	 2007 est.
+222 	 Ethiopia 	 $              700 	 2007 est.
+223 	 Guinea-Bissau 	 $              600 	 2007 est.
+224 	 Sierra Leone 	 $              600 	 2007 est.
+225 	 Somalia 	 $              600 	 2007 est.
+226 	 Liberia 	 $              500 	 2007 est.
+227 	 Burundi 	 $              300 	 2007 est.
+228 	 Congo, Democratic Republic of the 	 $              300 	 2007 est.
+229 	 Zimbabwe 	 $              200 	 2007 est.
+
+ This file was last updated on 18 December, 2008

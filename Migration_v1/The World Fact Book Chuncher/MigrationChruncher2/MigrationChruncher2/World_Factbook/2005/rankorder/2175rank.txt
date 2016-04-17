@@ -1,0 +1,54 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Oil - imports(bbl/day) 	 Date of Information
+1 	 European Union 	        15,690,000 	 2001
+2 	 Japan 	         5,449,000 	 2001
+3 	 China 	         3,226,000 	 2004
+4 	 Netherlands 	         2,284,000 	 2001
+5 	 France 	         2,281,000 	 2001
+6 	 Korea, South 	         2,263,000 	 2003
+7 	 Italy 	         2,158,000 	 2001
+8 	 Germany 	         2,135,000 	 2003
+9 	 India 	         2,090,000 	 2005 est.
+10 	 Spain 	         1,582,000 	 2001
+11 	 United Kingdom 	         1,084,000 	 2003
+12 	 Belgium 	         1,042,000 	 2001
+13 	 Canada 	          987,000 	 2004
+14 	 Turkey 	          616,500 	 2001
+15 	 Indonesia 	          606,200 	 2004
+16 	 Sweden 	          553,100 	 2001
+17 	 Australia 	          530,800 	 2001
+18 	 Greece 	          468,300 	 2001
+19 	 Poland 	          413,700 	 2001
+20 	 Belarus 	          360,000 	 2004 est.
+21 	 Portugal 	          357,300 	 2001
+22 	 Finland 	          318,300 	 2001
+23 	 Philippines 	          312,000 	 2003
+24 	 Switzerland 	          289,500 	 2001
+25 	 Austria 	          262,000 	 2001
+26 	 Chile 	          221,500 	 2003 est.
+27 	 Mexico 	          205,000 	 2004
+28 	 Denmark 	          195,000 	 2001
+29 	 Czech Republic 	          192,300 	 2001
+30 	 Ireland 	          178,600 	 2001
+31 	 Hungary 	          136,600 	 2001
+32 	 Dominican Republic 	          129,900 	 2003
+33 	 New Zealand 	          119,700 	 2001
+34 	 Jordan 	          100,000 	 2004 est.
+35 	 Norway 	           88,870 	 2001
+36 	 Russia 	           75,000 	 2004
+37 	 Luxembourg 	           50,700 	 2001
+38 	 Burma 	           49,230 	 2003
+39 	 Kazakhstan 	           47,000 	 2003
+40 	 Nicaragua 	           27,950 	 2003
+41 	 Zimbabwe 	           23,000 	 2004 est.
+42 	 Korea, North 	           22,000 	 2004 est.
+43 	 Botswana 	           16,000 	 2001
+44 	 Iceland 	           15,470 	 2001
+45 	 Mongolia 	           11,000 	 2004 est.
+46 	 Albania 	            5,500 	 2004 est.
+47 	 Suriname 	            1,644 	 2003
+48 	 United Arab Emirates 	               0 	 2004
+49 	 Saudi Arabia 	               0 	 2003
+50 	 Sudan 	               0 	 2004
+
+ This file was last updated on 10 January, 2006

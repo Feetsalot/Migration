@@ -1,0 +1,211 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Oil - exports(bbl/day) 	 Date of Information
+1 	 World 	        66,190,000 	 2005
+2 	 Saudi Arabia 	         8,900,000 	 2007 est.
+3 	 European Union 	         6,979,000 	 2001
+4 	 Russia 	         5,080,000 	 2007
+5 	 Norway 	         2,714,000 	 2005
+6 	 United Arab Emirates 	         2,703,000 	 2005 est.
+7 	 Iran 	         2,520,000 	 2006 est.
+8 	 Nigeria 	         2,473,000 	 2005
+9 	 Kuwait 	         2,356,000 	 2005
+10 	 Canada 	         2,225,000 	 2005
+11 	 Mexico 	         2,204,000 	 2005
+12 	 Venezuela 	         2,203,000 	 2006 est.
+13 	 Algeria 	         1,844,000 	 2005 est.
+14 	 United Kingdom 	         1,749,000 	 2005
+15 	 Iraq 	         1,670,000 	 2007 est.
+16 	 Netherlands 	         1,639,000 	 2005
+17 	 Libya 	         1,455,000 	 2005
+18 	 Kazakhstan 	         1,236,000 	 2005 est.
+19 	 Angola 	         1,230,000 	 2005
+20 	 Singapore 	         1,203,000 	 2005
+21 	 United States 	         1,165,000 	 2005
+22 	 Qatar 	         1,026,000 	 2005
+23 	 Azerbaijan 	          795,600 	 2007 est.
+24 	 Oman 	          722,000 	 2005
+25 	 Italy 	          616,700 	 2005
+26 	 France 	          584,700 	 2005
+27 	 Germany 	          563,400 	 2005
+28 	 Malaysia 	          546,300 	 2005
+29 	 Belgium 	          528,700 	 2005
+30 	 Brazil 	          481,100 	 2005
+31 	 Indonesia 	          470,000 	 2006 est.
+32 	 India 	          450,700 	 2005 est.
+33 	 Ecuador 	          421,700 	 2005 est.
+34 	 Virgin Islands 	          398,500 	 2005
+35 	 Vietnam 	          394,400 	 2005
+36 	 Equatorial Guinea 	          375,400 	 2005
+37 	 Argentina 	          339,900 	 2005
+38 	 Australia 	          337,400 	 2005
+39 	 Yemen 	          336,600 	 2005
+40 	 Denmark 	          320,000 	 2006
+41 	 Taiwan 	          289,200 	 2006
+42 	 Sudan 	          282,100 	 2005
+43 	 Colombia 	          276,100 	 2005
+44 	 South Africa 	          267,700 	 2005
+45 	 Belarus 	          256,400 	 2005 est.
+46 	 Gabon 	          255,500 	 2005
+47 	 Syria 	          254,500 	 2005 est.
+48 	 Bahrain 	          238,900 	 2005
+49 	 Aruba 	          233,300 	 2005
+50 	 Congo, Republic of the 	          230,200 	 2005 est.
+51 	 Sweden 	          219,200 	 2005
+52 	 Trinidad and Tobago 	          218,800 	 2005
+53 	 Thailand 	          207,400 	 2005
+54 	 Netherlands Antilles 	          206,900 	 2005
+55 	 Egypt 	          204,700 	 2005 est.
+56 	 Brunei 	          200,000 	 2005
+57 	 Ukraine 	          190,500 	 2005
+58 	 Spain 	          181,800 	 2005
+59 	 Chad 	          176,700 	 2005
+60 	 Japan 	          168,800 	 2005
+61 	 Lithuania 	          148,400 	 2005
+62 	 Finland 	          126,300 	 January-September 2007 est.
+63 	 Romania 	          125,200 	 2005
+64 	 Greece 	          125,100 	 2005
+65 	 Turkey 	          114,600 	 2005
+66 	 Cameroon 	          108,800 	 2005
+67 	 Cote d'Ivoire 	           84,940 	 2005
+68 	 Israel 	           82,910 	 2005
+69 	 China 	           79,060 	 2007
+70 	 Tunisia 	           73,790 	 2005
+71 	 Slovakia 	           72,240 	 2005
+72 	 Peru 	           69,090 	 2005 est.
+73 	 Hungary 	           66,660 	 2005
+74 	 Poland 	           57,920 	 2005
+75 	 Bulgaria 	           50,530 	 2005 est.
+76 	 Portugal 	           50,490 	 2005
+77 	 Austria 	           46,300 	 2005
+78 	 Croatia 	           43,680 	 2005
+79 	 Philippines 	           41,160 	 2005
+80 	 Turkmenistan 	           40,000 	 2007 est.
+81 	 Papua New Guinea 	           39,310 	 2005
+82 	 Bahamas, The 	           38,740 	 2005
+83 	 Chile 	           32,500 	 2005
+84 	 Ireland 	           29,780 	 2005
+85 	 Pakistan 	           28,060 	 2005
+86 	 Czech Republic 	           27,360 	 2005
+87 	 Morocco 	           24,360 	 2005 est.
+88 	 Hong Kong 	           22,420 	 2006
+89 	 Congo, Democratic Republic of the 	           19,820 	 2005
+90 	 Bolivia 	           18,500 	 2007 est.
+91 	 Guatemala 	           15,560 	 2006 est.
+92 	 New Zealand 	           14,570 	 2005
+93 	 Uzbekistan 	           11,940 	 2005
+94 	 Puerto Rico 	           10,610 	 2005
+95 	 Latvia 	           10,070 	 2005
+96 	 Switzerland 	            9,370 	 2005
+97 	 Estonia 	            7,000 	 2005
+98 	 Macedonia 	            6,768 	 2005
+99 	 Benin 	            6,484 	 2005
+100 	 Ghana 	            5,709 	 2005
+101 	 Kenya 	            5,137 	 2005
+102 	 Burma 	            5,000 	 2006 est.
+103 	 El Salvador 	            4,963 	 2006
+104 	 Slovenia 	            4,535 	 2005
+105 	 Panama 	            4,447 	 2005
+106 	 Uruguay 	            4,410 	 2007
+107 	 Senegal 	            4,298 	 2005
+108 	 Suriname 	            2,899 	 2005
+109 	 Fiji 	            2,848 	 2005
+110 	 Kyrgyzstan 	            2,534 	 2005
+111 	 Georgia 	            2,492 	 2005
+112 	 Costa Rica 	            2,115 	 2005
+113 	 Belize 	            1,960 	 2006
+114 	 Barbados 	            1,750 	 2005
+115 	 Togo 	            1,547 	 2005
+116 	 Jamaica 	            1,535 	 2005
+117 	 Maldives 	            1,499 	 2005
+118 	 Bangladesh 	            1,351 	 2005
+119 	 Iceland 	             861 	 2005
+120 	 Nicaragua 	             809 	 2005
+121 	 Albania 	             749 	 2005 est.
+122 	 Madagascar 	             480 	 2005
+123 	 Sierra Leone 	             432 	 2005
+124 	 Honduras 	             418 	 2005
+125 	 New Caledonia 	             356 	 2005
+126 	 Sri Lanka 	             292 	 2005
+127 	 Luxembourg 	             282 	 2005
+128 	 Tajikistan 	             248 	 2005
+129 	 Zambia 	             191 	 2005
+130 	 Antigua and Barbuda 	             158 	 2005
+131 	 Greenland 	             150 	 2005
+132 	 Uganda 	             115 	 2005
+133 	 Eritrea 	              55 	 2005
+134 	 Moldova 	              50 	 2005
+135 	 Gambia, The 	              42 	 2005
+136 	 Liberia 	              23 	 2005
+137 	 Djibouti 	              19 	 2005
+138 	 Afghanistan 	               0 	 2005
+139 	 Bermuda 	               0 	 2005
+140 	 American Samoa 	               0 	 2005
+141 	 Bhutan 	               0 	 2005
+142 	 Cayman Islands 	               0 	 2005
+143 	 Central African Republic 	               0 	 2005
+144 	 Saint Lucia 	               0 	 2005
+145 	 Somalia 	               0 	 2005
+146 	 Saint Helena 	               0 	 2005
+147 	 Seychelles 	               0 	 2006
+148 	 Saint Kitts and Nevis 	               0 	 2005
+149 	 Saint Pierre and Miquelon 	               0 	 2005
+150 	 Rwanda 	               0 	 2005
+151 	 Guinea-Bissau 	               0 	 2005
+152 	 Mongolia 	               0 	 2005 est.
+153 	 Zimbabwe 	               0 	 2005 est.
+154 	 Swaziland 	               0 	 2005
+155 	 Samoa 	               0 	 2005
+156 	 Western Sahara 	               0 	 2005
+157 	 Namibia 	               0 	 2005
+158 	 British Virgin Islands 	               0 	 2005
+159 	 Saint Vincent and the Grenadines 	               0 	 2005
+160 	 Burkina Faso 	               0 	 2005
+161 	 Tanzania 	               0 	 2005
+162 	 Sao Tome and Principe 	               0 	 2005
+163 	 Tonga 	               0 	 2007 est.
+164 	 Turks and Caicos Islands 	               0 	 2005
+165 	 Macau 	               0 	 2005
+166 	 Lesotho 	               0 	 2005
+167 	 Lebanon 	               0 	 2005
+168 	 Laos 	               0 	 2005
+169 	 Kiribati 	               0 	 2005
+170 	 Korea, North 	               0 	 2006
+171 	 Jordan 	               0 	 2005 est.
+172 	 Faroe Islands 	               0 	 2005
+173 	 Paraguay 	               0 	 2007
+174 	 Nauru 	               0 	 2005
+175 	 Nepal 	               0 	 2005
+176 	 Vanuatu 	               0 	 2005
+177 	 Niger 	               0 	 2005
+178 	 Niue 	               0 	 2005
+179 	 Mozambique 	               0 	 2005
+180 	 Malta 	               0 	 2005
+181 	 Mauritania 	               0 	 2005
+182 	 Mauritius 	               0 	 2006
+183 	 Mali 	               0 	 2006
+184 	 Malawi 	               0 	 2005
+185 	 Montserrat 	               0 	 2005
+186 	 Falkland Islands (Islas Malvinas) 	               0 	 2005
+187 	 Ethiopia 	               0 	 2005
+188 	 Dominican Republic 	               0 	 2005
+189 	 Dominica 	               0 	 2005
+190 	 Cyprus 	               0 	 2005
+191 	 Cook Islands 	               0 	 2005
+192 	 Cape Verde 	               0 	 2005
+193 	 Cuba 	               0 	 2006
+194 	 Haiti 	               0 	 2005
+195 	 Guyana 	               0 	 2005
+196 	 Guinea 	               0 	 2005
+197 	 Guam 	               0 	 2005
+198 	 Grenada 	               0 	 2005
+199 	 Gibraltar 	               0 	 2005
+200 	 French Polynesia 	               0 	 2005
+201 	 Comoros 	               0 	 2005
+202 	 Cambodia 	               0 	 2005
+203 	 Burundi 	               0 	 2005
+204 	 Solomon Islands 	               0 	 2005
+205 	 Bosnia and Herzegovina 	               0 	 2005
+206 	 Botswana 	               0 	 2005
+207 	 Armenia 	               0 	 2005
+
+ This file was last updated on 18 December, 2008

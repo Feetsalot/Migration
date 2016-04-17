@@ -1,0 +1,218 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Electricity - consumption(kWh) 	 Date of Information
+1 	 World 	  13,940,000,000,000 	 2001 est.
+2 	 United States 	   3,602,000,000,000 	 2001
+3 	 European Union 	   2,635,000,000,000 	 2001
+4 	 China 	   1,312,000,000,000 	 2001
+5 	 Japan 	    964,200,000,000 	 2001
+6 	 Russia 	    773,000,000,000 	 2001
+7 	 Germany 	    506,800,000,000 	 2001
+8 	 Canada 	    504,400,000,000 	 2001
+9 	 India 	    497,200,000,000 	 2001
+10 	 France 	    415,300,000,000 	 2001
+11 	 United Kingdom 	    346,100,000,000 	 2001
+12 	 Brazil 	    335,900,000,000 	 2001
+13 	 Italy 	    289,100,000,000 	 2001
+14 	 Korea, South 	    270,300,000,000 	 2001
+15 	 Spain 	    210,400,000,000 	 2001
+16 	 Mexico 	    186,700,000,000 	 2001
+17 	 Australia 	    184,400,000,000 	 2001
+18 	 South Africa 	    181,200,000,000 	 2001
+19 	 Ukraine 	    152,400,000,000 	 2001
+20 	 Taiwan 	    140,500,000,000 	 2001
+21 	 Sweden 	    134,900,000,000 	 2001
+22 	 Poland 	    118,800,000,000 	 2001
+23 	 Iran 	    115,900,000,000 	 2001
+24 	 Norway 	    115,300,000,000 	 2001
+25 	 Saudi Arabia 	    113,800,000,000 	 2001
+26 	 Turkey 	    112,600,000,000 	 2001
+27 	 Netherlands 	     99,420,000,000 	 2001
+28 	 Argentina 	     92,120,000,000 	 2001
+29 	 Thailand 	     90,910,000,000 	 2001
+30 	 Indonesia 	     89,080,000,000 	 2001
+31 	 Venezuela 	     81,470,000,000 	 2001
+32 	 Belgium 	     78,180,000,000 	 2001
+33 	 Finland 	     76,180,000,000 	 2001
+34 	 Ecuador 	     69,960,000,000 	 2001
+35 	 Egypt 	     69,960,000,000 	 2001
+36 	 Malaysia 	     68,400,000,000 	 2002
+37 	 Pakistan 	     62,270,000,000 	 2001
+38 	 Czech Republic 	     55,600,000,000 	 2001
+39 	 Austria 	     54,850,000,000 	 2001
+40 	 Switzerland 	     53,430,000,000 	 2001
+41 	 Greece 	     48,800,000,000 	 2001
+42 	 Kazakhstan 	     48,360,000,000 	 2001
+43 	 Uzbekistan 	     47,070,000,000 	 2001
+44 	 Romania 	     46,100,000,000 	 2001
+45 	 Philippines 	     42,040,000,000 	 2001
+46 	 Portugal 	     41,480,000,000 	 2001
+47 	 Chile 	     40,130,000,000 	 2001
+48 	 Colombia 	     39,810,000,000 	 2001
+49 	 Israel 	     37,820,000,000 	 2001
+50 	 Hong Kong 	     37,120,000,000 	 2001
+51 	 Hungary 	     35,150,000,000 	 2001
+52 	 United Arab Emirates 	     35,100,000,000 	 2001
+53 	 New Zealand 	     34,880,000,000 	 2001
+54 	 Iraq 	     33,490,000,000 	 2001
+55 	 Bulgaria 	     32,520,000,000 	 2001
+56 	 Denmark 	     32,410,000,000 	 2001
+57 	 Serbia and Montenegro 	     32,370,000,000 	 2001
+58 	 Kuwait 	     29,290,000,000 	 2001
+59 	 Singapore 	     28,350,000,000 	 2001
+60 	 Korea, North 	     27,910,000,000 	 2001
+61 	 Vietnam 	     27,710,000,000 	 2001
+62 	 Belarus 	     26,690,000,000 	 2001
+63 	 Slovakia 	     24,410,000,000 	 2001
+64 	 Algeria 	     22,900,000,000 	 2001
+65 	 Ireland 	     21,630,000,000 	 2001
+66 	 Syria 	     21,630,000,000 	 2001
+67 	 Puerto Rico 	     19,440,000,000 	 2001
+68 	 Peru 	     19,150,000,000 	 2001
+69 	 Libya 	     18,770,000,000 	 2001
+70 	 Azerbaijan 	     16,650,000,000 	 2001
+71 	 Morocco 	     14,610,000,000 	 2001
+72 	 Nigeria 	     14,550,000,000 	 2001
+73 	 Tajikistan 	     14,520,000,000 	 2001
+74 	 Croatia 	     14,270,000,000 	 2001
+75 	 Bangladesh 	     14,250,000,000 	 2001
+76 	 Slovenia 	     13,830,000,000 	 2001
+77 	 Cuba 	     13,380,000,000 	 2001
+78 	 Kyrgyzstan 	     10,460,000,000 	 2001
+79 	 Zimbabwe 	      9,813,000,000 	 2001
+80 	 Tunisia 	      9,748,000,000 	 2001
+81 	 Ghana 	      8,835,000,000 	 2001
+82 	 Lithuania 	      8,683,000,000 	 2001
+83 	 Oman 	      8,625,000,000 	 2001
+84 	 Qatar 	      8,616,000,000 	 2001
+85 	 Dominican Republic 	      8,543,000,000 	 2001
+86 	 Turkmenistan 	      8,509,000,000 	 2001
+87 	 Bosnia and Herzegovina 	      8,116,000,000 	 2001
+88 	 Georgia 	      7,611,000,000 	 2001
+89 	 Lebanon 	      7,440,000,000 	 2001
+90 	 Iceland 	      7,341,000,000 	 2001
+91 	 Jordan 	      6,860,000,000 	 2001
+92 	 Estonia 	      6,192,000,000 	 2001
+93 	 Uruguay 	      6,152,000,000 	 2001
+94 	 Macedonia 	      6,112,000,000 	 2001
+95 	 Costa Rica 	      6,109,000,000 	 2001
+96 	 Luxembourg 	      6,070,000,000 	 2001
+97 	 Latvia 	      6,046,000,000 	 2001
+98 	 Sri Lanka 	      5,915,000,000 	 2001
+99 	 Albania 	      5,898,000,000 	 2001
+100 	 Jamaica 	      5,833,000,000 	 2001
+101 	 Bahrain 	      5,819,000,000 	 2001
+102 	 Armenia 	      5,784,000,000 	 2001
+103 	 Burma 	      5,709,000,000 	 2001
+104 	 Guatemala 	      5,559,000,000 	 2001
+105 	 Zambia 	      5,458,000,000 	 2001
+106 	 Trinidad and Tobago 	      4,943,000,000 	 2001
+107 	 Kenya 	      3,981,000,000 	 2001
+108 	 Congo, Democratic Republic of the 	      3,839,000,000 	 2001
+109 	 Honduras 	      3,822,000,000 	 2001
+110 	 El Salvador 	      3,777,000,000 	 2001
+111 	 Panama 	      3,681,000,000 	 2001
+112 	 Bolivia 	      3,634,000,000 	 2001
+113 	 Cameroon 	      3,360,000,000 	 2001
+114 	 Moldova 	      3,216,000,000 	 2001
+115 	 Cyprus 	      3,163,000,000 	 2001
+116 	 Cote d'Ivoire 	      2,983,000,000 	 2001
+117 	 Yemen 	      2,800,000,000 	 2001
+118 	 Tanzania 	      2,752,000,000 	 2001
+119 	 Paraguay 	      2,637,000,000 	 2001
+120 	 Nicaragua 	      2,388,000,000 	 2001
+121 	 Brunei 	      2,322,000,000 	 2001
+122 	 Sudan 	      2,222,000,000 	 2001
+123 	 Mongolia 	      2,194,000,000 	 2001
+124 	 Suriname 	      1,822,000,000 	 2001
+125 	 Nepal 	      1,764,000,000 	 2001
+126 	 Macau 	      1,688,000,000 	 2002
+127 	 Malta 	      1,644,000,000 	 2001
+128 	 Uganda 	      1,620,000,000 	 2001
+129 	 Ethiopia 	      1,594,000,000 	 2001
+130 	 Botswana 	      1,564,000,000 	 2001
+131 	 New Caledonia 	      1,500,000,000 	 2001
+132 	 Bahamas, The 	      1,451,000,000 	 2001
+133 	 Senegal 	      1,412,000,000 	 2001
+134 	 Papua New Guinea 	      1,391,000,000 	 2001
+135 	 Mozambique 	      1,390,000,000 	 2001
+136 	 Angola 	      1,348,000,000 	 2001
+137 	 Mauritius 	      1,219,000,000 	 2001
+138 	 Guadeloupe 	      1,074,000,000 	 2001
+139 	 Martinique 	      1,070,000,000 	 2001
+140 	 Reunion 	      1,005,000,000 	 2001
+141 	 Netherlands Antilles 	       986,800,000 	 2001
+142 	 Swaziland 	       962,900,000 	 2001
+143 	 Virgin Islands 	       957,900,000 	 2001
+144 	 Laos 	       824,700,000 	 2001
+145 	 Guyana 	       792,400,000 	 2001
+146 	 Madagascar 	       772,100,000 	 2001
+147 	 Guam 	       771,900,000 	 2001
+148 	 Gabon 	       742,500,000 	 2001
+149 	 Guinea 	       735,200,000 	 2001
+150 	 Barbados 	       725,400,000 	 2001
+151 	 Malawi 	       715,300,000 	 2001
+152 	 Congo, Republic of the 	       633,000,000 	 2001
+153 	 Benin 	       631,100,000 	 2001
+154 	 Togo 	       614,500,000 	 2001
+155 	 Namibia 	       603,100,000 	 2001
+156 	 Bermuda 	       598,600,000 	 2001
+157 	 Haiti 	       539,400,000 	 2001
+158 	 Afghanistan 	       511,400,000 	 2001
+159 	 Aruba 	       494,700,000 	 2001
+160 	 Fiji 	       483,700,000 	 2001
+161 	 Mali 	       446,600,000 	 2001
+162 	 Liberia 	       435,900,000 	 2001
+163 	 French Guiana 	       423,200,000 	 2001
+164 	 French Polynesia 	       398,300,000 	 2001
+165 	 Bhutan 	       379,500,000 	 2001
+166 	 Cayman Islands 	       355,200,000 	 2001
+167 	 Niger 	       325,100,000 	 2001
+168 	 Burkina Faso 	       259,600,000 	 2001
+169 	 Sierra Leone 	       232,600,000 	 2001
+170 	 Greenland 	       227,900,000 	 2001
+171 	 Somalia 	       227,900,000 	 2001
+172 	 Eritrea 	       205,100,000 	 2001
+173 	 Belize 	       185,500,000 	 2001
+174 	 Burundi 	       177,500,000 	 2001
+175 	 Djibouti 	       167,400,000 	 2001
+176 	 Faroe Islands 	       149,100,000 	 2001
+177 	 Seychelles 	       148,800,000 	 2001
+178 	 Mauritania 	       146,300,000 	 2001
+179 	 Rwanda 	       140,000,000 	 2001
+180 	 Grenada 	       128,300,000 	 2001
+181 	 American Samoa 	       120,900,000 	 2001
+182 	 Saint Lucia 	       111,800,000 	 2001
+183 	 Cambodia 	       110,600,000 	 2001
+184 	 Maldives 	       108,800,000 	 2001
+185 	 Central African Republic 	        98,630,000 	 2001
+186 	 Antigua and Barbuda 	        97,890,000 	 2001
+187 	 Samoa 	        97,740,000 	 2001
+188 	 Saint Kitts and Nevis 	        93,260,000 	 2001
+189 	 Gibraltar 	        93,000,000 	 2001
+190 	 Chad 	        87,460,000 	 2001
+191 	 Saint Vincent and the Grenadines 	        86,000,000 	 2001
+192 	 Western Sahara 	        83,700,000 	 2001
+193 	 Gambia, The 	        79,360,000 	 2001
+194 	 Dominica 	        67,350,000 	 2001
+195 	 Guinea-Bissau 	        51,150,000 	 2001
+196 	 Anguilla 	        42,600,000 	 
+197 	 Vanuatu 	        40,420,000 	 2001
+198 	 Lesotho 	        40,000,000 	 2001
+199 	 Cape Verde 	        39,080,000 	 2001
+200 	 Saint Pierre and Miquelon 	        39,080,000 	 2001
+201 	 British Virgin Islands 	        35,430,000 	 2001
+202 	 Solomon Islands 	        29,760,000 	 2001
+203 	 Nauru 	        27,900,000 	 2001
+204 	 Cook Islands 	        25,510,000 	 2001
+205 	 Tonga 	        25,360,000 	 2001
+206 	 Equatorial Guinea 	        21,910,000 	 2001
+207 	 Comoros 	        19,780,000 	 2001
+208 	 Sao Tome and Principe 	        15,810,000 	 2001
+209 	 Falkland Islands (Islas Malvinas) 	        15,190,000 	 2001
+210 	 Kiribati 	         6,510,000 	 2001
+211 	 Saint Helena 	         4,650,000 	 2001
+212 	 Turks and Caicos Islands 	         4,650,000 	 2001
+213 	 Niue 	         2,790,000 	 2001
+214 	 Montserrat 	         2,325,000 	 2001
+
+ This file was last updated on 10 February, 2005

@@ -1,0 +1,217 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Electricity - production(kWh) 	 Date of Information
+1 	 World 	  17,420,000,000,000 	 2005 est.
+2 	 United States 	   4,062,000,000,000 	 2005
+3 	 European Union 	   3,007,000,000,000 	 2004 est.
+4 	 China 	   2,372,000,000,000 	 2005
+5 	 Japan 	   1,025,000,000,000 	 2005
+6 	 Russia 	    904,400,000,000 	 2005
+7 	 India 	    661,600,000,000 	 2005
+8 	 Canada 	    609,600,000,000 	 2005
+9 	 Germany 	    579,400,000,000 	 2005
+10 	 France 	    543,600,000,000 	 2005
+11 	 Brazil 	    396,400,000,000 	 2005
+12 	 United Kingdom 	    372,600,000,000 	 2005
+13 	 Korea, South 	    366,200,000,000 	 2005
+14 	 Italy 	    278,500,000,000 	 2005
+15 	 Spain 	    270,300,000,000 	 2005
+16 	 Australia 	    236,700,000,000 	 2005
+17 	 South Africa 	    228,300,000,000 	 2005
+18 	 Mexico 	    222,400,000,000 	 2005
+19 	 Taiwan 	    210,300,000,000 	 2005
+20 	 Ukraine 	    192,100,000,000 	 2006
+21 	 Iran 	    170,400,000,000 	 2005
+22 	 Saudi Arabia 	    165,600,000,000 	 2005
+23 	 Turkey 	    154,200,000,000 	 2005
+24 	 Sweden 	    153,200,000,000 	 2005
+25 	 Poland 	    146,200,000,000 	 2005
+26 	 Norway 	    135,800,000,000 	 2005
+27 	 Thailand 	    124,600,000,000 	 2005
+28 	 Indonesia 	    120,300,000,000 	 2005 est.
+29 	 Egypt 	    102,500,000,000 	 2005
+30 	 Argentina 	    101,100,000,000 	 2005
+31 	 Venezuela 	     99,200,000,000 	 2005
+32 	 Netherlands 	     94,340,000,000 	 2005
+33 	 Pakistan 	     89,820,000,000 	 2005
+34 	 Malaysia 	     82,360,000,000 	 2005
+35 	 Belgium 	     80,840,000,000 	 2005
+36 	 Czech Republic 	     77,380,000,000 	 2005
+37 	 Finland 	     67,090,000,000 	 2005
+38 	 Kazakhstan 	     64,230,000,000 	 2005 est.
+39 	 Austria 	     61,020,000,000 	 2005 est.
+40 	 United Arab Emirates 	     57,060,000,000 	 2005
+41 	 Romania 	     56,910,000,000 	 2005
+42 	 Greece 	     56,130,000,000 	 2005
+43 	 Switzerland 	     56,100,000,000 	 2005
+44 	 Philippines 	     53,670,000,000 	 2005
+45 	 Vietnam 	     51,330,000,000 	 2005
+46 	 Paraguay 	     50,660,000,000 	 2005
+47 	 Colombia 	     50,470,000,000 	 2005
+48 	 Uzbekistan 	     49,000,000,000 	 2006 est.
+49 	 Chile 	     47,600,000,000 	 2006
+50 	 Israel 	     46,850,000,000 	 2005
+51 	 Bulgaria 	     45,700,000,000 	 2006
+52 	 Portugal 	     43,690,000,000 	 2005
+53 	 Denmark 	     43,350,000,000 	 2006
+54 	 New Zealand 	     41,590,000,000 	 2005
+55 	 Kuwait 	     41,110,000,000 	 2005
+56 	 Hong Kong 	     36,140,000,000 	 2005
+57 	 Singapore 	     35,920,000,000 	 2005
+58 	 Iraq 	     34,600,000,000 	 2006
+59 	 Serbia 	     33,870,000,000 	 2004
+60 	 Hungary 	     33,690,000,000 	 2005
+61 	 Syria 	     33,010,000,000 	 2005 est.
+62 	 Algeria 	     31,910,000,000 	 2005 est.
+63 	 Slovakia 	     29,890,000,000 	 2005
+64 	 Belarus 	     29,080,000,000 	 2005
+65 	 Peru 	     24,970,000,000 	 2005 est.
+66 	 Puerto Rico 	     24,960,000,000 	 2005
+67 	 Ireland 	     24,130,000,000 	 2005
+68 	 Nigeria 	     22,530,000,000 	 2005
+69 	 Korea, North 	     22,190,000,000 	 2005
+70 	 Morocco 	     21,370,000,000 	 2005
+71 	 Bangladesh 	     21,350,000,000 	 2005
+72 	 Libya 	     21,150,000,000 	 2005
+73 	 Azerbaijan 	     20,100,000,000 	 2005
+74 	 Tajikistan 	     16,890,000,000 	 2005
+75 	 Kyrgyzstan 	     15,150,000,000 	 2005
+76 	 Slovenia 	     14,900,000,000 	 2006
+77 	 Cuba 	     14,650,000,000 	 2005
+78 	 Qatar 	     13,540,000,000 	 2005
+79 	 Lithuania 	     13,480,000,000 	 2005
+80 	 Mozambique 	     13,170,000,000 	 2005
+81 	 Ecuador 	     12,940,000,000 	 2005
+82 	 Tunisia 	     12,850,000,000 	 2005
+83 	 Bosnia and Herzegovina 	     12,220,000,000 	 2005
+84 	 Dominican Republic 	     12,220,000,000 	 2005
+85 	 Turkmenistan 	     12,050,000,000 	 2005 est.
+86 	 Croatia 	     11,990,000,000 	 2005
+87 	 Oman 	     11,890,000,000 	 2005
+88 	 Zimbabwe 	      9,950,000,000 	 2005
+89 	 Estonia 	      9,599,000,000 	 2005
+90 	 Lebanon 	      9,571,000,000 	 2005
+91 	 Jordan 	      9,074,000,000 	 2005
+92 	 Zambia 	      8,850,000,000 	 2005
+93 	 Iceland 	      8,533,000,000 	 2005
+94 	 Sri Lanka 	      8,411,000,000 	 2005
+95 	 Costa Rica 	      8,349,000,000 	 2005
+96 	 Bahrain 	      8,187,000,000 	 2005
+97 	 Uruguay 	      7,558,000,000 	 2005
+98 	 Congo, Republic of the 	      7,341,000,000 	 2005
+99 	 Guatemala 	      7,281,000,000 	 2005
+100 	 Georgia 	      7,142,000,000 	 2005
+101 	 Jamaica 	      6,985,000,000 	 2005
+102 	 Ghana 	      6,648,000,000 	 2005
+103 	 Trinidad and Tobago 	      6,627,000,000 	 2005
+104 	 Armenia 	      5,975,000,000 	 2005
+105 	 Macedonia 	      5,935,000,000 	 2006
+106 	 Burma 	      5,806,000,000 	 2005
+107 	 Panama 	      5,661,000,000 	 2005
+108 	 Kenya 	      5,502,000,000 	 2005
+109 	 Albania 	      5,385,000,000 	 2005
+110 	 Honduras 	      5,339,000,000 	 2005
+111 	 Cote d'Ivoire 	      5,305,000,000 	 2005
+112 	 El Salvador 	      5,293,000,000 	 2006
+113 	 Bolivia 	      5,041,000,000 	 2005
+114 	 Latvia 	      4,778,000,000 	 2005
+115 	 Yemen 	      4,456,000,000 	 2005 est.
+116 	 Cameroon 	      4,090,000,000 	 2005
+117 	 Sudan 	      3,944,000,000 	 2005
+118 	 Cyprus 	      3,926,000,000 	 2005
+119 	 Moldova 	      3,881,000,000 	 2005
+120 	 Papua New Guinea 	      3,698,000,000 	 2005
+121 	 Mongolia 	      3,430,000,000 	 2006
+122 	 Luxembourg 	      3,156,000,000 	 2005 est.
+123 	 Ethiopia 	      2,864,000,000 	 2005
+124 	 Montenegro 	      2,864,000,000 	 2005 est.
+125 	 Nicaragua 	      2,778,000,000 	 2006
+126 	 Brunei 	      2,735,000,000 	 2005
+127 	 Angola 	      2,585,000,000 	 2005
+128 	 Nepal 	      2,511,000,000 	 2006
+129 	 Senegal 	      2,223,000,000 	 2005
+130 	 Mauritius 	      2,122,000,000 	 2005
+131 	 Malta 	      2,106,000,000 	 2005
+132 	 Bhutan 	      2,000,000,000 	 2005
+133 	 Uganda 	      1,983,000,000 	 2005
+134 	 Macau 	      1,947,000,000 	 2005
+135 	 Bahamas, The 	      1,894,000,000 	 2005
+136 	 Tanzania 	      1,880,000,000 	 2005
+137 	 Guam 	      1,793,000,000 	 2005
+138 	 Laos 	      1,715,000,000 	 2005
+139 	 Namibia 	      1,688,000,000 	 2005
+140 	 Suriname 	      1,530,000,000 	 2005
+141 	 Gabon 	      1,520,000,000 	 2005
+142 	 New Caledonia 	      1,508,000,000 	 2005
+143 	 Malawi 	      1,397,000,000 	 2005
+144 	 Netherlands Antilles 	      1,175,000,000 	 2005
+145 	 Fiji 	      1,046,000,000 	 2005
+146 	 Madagascar 	      1,046,000,000 	 2005
+147 	 Cyprus 	       998,900,000 	 2005
+148 	 Virgin Islands 	       996,100,000 	 2005
+149 	 Barbados 	       953,000,000 	 2005
+150 	 Botswana 	       912,000,000 	 2005
+151 	 Guinea 	       840,000,000 	 2006
+152 	 Guyana 	       807,300,000 	 2005
+153 	 Aruba 	       770,000,000 	 2005
+154 	 Afghanistan 	       754,200,000 	 2005
+155 	 Bermuda 	       618,000,000 	 2005
+156 	 Haiti 	       535,000,000 	 2005
+157 	 Burkina Faso 	       516,200,000 	 2005
+158 	 French Polynesia 	       462,000,000 	 2005
+159 	 Swaziland 	       460,000,000 	 2005
+160 	 Mali 	       444,000,000 	 2005
+161 	 Cayman Islands 	       400,000,000 	 2005
+162 	 Congo, Democratic Republic of the 	       352,000,000 	 2005
+163 	 Lesotho 	       350,000,000 	 2005
+164 	 Liberia 	       319,300,000 	 2005
+165 	 Saint Lucia 	       304,200,000 	 2005
+166 	 Greenland 	       300,000,000 	 2005
+167 	 Faroe Islands 	       290,000,000 	 2005
+168 	 Eritrea 	       274,000,000 	 2005
+169 	 Somalia 	       270,000,000 	 2005
+170 	 Mauritania 	       248,000,000 	 2005
+171 	 Sierra Leone 	       245,000,000 	 2005
+172 	 Niger 	       234,100,000 	 2005
+173 	 Seychelles 	       208,000,000 	 2005
+174 	 Djibouti 	       200,000,000 	 2005
+175 	 Micronesia, Federated States of 	       192,000,000 	 2002
+176 	 American Samoa 	       180,000,000 	 2005
+177 	 Togo 	       176,000,000 	 2005
+178 	 Belize 	       175,000,000 	 2005
+179 	 Maldives 	       169,000,000 	 2005
+180 	 Grenada 	       150,000,000 	 2005
+181 	 Gambia, The 	       145,000,000 	 2005
+182 	 Gibraltar 	       141,000,000 	 2005
+183 	 Burundi 	       137,000,000 	 2005
+184 	 Cambodia 	       134,000,000 	 2005
+185 	 Saint Kitts and Nevis 	       125,000,000 	 2005
+186 	 Saint Vincent and the Grenadines 	       115,000,000 	 2005
+187 	 Central African Republic 	       109,000,000 	 2005
+188 	 Antigua and Barbuda 	       105,000,000 	 2005
+189 	 Samoa 	       105,000,000 	 2005
+190 	 Benin 	       105,000,000 	 2005
+191 	 Chad 	        95,000,000 	 2005
+192 	 Rwanda 	        95,000,000 	 2005
+193 	 Western Sahara 	        85,000,000 	 2005
+194 	 Dominica 	        80,000,000 	 2005
+195 	 Solomon Islands 	        60,000,000 	 2005
+196 	 Guinea-Bissau 	        60,000,000 	 2005
+197 	 Saint Pierre and Miquelon 	        50,000,000 	 2005
+198 	 Cape Verde 	        45,000,000 	 2005
+199 	 British Virgin Islands 	        45,000,000 	 2005
+200 	 Vanuatu 	        41,000,000 	 2005
+201 	 Tonga 	        35,000,000 	 2005
+202 	 Cook Islands 	        30,000,000 	 2005
+203 	 Nauru 	        30,000,000 	 2005
+204 	 Equatorial Guinea 	        28,000,000 	 2005
+205 	 Comoros 	        20,000,000 	 2005
+206 	 Montserrat 	        20,000,000 	 2005
+207 	 Sao Tome and Principe 	        18,000,000 	 2005
+208 	 Falkland Islands (Islas Malvinas) 	        16,000,000 	 2005
+209 	 Turks and Caicos Islands 	        11,570,000 	 2005
+210 	 Kiribati 	         9,000,000 	 2005
+211 	 Saint Helena 	         8,000,000 	 2005
+212 	 Niue 	         3,000,000 	 2005
+213 	 Gaza Strip 	          140,000 	 2005
+
+ This file was last updated on 13 December, 2007

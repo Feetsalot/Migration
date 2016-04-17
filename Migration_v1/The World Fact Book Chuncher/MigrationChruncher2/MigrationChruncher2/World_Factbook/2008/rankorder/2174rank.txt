@@ -1,0 +1,214 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Oil - consumption(bbl/day) 	 Date of Information
+1 	 World 	        85,270,000 	 2007 est.
+2 	 United States 	        20,680,000 	 2007 est.
+3 	 European Union 	        14,390,000 	 2007
+4 	 China 	         7,578,000 	 2007 est.
+5 	 Japan 	         5,007,000 	 2007 est.
+6 	 Russia 	         2,858,000 	 2007 est.
+7 	 India 	         2,722,000 	 2007 est.
+8 	 Germany 	         2,456,000 	 2007 est.
+9 	 Brazil 	         2,372,000 	 2007 est.
+10 	 Canada 	         2,371,000 	 2007 est.
+11 	 Saudi Arabia 	         2,311,000 	 2007 est.
+12 	 Korea, South 	         2,214,000 	 2007 est.
+13 	 Mexico 	         2,119,000 	 2007 est.
+14 	 France 	         1,950,000 	 2007 est.
+15 	 United Kingdom 	         1,763,000 	 2007 est.
+16 	 Italy 	         1,702,000 	 2007 est.
+17 	 Iran 	         1,679,000 	 2006 est.
+18 	 Spain 	         1,611,000 	 2007 est.
+19 	 Indonesia 	         1,219,000 	 2006 est.
+20 	 Netherlands 	          984,200 	 2007 est.
+21 	 Australia 	          966,200 	 2007 est.
+22 	 Taiwan 	          950,500 	 2006 est.
+23 	 Thailand 	          928,600 	 2006 est.
+24 	 Singapore 	          834,600 	 2006 est.
+25 	 Venezuela 	          738,300 	 2007 est.
+26 	 Turkey 	          676,600 	 2007 est.
+27 	 Egypt 	          652,700 	 2006 est.
+28 	 Belgium 	          628,500 	 2007 est.
+29 	 Argentina 	          525,100 	 2006 est.
+30 	 Poland 	          524,000 	 2007 est.
+31 	 South Africa 	          504,900 	 2006 est.
+32 	 Malaysia 	          501,100 	 2006 est.
+33 	 Greece 	          441,400 	 2007 est.
+34 	 United Arab Emirates 	          381,000 	 2006 est.
+35 	 Sweden 	          353,700 	 2007 est.
+36 	 Pakistan 	          345,000 	 2006 est.
+37 	 Ukraine 	          344,000 	 2006 est.
+38 	 Philippines 	          340,100 	 2006 est.
+39 	 Kuwait 	          334,700 	 2006 est.
+40 	 Nigeria 	          312,000 	 2006 est.
+41 	 Portugal 	          301,000 	 2007 est.
+42 	 Iraq 	          295,000 	 2007 est.
+43 	 Hong Kong 	          293,100 	 2006 est.
+44 	 Austria 	          289,400 	 2007 est.
+45 	 Algeria 	          279,800 	 2006 est.
+46 	 Libya 	          278,700 	 2006 est.
+47 	 Vietnam 	          271,100 	 2007 est.
+48 	 Colombia 	          265,400 	 2006 est.
+49 	 Syria 	          261,000 	 2006 est.
+50 	 Chile 	          253,000 	 2006 est.
+51 	 Switzerland 	          244,900 	 2007 est.
+52 	 Kazakhstan 	          243,100 	 2006 est.
+53 	 Romania 	          238,200 	 2006 est.
+54 	 Israel 	          232,300 	 2006 est.
+55 	 Finland 	          228,200 	 2007 est.
+56 	 Norway 	          224,500 	 2007 est.
+57 	 Puerto Rico 	          215,000 	 2007 est.
+58 	 Czech Republic 	          207,400 	 2007 est.
+59 	 Cuba 	          203,500 	 2006 est.
+60 	 Ireland 	          200,900 	 2007 est.
+61 	 Denmark 	          190,600 	 2007 est.
+62 	 Belarus 	          179,700 	 2006 est.
+63 	 Morocco 	          179,700 	 2006 est.
+64 	 Peru 	          167,900 	 2006 est.
+65 	 Hungary 	          162,800 	 2007 est.
+66 	 Ecuador 	          160,500 	 2006 est.
+67 	 Azerbaijan 	          160,000 	 2007 est.
+68 	 New Zealand 	          158,400 	 2007 est.
+69 	 Uzbekistan 	          157,100 	 2006 est.
+70 	 Yemen 	          135,400 	 2006 est.
+71 	 Dominican Republic 	          117,300 	 2006 est.
+72 	 Jordan 	          110,700 	 2006 est.
+73 	 Bulgaria 	          109,600 	 2006 est.
+74 	 Qatar 	          108,900 	 2006 est.
+75 	 Turkmenistan 	          107,400 	 2006 est.
+76 	 Lebanon 	          106,000 	 2006 est.
+77 	 Croatia 	          101,800 	 2006 est.
+78 	 Panama 	           92,790 	 2006 est.
+79 	 Virgin Islands 	           91,680 	 2007 est.
+80 	 Tunisia 	           91,110 	 2006 est.
+81 	 Bangladesh 	           89,940 	 2006 est.
+82 	 Sri Lanka 	           86,030 	 2006 est.
+83 	 Serbia 	           85,000 	 2003 est.
+84 	 Slovakia 	           82,860 	 2007 est.
+85 	 Sudan 	           79,760 	 2006 est.
+86 	 Guatemala 	           74,230 	 2006 est.
+87 	 Jamaica 	           73,370 	 2006 est.
+88 	 Oman 	           69,100 	 2006 est.
+89 	 Netherlands Antilles 	           67,450 	 2006 est.
+90 	 Kenya 	           65,530 	 2006 est.
+91 	 Luxembourg 	           60,640 	 2007 est.
+92 	 Cyprus 	           57,830 	 2006 est.
+93 	 Lithuania 	           57,170 	 2006 est.
+94 	 Angola 	           55,640 	 2006 est.
+95 	 Slovenia 	           54,310 	 2006 est.
+96 	 Ghana 	           49,300 	 2006 est.
+97 	 Honduras 	           46,830 	 2006 est.
+98 	 Costa Rica 	           45,600 	 2006 est.
+99 	 El Salvador 	           44,330 	 2006 est.
+100 	 Burma 	           43,140 	 2006 est.
+101 	 Armenia 	           41,090 	 2006 est.
+102 	 Senegal 	           36,200 	 2006 est.
+103 	 Latvia 	           35,180 	 2006 est.
+104 	 Uruguay 	           33,400 	 2007 est.
+105 	 Bahrain 	           32,830 	 2006 est.
+106 	 Tajikistan 	           31,590 	 2006 est.
+107 	 Bolivia 	           31,500 	 2007 est.
+108 	 Albania 	           30,900 	 2006 est.
+109 	 Ethiopia 	           30,450 	 2006 est.
+110 	 Estonia 	           30,440 	 2006 est.
+111 	 Papua New Guinea 	           29,050 	 2006 est.
+112 	 Nicaragua 	           28,880 	 2006 est.
+113 	 Trinidad and Tobago 	           28,730 	 2006 est.
+114 	 Bosnia and Herzegovina 	           27,590 	 2006 est.
+115 	 Paraguay 	           27,410 	 2006 est.
+116 	 Tanzania 	           27,270 	 2006 est.
+117 	 Bahamas, The 	           26,830 	 2006 est.
+118 	 Cote d'Ivoire 	           25,950 	 2006 est.
+119 	 Cameroon 	           24,500 	 2006 est.
+120 	 Korea, North 	           24,000 	 2006 est.
+121 	 Gibraltar 	           22,620 	 2006 est.
+122 	 Mauritius 	           22,450 	 2006 est.
+123 	 Iceland 	           21,120 	 2007 est.
+124 	 Namibia 	           19,840 	 2006 est.
+125 	 Macedonia 	           19,590 	 2006 est.
+126 	 Mauritania 	           19,320 	 2006 est.
+127 	 Malta 	           18,680 	 2006 est.
+128 	 Madagascar 	           18,190 	 2006 est.
+129 	 Togo 	           17,770 	 2006 est.
+130 	 Nepal 	           16,960 	 2006 est.
+131 	 Macau 	           16,570 	 2006 est.
+132 	 Moldova 	           15,770 	 2006 est.
+133 	 Zambia 	           14,760 	 2006 est.
+134 	 Zimbabwe 	           14,590 	 2006 est.
+135 	 Mozambique 	           14,390 	 2006 est.
+136 	 Brunei 	           13,200 	 2006 est.
+137 	 Gabon 	           13,170 	 2006 est.
+138 	 Georgia 	           12,980 	 2006 est.
+139 	 Mongolia 	           12,860 	 2006 est.
+140 	 Guam 	           12,780 	 2007 est.
+141 	 Haiti 	           12,370 	 2006 est.
+142 	 Suriname 	           12,370 	 2006 est.
+143 	 Kyrgyzstan 	           12,330 	 2006 est.
+144 	 Djibouti 	           12,170 	 2006 est.
+145 	 Botswana 	           11,640 	 2006 est.
+146 	 Uganda 	           11,570 	 2006 est.
+147 	 New Caledonia 	           11,560 	 2006 est.
+148 	 Congo, Democratic Republic of the 	           10,460 	 2006 est.
+149 	 Guyana 	           10,440 	 2006 est.
+150 	 Fiji 	            9,971 	 2006 est.
+151 	 Benin 	            9,232 	 2007 est.
+152 	 Barbados 	            8,674 	 2006 est.
+153 	 Guinea 	            8,559 	 2006 est.
+154 	 Burkina Faso 	            8,470 	 2006 est.
+155 	 Sierra Leone 	            8,430 	 2006 est.
+156 	 Congo, Republic of the 	            7,677 	 2006 est.
+157 	 Aruba 	            7,102 	 2006 est.
+158 	 Belize 	            7,000 	 2006 est.
+159 	 Seychelles 	            6,560 	 2006 est.
+160 	 Malawi 	            6,160 	 2006 est.
+161 	 French Polynesia 	            6,082 	 2006 est.
+162 	 Niger 	            5,550 	 2006 est.
+163 	 Maldives 	            5,490 	 2006 est.
+164 	 Rwanda 	            5,320 	 2006 est.
+165 	 Eritrea 	            5,186 	 2006 est.
+166 	 Somalia 	            5,040 	 2006 est.
+167 	 Afghanistan 	            5,036 	 2006 est.
+168 	 Mali 	            4,640 	 2006 est.
+169 	 Faroe Islands 	            4,628 	 2006 est.
+170 	 Bermuda 	            4,566 	 2006 est.
+171 	 Antigua and Barbuda 	            4,109 	 2006 est.
+172 	 American Samoa 	            4,053 	 2006 est.
+173 	 Greenland 	            3,927 	 2006 est.
+174 	 Cambodia 	            3,736 	 2006 est.
+175 	 Liberia 	            3,687 	 2006 est.
+176 	 Swaziland 	            3,490 	 2006 est.
+177 	 Laos 	            2,996 	 2006 est.
+178 	 Burundi 	            2,956 	 2006 est.
+179 	 Saint Lucia 	            2,780 	 2006 est.
+180 	 Cayman Islands 	            2,767 	 2006 est.
+181 	 Guinea-Bissau 	            2,520 	 2006 est.
+182 	 Central African Republic 	            2,322 	 2006 est.
+183 	 Cape Verde 	            2,117 	 2006 est.
+184 	 Gambia, The 	            2,082 	 2006 est.
+185 	 Grenada 	            2,043 	 2006 est.
+186 	 Western Sahara 	            1,760 	 2006 est.
+187 	 Saint Vincent and the Grenadines 	            1,570 	 2006 est.
+188 	 Lesotho 	            1,400 	 2006 est.
+189 	 Chad 	            1,352 	 2006 est.
+190 	 Solomon Islands 	            1,320 	 2006 est.
+191 	 Bhutan 	            1,250 	 2006 est.
+192 	 Samoa 	            1,130 	 2006 est.
+193 	 Nauru 	            1,070 	 2006 est.
+194 	 Saint Kitts and Nevis 	             950 	 2006 est.
+195 	 Equatorial Guinea 	             918 	 2006 est.
+196 	 Tonga 	             870 	 2006 est.
+197 	 Dominica 	             851 	 2006 est.
+198 	 Comoros 	             712 	 2006 est.
+199 	 Vanuatu 	             660 	 2006 est.
+200 	 Sao Tome and Principe 	             660 	 2006 est.
+201 	 British Virgin Islands 	             650 	 2006 est.
+202 	 Saint Pierre and Miquelon 	             560 	 2006 est.
+203 	 Montserrat 	             506 	 2006 est.
+204 	 Cook Islands 	             464 	 2006 est.
+205 	 Montenegro 	             450 	 2004
+206 	 Falkland Islands (Islas Malvinas) 	             252 	 2006 est.
+207 	 Kiribati 	             232 	 2006 est.
+208 	 Turks and Caicos Islands 	              80 	 2006 est.
+209 	 Saint Helena 	              60 	 2006 est.
+210 	 Niue 	              20 	 2006 est.
+
+ This file was last updated on 18 December, 2008

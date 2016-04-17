@@ -1,0 +1,236 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 GDP - per capita 	 Date of Information
+1 	 Luxembourg 	 $            55,100 	 2003 est.
+2 	 Norway 	 $            37,800 	 2003 est.
+3 	 United States 	 $            37,800 	 2003 est.
+4 	 Bermuda 	 $            36,000 	 2003 est.
+5 	 Cayman Islands 	 $            35,000 	 2002 est.
+6 	 San Marino 	 $            34,600 	 2001 est.
+7 	 Switzerland 	 $            32,700 	 2003 est.
+8 	 Denmark 	 $            31,100 	 2003 est.
+9 	 Iceland 	 $            30,900 	 2003 est.
+10 	 Austria 	 $            30,000 	 2003 est.
+11 	 Canada 	 $            29,800 	 2003 est.
+12 	 Ireland 	 $            29,600 	 2003 est.
+13 	 Belgium 	 $            29,100 	 2003 est.
+14 	 Australia 	 $            29,000 	 2003 est.
+15 	 Hong Kong 	 $            28,800 	 2003 est.
+16 	 Netherlands 	 $            28,600 	 2003 est.
+17 	 Japan 	 $            28,200 	 2003 est.
+18 	 Aruba 	 $            28,000 	 2002 est.
+19 	 United Kingdom 	 $            27,700 	 2003 est.
+20 	 France 	 $            27,600 	 2003 est.
+21 	 Germany 	 $            27,600 	 2003 est.
+22 	 Finland 	 $            27,400 	 2003 est.
+23 	 Monaco 	 $            27,000 	 1999 est.
+24 	 Sweden 	 $            26,800 	 2003 est.
+25 	 Italy 	 $            26,700 	 2003 est.
+26 	 European Union 	 $            25,700 	 2004 est.
+27 	 Falkland Islands (Islas Malvinas) 	 $            25,000 	 2002 est.
+28 	 Liechtenstein 	 $            25,000 	 1999 est.
+29 	 Jersey 	 $            24,800 	 1999 est.
+30 	 Singapore 	 $            23,700 	 2003 est.
+31 	 Taiwan 	 $            23,400 	 2003 est.
+32 	 United Arab Emirates 	 $            23,200 	 2003 est.
+33 	 Faroe Islands 	 $            22,000 	 2001 est.
+34 	 Spain 	 $            22,000 	 2003 est.
+35 	 New Zealand 	 $            21,600 	 2003 est.
+36 	 Qatar 	 $            21,500 	 2003 est.
+37 	 Guam 	 $            21,000 	 2000 est.
+38 	 Man, Isle of 	 $            21,000 	 2001 est.
+39 	 Guernsey 	 $            20,000 	 1999 est.
+40 	 Greenland 	 $            20,000 	 2001 est.
+41 	 Greece 	 $            20,000 	 2003 est.
+42 	 Israel 	 $            19,800 	 2003 est.
+43 	 Macau 	 $            19,400 	 2003 est.
+44 	 Cyprus 	 $            19,200 	 2003 est.
+45 	 Andorra 	 $            19,000 	 2000 est.
+46 	 Slovenia 	 $            19,000 	 2003 est.
+47 	 Kuwait 	 $            19,000 	 2003 est.
+48 	 Brunei 	 $            18,600 	 2002 est.
+49 	 Portugal 	 $            18,000 	 2003 est.
+50 	 Korea, South 	 $            17,800 	 2003 est.
+51 	 Malta 	 $            17,700 	 2003 est.
+52 	 French Polynesia 	 $            17,500 	 2001 est.
+53 	 Gibraltar 	 $            17,500 	 1997 est.
+54 	 Virgin Islands 	 $            17,200 	 2002 est.
+55 	 Bahrain 	 $            16,900 	 2003 est.
+56 	 Puerto Rico 	 $            16,800 	 2003 est.
+57 	 Bahamas, The 	 $            16,700 	 2003 est.
+58 	 British Virgin Islands 	 $            16,000 	 2002 est.
+59 	 Barbados 	 $            15,700 	 2003 est.
+60 	 Czech Republic 	 $            15,700 	 2003 est.
+61 	 New Caledonia 	 $            15,000 	 2001 est.
+62 	 Martinique 	 $            14,400 	 2001 est.
+63 	 Hungary 	 $            13,900 	 2003 est.
+64 	 Slovakia 	 $            13,300 	 2003 est.
+65 	 Oman 	 $            13,100 	 2003 est.
+66 	 Uruguay 	 $            12,800 	 2003 est.
+67 	 Northern Mariana Islands 	 $            12,500 	 2000 est.
+68 	 Estonia 	 $            12,300 	 2003 est.
+69 	 Saudi Arabia 	 $            11,800 	 2003 est.
+70 	 Lithuania 	 $            11,400 	 2003 est.
+71 	 Mauritius 	 $            11,400 	 2003 est.
+72 	 Netherlands Antilles 	 $            11,400 	 2003 est.
+73 	 Argentina 	 $            11,200 	 2003 est.
+74 	 Poland 	 $            11,100 	 2003 est.
+75 	 Antigua and Barbuda 	 $            11,000 	 2002 est.
+76 	 South Africa 	 $            10,700 	 2003 est.
+77 	 Croatia 	 $            10,600 	 2003 est.
+78 	 Latvia 	 $            10,200 	 2003 est.
+79 	 Chile 	 $             9,900 	 2003 est.
+80 	 Turks and Caicos Islands 	 $             9,600 	 2000 est.
+81 	 Trinidad and Tobago 	 $             9,500 	 2003 est.
+82 	 Costa Rica 	 $             9,100 	 2003 est.
+83 	 Botswana 	 $             9,000 	 2003 est.
+84 	 Mexico 	 $             9,000 	 2003 est.
+85 	 Palau 	 $             9,000 	 2001 est.
+86 	 Malaysia 	 $             9,000 	 2003 est.
+87 	 Russia 	 $             8,900 	 2003 est.
+88 	 Saint Kitts and Nevis 	 $             8,800 	 2002 est.
+89 	 Anguilla 	 $             8,600 	 2001 est.
+90 	 French Guiana 	 $             8,300 	 2001 est.
+91 	 World 	 $             8,200 	 2003 est.
+92 	 American Samoa 	 $             8,000 	 2000 est.
+93 	 Guadeloupe 	 $             8,000 	 2001 est.
+94 	 Seychelles 	 $             7,800 	 2002 est.
+95 	 Brazil 	 $             7,600 	 2003 est.
+96 	 Bulgaria 	 $             7,600 	 2003 est.
+97 	 Thailand 	 $             7,400 	 2003 est.
+98 	 Namibia 	 $             7,200 	 2003 est.
+99 	 Iran 	 $             7,000 	 2003 est.
+100 	 Romania 	 $             7,000 	 2003 est.
+101 	 Saint Pierre and Miquelon 	 $             6,900 	 2001 est.
+102 	 Tunisia 	 $             6,900 	 2003 est.
+103 	 Macedonia 	 $             6,700 	 2003 est.
+104 	 Turkey 	 $             6,700 	 2003 est.
+105 	 Libya 	 $             6,400 	 2003 est.
+106 	 Colombia 	 $             6,300 	 2003 est.
+107 	 Kazakhstan 	 $             6,300 	 2003 est.
+108 	 Panama 	 $             6,300 	 2003 est.
+109 	 Bosnia and Herzegovina 	 $             6,100 	 2003 est.
+110 	 Belarus 	 $             6,100 	 2003 est.
+111 	 Algeria 	 $             6,000 	 2003 est.
+112 	 Dominican Republic 	 $             6,000 	 2003 est.
+113 	 Fiji 	 $             5,800 	 2003 est.
+114 	 Turkmenistan 	 $             5,800 	 2003 est.
+115 	 Reunion 	 $             5,800 	 2001 est.
+116 	 Cyprus 	 $             5,600 	 2003 est.
+117 	 Samoa 	 $             5,600 	 2002 est.
+118 	 Gabon 	 $             5,500 	 2003 est.
+119 	 Dominica 	 $             5,400 	 2002 est.
+120 	 Saint Lucia 	 $             5,400 	 2002 est.
+121 	 Ukraine 	 $             5,400 	 2003 est.
+122 	 Peru 	 $             5,100 	 2003 est.
+123 	 China 	 $             5,000 	 2003 est.
+124 	 Cook Islands 	 $             5,000 	 2001 est.
+125 	 Nauru 	 $             5,000 	 2001 est.
+126 	 Grenada 	 $             5,000 	 2002 est.
+127 	 Belize 	 $             4,900 	 2002 est.
+128 	 Swaziland 	 $             4,900 	 2003 est.
+129 	 El Salvador 	 $             4,800 	 2003 est.
+130 	 Venezuela 	 $             4,800 	 2003 est.
+131 	 Lebanon 	 $             4,800 	 2003 est.
+132 	 Paraguay 	 $             4,700 	 2003 est.
+133 	 Philippines 	 $             4,600 	 2003 est.
+134 	 Albania 	 $             4,500 	 2003 est.
+135 	 Jordan 	 $             4,300 	 2003 est.
+136 	 Guatemala 	 $             4,100 	 2003 est.
+137 	 Egypt 	 $             4,000 	 2003 est.
+138 	 Guyana 	 $             4,000 	 2003 est.
+139 	 Morocco 	 $             4,000 	 2003 est.
+140 	 Suriname 	 $             4,000 	 2003 est.
+141 	 Jamaica 	 $             3,900 	 2003 est.
+142 	 Maldives 	 $             3,900 	 2002 est.
+143 	 Sri Lanka 	 $             3,700 	 2003 est.
+144 	 Wallis and Futuna 	 $             3,700 	 2001 est.
+145 	 Niue 	 $             3,600 	 2000 est.
+146 	 Armenia 	 $             3,500 	 2003 est.
+147 	 Azerbaijan 	 $             3,400 	 2003 est.
+148 	 Montserrat 	 $             3,400 	 2002 est.
+149 	 Ecuador 	 $             3,300 	 2003 est.
+150 	 Syria 	 $             3,300 	 2003 est.
+151 	 Indonesia 	 $             3,200 	 2003 est.
+152 	 Lesotho 	 $             3,000 	 2003 est.
+153 	 Cuba 	 $             2,900 	 2003 est.
+154 	 Vanuatu 	 $             2,900 	 2002 est.
+155 	 Saint Vincent and the Grenadines 	 $             2,900 	 2002 est.
+156 	 India 	 $             2,900 	 2003 est.
+157 	 Equatorial Guinea 	 $             2,700 	 2002 est.
+158 	 Honduras 	 $             2,600 	 2003 est.
+159 	 Mayotte 	 $             2,600 	 1998 est.
+160 	 Georgia 	 $             2,500 	 2003 est.
+161 	 Vietnam 	 $             2,500 	 2003 est.
+162 	 Saint Helena 	 $             2,500 	 1998 est.
+163 	 Bolivia 	 $             2,400 	 2003 est.
+164 	 Nicaragua 	 $             2,300 	 2003 est.
+165 	 Ghana 	 $             2,200 	 2003 est.
+166 	 Papua New Guinea 	 $             2,200 	 2003 est.
+167 	 Serbia and Montenegro 	 $             2,200 	 2003 est.
+168 	 Tonga 	 $             2,200 	 2001 est.
+169 	 Guinea 	 $             2,100 	 2003 est.
+170 	 Pakistan 	 $             2,100 	 2003 est.
+171 	 Micronesia, Federated States of 	 $             2,000 	 2002 est.
+172 	 Angola 	 $             1,900 	 2003 est.
+173 	 Zimbabwe 	 $             1,900 	 2003 est.
+174 	 Sudan 	 $             1,900 	 2003 est.
+175 	 Cambodia 	 $             1,900 	 2003 est.
+176 	 Bangladesh 	 $             1,900 	 2003 est.
+177 	 Burma 	 $             1,800 	 2003 est.
+178 	 Mauritania 	 $             1,800 	 2003 est.
+179 	 Mongolia 	 $             1,800 	 2003 est.
+180 	 Moldova 	 $             1,800 	 2003 est.
+181 	 Cameroon 	 $             1,800 	 2003 est.
+182 	 Solomon Islands 	 $             1,700 	 2001 est.
+183 	 Uzbekistan 	 $             1,700 	 2003 est.
+184 	 Gambia, The 	 $             1,700 	 2003 est.
+185 	 Laos 	 $             1,700 	 2003 est.
+186 	 Haiti 	 $             1,600 	 2003 est.
+187 	 Kyrgyzstan 	 $             1,600 	 2003 est.
+188 	 Marshall Islands 	 $             1,600 	 2001 est.
+189 	 Senegal 	 $             1,600 	 2003 est.
+190 	 Iraq 	 $             1,500 	 2003 est.
+191 	 Togo 	 $             1,500 	 2003 est.
+192 	 Cape Verde 	 $             1,400 	 2002 est.
+193 	 Uganda 	 $             1,400 	 2003 est.
+194 	 Nepal 	 $             1,400 	 2003 est.
+195 	 Cote d'Ivoire 	 $             1,400 	 2003 est.
+196 	 Bhutan 	 $             1,300 	 2002 est.
+197 	 Rwanda 	 $             1,300 	 2003 est.
+198 	 Korea, North 	 $             1,300 	 2003 est.
+199 	 Djibouti 	 $             1,300 	 2002 est.
+200 	 Chad 	 $             1,200 	 2003 est.
+201 	 Sao Tome and Principe 	 $             1,200 	 2003 est.
+202 	 Mozambique 	 $             1,200 	 2003 est.
+203 	 Benin 	 $             1,100 	 2003 est.
+204 	 Tuvalu 	 $             1,100 	 2000 est.
+205 	 Burkina Faso 	 $             1,100 	 2003 est.
+206 	 Central African Republic 	 $             1,100 	 2003 est.
+207 	 Kenya 	 $             1,000 	 2003 est.
+208 	 Tokelau 	 $             1,000 	 1993 est.
+209 	 Tajikistan 	 $             1,000 	 2003 est.
+210 	 Liberia 	 $             1,000 	 2003 est.
+211 	 Mali 	 $              900 	 2003 est.
+212 	 Nigeria 	 $              900 	 2003 est.
+213 	 Kiribati 	 $              800 	 2001 est.
+214 	 Zambia 	 $              800 	 2003 est.
+215 	 Guinea-Bissau 	 $              800 	 2003 est.
+216 	 Madagascar 	 $              800 	 2003 est.
+217 	 Yemen 	 $              800 	 2003 est.
+218 	 West Bank 	 $              800 	 2002 est.
+219 	 Niger 	 $              800 	 2003 est.
+220 	 Afghanistan 	 $              700 	 2003 est.
+221 	 Ethiopia 	 $              700 	 2003 est.
+222 	 Eritrea 	 $              700 	 2002 est.
+223 	 Comoros 	 $              700 	 2002 est.
+224 	 Congo, Democratic Republic of the 	 $              700 	 2003 est.
+225 	 Congo, Republic of the 	 $              700 	 2003 est.
+226 	 Burundi 	 $              600 	 2003 est.
+227 	 Tanzania 	 $              600 	 2003 est.
+228 	 Malawi 	 $              600 	 2003 est.
+229 	 Gaza Strip 	 $              600 	 2003 est.
+230 	 Sierra Leone 	 $              500 	 2003 est.
+231 	 Somalia 	 $              500 	 2003 est.
+232 	 East Timor 	 $              500 	 2001 est.
+
+ This file was last updated on 10 February, 2005

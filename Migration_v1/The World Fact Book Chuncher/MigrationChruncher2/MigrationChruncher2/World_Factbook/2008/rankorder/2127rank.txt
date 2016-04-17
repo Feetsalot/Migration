@@ -1,0 +1,227 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Total fertility rate(children born/woman) 	 Date of Information
+1 	 Mali 	      7.34 	 2008 est.
+2 	 Niger 	      7.29 	 2008 est.
+3 	 Uganda 	      6.81 	 2008 est.
+4 	 Somalia 	      6.60 	 2008 est.
+5 	 Afghanistan 	      6.58 	 2008 est.
+6 	 Yemen 	      6.41 	 2008 est.
+7 	 Burundi 	      6.40 	 2008 est.
+8 	 Burkina Faso 	      6.34 	 2008 est.
+9 	 Congo, Democratic Republic of the 	      6.28 	 2008 est.
+10 	 Angola 	      6.20 	 2008 est.
+11 	 Ethiopia 	      6.17 	 2008 est.
+12 	 Sierra Leone 	      5.95 	 2008 est.
+13 	 Congo, Republic of the 	      5.92 	 2008 est.
+14 	 Liberia 	      5.87 	 2008 est.
+15 	 Mauritania 	      5.69 	 2008 est.
+16 	 Western Sahara 	      5.69 	 2008 est.
+17 	 Malawi 	      5.67 	 2008 est.
+18 	 Oman 	      5.62 	 2008 est.
+19 	 Mayotte 	      5.60 	 2008 est.
+20 	 Benin 	      5.58 	 2008 est.
+21 	 Chad 	      5.43 	 2008 est.
+22 	 Sao Tome and Principe 	      5.43 	 2008 est.
+23 	 Rwanda 	      5.31 	 2008 est.
+24 	 Guinea 	      5.25 	 2008 est.
+25 	 Mozambique 	      5.24 	 2008 est.
+26 	 Zambia 	      5.23 	 2008 est.
+27 	 Gaza Strip 	      5.19 	 2008 est.
+28 	 Madagascar 	      5.19 	 2008 est.
+29 	 Equatorial Guinea 	      5.16 	 2008 est.
+30 	 Djibouti 	      5.14 	 2008 est.
+31 	 Gambia, The 	      5.13 	 2008 est.
+32 	 Nigeria 	      5.01 	 2008 est.
+33 	 Comoros 	      4.90 	 2008 est.
+34 	 Senegal 	      4.86 	 2008 est.
+35 	 Togo 	      4.85 	 2008 est.
+36 	 Eritrea 	      4.84 	 2008 est.
+37 	 Haiti 	      4.79 	 2008 est.
+38 	 Guinea-Bissau 	      4.72 	 2008 est.
+39 	 Kenya 	      4.70 	 2008 est.
+40 	 Gabon 	      4.68 	 2008 est.
+41 	 Tanzania 	      4.62 	 2008 est.
+42 	 Sudan 	      4.58 	 2008 est.
+43 	 Laos 	      4.50 	 2008 est.
+44 	 Cameroon 	      4.41 	 2008 est.
+45 	 Central African Republic 	      4.23 	 2008 est.
+46 	 Cote d'Ivoire 	      4.23 	 2008 est.
+47 	 Samoa 	      4.18 	 2008 est.
+48 	 Kiribati 	      4.08 	 2008 est.
+49 	 Iraq 	      3.97 	 2008 est.
+50 	 Nepal 	      3.91 	 2008 est.
+51 	 Saudi Arabia 	      3.89 	 2008 est.
+52 	 Paraguay 	      3.80 	 2008 est.
+53 	 Ghana 	      3.78 	 2008 est.
+54 	 Pakistan 	      3.73 	 2008 est.
+55 	 Zimbabwe 	      3.72 	 2008 est.
+56 	 Papua New Guinea 	      3.71 	 2008 est.
+57 	 Marshall Islands 	      3.68 	 2008 est.
+58 	 Solomon Islands 	      3.65 	 2008 est.
+59 	 Guatemala 	      3.59 	 2008 est.
+60 	 Belize 	      3.44 	 2008 est.
+61 	 Honduras 	      3.38 	 2008 est.
+62 	 Timor-Leste 	      3.36 	 2008 est.
+63 	 American Samoa 	      3.35 	 2008 est.
+64 	 Swaziland 	      3.34 	 2008 est.
+65 	 Philippines 	      3.32 	 2008 est.
+66 	 West Bank 	      3.31 	 2008 est.
+67 	 Syria 	      3.21 	 2008 est.
+68 	 Cape Verde 	      3.17 	 2008 est.
+69 	 Libya 	      3.15 	 2008 est.
+70 	 Lesotho 	      3.13 	 2008 est.
+71 	 Bangladesh 	      3.08 	 2008 est.
+72 	 Cambodia 	      3.08 	 2008 est.
+73 	 Turkmenistan 	      3.07 	 2008 est.
+74 	 El Salvador 	      3.04 	 2008 est.
+75 	 Tajikistan 	      3.04 	 2008 est.
+76 	 Micronesia, Federated States of 	      2.98 	 2008 est.
+77 	 Malaysia 	      2.98 	 2008 est.
+78 	 Turks and Caicos Islands 	      2.98 	 2008 est.
+79 	 Nauru 	      2.94 	 2008 est.
+80 	 Tuvalu 	      2.94 	 2008 est.
+81 	 Kuwait 	      2.81 	 2008 est.
+82 	 Namibia 	      2.81 	 2008 est.
+83 	 Dominican Republic 	      2.78 	 2008 est.
+84 	 Israel 	      2.77 	 2008 est.
+85 	 India 	      2.76 	 2008 est.
+86 	 Egypt 	      2.72 	 2008 est.
+87 	 Fiji 	      2.68 	 2008 est.
+88 	 Bolivia 	      2.67 	 2008 est.
+89 	 Kyrgyzstan 	      2.67 	 2008 est.
+90 	 Botswana 	      2.66 	 2008 est.
+91 	 Nicaragua 	      2.63 	 2008 est.
+92 	 World 	      2.61 	 2008 est.
+93 	 Ecuador 	      2.59 	 2008 est.
+94 	 Morocco 	      2.57 	 2008 est.
+95 	 Vanuatu 	      2.57 	 2008 est.
+96 	 Panama 	      2.57 	 2008 est.
+97 	 Guam 	      2.55 	 2008 est.
+98 	 Bahrain 	      2.53 	 2008 est.
+99 	 Venezuela 	      2.52 	 2008 est.
+100 	 Tonga 	      2.50 	 2008 est.
+101 	 Colombia 	      2.49 	 2008 est.
+102 	 Bhutan 	      2.48 	 2008 est.
+103 	 Jordan 	      2.47 	 2008 est.
+104 	 Qatar 	      2.47 	 2008 est.
+105 	 Faroe Islands 	      2.45 	 2008 est.
+106 	 Palau 	      2.45 	 2008 est.
+107 	 United Arab Emirates 	      2.43 	 2008 est.
+108 	 South Africa 	      2.43 	 2008 est.
+109 	 Peru 	      2.42 	 2008 est.
+110 	 Argentina 	      2.37 	 2008 est.
+111 	 Mexico 	      2.37 	 2008 est.
+112 	 Indonesia 	      2.34 	 2008 est.
+113 	 Jamaica 	      2.30 	 2008 est.
+114 	 Saint Kitts and Nevis 	      2.28 	 2008 est.
+115 	 Grenada 	      2.27 	 2008 est.
+116 	 Mongolia 	      2.24 	 2008 est.
+117 	 Brazil 	      2.22 	 2008 est.
+118 	 Greenland 	      2.22 	 2008 est.
+119 	 New Caledonia 	      2.21 	 2008 est.
+120 	 Costa Rica 	      2.17 	 2008 est.
+121 	 Bahamas, The 	      2.13 	 2008 est.
+122 	 New Zealand 	      2.11 	 2008 est.
+123 	 Dominica 	      2.10 	 2008 est.
+124 	 United States 	      2.10 	 2008 est.
+125 	 Antigua and Barbuda 	      2.08 	 2008 est.
+126 	 Azerbaijan 	      2.05 	 2008 est.
+127 	 Guyana 	      2.03 	 2008 est.
+128 	 Albania 	      2.02 	 2008 est.
+129 	 Sri Lanka 	      2.02 	 2008 est.
+130 	 Suriname 	      2.01 	 2008 est.
+131 	 Uzbekistan 	      2.01 	 2008 est.
+132 	 Korea, North 	      2.00 	 2008 est.
+133 	 France 	      1.98 	 2008 est.
+134 	 Saint Pierre and Miquelon 	      1.98 	 2008 est.
+135 	 Netherlands Antilles 	      1.98 	 2008 est.
+136 	 Maldives 	      1.97 	 2008 est.
+137 	 Chile 	      1.95 	 2008 est.
+138 	 French Polynesia 	      1.95 	 2008 est.
+139 	 Brunei 	      1.94 	 2008 est.
+140 	 Uruguay 	      1.94 	 2008 est.
+141 	 Burma 	      1.92 	 2008 est.
+142 	 Iceland 	      1.91 	 2008 est.
+143 	 Cayman Islands 	      1.89 	 2008 est.
+144 	 Bermuda 	      1.88 	 2008 est.
+145 	 Kazakhstan 	      1.88 	 2008 est.
+146 	 Virgin Islands 	      1.88 	 2008 est.
+147 	 Lebanon 	      1.87 	 2008 est.
+148 	 Turkey 	      1.87 	 2008 est.
+149 	 Saint Lucia 	      1.86 	 2008 est.
+150 	 Vietnam 	      1.86 	 2008 est.
+151 	 Aruba 	      1.85 	 2008 est.
+152 	 Ireland 	      1.85 	 2008 est.
+153 	 Mauritius 	      1.83 	 2008 est.
+154 	 Algeria 	      1.82 	 2008 est.
+155 	 Cyprus 	      1.79 	 2008 est.
+156 	 Saint Vincent and the Grenadines 	      1.79 	 2008 est.
+157 	 Australia 	      1.78 	 2008 est.
+158 	 Luxembourg 	      1.78 	 2008 est.
+159 	 Norway 	      1.78 	 2008 est.
+160 	 China 	      1.77 	 2008 est.
+161 	 Puerto Rico 	      1.76 	 2008 est.
+162 	 Anguilla 	      1.75 	 2008 est.
+163 	 Monaco 	      1.75 	 2008 est.
+164 	 Denmark 	      1.74 	 2008 est.
+165 	 Finland 	      1.73 	 2008 est.
+166 	 Seychelles 	      1.73 	 2008 est.
+167 	 Tunisia 	      1.73 	 2008 est.
+168 	 Trinidad and Tobago 	      1.73 	 2008 est.
+169 	 Iran 	      1.71 	 2008 est.
+170 	 British Virgin Islands 	      1.71 	 2008 est.
+171 	 Serbia 	      1.69 	 2008 est.
+172 	 Sweden 	      1.67 	 2008 est.
+173 	 Netherlands 	      1.66 	 2008 est.
+174 	 United Kingdom 	      1.66 	 2008 est.
+175 	 Barbados 	      1.65 	 2008 est.
+176 	 Isle of Man 	      1.65 	 2008 est.
+177 	 Gibraltar 	      1.65 	 2008 est.
+178 	 Belgium 	      1.65 	 2008 est.
+179 	 Thailand 	      1.64 	 2008 est.
+180 	 Cuba 	      1.60 	 2008 est.
+181 	 Jersey 	      1.58 	 2008 est.
+182 	 Macedonia 	      1.58 	 2008 est.
+183 	 Canada 	      1.57 	 2008 est.
+184 	 Saint Helena 	      1.56 	 2008 est.
+185 	 Liechtenstein 	      1.51 	 2008 est.
+186 	 Malta 	      1.51 	 2008 est.
+187 	 European Union 	      1.50 	 2008 est.
+188 	 Portugal 	      1.49 	 2008 est.
+189 	 Switzerland 	      1.44 	 2008 est.
+190 	 Georgia 	      1.43 	 2008 est.
+191 	 Estonia 	      1.42 	 2008 est.
+192 	 Germany 	      1.41 	 2008 est.
+193 	 Croatia 	      1.41 	 2008 est.
+194 	 Bulgaria 	      1.40 	 2008 est.
+195 	 Russia 	      1.40 	 2008 est.
+196 	 Guernsey 	      1.40 	 2008 est.
+197 	 Austria 	      1.38 	 2008 est.
+198 	 Romania 	      1.38 	 2008 est.
+199 	 Greece 	      1.36 	 2008 est.
+200 	 Armenia 	      1.35 	 2008 est.
+201 	 San Marino 	      1.35 	 2008 est.
+202 	 Hungary 	      1.34 	 2008 est.
+203 	 Slovakia 	      1.34 	 2008 est.
+204 	 Andorra 	      1.32 	 2008 est.
+205 	 Italy 	      1.30 	 2008 est.
+206 	 Spain 	      1.30 	 2008 est.
+207 	 Latvia 	      1.29 	 2008 est.
+208 	 Poland 	      1.27 	 2008 est.
+209 	 Slovenia 	      1.27 	 2008 est.
+210 	 Moldova 	      1.26 	 2008 est.
+211 	 Ukraine 	      1.25 	 2008 est.
+212 	 Bosnia and Herzegovina 	      1.24 	 2008 est.
+213 	 Belarus 	      1.23 	 2008 est.
+214 	 Czech Republic 	      1.23 	 2008 est.
+215 	 Japan 	      1.22 	 2008 est.
+216 	 Montserrat 	      1.22 	 2008 est.
+217 	 Lithuania 	      1.22 	 2008 est.
+218 	 Korea, South 	      1.20 	 2008 est.
+219 	 Northern Mariana Islands 	      1.18 	 2008 est.
+220 	 Taiwan 	      1.13 	 2008 est.
+221 	 Singapore 	      1.08 	 2008 est.
+222 	 Hong Kong 	      1.00 	 2008 est.
+223 	 Macau 	      0.90 	 2008 est.
+
+ This file was last updated on 18 December, 2008

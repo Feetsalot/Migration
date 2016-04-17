@@ -1,0 +1,149 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Investment (gross fixed)(% of GDP) 	 Date of Information
+1 	 Equatorial Guinea 	     63.60 	 2003
+2 	 Sao Tome and Principe 	     51.60 	 2003
+3 	 Azerbaijan 	     50.40 	 2003
+4 	 Mozambique 	     47.80 	 2003
+5 	 Zambia 	     45.20 	 2003
+6 	 China 	     43.40 	 2003
+7 	 Chad 	     40.30 	 2003
+8 	 Seychelles 	     39.10 	 2003
+9 	 Guyana 	     38.50 	 2003
+10 	 Lesotho 	     34.10 	 2003
+11 	 Belize 	     33.00 	 2003
+12 	 Vietnam 	     33.00 	 2003
+13 	 Angola 	     31.70 	 2003
+14 	 Jamaica 	     31.60 	 2003
+15 	 Congo, Republic of the 	     31.30 	 2003
+16 	 Estonia 	     30.20 	 2003
+17 	 Korea, South 	     29.60 	 2003
+18 	 Yemen 	     29.10 	 2003
+19 	 Burkina Faso 	     29.00 	 2003
+20 	 Iran 	     28.60 	 2003
+21 	 Nicaragua 	     28.10 	 2003
+22 	 Croatia 	     27.70 	 2003
+23 	 Nigeria 	     27.70 	 2003
+24 	 Latvia 	     27.10 	 2003
+25 	 Eritrea 	     26.30 	 2003
+26 	 Czech Republic 	     26.00 	 2003
+27 	 Slovakia 	     25.80 	 2003
+28 	 Spain 	     25.60 	 2003
+29 	 Greece 	     25.50 	 2003
+30 	 Thailand 	     25.50 	 2003
+31 	 Singapore 	     24.90 	 2003
+32 	 Algeria 	     24.80 	 2003
+33 	 Australia 	     24.80 	 2003
+34 	 Panama 	     24.80 	 2003
+35 	 Lebanon 	     24.80 	 2003
+36 	 Ghana 	     24.50 	 2003
+37 	 Tunisia 	     24.20 	 2003
+38 	 Honduras 	     24.00 	 2003
+39 	 Botswana 	     23.90 	 2003
+40 	 Japan 	     23.90 	 2003
+41 	 Kazakhstan 	     23.90 	 2003
+42 	 Slovenia 	     23.30 	 2003
+43 	 Bangladesh 	     23.20 	 2003
+44 	 Qatar 	     23.20 	 2003
+45 	 India 	     23.10 	 2003
+46 	 Malta 	     23.10 	 2003
+47 	 Ireland 	     22.90 	 2003
+48 	 Mauritius 	     22.90 	 2003
+49 	 Sri Lanka 	     22.70 	 2003
+50 	 Gabon 	     22.70 	 2003
+51 	 Austria 	     22.50 	 2003
+52 	 Romania 	     22.50 	 2003
+53 	 Hong Kong 	     22.30 	 2003
+54 	 Portugal 	     22.30 	 2003
+55 	 Malaysia 	     22.20 	 2003
+56 	 United Arab Emirates 	     22.00 	 2003
+57 	 Hungary 	     22.00 	 2003
+58 	 Belarus 	     21.70 	 2003
+59 	 Ecuador 	     21.70 	 2003
+60 	 Morocco 	     21.70 	 2003
+61 	 Iceland 	     21.60 	 2003
+62 	 Senegal 	     21.30 	 2003
+63 	 Chile 	     21.20 	 2003
+64 	 Guinea 	     21.20 	 2003
+65 	 Swaziland 	     21.10 	 2003
+66 	 Ukraine 	     21.00 	 2003
+67 	 New Zealand 	     20.90 	 2003
+68 	 Lithuania 	     20.80 	 2003
+69 	 Luxembourg 	     20.70 	 2003
+70 	 Uganda 	     20.30 	 2003
+71 	 Costa Rica 	     20.20 	 2003
+72 	 Netherlands 	     20.10 	 2003
+73 	 Switzerland 	     20.10 	 2003
+74 	 Gambia, The 	     20.00 	 2003
+75 	 Cyprus 	     19.90 	 2003
+76 	 Denmark 	     19.90 	 2003
+77 	 Dominican Republic 	     19.90 	 2003
+78 	 Armenia 	     19.80 	 2003
+79 	 Namibia 	     19.80 	 2003
+80 	 Belgium 	     19.70 	 2003
+81 	 Indonesia 	     19.70 	 2003
+82 	 Bulgaria 	     19.60 	 2003
+83 	 Canada 	     19.50 	 2003
+84 	 Turkmenistan 	     19.50 	 2003
+85 	 Cameroon 	     19.40 	 2003
+86 	 Benin 	     19.30 	 2003
+87 	 Mexico 	     19.30 	 2003
+88 	 Rwanda 	     19.30 	 2003
+89 	 France 	     19.20 	 2003
+90 	 Italy 	     19.10 	 2003
+91 	 Jordan 	     18.80 	 2003
+92 	 Albania 	     18.70 	 2003
+93 	 Poland 	     18.40 	 2003
+94 	 Togo 	     18.40 	 2003
+95 	 Russia 	     18.20 	 2003
+96 	 Philippines 	     18.10 	 2003
+97 	 Brazil 	     18.00 	 2003
+98 	 Georgia 	     18.00 	 2003
+99 	 Saudi Arabia 	     18.00 	 2003
+100 	 Finland 	     18.00 	 2003
+101 	 Norway 	     17.80 	 2003
+102 	 Germany 	     17.70 	 2003
+103 	 Peru 	     17.70 	 2003
+104 	 Kyrgyzstan 	     17.60 	 2003
+105 	 Taiwan 	     17.50 	 2003
+106 	 Israel 	     17.20 	 2003
+107 	 Tanzania 	     17.20 	 2003
+108 	 Paraguay 	     17.20 	 2003
+109 	 Moldova 	     17.20 	 2003
+110 	 Ethiopia 	     17.00 	 2003
+111 	 Egypt 	     16.70 	 2003
+112 	 Cape Verde 	     16.50 	 2003
+113 	 Macedonia 	     16.30 	 2003
+114 	 El Salvador 	     16.20 	 2003
+115 	 United Kingdom 	     16.20 	 2003
+116 	 South Africa 	     16.00 	 2003
+117 	 Cambodia 	     15.90 	 2003
+118 	 Colombia 	     15.90 	 2003
+119 	 Sweden 	     15.70 	 2003
+120 	 Turkey 	     15.50 	 2003
+121 	 Guatemala 	     15.20 	 2003
+122 	 United States 	     15.20 	 2003
+123 	 Argentina 	     15.10 	 2003
+124 	 Libya 	     15.00 	 2003
+125 	 Madagascar 	     14.80 	 2003
+126 	 Trinidad and Tobago 	     14.80 	 2003
+127 	 Sudan 	     14.80 	 2003
+128 	 Kenya 	     14.30 	 2003
+129 	 Serbia and Montenegro 	     14.30 	 2003
+130 	 Papua New Guinea 	     13.90 	 2003
+131 	 Syria 	     13.60 	 2003
+132 	 Oman 	     13.00 	 2003
+133 	 Pakistan 	     12.90 	 2003
+134 	 Venezuela 	     12.60 	 2003
+135 	 Bolivia 	     12.40 	 2003
+136 	 Malawi 	     12.30 	 2003
+137 	 Bahrain 	     11.90 	 2003
+138 	 Burma 	     11.80 	 2003
+139 	 Cuba 	     10.10 	 2003
+140 	 Burundi 	      9.80 	 2003
+141 	 Uruguay 	      9.70 	 2003
+142 	 Zimbabwe 	      8.90 	 2003
+143 	 Cote d'Ivoire 	      8.70 	 2003
+144 	 Kuwait 	      8.00 	 2003
+145 	 Tajikistan 	      7.50 	 2003
+
+ This file was last updated on 10 February, 2005

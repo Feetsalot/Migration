@@ -1,0 +1,124 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Public debt(% of GDP) 	 Date of Information
+1 	 Lebanon 	    190.20 	 2006 est.
+2 	 Japan 	    177.60 	 2006 est.
+3 	 Jamaica 	    137.10 	 2006 est.
+4 	 Seychelles 	    134.40 	 2006 est.
+5 	 Egypt 	    113.40 	 2006 est.
+6 	 Italy 	    106.70 	 2006 est.
+7 	 Singapore 	     98.30 	 2006 est.
+8 	 Zimbabwe 	     96.40 	 2006 est.
+9 	 Sri Lanka 	     93.00 	 2006 est.
+10 	 Belgium 	     88.80 	 2006 est.
+11 	 Israel 	     84.90 	 2006 est.
+12 	 Nicaragua 	     83.10 	 2006 est.
+13 	 Cote d'Ivoire 	     82.50 	 2006 est.
+14 	 Greece 	     82.40 	 2006 est.
+15 	 Bhutan 	     81.40 	 2004
+16 	 Ethiopia 	     80.30 	 2006 est.
+17 	 Uruguay 	     72.10 	 2006 est.
+18 	 Jordan 	     69.80 	 2006 est.
+19 	 Germany 	     67.80 	 2006 est.
+20 	 Canada 	     67.70 	 2006 est.
+21 	 Morocco 	     67.40 	 2006 est.
+22 	 Mauritius 	     66.40 	 2006 est.
+23 	 Portugal 	     65.30 	 2006 est.
+24 	 Hungary 	     64.90 	 2006 est.
+25 	 Cyprus 	     64.80 	 2006 est.
+26 	 United States 	     64.70 	 2005 est.
+27 	 France 	     64.20 	 2006 est.
+28 	 Argentina 	     64.00 	 2006 est.
+29 	 Philippines 	     63.80 	 2006 est.
+30 	 Sudan 	     63.20 	 2006 est.
+31 	 Austria 	     62.10 	 2006 est.
+32 	 India 	     60.00 	 2006 est.
+33 	 Turkey 	     59.80 	 2006 est.
+34 	 Panama 	     58.40 	 2006 est.
+35 	 Colombia 	     56.80 	 2006 est.
+36 	 Tunisia 	     55.70 	 2006 est.
+37 	 Pakistan 	     55.10 	 2006 est.
+38 	 Serbia 	     53.10 	 2005 est.
+39 	 Costa Rica 	     51.80 	 2006 est.
+40 	 Switzerland 	     51.00 	 2006 est.
+41 	 Netherlands 	     49.40 	 2006 est.
+42 	 Gabon 	     49.10 	 2006 est.
+43 	 Kenya 	     48.50 	 2006 est.
+44 	 Ghana 	     48.00 	 2006 est.
+45 	 Sweden 	     47.80 	 2006 est.
+46 	 Papua New Guinea 	     47.00 	 2006 est.
+47 	 Aruba 	     46.30 	 2005
+48 	 Croatia 	     46.10 	 2006 est.
+49 	 Brazil 	     46.00 	 2006 est.
+50 	 Poland 	     45.50 	 2006 est.
+51 	 Vietnam 	     43.80 	 2006 est.
+52 	 Dominican Republic 	     43.30 	 2006 est.
+53 	 United Kingdom 	     42.70 	 2006 est.
+54 	 Malaysia 	     42.30 	 2006 est.
+55 	 Macedonia 	     41.50 	 2006 est.
+56 	 Norway 	     41.20 	 2006 est.
+57 	 Thailand 	     41.20 	 2006 est.
+58 	 El Salvador 	     41.10 	 2006 est.
+59 	 Spain 	     39.90 	 2006 est.
+60 	 Bangladesh 	     39.60 	 2006 est.
+61 	 Malawi 	     39.40 	 2006 est.
+62 	 Finland 	     38.90 	 2006 est.
+63 	 Indonesia 	     38.60 	 2006 est.
+64 	 Syria 	     37.90 	 2006 est.
+65 	 Trinidad and Tobago 	     37.50 	 2006 est.
+66 	 Zambia 	     35.70 	 2006 est.
+67 	 Slovakia 	     35.00 	 2006 est.
+68 	 Taiwan 	     34.60 	 2006 est.
+69 	 Honduras 	     33.60 	 2006 est.
+70 	 South Africa 	     33.30 	 2006 est.
+71 	 Ecuador 	     33.00 	 2006 est.
+72 	 Peru 	     32.60 	 2006 est.
+73 	 Saudi Arabia 	     32.20 	 2006 est.
+74 	 Iceland 	     31.50 	 2006 est.
+75 	 Bahrain 	     31.00 	 2006 est.
+76 	 Namibia 	     30.70 	 2006 est.
+77 	 Denmark 	     30.10 	 2006 est.
+78 	 Moldova 	     30.00 	 2006 est.
+79 	 Yemen 	     29.20 	 2006 est.
+80 	 Paraguay 	     27.80 	 2006 est.
+81 	 Tanzania 	     27.80 	 2006 est.
+82 	 Czech Republic 	     27.50 	 2006 est.
+83 	 Qatar 	     26.80 	 2006 est.
+84 	 Angola 	     26.60 	 2006 est.
+85 	 Bulgaria 	     26.20 	 2006 est.
+86 	 Slovenia 	     25.80 	 2006 est.
+87 	 Korea, South 	     25.20 	 2006 est.
+88 	 Ireland 	     24.90 	 2006 est.
+89 	 Uzbekistan 	     24.80 	 2006 est.
+90 	 Cameroon 	     24.40 	 2006 est.
+91 	 Venezuela 	     24.30 	 2006 est.
+92 	 Iran 	     23.60 	 2006 est.
+93 	 Bosnia and Herzegovina 	     23.40 	 2006 est.
+94 	 Mexico 	     23.30 	 2006 est.
+95 	 Guatemala 	     23.20 	 2006 est.
+96 	 Mozambique 	     23.20 	 2006 est.
+97 	 China 	     22.10 	 2006 est.
+98 	 New Zealand 	     21.20 	 2006 est.
+99 	 Uganda 	     19.40 	 2006 est.
+100 	 Romania 	     18.30 	 2006 est.
+101 	 Lithuania 	     18.20 	 2006 est.
+102 	 Senegal 	     16.30 	 2006 est.
+103 	 United Arab Emirates 	     16.20 	 2006 est.
+104 	 Australia 	     16.10 	 2006 est.
+105 	 Nigeria 	     15.70 	 2006 est.
+106 	 Ukraine 	     14.10 	 2006 est.
+107 	 Hong Kong 	     13.30 	 2006 est.
+108 	 Algeria 	     12.80 	 2006 est.
+109 	 Kazakhstan 	     12.50 	 2006 est.
+110 	 Latvia 	      9.90 	 2006 est.
+111 	 Azerbaijan 	      8.30 	 2006 est.
+112 	 Kuwait 	      8.20 	 2006 est.
+113 	 Russia 	      7.70 	 2006 est.
+114 	 Botswana 	      6.60 	 2006 est.
+115 	 Wallis and Futuna 	      5.60 	 2004 est.
+116 	 Chile 	      5.40 	 2006 est.
+117 	 Libya 	      5.40 	 2006 est.
+118 	 Equatorial Guinea 	      4.20 	 2006 est.
+119 	 Estonia 	      4.10 	 2006 est.
+120 	 Oman 	      3.40 	 2006 est.
+
+ This file was last updated on 13 December, 2007

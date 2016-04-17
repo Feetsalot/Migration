@@ -1,0 +1,113 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Public debt(% of GDP) 	 Date of Information
+1 	 Malawi 	    235.70 	 2003
+2 	 Lebanon 	    185.10 	 2003
+3 	 Japan 	    154.60 	 2003
+4 	 Jamaica 	    145.60 	 2003
+5 	 Zambia 	    133.60 	 2003
+6 	 Seychelles 	    129.30 	 2003
+7 	 Nicaragua 	    125.30 	 2003
+8 	 Serbia and Montenegro 	    123.20 	 2003
+9 	 Israel 	    108.60 	 2003
+10 	 Italy 	    106.40 	 2003
+11 	 Singapore 	    106.40 	 2003
+12 	 Sri Lanka 	    105.10 	 2003
+13 	 Belgium 	    102.00 	 2003 est.
+14 	 Egypt 	    101.80 	 2003
+15 	 Greece 	    100.90 	 2003
+16 	 Saudi Arabia 	     94.60 	 2003
+17 	 Jordan 	     92.70 	 2003
+18 	 Syria 	     89.00 	 2003
+19 	 Moldova 	     88.40 	 2003
+20 	 Sudan 	     87.00 	 2003
+21 	 Cote d'Ivoire 	     82.50 	 2003
+22 	 Turkey 	     78.70 	 2003
+23 	 Canada 	     77.00 	 2003
+24 	 Philippines 	     77.00 	 2003
+25 	 Morocco 	     76.20 	 2003
+26 	 Panama 	     73.30 	 2003
+27 	 Indonesia 	     72.90 	 2003
+28 	 Pakistan 	     72.70 	 2003
+29 	 Qatar 	     72.70 	 2003
+30 	 Papua New Guinea 	     72.40 	 2003
+31 	 Croatia 	     69.10 	 2003
+32 	 France 	     68.80 	 2003
+33 	 Austria 	     67.60 	 2003
+34 	 Argentina 	     65.70 	 2003 est.
+35 	 Vietnam 	     64.30 	 2003
+36 	 Germany 	     64.20 	 2003
+37 	 Kenya 	     62.90 	 2003
+38 	 Spain 	     62.70 	 2003
+39 	 United States 	     62.40 	 2003
+40 	 Cyprus 	     62.30 	 2003
+41 	 Uganda 	     62.20 	 2003
+42 	 Portugal 	     59.80 	 2003
+43 	 India 	     59.70 	 2003
+44 	 Tunisia 	     59.50 	 2003
+45 	 Dominican Republic 	     59.40 	 2003
+46 	 Brazil 	     58.50 	 2003
+47 	 Honduras 	     57.80 	 2003
+48 	 Bahrain 	     57.50 	 2003
+49 	 Cameroon 	     57.10 	 2003
+50 	 Switzerland 	     57.10 	 2003
+51 	 Hungary 	     57.00 	 2003
+52 	 Costa Rica 	     56.10 	 2003
+53 	 Trinidad and Tobago 	     55.90 	 2003
+54 	 Senegal 	     54.20 	 2003
+55 	 Netherlands 	     54.10 	 2003
+56 	 Ecuador 	     53.70 	 2003
+57 	 Colombia 	     51.90 	 2003
+58 	 Sweden 	     51.80 	 2003
+59 	 United Kingdom 	     51.00 	 2003
+60 	 Peru 	     49.20 	 2003
+61 	 Finland 	     48.70 	 2003
+62 	 Bulgaria 	     48.00 	 2003
+63 	 Poland 	     47.40 	 2003
+64 	 Thailand 	     46.60 	 2003
+65 	 Malaysia 	     45.50 	 2003
+66 	 Paraguay 	     45.10 	 2003
+67 	 Denmark 	     45.00 	 2003
+68 	 El Salvador 	     43.70 	 2003
+69 	 Bangladesh 	     43.30 	 2003
+70 	 Uzbekistan 	     42.30 	 2003
+71 	 Algeria 	     41.50 	 2003 est.
+72 	 Iceland 	     41.50 	 2003
+73 	 Zimbabwe 	     41.30 	 2003
+74 	 Yemen 	     39.50 	 2003
+75 	 Venezuela 	     38.80 	 2003
+76 	 South Africa 	     38.20 	 2003
+77 	 Slovakia 	     37.60 	 2003
+78 	 Namibia 	     35.60 	 2003
+79 	 Russia 	     34.10 	 2003
+80 	 Mauritius 	     31.90 	 2003
+81 	 Slovenia 	     31.90 	 2003
+82 	 Gabon 	     31.50 	 2003
+83 	 Ireland 	     31.20 	 2003
+84 	 Guatemala 	     30.80 	 2003
+85 	 Taiwan 	     30.50 	 2003
+86 	 Macedonia 	     30.20 	 2003
+87 	 China 	     30.10 	 2003
+88 	 Czech Republic 	     29.70 	 2003
+89 	 Kuwait 	     29.50 	 2003
+90 	 Ukraine 	     28.70 	 2003
+91 	 Nigeria 	     28.60 	 2003
+92 	 Iran 	     28.20 	 2003
+93 	 New Zealand 	     25.60 	 2003
+94 	 Romania 	     25.50 	 2003
+95 	 Lithuania 	     23.60 	 2003
+96 	 Mexico 	     23.10 	 2003
+97 	 Norway 	     22.10 	 2003
+98 	 Australia 	     18.20 	 2003
+99 	 United Arab Emirates 	     18.10 	 2003
+100 	 Libya 	     16.60 	 2003
+101 	 Azerbaijan 	     16.30 	 2003 est.
+102 	 Oman 	     15.60 	 2003
+103 	 Kazakhstan 	     15.50 	 2003
+104 	 Chile 	     14.80 	 2003
+105 	 Latvia 	     14.40 	 2003
+106 	 Korea, South 	     13.80 	 2003
+107 	 Estonia 	      7.40 	 2003
+108 	 Botswana 	      7.00 	 2003
+109 	 Tanzania 	      6.10 	 2003
+
+ This file was last updated on 10 February, 2005

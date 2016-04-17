@@ -1,0 +1,114 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - imports(cu m) 	 Date of Information
+1 	 World 	    785,800,000,000 	 2005
+2 	 European Union 	    361,500,000,000 	 2005 est.
+3 	 United States 	    117,900,000,000 	 2005
+4 	 Germany 	     86,990,000,000 	 2005
+5 	 Japan 	     77,600,000,000 	 2005
+6 	 Italy 	     70,450,000,000 	 2005
+7 	 Ukraine 	     57,090,000,000 	 2006 est.
+8 	 France 	     47,020,000,000 	 2005
+9 	 Russia 	     37,500,000,000 	 2005
+10 	 Spain 	     31,760,000,000 	 2005
+11 	 Korea, South 	     28,290,000,000 	 2005
+12 	 Turkey 	     25,480,000,000 	 2005
+13 	 Netherlands 	     22,080,000,000 	 2005
+14 	 Belarus 	     19,310,000,000 	 2005
+15 	 Belgium 	     17,270,000,000 	 2005
+16 	 United Kingdom 	     15,840,000,000 	 2005
+17 	 Hungary 	     11,510,000,000 	 2005
+18 	 Kazakhstan 	     11,090,000,000 	 2005
+19 	 Poland 	     10,010,000,000 	 2005
+20 	 Mexico 	      9,717,000,000 	 2005
+21 	 Canada 	      9,403,000,000 	 2005
+22 	 Taiwan 	      9,217,000,000 	 2005
+23 	 Austria 	      9,063,000,000 	 2005
+24 	 Czech Republic 	      8,976,000,000 	 2005
+25 	 Thailand 	      8,497,000,000 	 2005
+26 	 Brazil 	      8,478,000,000 	 2005
+27 	 Slovakia 	      6,396,000,000 	 2005
+28 	 Singapore 	      6,339,000,000 	 2005
+29 	 Chile 	      6,234,000,000 	 2005
+30 	 Romania 	      6,234,000,000 	 2005
+31 	 India 	      5,793,000,000 	 2005
+32 	 Iran 	      5,563,000,000 	 2005
+33 	 Bulgaria 	      5,179,000,000 	 2005
+34 	 Azerbaijan 	      4,373,000,000 	 2005
+35 	 Portugal 	      4,281,000,000 	 2005
+36 	 Finland 	      4,245,000,000 	 2005
+37 	 Ireland 	      3,348,000,000 	 2005
+38 	 Switzerland 	      3,260,000,000 	 2005
+39 	 Hong Kong 	      2,944,000,000 	 2005
+40 	 Lithuania 	      2,916,000,000 	 2005
+41 	 Greece 	      2,707,000,000 	 2005
+42 	 Moldova 	      2,350,000,000 	 2005
+43 	 Serbia 	      2,100,000,000 	 2004 est.
+44 	 Latvia 	      1,861,000,000 	 2005
+45 	 Tunisia 	      1,726,000,000 	 2005
+46 	 Argentina 	      1,669,000,000 	 2005
+47 	 Armenia 	      1,630,000,000 	 2005
+48 	 Estonia 	      1,458,000,000 	 2005
+49 	 Georgia 	      1,400,000,000 	 2005
+50 	 Luxembourg 	      1,356,000,000 	 2005
+51 	 United Arab Emirates 	      1,343,000,000 	 2005
+52 	 Tajikistan 	      1,333,000,000 	 2005
+53 	 Jordan 	      1,228,000,000 	 2005
+54 	 Croatia 	      1,103,000,000 	 2005
+55 	 Slovenia 	      1,073,000,000 	 2005
+56 	 Sweden 	       893,900,000 	 2005
+57 	 Kyrgyzstan 	       680,900,000 	 2005
+58 	 Puerto Rico 	       642,600,000 	 2005
+59 	 Bosnia and Herzegovina 	       383,600,000 	 2005
+60 	 Dominican Republic 	       239,800,000 	 2005
+61 	 Macedonia 	        95,910,000 	 2005
+62 	 Uruguay 	        86,320,000 	 2005
+63 	 Afghanistan 	               0 	 2005
+64 	 Bolivia 	               0 	 2005
+65 	 Yemen 	               0 	 2005
+66 	 Vietnam 	               0 	 2005
+67 	 Venezuela 	               0 	 2005
+68 	 Syria 	               0 	 2006 est.
+69 	 Senegal 	               0 	 2005
+70 	 South Africa 	               0 	 2005
+71 	 Saudi Arabia 	               0 	 2005
+72 	 Philippines 	               0 	 2005
+73 	 Qatar 	               0 	 2005
+74 	 Papua New Guinea 	               0 	 2005
+75 	 Pakistan 	               0 	 2005
+76 	 Peru 	               0 	 2005
+77 	 Turkmenistan 	               0 	 2005
+78 	 Trinidad and Tobago 	               0 	 2005
+79 	 New Zealand 	               0 	 2005
+80 	 Kuwait 	               0 	 2005
+81 	 Iraq 	               0 	 2005
+82 	 Cote d'Ivoire 	               0 	 2005
+83 	 Israel 	               0 	 2005
+84 	 Indonesia 	               0 	 2005
+85 	 Gabon 	               0 	 2005
+86 	 Ecuador 	               0 	 2005
+87 	 Denmark 	               0 	 2005
+88 	 Cuba 	               0 	 2005
+89 	 Colombia 	               0 	 2005
+90 	 Cameroon 	               0 	 2005
+91 	 China 	               0 	 2005
+92 	 Congo, Republic of the 	               0 	 2005
+93 	 Brunei 	               0 	 2005
+94 	 Burma 	               0 	 2005
+95 	 Norway 	               0 	 2005
+96 	 Nigeria 	               0 	 2005
+97 	 Mozambique 	               0 	 2005
+98 	 Malaysia 	               0 	 2005
+99 	 Oman 	               0 	 2005
+100 	 Morocco 	               0 	 2005
+101 	 Libya 	               0 	 2005
+102 	 Equatorial Guinea 	               0 	 2005
+103 	 Egypt 	               0 	 2005
+104 	 Bangladesh 	               0 	 2005
+105 	 Barbados 	               0 	 2005
+106 	 Bahrain 	               0 	 2005
+107 	 Australia 	               0 	 2005
+108 	 Angola 	               0 	 2005
+109 	 Albania 	               0 	 2005
+110 	 Algeria 	               0 	 2005
+
+ This file was last updated on 13 December, 2007

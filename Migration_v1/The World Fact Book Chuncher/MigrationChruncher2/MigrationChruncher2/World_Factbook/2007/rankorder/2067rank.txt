@@ -1,0 +1,4 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Death rate(deaths/1,000 population) 	 Date of Information
+
+ This file was last updated on 3 October, 2007

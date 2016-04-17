@@ -1,0 +1,153 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Current account balance 	 Date of Information
+1 	 Japan 	 $     158,300,000,000 	 2005 est.
+2 	 China 	 $     129,100,000,000 	 2005 est.
+3 	 Germany 	 $     119,800,000,000 	 2005 est.
+4 	 Russia 	 $      89,310,000,000 	 2005 est.
+5 	 Saudi Arabia 	 $      84,140,000,000 	 2005 est.
+6 	 Norway 	 $      51,500,000,000 	 2005 est.
+7 	 Switzerland 	 $      49,660,000,000 	 2005 est.
+8 	 Kuwait 	 $      31,510,000,000 	 2005 est.
+9 	 Sweden 	 $      25,680,000,000 	 2005 est.
+10 	 United Arab Emirates 	 $      25,660,000,000 	 2005 est.
+11 	 Singapore 	 $      25,240,000,000 	 2005 est.
+12 	 Hong Kong 	 $      23,850,000,000 	 2005 est.
+13 	 Algeria 	 $      21,830,000,000 	 2005 est.
+14 	 Venezuela 	 $      20,300,000,000 	 2005 est.
+15 	 Netherlands 	 $      17,940,000,000 	 2005 est.
+16 	 Canada 	 $      16,890,000,000 	 2005 est.
+17 	 Malaysia 	 $      15,350,000,000 	 2005 est.
+18 	 Taiwan 	 $      15,030,000,000 	 2005 est.
+19 	 Libya 	 $      14,440,000,000 	 2005 est.
+20 	 Korea, South 	 $      14,320,000,000 	 2005 est.
+21 	 Qatar 	 $      10,530,000,000 	 2005 est.
+22 	 Brazil 	 $      10,420,000,000 	 2005 est.
+23 	 Nigeria 	 $       9,622,000,000 	 2005 est.
+24 	 Iran 	 $       8,179,000,000 	 2005 est.
+25 	 Denmark 	 $       7,019,000,000 	 2005 est.
+26 	 Belgium 	 $       6,983,000,000 	 2005 est.
+27 	 Finland 	 $       5,858,000,000 	 2005 est.
+28 	 Angola 	 $       4,484,000,000 	 2005 est.
+29 	 Oman 	 $       4,459,000,000 	 2005 est.
+30 	 Ukraine 	 $       4,338,000,000 	 2005 est.
+31 	 Indonesia 	 $       3,899,000,000 	 2005 est.
+32 	 Philippines 	 $       3,872,000,000 	 2005 est.
+33 	 Kazakhstan 	 $       3,343,000,000 	 2005 est.
+34 	 Trinidad and Tobago 	 $       3,270,000,000 	 2005 est.
+35 	 Egypt 	 $       2,928,000,000 	 2005 est.
+36 	 Argentina 	 $       1,908,000,000 	 2005 est.
+37 	 Austria 	 $       1,755,000,000 	 2005 est.
+38 	 Bahrain 	 $       1,569,000,000 	 2005 est.
+39 	 Equatorial Guinea 	 $       1,364,000,000 	 2005 est.
+40 	 Yemen 	 $       1,282,000,000 	 2005 est.
+41 	 Gabon 	 $       1,110,000,000 	 2005 est.
+42 	 Syria 	 $        980,000,000 	 2005 est.
+43 	 Uzbekistan 	 $        882,000,000 	 2005 est.
+44 	 Chad 	 $        663,300,000 	 2005 est.
+45 	 Namibia 	 $        579,000,000 	 2005 est.
+46 	 Botswana 	 $        562,000,000 	 2005 est.
+47 	 Israel 	 $        500,000,000 	 2005 est.
+48 	 Bolivia 	 $        376,000,000 	 2005 est.
+49 	 Belarus 	 $        312,400,000 	 2005 est.
+50 	 Chile 	 $        309,000,000 	 2005 est.
+51 	 Peru 	 $        241,000,000 	 2005 est.
+52 	 Congo, Republic of the 	 $        195,600,000 	 2005 est.
+53 	 Cameroon 	 $        159,000,000 	 2005 est.
+54 	 Mauritius 	 $        151,000,000 	 2005 est.
+55 	 Papua New Guinea 	 $        113,000,000 	 2005 est.
+56 	 Ecuador 	 $         58,000,000 	 2005 est.
+57 	 Ghana 	 $         57,000,000 	 2005 est.
+58 	 Haiti 	 $         34,080,000 	 2005 est.
+59 	 Seychelles 	 $        -16,660,000 	 2005 est.
+60 	 Sao Tome and Principe 	 $        -19,000,000 	 2005 est.
+61 	 Uruguay 	 $        -19,000,000 	 2005 est.
+62 	 Gambia, The 	 $        -20,540,000 	 2005 est.
+63 	 Burundi 	 $        -55,000,000 	 2005 est.
+64 	 Laos 	 $        -58,350,000 	 2005 est.
+65 	 Kyrgyzstan 	 $        -77,020,000 	 2005 est.
+66 	 Rwanda 	 $        -79,000,000 	 2005 est.
+67 	 Tajikistan 	 $        -92,000,000 	 2005 est.
+68 	 Guyana 	 $        -92,720,000 	 2005 est.
+69 	 Swaziland 	 $       -142,400,000 	 2005 est.
+70 	 Cape Verde 	 $       -147,700,000 	 2005 est.
+71 	 Lesotho 	 $       -152,100,000 	 2005 est.
+72 	 Benin 	 $       -155,100,000 	 2005 est.
+73 	 Paraguay 	 $       -170,000,000 	 2005 est.
+74 	 Moldova 	 $       -178,000,000 	 2005 est.
+75 	 Belize 	 $       -200,100,000 	 2005 est.
+76 	 Slovenia 	 $       -202,000,000 	 2005 est.
+77 	 Turkmenistan 	 $       -204,300,000 	 2005 est.
+78 	 Burma 	 $       -215,000,000 	 2005 est.
+79 	 Malawi 	 $       -217,000,000 	 2005 est.
+80 	 Togo 	 $       -223,000,000 	 2005 est.
+81 	 Armenia 	 $       -237,700,000 	 2005 est.
+82 	 Guinea 	 $       -268,400,000 	 2005 est.
+83 	 Cambodia 	 $       -269,000,000 	 2005 est.
+84 	 Eritrea 	 $       -278,700,000 	 2005 est.
+85 	 Cote d'Ivoire 	 $       -289,000,000 	 2005 est.
+86 	 Madagascar 	 $       -292,000,000 	 2005 est.
+87 	 Macedonia 	 $       -303,000,000 	 2005 est.
+88 	 Zambia 	 $       -327,000,000 	 2005 est.
+89 	 Uganda 	 $       -339,000,000 	 2005 est.
+90 	 Dominican Republic 	 $       -383,000,000 	 2005 est.
+91 	 Sri Lanka 	 $       -388,000,000 	 2005 est.
+92 	 Georgia 	 $       -439,300,000 	 2005 est.
+93 	 Honduras 	 $       -456,000,000 	 2005 est.
+94 	 Albania 	 $       -475,000,000 	 2005 est.
+95 	 Tunisia 	 $       -492,000,000 	 2005 est.
+96 	 Tanzania 	 $       -508,000,000 	 2005 est.
+97 	 Zimbabwe 	 $       -517,000,000 	 2005 est.
+98 	 Mozambique 	 $       -530,900,000 	 2005 est.
+99 	 Panama 	 $       -559,000,000 	 2005 est.
+100 	 Burkina Faso 	 $       -562,000,000 	 2005 est.
+101 	 Bangladesh 	 $       -591,000,000 	 2005 est.
+102 	 Malta 	 $       -593,000,000 	 2005 est.
+103 	 Morocco 	 $       -607,500,000 	 2005 est.
+104 	 Senegal 	 $       -638,000,000 	 2005 est.
+105 	 Sudan 	 $       -658,000,000 	 2005 est.
+106 	 Kenya 	 $       -694,000,000 	 2005 est.
+107 	 Cuba 	 $       -748,000,000 	 2005 est.
+108 	 Cyprus 	 $       -849,000,000 	 2005 est.
+109 	 El Salvador 	 $       -858,000,000 	 2005 est.
+110 	 Colombia 	 $       -917,000,000 	 2005 est.
+111 	 Nicaragua 	 $       -984,000,000 	 2005 est.
+112 	 Ethiopia 	 $      -1,023,000,000 	 2005 est.
+113 	 Jordan 	 $      -1,080,000,000 	 2005 est.
+114 	 Costa Rica 	 $      -1,179,000,000 	 2005 est.
+115 	 Jamaica 	 $      -1,186,000,000 	 2005 est.
+116 	 Guatemala 	 $      -1,236,000,000 	 2005 est.
+117 	 Latvia 	 $      -1,392,000,000 	 2005 est.
+118 	 Estonia 	 $      -1,403,000,000 	 2005 est.
+119 	 Pakistan 	 $      -1,430,000,000 	 2005 est.
+120 	 Azerbaijan 	 $      -1,530,000,000 	 2005 est.
+121 	 Vietnam 	 $      -1,695,000,000 	 2005 est.
+122 	 Croatia 	 $      -1,790,000,000 	 2005 est.
+123 	 Lithuania 	 $      -1,870,000,000 	 2005 est.
+124 	 Iceland 	 $      -2,009,000,000 	 2005 est.
+125 	 Bosnia and Herzegovina 	 $      -2,375,000,000 	 2005 est.
+126 	 Serbia and Montenegro 	 $      -2,451,000,000 	 2005 est.
+127 	 Bulgaria 	 $      -2,741,000,000 	 2005 est.
+128 	 Slovakia 	 $      -2,881,000,000 	 2005 est.
+129 	 Czech Republic 	 $      -3,523,000,000 	 2005 est.
+130 	 Lebanon 	 $      -4,090,000,000 	 2005 est.
+131 	 Poland 	 $      -4,159,000,000 	 2005 est.
+132 	 Ireland 	 $      -5,190,000,000 	 2005 est.
+133 	 Thailand 	 $      -5,901,000,000 	 2005 est.
+134 	 New Zealand 	 $      -8,137,000,000 	 2005 est.
+135 	 Hungary 	 $      -8,667,000,000 	 2005 est.
+136 	 Mexico 	 $      -8,970,000,000 	 2005 est.
+137 	 Iraq 	 $      -9,447,000,000 	 2004 est.
+138 	 Romania 	 $      -9,541,000,000 	 2005 est.
+139 	 South Africa 	 $      -9,584,000,000 	 2005 est.
+140 	 India 	 $     -13,190,000,000 	 2005 est.
+141 	 Greece 	 $     -14,500,000,000 	 2005 est.
+142 	 Portugal 	 $     -15,000,000,000 	 2005 est.
+143 	 Turkey 	 $     -22,000,000,000 	 2005 est.
+144 	 Italy 	 $     -27,620,000,000 	 2005 est.
+145 	 France 	 $     -30,110,000,000 	 2005 est.
+146 	 United Kingdom 	 $     -38,400,000,000 	 2005 est.
+147 	 Australia 	 $     -41,100,000,000 	 2005 est.
+148 	 Spain 	 $     -64,620,000,000 	 2005 est.
+149 	 United States 	 $    -829,100,000,000 	 2005 est.
+
+ This file was last updated on 10 January, 2006

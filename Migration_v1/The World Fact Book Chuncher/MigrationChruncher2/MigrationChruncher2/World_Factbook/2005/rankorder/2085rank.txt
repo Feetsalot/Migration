@@ -1,0 +1,232 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Roadways(km) 	 Date of Information
+1 	 World 	        32,345,165 	 2002
+2 	 United States 	         6,393,603 	 2003
+3 	 European Union 	         4,634,810 	 1999-2000
+4 	 India 	         3,851,440 	 2002
+5 	 China 	         1,809,829 	 2003
+6 	 Brazil 	         1,724,929 	 2000
+7 	 Canada 	         1,408,800 	 2002
+8 	 Japan 	         1,177,278 	 2002
+9 	 France 	          891,290 	 2003
+10 	 Australia 	          811,601 	 2002
+11 	 Spain 	          664,852 	 2001
+12 	 Russia 	          537,289 	 2001
+13 	 Italy 	          479,688 	 1999
+14 	 United Kingdom 	          392,931 	 2003
+15 	 Indonesia 	          368,360 	 2002
+16 	 Poland 	          364,697 	 2001
+17 	 Turkey 	          354,421 	 2002
+18 	 Mexico 	          329,532 	 1999 est.
+19 	 South Africa 	          275,971 	 2002
+20 	 Kazakhstan 	          258,029 	 2003
+21 	 Pakistan 	          257,683 	 2001
+22 	 Bangladesh 	          239,226 	 2003
+23 	 Germany 	          231,581 	 2003
+24 	 Argentina 	          215,471 	 1999
+25 	 Sweden 	          213,237 	 2002
+26 	 Philippines 	          202,124 	 2002
+27 	 Romania 	          198,755 	 2002
+28 	 Nigeria 	          194,394 	 1999 est.
+29 	 Iran 	          178,152 	 2002
+30 	 Ukraine 	          169,679 	 2002
+31 	 Hungary 	          159,568 	 2002
+32 	 Congo, Democratic Republic of the 	          157,000 	 1999
+33 	 Saudi Arabia 	          152,044 	 2000
+34 	 Belgium 	          149,757 	 2003
+35 	 Austria 	          133,718 	 2003
+36 	 Czech Republic 	          127,672 	 2002
+37 	 Netherlands 	          116,500 	 1999
+38 	 Greece 	          116,470 	 1999
+39 	 Colombia 	          112,998 	 2000
+40 	 Algeria 	          104,000 	 1999
+41 	 Bulgaria 	          102,016 	 2003
+42 	 Korea, South 	           97,252 	 2003
+43 	 Venezuela 	           96,155 	 1999 est.
+44 	 Ireland 	           95,736 	 2002
+45 	 Vietnam 	           93,300 	 1999 est.
+46 	 Belarus 	           93,055 	 2003
+47 	 New Zealand 	           92,382 	 2002
+48 	 Norway 	           91,852 	 2002
+49 	 Zambia 	           91,440 	 2001
+50 	 Tanzania 	           88,200 	 1999 est.
+51 	 Libya 	           83,200 	 1999
+52 	 Uzbekistan 	           81,600 	 1999 est.
+53 	 Cameroon 	           80,932 	 2002
+54 	 Chile 	           79,605 	 2001
+55 	 Lithuania 	           78,893 	 2003
+56 	 Peru 	           78,230 	 2001
+57 	 Finland 	           78,168 	 2004
+58 	 Denmark 	           71,847 	 2002
+59 	 Switzerland 	           71,212 	 2002
+60 	 Latvia 	           69,919 	 2003
+61 	 Yemen 	           67,000 	 1999 est.
+62 	 Malaysia 	           65,877 	 2001
+63 	 Egypt 	           64,000 	 1999
+64 	 Kenya 	           63,942 	 2000
+65 	 Cuba 	           60,858 	 1999
+66 	 Bolivia 	           60,762 	 2003
+67 	 Morocco 	           57,694 	 2002
+68 	 Thailand 	           57,403 	 2000 est.
+69 	 Estonia 	           56,849 	 2003
+70 	 Angola 	           51,429 	 2001
+71 	 Cote d'Ivoire 	           50,400 	 1999
+72 	 Madagascar 	           49,827 	 1999
+73 	 Mongolia 	           49,256 	 2002
+74 	 Ghana 	           47,787 	 2003
+75 	 Syria 	           45,697 	 2002
+76 	 Iraq 	           45,550 	 1999
+77 	 Serbia and Montenegro 	           45,290 	 2002
+78 	 Guinea 	           44,348 	 2003
+79 	 Ecuador 	           43,197 	 2003
+80 	 Slovakia 	           42,970 	 2002
+81 	 Namibia 	           42,237 	 2002
+82 	 Taiwan 	           37,299 	 2002
+83 	 Costa Rica 	           35,889 	 2003
+84 	 Oman 	           34,965 	 2001
+85 	 Afghanistan 	           34,789 	 2003
+86 	 Ethiopia 	           33,856 	 2003
+87 	 Chad 	           33,400 	 1999
+88 	 Laos 	           32,620 	 2002
+89 	 Gabon 	           32,333 	 2003
+90 	 Korea, North 	           31,200 	 1999 est.
+91 	 Mozambique 	           30,400 	 1999 est.
+92 	 Burma 	           30,000 	 
+93 	 Paraguay 	           29,500 	 1999 est
+94 	 Croatia 	           28,588 	 2003
+95 	 Malawi 	           28,400 	 1999
+96 	 Tajikistan 	           27,767 	 2000
+97 	 Azerbaijan 	           27,016 	 2003
+98 	 Uganda 	           27,000 	 1999 est.
+99 	 Puerto Rico 	           25,328 	 2004
+100 	 Botswana 	           25,233 	 2003
+101 	 Turkmenistan 	           24,000 	 1999 est.
+102 	 Central African Republic 	           23,810 	 1999
+103 	 Somalia 	           22,100 	 1999 est.
+104 	 Bosnia and Herzegovina 	           21,846 	 1999
+105 	 Slovenia 	           20,250 	 2002
+106 	 Georgia 	           20,247 	 2003
+107 	 Papua New Guinea 	           19,600 	 1999 est.
+108 	 Tunisia 	           18,997 	 2001
+109 	 Nicaragua 	           18,712 	 2002
+110 	 Jamaica 	           18,700 	 1999
+111 	 Kyrgyzstan 	           18,500 	 1999
+112 	 Zimbabwe 	           18,338 	 1999 est.
+113 	 Albania 	           18,000 	 2002
+114 	 Israel 	           17,237 	 2002
+115 	 Portugal 	           17,135 	 2002
+116 	 Mali 	           15,100 	 1999 est.
+117 	 Senegal 	           14,576 	 2000
+118 	 Burundi 	           14,480 	 1999
+119 	 Cyprus 	           14,110 	 2003/1996 est.
+120 	 Guatemala 	           14,095 	 1999
+121 	 Honduras 	           13,603 	 1999
+122 	 Nepal 	           13,223 	 1999 est.
+123 	 Iceland 	           13,004 	 2004
+124 	 Congo, Republic of the 	           12,800 	 1999
+125 	 Moldova 	           12,719 	 2002
+126 	 Dominican Republic 	           12,600 	 1999
+127 	 Burkina Faso 	           12,506 	 1999
+128 	 Cambodia 	           12,323 	 2000
+129 	 Rwanda 	           12,000 	 1999 est.
+130 	 Sudan 	           11,900 	 1999 est.
+131 	 Sri Lanka 	           11,650 	 2002
+132 	 Panama 	           11,643 	 2000 est.
+133 	 Sierra Leone 	           11,300 	 2002
+134 	 Liberia 	           10,600 	 1999
+135 	 Niger 	           10,100 	 1999 est.
+136 	 El Salvador 	           10,029 	 1999
+137 	 Uruguay 	            8,983 	 1999 est.
+138 	 Macedonia 	            8,684 	 1999
+139 	 Trinidad and Tobago 	            8,320 	 1999 est.
+140 	 Bhutan 	            8,050 	 2003
+141 	 Guyana 	            7,970 	 1999
+142 	 Mauritania 	            7,660 	 1999 est.
+143 	 Armenia 	            7,633 	 2003
+144 	 Togo 	            7,520 	 1999 est.
+145 	 Jordan 	            7,364 	 2003
+146 	 Lebanon 	            7,300 	 1999
+147 	 Benin 	            6,787 	 1999
+148 	 Western Sahara 	            6,200 	 1991 est
+149 	 Lesotho 	            5,940 	 1999
+150 	 New Caledonia 	            5,432 	 2000
+151 	 Luxembourg 	            5,210 	 2002
+152 	 West Bank 	            4,500 	 1997 est.
+153 	 Suriname 	            4,492 	 2002
+154 	 Kuwait 	            4,450 	 1999
+155 	 Guinea-Bissau 	            4,400 	 1999
+156 	 Haiti 	            4,160 	 1999
+157 	 Eritrea 	            4,010 	 1999
+158 	 East Timor 	            3,800 	 1995
+159 	 Gambia, The 	            3,742 	 2003
+160 	 Bahrain 	            3,498 	 2003
+161 	 Fiji 	            3,440 	 1999
+162 	 Singapore 	            3,130 	 2002
+163 	 Swaziland 	            3,107 	 2000
+164 	 Djibouti 	            2,890 	 1999
+165 	 Equatorial Guinea 	            2,880 	 1999
+166 	 Belize 	            2,872 	 1999
+167 	 Bahamas, The 	            2,693 	 1999
+168 	 French Polynesia 	            2,590 	 1999
+169 	 Malta 	            2,222 	 2002
+170 	 Martinique 	            2,105 	 2000
+171 	 Mauritius 	            2,000 	 2002
+172 	 Hong Kong 	            1,831 	 1999
+173 	 Barbados 	            1,600 	 2003
+174 	 Solomon Islands 	            1,360 	 1999 est.
+175 	 Cape Verde 	            1,350 	 2002
+176 	 Virgin Islands 	            1,257 	 2003
+177 	 Qatar 	            1,230 	 1999 est.
+178 	 Reunion 	            1,214 	 2001
+179 	 Saint Lucia 	            1,210 	 1999 est.
+180 	 Antigua and Barbuda 	            1,165 	 2002
+181 	 Brunei 	            1,150 	 1999
+182 	 Grenada 	            1,127 	 1999
+183 	 United Arab Emirates 	            1,088 	 1999 est.
+184 	 Vanuatu 	            1,070 	 1999 est.
+185 	 Guam 	             977 	 2004
+186 	 Guadeloupe 	             947 	 2002
+187 	 Comoros 	             880 	 1999
+188 	 Saint Vincent and the Grenadines 	             829 	 2002
+189 	 French Guiana 	             817 	 1998
+190 	 Isle of Man 	             800 	 1999
+191 	 Samoa 	             790 	 1999 est.
+192 	 Cayman Islands 	             785 	 2002
+193 	 Dominica 	             780 	 1999
+194 	 Tonga 	             680 	 1999 est.
+195 	 Kiribati 	             670 	 1999
+196 	 Netherlands Antilles 	             600 	 
+197 	 Faroe Islands 	             463 	 1999
+198 	 Bermuda 	             447 	 2002
+199 	 Falkland Islands (Islas Malvinas) 	             440 	 2003
+200 	 Seychelles 	             373 	 1997 est.
+201 	 Northern Mariana Islands 	             362 	 1991
+202 	 Macau 	             345 	 2003
+203 	 Cook Islands 	             320 	 2003
+204 	 Saint Kitts and Nevis 	             320 	 1999 est
+205 	 Sao Tome and Principe 	             320 	 1999 est.
+206 	 Andorra 	             269 	 
+207 	 Micronesia, Federated States of 	             240 	 1999 est.
+208 	 Niue 	             234 	 2001
+209 	 Montserrat 	             227 	 2003
+210 	 San Marino 	             220 	 2001
+211 	 Saint Helena 	             198 	 2000
+212 	 American Samoa 	             185 	 2004
+213 	 British Virgin Islands 	             177 	 2002
+214 	 Christmas Island 	             140 	 2002
+215 	 Turks and Caicos Islands 	             121 	 2000
+216 	 Wallis and Futuna 	             120 	 
+217 	 Saint Pierre and Miquelon 	             114 	 
+218 	 Anguilla 	             105 	 2002
+219 	 Mayotte 	              93 	 
+220 	 Norfolk Island 	              80 	 2001
+221 	 Marshall Islands 	              65 	 2002
+222 	 Palau 	              61 	 
+223 	 Monaco 	              50 	 1999 est.
+224 	 Nauru 	              30 	 1999 est.
+225 	 Gibraltar 	              29 	 2002
+226 	 Cocos (Keeling) Islands 	              15 	 2005
+227 	 Tuvalu 	               8 	 1999 est.
+228 	 Pitcairn Islands 	               6 	 
+
+ This file was last updated on 10 January, 2006

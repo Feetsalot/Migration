@@ -1,0 +1,82 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Stock of direct foreign investment - at home 	 Date of Information
+1 	 United States 	  1,818,000,000,000.00 	 2006 est.
+2 	 United Kingdom 	  1,135,000,000,000.00 	 2006 est.
+3 	 Hong Kong 	  769,100,000,000.00 	 2006 est.
+4 	 Germany 	  763,900,000,000.00 	 2006 est.
+5 	 China 	  699,500,000,000.00 	 2006 est.
+6 	 France 	  697,400,000,000.00 	 2006 est.
+7 	 Belgium 	  633,500,000,000.00 	 2006 est.
+8 	 Netherlands 	  450,900,000,000.00 	 2006 est.
+9 	 Spain 	  439,400,000,000.00 	 2006 est.
+10 	 Canada 	  398,400,000,000.00 	 2006 est.
+11 	 Italy 	  294,800,000,000.00 	 2006 est.
+12 	 Australia 	  246,200,000,000.00 	 2006 est.
+13 	 Mexico 	  236,200,000,000.00 	 2006 est.
+14 	 Switzerland 	  232,500,000,000.00 	 2006 est.
+15 	 Brazil 	  214,300,000,000.00 	 2006 est.
+16 	 Sweden 	  199,600,000,000.00 	 2006 est.
+17 	 Singapore 	  189,700,000,000.00 	 2006 est.
+18 	 Ireland 	  179,000,000,000.00 	 2006 est.
+19 	 Denmark 	  138,400,000,000.00 	 2006 est.
+20 	 Korea, South 	  118,000,000,000.00 	 2006 est.
+21 	 Poland 	  104,200,000,000.00 	 2006 est.
+22 	 Hungary 	  96,610,000,000.00 	 2006 est.
+23 	 Russia 	  90,720,000,000.00 	 2006 est.
+24 	 Japan 	  88,620,000,000.00 	 2006 est.
+25 	 Portugal 	  85,520,000,000.00 	 2006 est.
+26 	 Turkey 	  84,530,000,000.00 	 2006 est.
+27 	 Chile 	  84,070,000,000.00 	 2006 est.
+28 	 Malaysia 	  77,700,000,000.00 	 2006 est.
+29 	 Czech Republic 	  77,460,000,000.00 	 2006 est.
+30 	 South Africa 	  77,350,000,000.00 	 2006 est.
+31 	 Thailand 	  69,060,000,000.00 	 2006 est.
+32 	 India 	  67,720,000,000.00 	 2006 est.
+33 	 Austria 	  66,320,000,000.00 	 2006 est.
+34 	 Finland 	  64,180,000,000.00 	 2006 est.
+35 	 New Zealand 	  63,120,000,000.00 	 2006 est.
+36 	 Argentina 	  60,040,000,000.00 	 2006 est.
+37 	 Norway 	  56,700,000,000.00 	 2006 est.
+38 	 Israel 	  47,390,000,000.00 	 2006 est.
+39 	 Venezuela 	  45,400,000,000.00 	 2006 est.
+40 	 Colombia 	  45,010,000,000.00 	 2006 est.
+41 	 Taiwan 	  44,880,000,000.00 	 2006 est.
+42 	 United Arab Emirates 	  42,580,000,000.00 	 2006 est.
+43 	 Greece 	  41,320,000,000.00 	 2006 est.
+44 	 Romania 	  40,690,000,000.00 	 2006 est.
+45 	 Egypt 	  37,660,000,000.00 	 2006 est.
+46 	 Nigeria 	  31,660,000,000.00 	 2006 est.
+47 	 Kazakhstan 	  29,820,000,000.00 	 2006 est.
+48 	 Vietnam 	  26,270,000,000.00 	 2006 est.
+49 	 Morocco 	  23,500,000,000.00 	 2006 est.
+50 	 Indonesia 	  21,910,000,000.00 	 2006 est.
+51 	 Tunisia 	  21,220,000,000.00 	 2006 est.
+52 	 Ukraine 	  21,190,000,000.00 	 2006 est.
+53 	 Bulgaria 	  20,860,000,000.00 	 2006 est.
+54 	 Peru 	  19,360,000,000.00 	 2006 est.
+55 	 Slovakia 	  19,080,000,000.00 	 2006 est.
+56 	 Croatia 	  18,330,000,000.00 	 2006 est.
+57 	 Angola 	  17,600,000,000.00 	 2006 est.
+58 	 Philippines 	  16,370,000,000.00 	 2006 est.
+59 	 Estonia 	  16,320,000,000.00 	 2006 est.
+60 	 Ecuador 	  14,670,000,000.00 	 2006 est.
+61 	 Pakistan 	  14,670,000,000.00 	 2006 est.
+62 	 Algeria 	  14,370,000,000.00 	 2006 est.
+63 	 Azerbaijan 	  12,580,000,000.00 	 2006 est.
+64 	 Bahrain 	  11,550,000,000.00 	 2006 est.
+65 	 Cuba 	  11,240,000,000.00 	 2006 est.
+66 	 Lithuania 	  10,940,000,000.00 	 2006 est.
+67 	 Dominican Republic 	  10,670,000,000.00 	 2006 est.
+68 	 Qatar 	  10,630,000,000.00 	 2006 est.
+69 	 Jordan 	   8,154,000,000.00 	 2006 est.
+70 	 Slovenia 	   7,459,000,000.00 	 2006 est.
+71 	 Costa Rica 	   6,897,000,000.00 	 2006 est.
+72 	 Latvia 	   6,418,000,000.00 	 2006 est.
+73 	 El Salvador 	   4,377,000,000.00 	 2006 est.
+74 	 Iran 	   4,345,000,000.00 	 2006 est.
+75 	 Libya 	   4,305,000,000.00 	 2006 est.
+76 	 Bangladesh 	   4,208,000,000.00 	 2006 est.
+77 	 Kenya 	   1,169,000,000.00 	 2006 est.
+78 	 Kuwait 	    818,000,000.00 	 2006 est.
+
+ This file was last updated on 13 December, 2007

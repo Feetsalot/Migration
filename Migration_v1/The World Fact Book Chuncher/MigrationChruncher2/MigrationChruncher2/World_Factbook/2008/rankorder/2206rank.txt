@@ -1,0 +1,186 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Education expenditures(% of GDP) 	 Date of Information
+1 	 Kiribati 	           17.80 	 2002
+2 	 Lesotho 	           13.00 	 2006
+3 	 Marshall Islands 	           11.80 	 2004
+4 	 Palau 	           10.30 	 2002
+5 	 Yemen 	            9.60 	 2001
+6 	 Vanuatu 	            9.50 	 2003
+7 	 Uzbekistan 	            9.40 	 1991
+8 	 Saint Kitts and Nevis 	            9.30 	 2005
+9 	 Cuba 	            9.10 	 2006
+10 	 Botswana 	            8.70 	 2007
+11 	 Djibouti 	            8.40 	 2006
+12 	 Denmark 	            8.30 	 2005
+13 	 Guyana 	            8.30 	 2006
+14 	 Saint Vincent and the Grenadines 	            8.10 	 2005
+15 	 Maldives 	            8.00 	 2006
+16 	 Iceland 	            7.60 	 2004
+17 	 Moldova 	            7.60 	 2006
+18 	 Micronesia, Federated States of 	            7.30 	 2000
+19 	 Tunisia 	            7.30 	 2005
+20 	 Norway 	            7.20 	 2005
+21 	 Sweden 	            7.10 	 2005
+22 	 Bhutan 	            7.00 	 2005
+23 	 Swaziland 	            7.00 	 2005
+24 	 Barbados 	            6.90 	 2005
+25 	 Israel 	            6.90 	 2004
+26 	 Namibia 	            6.90 	 2003
+27 	 Kenya 	            6.90 	 2006
+28 	 Saudi Arabia 	            6.80 	 2004
+29 	 Saint Lucia 	            6.60 	 2006
+30 	 Fiji 	            6.50 	 2004
+31 	 Seychelles 	            6.50 	 2006
+32 	 Bolivia 	            6.40 	 2003
+33 	 Finland 	            6.40 	 2005
+34 	 Cape Verde 	            6.30 	 2006
+35 	 Cyprus 	            6.30 	 2004
+36 	 Ukraine 	            6.30 	 2006
+37 	 Malaysia 	            6.20 	 2004
+38 	 New Zealand 	            6.20 	 2006
+39 	 Belarus 	            6.10 	 2006
+40 	 Belgium 	            6.00 	 2004
+41 	 Slovenia 	            6.00 	 2005
+42 	 Sudan 	            6.00 	 1991
+43 	 Ethiopia 	            6.00 	 2006
+44 	 Malawi 	            5.80 	 2003
+45 	 Switzerland 	            5.80 	 2005
+46 	 France 	            5.70 	 2005
+47 	 United Kingdom 	            5.60 	 2005
+48 	 Hungary 	            5.50 	 2005
+49 	 Mexico 	            5.50 	 2005
+50 	 Portugal 	            5.50 	 2005
+51 	 Poland 	            5.50 	 2005
+52 	 Austria 	            5.40 	 2005
+53 	 South Africa 	            5.40 	 2006
+54 	 Ghana 	            5.40 	 2005
+55 	 Belize 	            5.30 	 2004
+56 	 Jamaica 	            5.30 	 2005
+57 	 United States 	            5.30 	 2005
+58 	 Netherlands 	            5.30 	 2005
+59 	 Brunei 	            5.20 	 2000
+60 	 Guinea-Bissau 	            5.20 	 1999
+61 	 Uganda 	            5.20 	 2004
+62 	 Grenada 	            5.20 	 2003
+63 	 Canada 	            5.20 	 2002
+64 	 Algeria 	            5.10 	 1999
+65 	 Malta 	            5.10 	 2004
+66 	 Latvia 	            5.10 	 2004
+67 	 Iran 	            5.10 	 2006
+68 	 Estonia 	            5.10 	 2004
+69 	 Burundi 	            5.10 	 2005
+70 	 Dominica 	            5.00 	 1999
+71 	 Tonga 	            5.00 	 2004
+72 	 Lithuania 	            5.00 	 2005
+73 	 Mongolia 	            5.00 	 2004
+74 	 Senegal 	            5.00 	 2006
+75 	 Mozambique 	            5.00 	 2005
+76 	 Costa Rica 	            4.90 	 2004
+77 	 Jordan 	            4.90 	 1999
+78 	 Kyrgyzstan 	            4.90 	 2005
+79 	 Aruba 	            4.80 	 2005
+80 	 Colombia 	            4.70 	 2006
+81 	 Ireland 	            4.70 	 2005
+82 	 Germany 	            4.60 	 2004
+83 	 Cote d'Ivoire 	            4.60 	 2001
+84 	 Zimbabwe 	            4.60 	 2000
+85 	 Korea, South 	            4.60 	 2004
+86 	 Australia 	            4.50 	 2005
+87 	 Mali 	            4.50 	 2006
+88 	 Italy 	            4.50 	 2005
+89 	 Croatia 	            4.50 	 2004
+90 	 Bulgaria 	            4.50 	 2005
+91 	 Benin 	            4.40 	 2004
+92 	 Greece 	            4.40 	 2005
+93 	 Monaco 	            4.40 	 2004
+94 	 Czech Republic 	            4.40 	 2004
+95 	 Samoa 	            4.30 	 2002
+96 	 Egypt 	            4.20 	 2006
+97 	 Spain 	            4.20 	 2005
+98 	 Burkina Faso 	            4.20 	 2006
+99 	 Thailand 	            4.20 	 2005
+100 	 Trinidad and Tobago 	            4.20 	 200
+101 	 Anguilla 	            4.00 	 2005
+102 	 Turkey 	            4.00 	 2004
+103 	 Oman 	            4.00 	 2006
+104 	 Paraguay 	            4.00 	 2004
+105 	 Brazil 	            4.00 	 2004
+106 	 Antigua and Barbuda 	            3.90 	 2002
+107 	 Bahrain 	            3.90 	 1991
+108 	 Turkmenistan 	            3.90 	 1991
+109 	 Syria 	            3.90 	 1999
+110 	 Mauritius 	            3.90 	 2006
+111 	 Slovakia 	            3.90 	 2005
+112 	 Hong Kong 	            3.90 	 2006
+113 	 Argentina 	            3.80 	 2004
+114 	 Panama 	            3.80 	 2004
+115 	 Rwanda 	            3.80 	 2005
+116 	 Sierra Leone 	            3.80 	 2005
+117 	 Russia 	            3.80 	 2005
+118 	 Gabon 	            3.80 	 2000
+119 	 Kuwait 	            3.80 	 2006
+120 	 Comoros 	            3.80 	 2002
+121 	 Honduras 	            3.80 	 1991
+122 	 Singapore 	            3.70 	 2001
+123 	 British Virgin Islands 	            3.70 	 2006
+124 	 Venezuela 	            3.70 	 2006
+125 	 Bahamas, The 	            3.60 	 2000
+126 	 Dominican Republic 	            3.60 	 2006
+127 	 Indonesia 	            3.60 	 2006
+128 	 Japan 	            3.50 	 2005
+129 	 Romania 	            3.50 	 2005
+130 	 Macedonia 	            3.50 	 2002
+131 	 Luxembourg 	            3.40 	 1999
+132 	 Tajikistan 	            3.40 	 2006
+133 	 Nepal 	            3.40 	 2003
+134 	 Niger 	            3.40 	 2006
+135 	 Solomon Islands 	            3.30 	 1999
+136 	 Qatar 	            3.30 	 2005
+137 	 Montserrat 	            3.30 	 2004
+138 	 Cameroon 	            3.30 	 2006
+139 	 Armenia 	            3.20 	 2001
+140 	 India 	            3.20 	 2005
+141 	 Chile 	            3.20 	 2006
+142 	 El Salvador 	            3.10 	 2006
+143 	 Nicaragua 	            3.10 	 2003
+144 	 Madagascar 	            3.10 	 2006
+145 	 Georgia 	            3.10 	 2006
+146 	 Laos 	            3.00 	 2006
+147 	 Albania 	            2.90 	 2002
+148 	 Uruguay 	            2.90 	 2006
+149 	 Mauritania 	            2.90 	 2006
+150 	 Cayman Islands 	            2.80 	 2005
+151 	 Bangladesh 	            2.70 	 2005
+152 	 Libya 	            2.70 	 1999
+153 	 Lebanon 	            2.70 	 2006
+154 	 Guatemala 	            2.60 	 2006
+155 	 Pakistan 	            2.60 	 2006
+156 	 Togo 	            2.60 	 2002
+157 	 Peru 	            2.50 	 2006
+158 	 Philippines 	            2.50 	 2005
+159 	 Angola 	            2.40 	 2005
+160 	 Macau 	            2.40 	 2005
+161 	 Eritrea 	            2.40 	 2006
+162 	 Andorra 	            2.30 	 2006
+163 	 Kazakhstan 	            2.30 	 2005
+164 	 Tanzania 	            2.20 	 1999
+165 	 Azerbaijan 	            2.10 	 2006
+166 	 Gambia, The 	            2.00 	 2004
+167 	 Zambia 	            2.00 	 2005
+168 	 Chad 	            1.90 	 2005
+169 	 Congo, Republic of the 	            1.90 	 2005
+170 	 China 	            1.90 	 1999
+171 	 Vietnam 	            1.80 	 1991
+172 	 Cambodia 	            1.70 	 2004
+173 	 Guinea 	            1.60 	 2005
+174 	 Central African Republic 	            1.40 	 2006
+175 	 Haiti 	            1.40 	 1991
+176 	 United Arab Emirates 	            1.30 	 2005
+177 	 Bermuda 	            1.20 	 2006
+178 	 Burma 	            1.20 	 2001
+179 	 Ecuador 	            1.00 	 2001
+180 	 Nigeria 	            0.90 	 1991
+181 	 Equatorial Guinea 	            0.60 	 2003
+182 	 Cook Islands 	            0.20 	 2001
+
+ This file was last updated on 18 December, 2008

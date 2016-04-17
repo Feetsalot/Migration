@@ -1,0 +1,167 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Merchant marine 	 Date of Information
+1 	 Panama 	            5,764 	 2007
+2 	 Liberia 	            1,948 	 2007
+3 	 China 	            1,775 	 2007
+4 	 Malta 	            1,281 	 2007
+5 	 Bahamas, The 	            1,213 	 2007
+6 	 Singapore 	            1,131 	 2007
+7 	 Russia 	            1,130 	 2007
+8 	 Antigua and Barbuda 	            1,059 	 2007
+9 	 Hong Kong 	            1,009 	 2007
+10 	 Indonesia 	             965 	 2007
+11 	 Marshall Islands 	             902 	 2007
+12 	 Cyprus 	             868 	 2007
+13 	 Greece 	             824 	 2007
+14 	 Korea, South 	             738 	 2007
+15 	 Norway 	             715 	 2007
+16 	 Japan 	             676 	 2007
+17 	 Italy 	             604 	 2007
+18 	 Cambodia 	             586 	 2007
+19 	 Saint Vincent and the Grenadines 	             582 	 2007
+20 	 Netherlands 	             566 	 2007
+21 	 Turkey 	             565 	 2007
+22 	 India 	             477 	 2007
+23 	 United Kingdom 	             474 	 2007
+24 	 United States 	             446 	 2007
+25 	 Thailand 	             405 	 2007
+26 	 Philippines 	             383 	 2007
+27 	 Germany 	             382 	 2007
+28 	 Vietnam 	             314 	 2007
+29 	 Malaysia 	             304 	 2007
+30 	 Denmark 	             299 	 2007
+31 	 Isle of Man 	             297 	 2007
+32 	 Belize 	             261 	 2007
+33 	 Gibraltar 	             216 	 2007
+34 	 Georgia 	             209 	 2007
+35 	 Sweden 	             194 	 2007
+36 	 Ukraine 	             193 	 2007
+37 	 Canada 	             171 	 2007
+38 	 Korea, North 	             171 	 2007
+39 	 Spain 	             167 	 2007
+40 	 Comoros 	             144 	 2007
+41 	 France 	             141 	 2007
+42 	 Netherlands Antilles 	             138 	 2007
+43 	 Brazil 	             135 	 2007
+44 	 Bermuda 	             133 	 2007
+45 	 Iran 	             131 	 2007
+46 	 Honduras 	             126 	 2007
+47 	 Cayman Islands 	             124 	 2007
+48 	 Portugal 	             117 	 2007
+49 	 Sierra Leone 	             113 	 2007
+50 	 Saint Kitts and Nevis 	             104 	 2007
+51 	 Taiwan 	             102 	 2007
+52 	 Syria 	              96 	 2007
+53 	 Finland 	              92 	 2007
+54 	 Azerbaijan 	              86 	 2007
+55 	 Egypt 	              77 	 2007
+56 	 Croatia 	              75 	 2007
+57 	 Tuvalu 	              74 	 2007
+58 	 Mongolia 	              73 	 2007
+59 	 Barbados 	              71 	 2007
+60 	 Bulgaria 	              71 	 2007
+61 	 Belgium 	              68 	 2007
+62 	 Monaco 	              64 	 2007
+63 	 United Arab Emirates 	              60 	 2007
+64 	 Mexico 	              60 	 2007
+65 	 Saudi Arabia 	              59 	 2007
+66 	 Venezuela 	              59 	 2007
+67 	 Nigeria 	              55 	 2007
+68 	 Slovakia 	              54 	 2007
+69 	 Dominica 	              53 	 2007
+70 	 Australia 	              52 	 2007
+71 	 Vanuatu 	              51 	 2007
+72 	 Lithuania 	              50 	 2007
+73 	 Chile 	              48 	 2007
+74 	 Argentina 	              47 	 2007
+75 	 Luxembourg 	              45 	 2007
+76 	 Bangladesh 	              41 	 2007
+77 	 Kuwait 	              38 	 2007
+78 	 Algeria 	              35 	 2007
+79 	 Lebanon 	              35 	 2007
+80 	 Morocco 	              35 	 2007
+81 	 Burma 	              33 	 2007
+82 	 Estonia 	              33 	 2007
+83 	 Ecuador 	              33 	 2007
+84 	 Switzerland 	              32 	 2007
+85 	 Jordan 	              30 	 2007
+86 	 Ireland 	              27 	 2007
+87 	 Slovenia 	              26 	 2007
+88 	 Bolivia 	              25 	 2007
+89 	 Albania 	              24 	 2007
+90 	 Sri Lanka 	              24 	 2007
+91 	 Papua New Guinea 	              24 	 2007
+92 	 Latvia 	              22 	 2007
+93 	 Maldives 	              22 	 2007
+94 	 Paraguay 	              22 	 2007
+95 	 Qatar 	              20 	 2007
+96 	 Romania 	              19 	 2007
+97 	 Israel 	              18 	 2007
+98 	 Libya 	              17 	 2007
+99 	 Cook Islands 	              16 	 2007
+100 	 Faroe Islands 	              16 	 2007
+101 	 Colombia 	              15 	 2007
+102 	 Pakistan 	              14 	 2007
+103 	 Uruguay 	              14 	 2007
+104 	 Tonga 	              14 	 2007
+105 	 French Polynesia 	              13 	 2007
+106 	 Jamaica 	              13 	 2007
+107 	 Iraq 	              13 	 2007
+108 	 Cuba 	              12 	 2007
+109 	 New Zealand 	              11 	 2007
+110 	 Poland 	              11 	 2007
+111 	 Ethiopia 	              10 	 2007
+112 	 Madagascar 	               9 	 2007
+113 	 Tanzania 	               9 	 2007
+114 	 Trinidad and Tobago 	               9 	 2007
+115 	 Brunei 	               8 	 2007
+116 	 Cape Verde 	               8 	 2007
+117 	 Fiji 	               8 	 2007
+118 	 Wallis and Futuna 	               8 	 2007
+119 	 Turkmenistan 	               8 	 2007
+120 	 Tunisia 	               8 	 2007
+121 	 Moldova 	               8 	 2007
+122 	 Austria 	               7 	 2007
+123 	 Bahrain 	               7 	 2007
+124 	 Kiribati 	               7 	 2007
+125 	 Sao Tome and Principe 	               7 	 2007
+126 	 Guyana 	               7 	 2007
+127 	 Peru 	               6 	 2007
+128 	 Seychelles 	               6 	 2007
+129 	 Angola 	               5 	 2007
+130 	 Mauritius 	               5 	 2007
+131 	 Kazakhstan 	               5 	 2007
+132 	 Gambia, The 	               5 	 2007
+133 	 Eritrea 	               5 	 2007
+134 	 Montenegro 	               4 	 2007
+135 	 Yemen 	               4 	 2007
+136 	 Micronesia, Federated States of 	               3 	 2007
+137 	 Ghana 	               3 	 2007
+138 	 Puerto Rico 	               3 	 2007
+139 	 Sudan 	               3 	 2007
+140 	 Gabon 	               2 	 2007
+141 	 Oman 	               2 	 2007
+142 	 Mozambique 	               2 	 2007
+143 	 Togo 	               2 	 2007
+144 	 South Africa 	               2 	 2007
+145 	 New Caledonia 	               2 	 2007
+146 	 Iceland 	               2 	 2007
+147 	 Greenland 	               2 	 2007
+148 	 Congo, Republic of the 	               1 	 2007
+149 	 Samoa 	               1 	 2007
+150 	 Namibia 	               1 	 2007
+151 	 Timor-Leste 	               1 	 2007
+152 	 Turks and Caicos Islands 	               1 	 2007
+153 	 Somalia 	               1 	 2007
+154 	 Suriname 	               1 	 2007
+155 	 Laos 	               1 	 2007
+156 	 Kenya 	               1 	 2007
+157 	 Cameroon 	               1 	 2007
+158 	 Djibouti 	               1 	 2007
+159 	 Czech Republic 	               1 	 2007
+160 	 Equatorial Guinea 	               1 	 2007
+161 	 Dominican Republic 	               1 	 2007
+162 	 Costa Rica 	               1 	 2007
+163 	 Congo, Democratic Republic of the 	               1 	 2007
+
+ This file was last updated on 13 December, 2007

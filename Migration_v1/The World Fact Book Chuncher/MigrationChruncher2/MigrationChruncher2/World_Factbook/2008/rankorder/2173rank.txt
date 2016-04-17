@@ -1,0 +1,216 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Oil - production(bbl/day) 	 Date of Information
+1 	 World 	        84,790,000 	 2007 est.
+2 	 Saudi Arabia 	        10,250,000 	 2007 est.
+3 	 Russia 	         9,876,000 	 2007 est.
+4 	 United States 	         8,457,000 	 2007 est.
+5 	 Iran 	         4,033,000 	 2007 est.
+6 	 China 	         3,725,000 	 2008 est.
+7 	 Mexico 	         3,501,000 	 2007 est.
+8 	 Canada 	         3,425,000 	 2007 est.
+9 	 United Arab Emirates 	         2,948,000 	 2007 est.
+10 	 European Union 	         2,674,000 	 2007
+11 	 Venezuela 	         2,667,000 	 2007 est.
+12 	 Kuwait 	         2,613,000 	 2007 est.
+13 	 Norway 	         2,565,000 	 2007 est.
+14 	 Nigeria 	         2,352,000 	 2007 est.
+15 	 Brazil 	         2,277,000 	 2007 est.
+16 	 Algeria 	         2,173,000 	 2007 est.
+17 	 Iraq 	         2,094,000 	 2007 est.
+18 	 Angola 	         1,910,000 	 2008 est.
+19 	 Libya 	         1,845,000 	 2007 est.
+20 	 United Kingdom 	         1,690,000 	 2007 est.
+21 	 Kazakhstan 	         1,445,000 	 2007 est.
+22 	 Qatar 	         1,125,000 	 2007 est.
+23 	 Azerbaijan 	         1,099,000 	 2008 est.
+24 	 Indonesia 	         1,044,000 	 2007 est.
+25 	 India 	          880,500 	 2007 est.
+26 	 Argentina 	          790,800 	 2007 est.
+27 	 Malaysia 	          753,700 	 2008 est.
+28 	 Oman 	          714,300 	 2007 est.
+29 	 Egypt 	          664,000 	 2007 est.
+30 	 Australia 	          600,000 	 2008 est.
+31 	 Colombia 	          550,000 	 2008 est.
+32 	 Ecuador 	          511,600 	 2007 est.
+33 	 Sudan 	          466,100 	 2007 est.
+34 	 Syria 	          433,200 	 2007 est.
+35 	 Equatorial Guinea 	          368,500 	 2007 est.
+36 	 Vietnam 	          350,700 	 2007 est.
+37 	 Thailand 	          348,600 	 2007 est.
+38 	 Yemen 	          320,600 	 2007 est.
+39 	 Denmark 	          313,800 	 2007 est.
+40 	 Congo, Republic of the 	          261,000 	 
+41 	 Gabon 	          243,900 	 2007 est.
+42 	 South Africa 	          199,100 	 2007 est.
+43 	 Brunei 	          180,500 	 2007 est.
+44 	 Turkmenistan 	          180,400 	 2007 est.
+45 	 Italy 	          166,600 	 2007 est.
+46 	 Trinidad and Tobago 	          163,300 	 2007 est.
+47 	 Chad 	          156,000 	 2008 est.
+48 	 Germany 	          148,100 	 2007 est.
+49 	 Japan 	          129,800 	 2007 est.
+50 	 Peru 	          125,000 	 2008 est.
+51 	 Romania 	          112,400 	 2007 est.
+52 	 Ukraine 	          102,400 	 2007 est.
+53 	 Uzbekistan 	           99,260 	 2007 est.
+54 	 Netherlands 	           88,950 	 2007 est.
+55 	 Cameroon 	           87,400 	 2008 est.
+56 	 Tunisia 	           86,210 	 2007 est.
+57 	 Timor-Leste 	           78,480 	 2007 est.
+58 	 France 	           69,680 	 2007 est.
+59 	 Pakistan 	           68,670 	 2007 est.
+60 	 Bolivia 	           61,790 	 2007 est.
+61 	 Cuba 	           61,300 	 2008 est.
+62 	 Cote d'Ivoire 	           54,400 	 2008 est.
+63 	 Bahrain 	           48,610 	 2007 est.
+64 	 New Zealand 	           47,850 	 2007 est.
+65 	 Turkey 	           42,800 	 2007 est.
+66 	 Papua New Guinea 	           42,100 	 2008 est.
+67 	 Poland 	           37,670 	 2007 est.
+68 	 Belarus 	           33,700 	 2007 est.
+69 	 Hungary 	           32,580 	 2007 est.
+70 	 Spain 	           29,000 	 2007 est.
+71 	 Austria 	           24,920 	 2007 est.
+72 	 Philippines 	           23,930 	 2007 est.
+73 	 Croatia 	           23,620 	 2007 est.
+74 	 Congo, Democratic Republic of the 	           22,160 	 2007 est.
+75 	 Burma 	           21,900 	 2007 est.
+76 	 Korea, South 	           20,970 	 2007 est.
+77 	 Virgin Islands 	           17,620 	 2007 est.
+78 	 Guatemala 	           15,820 	 2007 est.
+79 	 Mauritania 	           14,990 	 2007 est.
+80 	 Czech Republic 	           13,530 	 2007 est.
+81 	 Suriname 	           13,000 	 2007 est.
+82 	 Slovakia 	           12,770 	 2007 est.
+83 	 Chile 	           11,610 	 2007 est.
+84 	 Serbia 	           11,410 	 2007 est.
+85 	 Taiwan 	           10,600 	 2007 est.
+86 	 Singapore 	            9,836 	 2007 est.
+87 	 Finland 	            8,951 	 2007 est.
+88 	 Belgium 	            8,671 	 2007 est.
+89 	 Lithuania 	            8,250 	 2007 est.
+90 	 Ghana 	            7,571 	 2007 est.
+91 	 Estonia 	            7,430 	 2007 est.
+92 	 Bangladesh 	            6,746 	 2007 est.
+93 	 Albania 	            6,425 	 2007 est.
+94 	 Portugal 	            6,281 	 2007 est.
+95 	 Israel 	            5,966 	 2007 est.
+96 	 Greece 	            4,265 	 2007 est.
+97 	 Morocco 	            3,746 	 2007 est.
+98 	 Bulgaria 	            3,661 	 2007 est.
+99 	 Switzerland 	            3,202 	 2007 est.
+100 	 Belize 	            3,000 	 2007 est.
+101 	 Aruba 	            2,356 	 2007 est.
+102 	 Sweden 	            2,350 	 2007 est.
+103 	 Puerto Rico 	            1,354 	 2007 est.
+104 	 Barbados 	            1,111 	 2007 est.
+105 	 Georgia 	             979 	 2007 est.
+106 	 Kyrgyzstan 	             965 	 2007 est.
+107 	 Uruguay 	             936 	 2007 est.
+108 	 Tajikistan 	             281 	 2007 est.
+109 	 Zambia 	             150 	 2007 est.
+110 	 Korea, North 	             141 	 2007 est.
+111 	 Madagascar 	              92 	 2007 est.
+112 	 Dominican Republic 	              12 	 2004
+113 	 Ethiopia 	               7 	 2007 est.
+114 	 Slovenia 	               5 	 2007 est.
+115 	 Sierra Leone 	               1 	 2007 est.
+116 	 Antigua and Barbuda 	               0 	 2007 est.
+117 	 Botswana 	               0 	 2007 est.
+118 	 Bosnia and Herzegovina 	               0 	 2007 est.
+119 	 Solomon Islands 	               0 	 2007 est.
+120 	 Zimbabwe 	               0 	 2007 est.
+121 	 Swaziland 	               0 	 2007 est.
+122 	 Samoa 	               0 	 2007 est.
+123 	 Western Sahara 	               0 	 2007 est.
+124 	 Namibia 	               0 	 2007 est.
+125 	 British Virgin Islands 	               0 	 2007 est.
+126 	 Saint Vincent and the Grenadines 	               0 	 2007 est.
+127 	 Burkina Faso 	               0 	 2007 est.
+128 	 Uganda 	               0 	 2007 est.
+129 	 Tanzania 	               0 	 2007 est.
+130 	 Sao Tome and Principe 	               0 	 2007 est.
+131 	 Togo 	               0 	 2007 est.
+132 	 Tonga 	               0 	 2007 est.
+133 	 Turks and Caicos Islands 	               0 	 2007 est.
+134 	 Saint Lucia 	               0 	 2007 est.
+135 	 Somalia 	               0 	 2007 est.
+136 	 Saint Helena 	               0 	 2007 est.
+137 	 Senegal 	               0 	 2005 est.
+138 	 Seychelles 	               0 	 2007 est.
+139 	 Saint Kitts and Nevis 	               0 	 2007 est.
+140 	 Saint Pierre and Miquelon 	               0 	 2007 est.
+141 	 Rwanda 	               0 	 2007 est.
+142 	 Guinea-Bissau 	               0 	 2007 est.
+143 	 Panama 	               0 	 2007 est.
+144 	 Paraguay 	               0 	 2007 est.
+145 	 Nicaragua 	               0 	 2005 est.
+146 	 Netherlands Antilles 	               0 	 2005 est.
+147 	 Nauru 	               0 	 2007 est.
+148 	 Nepal 	               0 	 2007 est.
+149 	 Vanuatu 	               0 	 2007 est.
+150 	 Niger 	               0 	 2007 est.
+151 	 Niue 	               0 	 2007 est.
+152 	 New Caledonia 	               0 	 2007 est.
+153 	 Mozambique 	               0 	 2007 est.
+154 	 Maldives 	               0 	 2007 est.
+155 	 Malta 	               0 	 2007 est.
+156 	 Mauritius 	               0 	 2007 est.
+157 	 Macau 	               0 	 2007 est.
+158 	 Luxembourg 	               0 	 2007 est.
+159 	 Lesotho 	               0 	 2007 est.
+160 	 Liberia 	               0 	 2007 est.
+161 	 Latvia 	               0 	 2007 est.
+162 	 Lebanon 	               0 	 2007 est.
+163 	 Laos 	               0 	 2007 est.
+164 	 Kosovo 	               0 	 2007
+165 	 Kiribati 	               0 	 2007 est.
+166 	 Mali 	               0 	 2007 est.
+167 	 Macedonia 	               0 	 2007
+168 	 Montenegro 	               0 	 2007 est.
+169 	 Malawi 	               0 	 2007 est.
+170 	 Montserrat 	               0 	 2007 est.
+171 	 Mongolia 	               0 	 2007 est.
+172 	 Moldova 	               0 	 2007 est.
+173 	 Kenya 	               0 	 2008 est.
+174 	 Jordan 	               0 	 2005 est.
+175 	 Jamaica 	               0 	 2005 est.
+176 	 Iceland 	               0 	 2007 est.
+177 	 Gambia, The 	               0 	 2007 est.
+178 	 French Polynesia 	               0 	 2007 est.
+179 	 Faroe Islands 	               0 	 2007 est.
+180 	 Falkland Islands (Islas Malvinas) 	               0 	 2007 est.
+181 	 Fiji 	               0 	 2007 est.
+182 	 El Salvador 	               0 	 2005
+183 	 Eritrea 	               0 	 2007 est.
+184 	 Ireland 	               0 	 2005 est.
+185 	 Dominica 	               0 	 2007 est.
+186 	 Djibouti 	               0 	 2007 est.
+187 	 Cyprus 	               0 	 2008 est.
+188 	 Cook Islands 	               0 	 2007 est.
+189 	 Honduras 	               0 	 2007 est.
+190 	 Hong Kong 	               0 	 2007 est.
+191 	 Haiti 	               0 	 2007 est.
+192 	 Guyana 	               0 	 2007 est.
+193 	 Guinea 	               0 	 2007 est.
+194 	 Guam 	               0 	 2007 est.
+195 	 Greenland 	               0 	 2007 est.
+196 	 Grenada 	               0 	 2007 est.
+197 	 Gibraltar 	               0 	 2007 est.
+198 	 Cape Verde 	               0 	 2007 est.
+199 	 Central African Republic 	               0 	 2007 est.
+200 	 Costa Rica 	               0 	 2004
+201 	 Comoros 	               0 	 2007 est.
+202 	 Cayman Islands 	               0 	 2007 est.
+203 	 Sri Lanka 	               0 	 2005 est.
+204 	 Cambodia 	               0 	 2007 est.
+205 	 Burundi 	               0 	 2007 est.
+206 	 Bhutan 	               0 	 2007 est.
+207 	 Benin 	               0 	 2007 est.
+208 	 Bahamas, The 	               0 	 2007 est.
+209 	 Bermuda 	               0 	 2007 est.
+210 	 Armenia 	               0 	 2007 est.
+211 	 American Samoa 	               0 	 2007 est.
+212 	 Afghanistan 	               0 	 2007 est.
+
+ This file was last updated on 18 December, 2008

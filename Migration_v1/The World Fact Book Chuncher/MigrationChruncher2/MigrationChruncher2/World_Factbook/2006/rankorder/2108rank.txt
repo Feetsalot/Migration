@@ -1,0 +1,170 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Merchant marine 	 Date of Information
+1 	 World 	           33,222 	 2006
+2 	 Panama 	            5,473 	 2006
+3 	 China 	            1,723 	 2006
+4 	 Liberia 	            1,687 	 2006
+5 	 Malta 	            1,220 	 2006
+6 	 Russia 	            1,178 	 2006
+7 	 Bahamas, The 	            1,177 	 2006
+8 	 Singapore 	            1,063 	 2006
+9 	 Antigua and Barbuda 	            1,011 	 2006
+10 	 Hong Kong 	             924 	 2006
+11 	 Cyprus 	             884 	 2006
+12 	 Indonesia 	             824 	 2006
+13 	 Greece 	             817 	 2006
+14 	 Marshall Islands 	             795 	 2006
+15 	 Norway 	             724 	 2006
+16 	 Japan 	             683 	 2006
+17 	 Korea, South 	             669 	 2006
+18 	 Italy 	             591 	 2006
+19 	 Saint Vincent and the Grenadines 	             589 	 2006
+20 	 Netherlands 	             558 	 2006
+21 	 Turkey 	             545 	 2006
+22 	 Cambodia 	             544 	 2006
+23 	 United States 	             465 	 2006
+24 	 United Kingdom 	             449 	 2006
+25 	 Philippines 	             403 	 2006
+26 	 Thailand 	             400 	 2006
+27 	 Germany 	             394 	 2006
+28 	 India 	             316 	 2006
+29 	 Malaysia 	             312 	 2006
+30 	 Isle of Man 	             305 	 2006
+31 	 Denmark 	             293 	 2006
+32 	 Belize 	             285 	 2006
+33 	 Vietnam 	             267 	 2006
+34 	 Korea, North 	             232 	 2006
+35 	 Georgia 	             222 	 2006
+36 	 Ukraine 	             202 	 2006
+37 	 Sweden 	             198 	 2006
+38 	 Gibraltar 	             180 	 2006
+39 	 Canada 	             173 	 2006
+40 	 Spain 	             169 	 2006
+41 	 Netherlands Antilles 	             152 	 2006
+42 	 Iran 	             141 	 2006
+43 	 Brazil 	             137 	 2006
+44 	 Honduras 	             136 	 2006
+45 	 Bermuda 	             132 	 2006
+46 	 Cayman Islands 	             132 	 2006
+47 	 Comoros 	             121 	 2006
+48 	 Taiwan 	             112 	 2006
+49 	 Portugal 	             111 	 2006
+50 	 Syria 	             108 	 2006
+51 	 Finland 	              87 	 2006
+52 	 Azerbaijan 	              84 	 2006
+53 	 French Southern and Antarctic Lands 	              77 	 2006
+54 	 Monaco 	              77 	 2006
+55 	 Egypt 	              76 	 2006
+56 	 Bulgaria 	              75 	 2006
+57 	 Croatia 	              72 	 2006
+58 	 Belgium 	              66 	 2006
+59 	 France 	              61 	 2006
+60 	 Mongolia 	              61 	 2006
+61 	 Saudi Arabia 	              60 	 2006
+62 	 United Arab Emirates 	              58 	 2006
+63 	 Barbados 	              58 	 2006
+64 	 Mexico 	              56 	 2006
+65 	 Venezuela 	              56 	 2006
+66 	 Sierra Leone 	              54 	 2006
+67 	 Australia 	              53 	 2006
+68 	 Nigeria 	              52 	 2006
+69 	 Tuvalu 	              52 	 2006
+70 	 Vanuatu 	              51 	 2006
+71 	 Saint Kitts and Nevis 	              50 	 2006
+72 	 Lithuania 	              49 	 2006
+73 	 Dominica 	              48 	 2006
+74 	 Chile 	              46 	 2006
+75 	 Slovakia 	              43 	 2006
+76 	 Bangladesh 	              42 	 2006
+77 	 Luxembourg 	              42 	 2006
+78 	 Algeria 	              41 	 2006
+79 	 Argentina 	              41 	 2006
+80 	 Morocco 	              41 	 2006
+81 	 Lebanon 	              39 	 2006
+82 	 Kuwait 	              38 	 2006
+83 	 Estonia 	              35 	 2006
+84 	 Burma 	              34 	 2006
+85 	 Ecuador 	              31 	 2006
+86 	 Switzerland 	              27 	 2006
+87 	 Slovenia 	              26 	 2006
+88 	 Jordan 	              25 	 2006
+89 	 Albania 	              24 	 2006
+90 	 Bolivia 	              24 	 2006
+91 	 Papua New Guinea 	              24 	 2006
+92 	 Ireland 	              23 	 2006
+93 	 Romania 	              23 	 2006
+94 	 Qatar 	              23 	 2006
+95 	 Sri Lanka 	              22 	 2006
+96 	 Latvia 	              21 	 2006
+97 	 Paraguay 	              21 	 2006
+98 	 Faroe Islands 	              18 	 2006
+99 	 Israel 	              18 	 2006
+100 	 Libya 	              18 	 2006
+101 	 Colombia 	              17 	 2006
+102 	 Maldives 	              17 	 2006
+103 	 Pakistan 	              16 	 2006
+104 	 Tonga 	              16 	 2006
+105 	 French Polynesia 	              13 	 2006
+106 	 Uruguay 	              13 	 2006
+107 	 New Zealand 	              13 	 2006
+108 	 Iraq 	              13 	 2006
+109 	 Cuba 	              11 	 2006
+110 	 Poland 	              11 	 2006
+111 	 Jamaica 	              10 	 2006
+112 	 Madagascar 	               9 	 2006
+113 	 Tunisia 	               9 	 2006
+114 	 Tanzania 	               9 	 2006
+115 	 Austria 	               8 	 2006
+116 	 Wallis and Futuna 	               8 	 2006
+117 	 Turkmenistan 	               8 	 2006
+118 	 Sao Tome and Principe 	               8 	 2006
+119 	 Trinidad and Tobago 	               8 	 2006
+120 	 Ethiopia 	               8 	 2006
+121 	 Bahrain 	               8 	 2006
+122 	 Brunei 	               8 	 2006
+123 	 Cape Verde 	               7 	 2006
+124 	 Fiji 	               7 	 2006
+125 	 Moldova 	               7 	 2006
+126 	 Guyana 	               7 	 2006
+127 	 Cook Islands 	               6 	 2006
+128 	 Mauritius 	               6 	 2006
+129 	 Kazakhstan 	               6 	 2006
+130 	 Eritrea 	               6 	 2006
+131 	 Gambia, The 	               5 	 2006
+132 	 Seychelles 	               5 	 2006
+133 	 Angola 	               4 	 2006
+134 	 Peru 	               4 	 2006
+135 	 Yemen 	               4 	 2006
+136 	 Montenegro 	               4 	 2006
+137 	 Ghana 	               4 	 2006
+138 	 Greenland 	               3 	 2006
+139 	 South Africa 	               3 	 2006
+140 	 Kenya 	               3 	 2006
+141 	 Puerto Rico 	               3 	 2006
+142 	 Costa Rica 	               2 	 2006
+143 	 Togo 	               2 	 2006
+144 	 Sudan 	               2 	 2006
+145 	 New Caledonia 	               2 	 2006
+146 	 Mozambique 	               2 	 2006
+147 	 Kiribati 	               2 	 2006
+148 	 Gabon 	               2 	 2006
+149 	 Micronesia, Federated States of 	               2 	 2006
+150 	 Anguilla 	               1 	 2006
+151 	 Cameroon 	               1 	 2006
+152 	 Djibouti 	               1 	 2006
+153 	 Laos 	               1 	 2006
+154 	 Samoa 	               1 	 2006
+155 	 Namibia 	               1 	 2006
+156 	 British Virgin Islands 	               1 	 2006
+157 	 Somalia 	               1 	 2006
+158 	 Reunion 	               1 	 2006
+159 	 Suriname 	               1 	 2006
+160 	 Oman 	               1 	 2006
+161 	 Iceland 	               1 	 2006
+162 	 Dominican Republic 	               1 	 2006
+163 	 Czech Republic 	               1 	 2006
+164 	 Equatorial Guinea 	               1 	 2006
+165 	 Congo, Republic of the 	               1 	 2006
+166 	 Congo, Democratic Republic of the 	               1 	 2006
+
+ This file was last updated on 19 December, 2006

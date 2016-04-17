@@ -1,0 +1,151 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Investment (gross fixed)(% of GDP) 	 Date of Information
+1 	 Azerbaijan 	     57.40 	 2005 est.
+2 	 Equatorial Guinea 	     46.30 	 2005 est.
+3 	 Mozambique 	     44.80 	 2005 est.
+4 	 China 	     43.60 	 2005 est.
+5 	 Seychelles 	     41.50 	 2005 est.
+6 	 Guyana 	     36.20 	 2005 est.
+7 	 Vietnam 	     35.80 	 2005 est.
+8 	 Belize 	     35.40 	 2005 est.
+9 	 Jamaica 	     32.40 	 2005 est.
+10 	 Thailand 	     31.70 	 2005 est.
+11 	 Korea, South 	     31.40 	 2005 est.
+12 	 Sao Tome and Principe 	     31.20 	 2005 est.
+13 	 Angola 	     30.60 	 2005 est.
+14 	 Iran 	     30.50 	 2005 est.
+15 	 Latvia 	     29.90 	 2005 est.
+16 	 Lesotho 	     29.50 	 2005 est.
+17 	 Congo, Republic of the 	     28.90 	 2005 est.
+18 	 Croatia 	     28.10 	 2005 est.
+19 	 Spain 	     28.10 	 2005 est.
+20 	 Estonia 	     27.60 	 2005 est.
+21 	 Haiti 	     27.40 	 2004 est.
+22 	 Iceland 	     27.10 	 2005 est.
+23 	 Nicaragua 	     27.10 	 2005 est.
+24 	 Sri Lanka 	     27.00 	 2005 est.
+25 	 Honduras 	     27.00 	 2005 est.
+26 	 Eritrea 	     26.80 	 2005 est.
+27 	 Madagascar 	     26.80 	 2005 est.
+28 	 Cape Verde 	     26.40 	 2005 est.
+29 	 Czech Republic 	     26.20 	 2005 est.
+30 	 Malta 	     26.10 	 2005 est.
+31 	 Zambia 	     25.90 	 2005 est.
+32 	 Gambia, The 	     25.80 	 2005 est.
+33 	 Slovakia 	     25.80 	 2005 est.
+34 	 Ireland 	     25.60 	 2005 est.
+35 	 Turkmenistan 	     25.60 	 2005 est.
+36 	 Lebanon 	     25.50 	 2005 est.
+37 	 Dominican Republic 	     25.40 	 2005 est.
+38 	 Greece 	     25.30 	 2005 est.
+39 	 Australia 	     24.80 	 2005 est.
+40 	 Slovenia 	     24.80 	 2005 est.
+41 	 India 	     24.80 	 2005 est.
+42 	 Bangladesh 	     24.60 	 2005 est.
+43 	 Georgia 	     24.60 	 2005 est.
+44 	 Ghana 	     24.60 	 2005 est.
+45 	 Gabon 	     24.50 	 2005 est.
+46 	 Japan 	     24.40 	 2005 est.
+47 	 Belarus 	     24.20 	 2005 est.
+48 	 Venezuela 	     23.80 	 2005 est.
+49 	 Botswana 	     23.60 	 2005 est.
+50 	 New Zealand 	     23.60 	 2005 est.
+51 	 Morocco 	     23.50 	 2005 est.
+52 	 Romania 	     23.50 	 2005 est.
+53 	 Uganda 	     23.40 	 2005 est.
+54 	 Chile 	     23.20 	 2005 est.
+55 	 Hungary 	     23.10 	 2005 est.
+56 	 Nigeria 	     23.10 	 2005 est.
+57 	 Armenia 	     23.00 	 2005 est.
+58 	 Singapore 	     23.00 	 2005 est.
+59 	 Algeria 	     22.80 	 2005 est.
+60 	 Cambodia 	     22.80 	 2005 est.
+61 	 Albania 	     22.60 	 2005 est.
+62 	 Senegal 	     22.40 	 2005 est.
+63 	 Bulgaria 	     22.10 	 2005 est.
+64 	 Lithuania 	     22.10 	 2005 est.
+65 	 Ecuador 	     22.00 	 2005 est.
+66 	 Kazakhstan 	     22.00 	 2005 est.
+67 	 Mauritius 	     21.90 	 2005 est.
+68 	 Togo 	     21.90 	 2005 est.
+69 	 Tunisia 	     21.80 	 2005 est.
+70 	 Portugal 	     21.70 	 2005 est.
+71 	 Indonesia 	     21.50 	 2005 est.
+72 	 Argentina 	     21.40 	 2005 est.
+73 	 Hong Kong 	     21.20 	 2005 est.
+74 	 Switzerland 	     21.20 	 2005 est.
+75 	 Namibia 	     21.20 	 2005 est.
+76 	 Austria 	     21.10 	 2005 est.
+77 	 Syria 	     21.10 	 2005 est.
+78 	 Mexico 	     21.10 	 2005 est.
+79 	 Moldova 	     21.00 	 2005 est.
+80 	 Jordan 	     20.90 	 2005 est.
+81 	 Qatar 	     20.90 	 2005 est.
+82 	 Ethiopia 	     20.80 	 2005 est.
+83 	 Taiwan 	     20.80 	 2005 est.
+84 	 United Arab Emirates 	     20.70 	 2005 est.
+85 	 Papua New Guinea 	     20.40 	 2005 est.
+86 	 Malaysia 	     20.30 	 2005 est.
+87 	 Burkina Faso 	     20.30 	 2005 est.
+88 	 Canada 	     20.20 	 2005 est.
+89 	 Colombia 	     20.20 	 2005 est.
+90 	 Benin 	     20.10 	 2005 est.
+91 	 Paraguay 	     20.10 	 2005 est.
+92 	 Brazil 	     19.80 	 2005 est.
+93 	 Luxembourg 	     19.70 	 2005 est.
+94 	 European Union 	     19.60 	 2005 est.
+95 	 Denmark 	     19.50 	 2005 est.
+96 	 Tanzania 	     19.50 	 2005 est.
+97 	 Finland 	     19.40 	 2005 est.
+98 	 France 	     19.40 	 2005 est.
+99 	 Italy 	     19.30 	 2005 est.
+100 	 Netherlands 	     19.30 	 2005 est.
+101 	 Turkey 	     19.30 	 2005 est.
+102 	 Tajikistan 	     19.10 	 2005 est.
+103 	 Trinidad and Tobago 	     19.00 	 2005 est.
+104 	 Cyprus 	     18.90 	 2005 est.
+105 	 Norway 	     18.60 	 2005 est.
+106 	 Rwanda 	     18.60 	 2005 est.
+107 	 Peru 	     18.60 	 2005 est.
+108 	 Poland 	     18.50 	 2005 est.
+109 	 Ukraine 	     18.50 	 2005 est.
+110 	 Belgium 	     18.40 	 2005 est.
+111 	 Costa Rica 	     18.00 	 2005 est.
+112 	 Macedonia 	     18.00 	 2005 est.
+113 	 South Africa 	     17.90 	 2005 est.
+114 	 Panama 	     17.80 	 2005 est.
+115 	 Israel 	     17.50 	 2005 est.
+116 	 Russia 	     17.50 	 2005 est.
+117 	 Cameroon 	     17.30 	 2005 est.
+118 	 Sweden 	     17.30 	 2005 est.
+119 	 Guinea 	     17.30 	 2005 est.
+120 	 Kenya 	     17.20 	 2005 est.
+121 	 Germany 	     17.10 	 2005 est.
+122 	 Oman 	     17.00 	 2005 est.
+123 	 United States 	     16.80 	 2005 est.
+124 	 Philippines 	     16.30 	 2005 est.
+125 	 United Kingdom 	     16.30 	 2005 est.
+126 	 Saudi Arabia 	     16.30 	 2005 est.
+127 	 Egypt 	     16.20 	 2005 est.
+128 	 El Salvador 	     15.80 	 2005 est.
+129 	 Guatemala 	     15.50 	 2005 est.
+130 	 Sudan 	     15.40 	 2005 est.
+131 	 Pakistan 	     15.30 	 2005 est.
+132 	 Kyrgyzstan 	     15.00 	 2005 est.
+133 	 Bahrain 	     14.70 	 2005 est.
+134 	 Yemen 	     14.30 	 2005 est.
+135 	 Serbia and Montenegro 	     14.20 	 2005 est.
+136 	 Bolivia 	     12.50 	 2005 est.
+137 	 Uruguay 	     12.20 	 2005 est.
+138 	 Burma 	     11.50 	 2005 est.
+139 	 Burundi 	     11.50 	 2005 est.
+140 	 Libya 	     11.40 	 2005 est.
+141 	 Swaziland 	     10.40 	 2005 est.
+142 	 Cuba 	      9.80 	 2005 est.
+143 	 Malawi 	      9.50 	 2005 est.
+144 	 Cote d'Ivoire 	      8.70 	 2005 est.
+145 	 Zimbabwe 	      7.90 	 2005 est.
+146 	 Chad 	      7.20 	 2005 est.
+147 	 Kuwait 	      6.60 	 2005 est.
+
+ This file was last updated on 10 January, 2006

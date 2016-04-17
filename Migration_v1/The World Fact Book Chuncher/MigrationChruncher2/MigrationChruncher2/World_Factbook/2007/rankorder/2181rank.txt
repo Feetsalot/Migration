@@ -1,0 +1,211 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - consumption(cu m) 	 Date of Information
+1 	 World 	   2,811,000,000,000 	 2005 est.
+2 	 United States 	    604,000,000,000 	 2005 est.
+3 	 European Union 	    496,300,000,000 	 2005 est.
+4 	 Russia 	    438,700,000,000 	 2005 est.
+5 	 Iran 	     98,190,000,000 	 2005 est.
+6 	 Germany 	     96,840,000,000 	 2005 est.
+7 	 Canada 	     92,760,000,000 	 2005 est.
+8 	 United Kingdom 	     91,160,000,000 	 2005 est.
+9 	 Japan 	     83,670,000,000 	 2005 est.
+10 	 Italy 	     82,640,000,000 	 2005 est.
+11 	 Ukraine 	     73,940,000,000 	 2006 est.
+12 	 Saudi Arabia 	     68,320,000,000 	 2005 est.
+13 	 Uzbekistan 	     48,400,000,000 	 2006 est.
+14 	 Mexico 	     47,500,000,000 	 2005 est.
+15 	 Netherlands 	     47,460,000,000 	 2005 est.
+16 	 France 	     47,260,000,000 	 2005 est.
+17 	 China 	     44,930,000,000 	 2005 est.
+18 	 United Arab Emirates 	     39,560,000,000 	 2005 est.
+19 	 Argentina 	     38,790,000,000 	 2005 est.
+20 	 Indonesia 	     35,970,000,000 	 2005 est.
+21 	 India 	     34,470,000,000 	 2005 est.
+22 	 Egypt 	     32,810,000,000 	 2005 est.
+23 	 Malaysia 	     31,840,000,000 	 2005 est.
+24 	 Thailand 	     31,230,000,000 	 2005 est.
+25 	 Spain 	     30,580,000,000 	 2005 est.
+26 	 Pakistan 	     29,540,000,000 	 2005 est.
+27 	 Kazakhstan 	     29,200,000,000 	 2005 est.
+28 	 Korea, South 	     29,170,000,000 	 2005 est.
+29 	 Venezuela 	     27,530,000,000 	 2005 est.
+30 	 Turkey 	     26,250,000,000 	 2005 est.
+31 	 Australia 	     25,720,000,000 	 2005 est.
+32 	 Algeria 	     21,800,000,000 	 2005 est.
+33 	 Belarus 	     19,470,000,000 	 2005 est.
+34 	 Qatar 	     17,930,000,000 	 2005 est.
+35 	 Brazil 	     17,850,000,000 	 2005 est.
+36 	 Romania 	     17,460,000,000 	 2005 est.
+37 	 Turkmenistan 	     17,070,000,000 	 2005 est.
+38 	 Belgium 	     16,610,000,000 	 2005 est.
+39 	 Trinidad and Tobago 	     15,600,000,000 	 2005 est.
+40 	 Poland 	     15,580,000,000 	 2005 est.
+41 	 Hungary 	     14,370,000,000 	 2005 est.
+42 	 Bangladesh 	     13,430,000,000 	 2005 est.
+43 	 Kuwait 	     11,800,000,000 	 2005 est.
+44 	 Bahrain 	     10,270,000,000 	 2005 est.
+45 	 Taiwan 	      9,984,000,000 	 2005 est.
+46 	 Azerbaijan 	      9,955,000,000 	 2005 est.
+47 	 Nigeria 	      9,936,000,000 	 2005 est.
+48 	 Austria 	      9,217,000,000 	 2005
+49 	 Czech Republic 	      9,076,000,000 	 2005 est.
+50 	 Oman 	      8,795,000,000 	 2005 est.
+51 	 Chile 	      8,191,000,000 	 2005 est.
+52 	 Colombia 	      6,397,000,000 	 2005 est.
+53 	 Singapore 	      6,339,000,000 	 2005 est.
+54 	 Slovakia 	      6,231,000,000 	 2005 est.
+55 	 Libya 	      5,591,000,000 	 2005 est.
+56 	 Norway 	      5,342,000,000 	 2005 est.
+57 	 Bulgaria 	      5,179,000,000 	 2005 est.
+58 	 Syria 	      5,100,000,000 	 2006 est.
+59 	 Denmark 	      4,775,000,000 	 2005 est.
+60 	 Finland 	      4,244,000,000 	 2005 est.
+61 	 Portugal 	      4,125,000,000 	 2005 est.
+62 	 Tunisia 	      4,124,000,000 	 2005 est.
+63 	 Burma 	      3,971,000,000 	 2005 est.
+64 	 New Zealand 	      3,913,000,000 	 2005 est.
+65 	 Ireland 	      3,895,000,000 	 2005 est.
+66 	 Vietnam 	      3,836,000,000 	 2005 est.
+67 	 Switzerland 	      3,260,000,000 	 2005 est.
+68 	 Hong Kong 	      2,944,000,000 	 2005 est.
+69 	 Lithuania 	      2,916,000,000 	 2005 est.
+70 	 Philippines 	      2,781,000,000 	 2005 est.
+71 	 Greece 	      2,724,000,000 	 2005 est.
+72 	 Croatia 	      2,580,000,000 	 2005 est.
+73 	 Serbia 	      2,550,000,000 	 2005 est.
+74 	 Iraq 	      2,350,000,000 	 2005 est.
+75 	 Moldova 	      2,350,000,000 	 2005 est.
+76 	 Brunei 	      2,254,000,000 	 2005 est.
+77 	 South Africa 	      2,110,000,000 	 2005 est.
+78 	 Bolivia 	      2,024,000,000 	 2005 est.
+79 	 Latvia 	      1,861,000,000 	 2005 est.
+80 	 Armenia 	      1,630,000,000 	 2005 est.
+81 	 Peru 	      1,515,000,000 	 2005 est.
+82 	 Jordan 	      1,496,000,000 	 2005 est.
+83 	 Estonia 	      1,458,000,000 	 2005 est.
+84 	 Georgia 	      1,415,000,000 	 2005 est.
+85 	 Tajikistan 	      1,371,000,000 	 2005 est.
+86 	 Luxembourg 	      1,356,000,000 	 2005 est.
+87 	 Equatorial Guinea 	      1,247,000,000 	 2005 est.
+88 	 Cote d'Ivoire 	      1,247,000,000 	 2005 est.
+89 	 Slovenia 	      1,078,000,000 	 2005 est.
+90 	 Sweden 	       893,900,000 	 2005 est.
+91 	 Angola 	       767,300,000 	 2005 est.
+92 	 Israel 	       709,700,000 	 2005 est.
+93 	 Kyrgyzstan 	       709,700,000 	 2005 est.
+94 	 Puerto Rico 	       642,600,000 	 2005 est.
+95 	 Bosnia and Herzegovina 	       383,600,000 	 2005 est.
+96 	 Cuba 	       383,600,000 	 2005
+97 	 Ecuador 	       249,400,000 	 2005 est.
+98 	 Dominican Republic 	       239,800,000 	 2005 est.
+99 	 Mozambique 	       191,800,000 	 2005 est.
+100 	 Congo, Republic of the 	       115,100,000 	 2005 est.
+101 	 Gabon 	        95,910,000 	 2005 est.
+102 	 Papua New Guinea 	        95,910,000 	 2005 est.
+103 	 Macedonia 	        95,910,000 	 2005 est.
+104 	 Uruguay 	        86,320,000 	 2005 est.
+105 	 Morocco 	        47,950,000 	 2005 est.
+106 	 Senegal 	        47,950,000 	 2005 est.
+107 	 Albania 	        28,770,000 	 2005 est.
+108 	 Barbados 	        27,970,000 	 2005 est.
+109 	 Afghanistan 	        19,180,000 	 2005 est.
+110 	 Aruba 	               0 	 2005 est.
+111 	 Bahamas, The 	               0 	 2005 est.
+112 	 Solomon Islands 	               0 	 2005 est.
+113 	 Burundi 	               0 	 2005 est.
+114 	 Netherlands Antilles 	               0 	 2005 est.
+115 	 Suriname 	               0 	 2005 est.
+116 	 Nauru 	               0 	 2005 est.
+117 	 Nepal 	               0 	 2005 est.
+118 	 Vanuatu 	               0 	 2005 est.
+119 	 Niger 	               0 	 2005 est.
+120 	 Niue 	               0 	 2005 est.
+121 	 New Caledonia 	               0 	 2005 est.
+122 	 Maldives 	               0 	 2005 est.
+123 	 Zimbabwe 	               0 	 2005 est.
+124 	 Zambia 	               0 	 2005 est.
+125 	 Yemen 	               0 	 2005 est.
+126 	 Swaziland 	               0 	 2005 est.
+127 	 Samoa 	               0 	 2005 est.
+128 	 Western Sahara 	               0 	 2005 est.
+129 	 Namibia 	               0 	 2005 est.
+130 	 Virgin Islands 	               0 	 2005 est.
+131 	 British Virgin Islands 	               0 	 2005 est.
+132 	 Saint Vincent and the Grenadines 	               0 	 2005 est.
+133 	 Burkina Faso 	               0 	 2005 est.
+134 	 Uganda 	               0 	 2005 est.
+135 	 Tanzania 	               0 	 2005 est.
+136 	 Sao Tome and Principe 	               0 	 2005 est.
+137 	 Togo 	               0 	 2005 est.
+138 	 Tonga 	               0 	 2005 est.
+139 	 Turks and Caicos Islands 	               0 	 2005 est.
+140 	 Sudan 	               0 	 2005 est.
+141 	 Saint Lucia 	               0 	 2005 est.
+142 	 Somalia 	               0 	 2005 est.
+143 	 Sierra Leone 	               0 	 2005 est.
+144 	 Saint Helena 	               0 	 2005 est.
+145 	 Seychelles 	               0 	 2005 est.
+146 	 Saint Kitts and Nevis 	               0 	 2005 est.
+147 	 Saint Pierre and Miquelon 	               0 	 2005 est.
+148 	 Rwanda 	               0 	 2005 est.
+149 	 Guinea-Bissau 	               0 	 2005 est.
+150 	 Panama 	               0 	 2005 est.
+151 	 Paraguay 	               0 	 2005 est.
+152 	 Nicaragua 	               0 	 2005 est.
+153 	 Malta 	               0 	 2005 est.
+154 	 Mauritania 	               0 	 2005 est.
+155 	 Mauritius 	               0 	 2005 est.
+156 	 Mali 	               0 	 2005 est.
+157 	 Malawi 	               0 	 2005 est.
+158 	 Montserrat 	               0 	 2005 est.
+159 	 Macau 	               0 	 2005 est.
+160 	 Madagascar 	               0 	 2005 est.
+161 	 Lesotho 	               0 	 2005 est.
+162 	 Liberia 	               0 	 2005 est.
+163 	 Lebanon 	               0 	 2005 est.
+164 	 Laos 	               0 	 2005 est.
+165 	 Kiribati 	               0 	 2005 est.
+166 	 Korea, North 	               0 	 2005 est.
+167 	 Kenya 	               0 	 2005 est.
+168 	 Jamaica 	               0 	 2005 est.
+169 	 Iceland 	               0 	 2005 est.
+170 	 Honduras 	               0 	 2005 est.
+171 	 Haiti 	               0 	 2005 est.
+172 	 Guyana 	               0 	 2005 est.
+173 	 Guinea 	               0 	 2005 est.
+174 	 Guatemala 	               0 	 2005 est.
+175 	 Guam 	               0 	 2005 est.
+176 	 Greenland 	               0 	 2005 est.
+177 	 Grenada 	               0 	 2005 est.
+178 	 Gibraltar 	               0 	 2005 est.
+179 	 Ghana 	               0 	 2005 est.
+180 	 Gambia, The 	               0 	 2005 est.
+181 	 French Polynesia 	               0 	 2005 est.
+182 	 Faroe Islands 	               0 	 2005 est.
+183 	 Falkland Islands (Islas Malvinas) 	               0 	 2005 est.
+184 	 Fiji 	               0 	 2005 est.
+185 	 Ethiopia 	               0 	 2005 est.
+186 	 El Salvador 	               0 	 2005 est.
+187 	 Eritrea 	               0 	 2005 est.
+188 	 Dominica 	               0 	 2005 est.
+189 	 Djibouti 	               0 	 2005 est.
+190 	 Cook Islands 	               0 	 2005 est.
+191 	 Cape Verde 	               0 	 2005 est.
+192 	 Central African Republic 	               0 	 2005 est.
+193 	 Costa Rica 	               0 	 2005 est.
+194 	 Comoros 	               0 	 2005 est.
+195 	 Cameroon 	               0 	 2005 est.
+196 	 Cayman Islands 	               0 	 2005 est.
+197 	 Congo, Democratic Republic of the 	               0 	 2005 est.
+198 	 Sri Lanka 	               0 	 2005 est.
+199 	 Chad 	               0 	 2005 est.
+200 	 Cambodia 	               0 	 2005 est.
+201 	 Bhutan 	               0 	 2005 est.
+202 	 Benin 	               0 	 2005 est.
+203 	 Belize 	               0 	 2005 est.
+204 	 Bermuda 	               0 	 2005 est.
+205 	 American Samoa 	               0 	 2005 est.
+206 	 Botswana 	               0 	 2005 est.
+207 	 Antigua and Barbuda 	               0 	 2005 est.
+
+ This file was last updated on 13 December, 2007

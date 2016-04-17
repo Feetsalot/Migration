@@ -1,0 +1,104 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - proved reserves(cu m) 	 Date of Information
+1 	 World 	 166,800,000,000,000 	 1 January 2006 est.
+2 	 Russia 	  45,630,000,000,000 	 1 January 2006 est.
+3 	 Iran 	  26,370,000,000,000 	 1 January 2006 est.
+4 	 Qatar 	  24,730,000,000,000 	 1 January 2006 est.
+5 	 Saudi Arabia 	   6,568,000,000,000 	 1 January 2006 est.
+6 	 United Arab Emirates 	   5,823,000,000,000 	 1 January 2006 est.
+7 	 United States 	   5,551,000,000,000 	 1 January 2006 est.
+8 	 Nigeria 	   5,015,000,000,000 	 1 January 2006 est.
+9 	 Algeria 	   4,359,000,000,000 	 1 January 2006 est.
+10 	 Venezuela 	   4,112,000,000,000 	 1 January 2006 est.
+11 	 European Union 	   3,310,000,000,000 	 1 January 2006 est.
+12 	 Iraq 	   3,040,000,000,000 	 1 January 2006 est.
+13 	 Indonesia 	   2,656,000,000,000 	 1 January 2006 est.
+14 	 Norway 	   2,288,000,000,000 	 1 January 2006 est.
+15 	 Malaysia 	   2,037,000,000,000 	 1 January 2006 est.
+16 	 Turkmenistan 	   1,928,000,000,000 	 1 January 2006 est.
+17 	 Uzbekistan 	   1,798,000,000,000 	 1 January 2006 est.
+18 	 Kazakhstan 	   1,765,000,000,000 	 1 January 2006 est.
+19 	 Netherlands 	   1,684,000,000,000 	 1 January 2006 est.
+20 	 Egypt 	   1,589,000,000,000 	 1 January 2006 est.
+21 	 Canada 	   1,537,000,000,000 	 1 January 2006 est.
+22 	 Kuwait 	   1,521,000,000,000 	 1 January 2006 est.
+23 	 China 	   1,448,000,000,000 	 1 January 2006 est.
+24 	 Libya 	   1,430,000,000,000 	 1 January 2006 est.
+25 	 Ukraine 	   1,075,000,000,000 	 1 January 2006 est.
+26 	 India 	   1,056,000,000,000 	 1 January 2006 est.
+27 	 Azerbaijan 	    814,700,000,000 	 1 January 2006 est.
+28 	 Oman 	    795,200,000,000 	 1 January 2006 est.
+29 	 Pakistan 	    764,600,000,000 	 1 January 2006 est.
+30 	 Australia 	    750,600,000,000 	 1 January 2006 est.
+31 	 Trinidad and Tobago 	    702,800,000,000 	 1 January 2006 est.
+32 	 Bolivia 	    651,800,000,000 	 1 January 2006 est.
+33 	 Argentina 	    512,400,000,000 	 1 January 2006 est.
+34 	 United Kingdom 	    509,200,000,000 	 1 January 2006 est.
+35 	 Yemen 	    459,000,000,000 	 1 January 2006 est.
+36 	 Mexico 	    434,100,000,000 	 1 January 2006 est.
+37 	 Thailand 	    400,700,000,000 	 1 January 2006 est.
+38 	 Brunei 	    374,800,000,000 	 1 January 2006 est.
+39 	 France 	    341,000,000,000 	 1 January 2006 est.
+40 	 Papua New Guinea 	    331,300,000,000 	 1 January 2006 est.
+41 	 Brazil 	    312,700,000,000 	 1 January 2006 est.
+42 	 Burma 	    271,600,000,000 	 1 January 2006 est.
+43 	 Germany 	    246,500,000,000 	 1 January 2006 est.
+44 	 Peru 	    236,900,000,000 	 1 January 2006 est.
+45 	 Syria 	    230,800,000,000 	 1 January 2006 est.
+46 	 Italy 	    217,300,000,000 	 1 January 2006 est.
+47 	 Vietnam 	    184,700,000,000 	 1 January 2006 est.
+48 	 Poland 	    158,100,000,000 	 1 January 2006 est.
+49 	 Bangladesh 	    135,800,000,000 	 1 January 2006 est.
+50 	 Mozambique 	    122,200,000,000 	 1 January 2006 est.
+51 	 Colombia 	    109,700,000,000 	 1 January 2006 est.
+52 	 Philippines 	    107,500,000,000 	 1 January 2006 est.
+53 	 Cameroon 	    105,900,000,000 	 1 January 2006 est.
+54 	 Romania 	     96,410,000,000 	 1 January 2006 est.
+55 	 Chile 	     93,970,000,000 	 1 January 2006 est.
+56 	 Bahrain 	     88,260,000,000 	 1 January 2006 est.
+57 	 Congo, Republic of the 	     86,900,000,000 	 1 January 2006 est.
+58 	 Sudan 	     81,470,000,000 	 1 January 2006 est.
+59 	 Taiwan 	     76,460,000,000 	 1 January 2005 est.
+60 	 Denmark 	     75,660,000,000 	 1 January 2006 est.
+61 	 Tunisia 	     74,680,000,000 	 1 January 2006 est.
+62 	 Cuba 	     67,890,000,000 	 1 January 2006 est.
+63 	 Namibia 	     59,750,000,000 	 1 January 2006 est.
+64 	 Rwanda 	     54,320,000,000 	 1 January 2006 est.
+65 	 Afghanistan 	     47,530,000,000 	 1 January 2006 est.
+66 	 Serbia 	     46,170,000,000 	 1 January 2006
+67 	 Angola 	     44,000,000,000 	 1 January 2006 est.
+68 	 Japan 	     38,020,000,000 	 1 January 2006 est.
+69 	 Israel 	     37,340,000,000 	 1 January 2006 est.
+70 	 Equatorial Guinea 	     35,310,000,000 	 1 January 2006 est.
+71 	 Hungary 	     32,860,000,000 	 1 January 2006 est.
+72 	 Gabon 	     32,590,000,000 	 1 January 2006 est.
+73 	 Croatia 	     27,160,000,000 	 1 January 2006 est.
+74 	 Cote d'Ivoire 	     27,160,000,000 	 1 January 2006 est.
+75 	 New Zealand 	     24,440,000,000 	 1 January 2006 est.
+76 	 Ethiopia 	     23,900,000,000 	 1 January 2006 est.
+77 	 Ghana 	     22,810,000,000 	 1 January 2006 est.
+78 	 Tanzania 	     21,730,000,000 	 1 January 2006 est.
+79 	 Austria 	     14,390,000,000 	 1 January 2006 est.
+80 	 Slovakia 	     14,390,000,000 	 1 January 2006 est.
+81 	 Ireland 	      9,505,000,000 	 1 January 2006 est.
+82 	 Ecuador 	      9,369,000,000 	 1 January 2006 est.
+83 	 Turkey 	      8,147,000,000 	 1 January 2006 est.
+84 	 Jordan 	      5,975,000,000 	 1 January 2006 est.
+85 	 Bulgaria 	      5,703,000,000 	 1 January 2006 est.
+86 	 Somalia 	      5,432,000,000 	 1 January 2006 est.
+87 	 Czech Republic 	      3,802,000,000 	 1 January 2006 est.
+88 	 Guatemala 	      2,960,000,000 	 1 January 2006 est.
+89 	 Spain 	      2,444,000,000 	 1 January 2006 est.
+90 	 Morocco 	      1,629,000,000 	 1 January 2006 est.
+91 	 Benin 	      1,086,000,000 	 1 January 2006 est.
+92 	 Congo, Democratic Republic of the 	       950,500,000 	 1 January 2006 est.
+93 	 Greece 	       950,500,000 	 1 January 2006 est.
+94 	 Albania 	       814,700,000 	 1 January 2006 est.
+95 	 Barbados 	       135,800,000 	 1 January 2006 est.
+96 	 South Africa 	        27,160,000 	 1 January 2006 est.
+97 	 Bhutan 	               0 	 1 January 2006 est.
+98 	 Suriname 	               0 	 1 January 2006 est.
+99 	 Mauritania 	               0 	 1 January 2006 est.
+100 	 Madagascar 	               0 	 1 January 2006 est.
+
+ This file was last updated on 13 December, 2007

@@ -1,0 +1,77 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Stock of direct foreign investment - abroad 	 Date of Information
+1 	 United States 	  2,306,000,000,000.00 	 2006 est.
+2 	 United Kingdom 	  1,487,000,000,000.00 	 2006 est.
+3 	 France 	  1,005,000,000,000.00 	 2006 est.
+4 	 Germany 	  941,400,000,000.00 	 2006 est.
+5 	 Hong Kong 	  689,000,000,000.00 	 2006 est.
+6 	 Netherlands 	  652,300,000,000.00 	 2006 est.
+7 	 Switzerland 	  546,600,000,000.00 	 2006 est.
+8 	 Spain 	  509,200,000,000.00 	 2006 est.
+9 	 Belgium 	  485,100,000,000.00 	 2006 est.
+10 	 Japan 	  459,600,000,000.00 	 2006 est.
+11 	 Canada 	  458,100,000,000.00 	 2006 est.
+12 	 Italy 	  375,800,000,000.00 	 2006 est.
+13 	 Australia 	  226,800,000,000.00 	 2006 est.
+14 	 Sweden 	  226,400,000,000.00 	 2006 est.
+15 	 Denmark 	  150,100,000,000.00 	 2006 est.
+16 	 Ireland 	  125,200,000,000.00 	 2006 est.
+17 	 Norway 	  104,700,000,000.00 	 2006 est.
+18 	 Brazil 	  99,990,000,000.00 	 2006 est.
+19 	 Finland 	  90,830,000,000.00 	 2006 est.
+20 	 Taiwan 	  85,700,000,000.00 	 2006 est.
+21 	 Russia 	  77,200,000,000.00 	 2006 est.
+22 	 Austria 	  74,890,000,000.00 	 2006 est.
+23 	 China 	  67,400,000,000.00 	 2006 est.
+24 	 Portugal 	  54,850,000,000.00 	 2006 est.
+25 	 South Africa 	  43,320,000,000.00 	 2006 est.
+26 	 Hungary 	  36,240,000,000.00 	 2006 est.
+27 	 Israel 	  34,890,000,000.00 	 2006 est.
+28 	 Malaysia 	  34,420,000,000.00 	 2006 est.
+29 	 Mexico 	  30,750,000,000.00 	 2006 est.
+30 	 Chile 	  28,500,000,000.00 	 2006 est.
+31 	 Argentina 	  25,020,000,000.00 	 2006 est.
+32 	 India 	  21,110,000,000.00 	 2006 est.
+33 	 Greece 	  19,560,000,000.00 	 2006 est.
+34 	 Kuwait 	  13,300,000,000.00 	 2006 est.
+35 	 Nigeria 	  12,440,000,000.00 	 2006 est.
+36 	 Venezuela 	  11,560,000,000.00 	 2006 est.
+37 	 United Arab Emirates 	  11,430,000,000.00 	 2006 est.
+38 	 Poland 	  10,680,000,000.00 	 2006 est.
+39 	 Colombia 	  10,010,000,000.00 	 2006 est.
+40 	 Turkey 	   9,249,000,000.00 	 2006 est.
+41 	 Indonesia 	   9,225,000,000.00 	 2006 est.
+42 	 Ecuador 	   8,442,000,000.00 	 2006 est.
+43 	 Bahrain 	   6,039,000,000.00 	 2006 est.
+44 	 Thailand 	   5,605,000,000.00 	 2006 est.
+45 	 Czech Republic 	   5,058,000,000.00 	 2006 est.
+46 	 Azerbaijan 	   4,391,000,000.00 	 2006 est.
+47 	 Slovenia 	   4,259,000,000.00 	 2006 est.
+48 	 Cuba 	   4,138,000,000.00 	 2006 est.
+49 	 Estonia 	   3,557,000,000.00 	 2006 est.
+50 	 Croatia 	   2,878,000,000.00 	 2006 est.
+51 	 Qatar 	   2,525,000,000.00 	 2006 est.
+52 	 Kazakhstan 	   2,374,000,000.00 	 2006 est.
+53 	 Philippines 	   2,189,000,000.00 	 2006 est.
+54 	 Libya 	   2,163,000,000.00 	 2006 est.
+55 	 Peru 	   1,476,000,000.00 	 2006 est.
+56 	 Lithuania 	   1,183,000,000.00 	 2006 est.
+57 	 Egypt 	   1,115,000,000.00 	 2006 est.
+58 	 Slovakia 	    987,100,000.00 	 2006 est.
+59 	 Pakistan 	    885,000,000.00 	 2006 est.
+60 	 Algeria 	    834,000,000.00 	 2006 est.
+61 	 Morocco 	    567,000,000.00 	 2006 est.
+62 	 Latvia 	    442,000,000.00 	 2006 est.
+63 	 Bulgaria 	    345,800,000.00 	 2006 est.
+64 	 El Salvador 	    293,000,000.00 	 2006 est.
+65 	 Romania 	    278,000,000.00 	 2006 est.
+66 	 Costa Rica 	    261,300,000.00 	 2006 est.
+67 	 Angola 	    227,000,000.00 	 2006 est.
+68 	 Ukraine 	    222,000,000.00 	 2006 est.
+69 	 Iran 	    138,000,000.00 	 2006 est.
+70 	 Kenya 	    124,000,000.00 	 2006 est.
+71 	 Bangladesh 	    105,000,000.00 	 2006 est.
+72 	 Dominican Republic 	     59,000,000.00 	 2006 est.
+73 	 Tunisia 	     57,000,000.00 	 2006 est.
+
+ This file was last updated on 13 December, 2007

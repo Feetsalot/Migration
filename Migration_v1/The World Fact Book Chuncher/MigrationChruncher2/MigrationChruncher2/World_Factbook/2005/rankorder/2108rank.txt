@@ -1,0 +1,168 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Merchant marine 	 Date of Information
+1 	 World 	           30,936 	 2005
+2 	 Panama 	            5,005 	 2005
+3 	 China 	            1,649 	 2005
+4 	 Liberia 	            1,465 	 2005
+5 	 Russia 	            1,194 	 2005
+6 	 Malta 	            1,140 	 2005
+7 	 Bahamas, The 	            1,119 	 2005
+8 	 Antigua and Barbuda 	             980 	 2005
+9 	 Cyprus 	             972 	 2005
+10 	 Singapore 	             923 	 2005
+11 	 Greece 	             861 	 2005
+12 	 Hong Kong 	             837 	 2005
+13 	 Norway 	             740 	 2005
+14 	 Indonesia 	             728 	 2005
+15 	 Japan 	             702 	 2005
+16 	 Saint Vincent and the Grenadines 	             657 	 2005
+17 	 Korea, South 	             601 	 2005
+18 	 Italy 	             565 	 2005
+19 	 Netherlands 	             558 	 2005
+20 	 Marshall Islands 	             540 	 2005
+21 	 Turkey 	             526 	 2005
+22 	 United States 	             486 	 2005
+23 	 Cambodia 	             479 	 2005
+24 	 United Kingdom 	             429 	 2005
+25 	 Philippines 	             419 	 2005
+26 	 Thailand 	             386 	 2005
+27 	 Malaysia 	             346 	 2005
+28 	 Germany 	             332 	 2005
+29 	 India 	             299 	 2005
+30 	 Belize 	             295 	 2005
+31 	 Denmark 	             287 	 2005
+32 	 Isle of Man 	             267 	 2005
+33 	 Korea, North 	             238 	 2005
+34 	 Sweden 	             205 	 2005
+35 	 Ukraine 	             201 	 2005
+36 	 Vietnam 	             194 	 2005
+37 	 Spain 	             182 	 2005
+38 	 Georgia 	             175 	 2005
+39 	 Canada 	             169 	 2005
+40 	 Netherlands Antilles 	             168 	 2005
+41 	 Gibraltar 	             161 	 2005
+42 	 Brazil 	             150 	 2005
+43 	 Iran 	             144 	 2005
+44 	 Honduras 	             137 	 2005
+45 	 Cayman Islands 	             129 	 2005
+46 	 Taiwan 	             126 	 2005
+47 	 Syria 	             120 	 2005
+48 	 Portugal 	             114 	 2005
+49 	 Bermuda 	             108 	 2005
+50 	 Finland 	              94 	 2005
+51 	 Azerbaijan 	              81 	 2005
+52 	 Comoros 	              79 	 2005
+53 	 Egypt 	              77 	 2005
+54 	 French Southern and Antarctic Lands 	              75 	 2005
+55 	 Croatia 	              73 	 2005
+56 	 Mongolia 	              65 	 2005
+57 	 Bulgaria 	              64 	 2005
+58 	 Saudi Arabia 	              64 	 2005
+59 	 Barbados 	              58 	 2005
+60 	 Mexico 	              57 	 2005
+61 	 United Arab Emirates 	              56 	 2005
+62 	 Algeria 	              56 	 2005
+63 	 Venezuela 	              56 	 2005
+64 	 France 	              56 	 2005
+65 	 Australia 	              55 	 2005
+66 	 Lithuania 	              54 	 2005
+67 	 Monaco 	              54 	 2005
+68 	 Belgium 	              53 	 2005
+69 	 Vanuatu 	              52 	 2005
+70 	 Chile 	              47 	 2005
+71 	 Nigeria 	              46 	 2005
+72 	 Lebanon 	              44 	 2005
+73 	 Estonia 	              43 	 2005
+74 	 Bangladesh 	              41 	 2005
+75 	 Morocco 	              41 	 2005
+76 	 Luxembourg 	              40 	 2005
+77 	 Ireland 	              39 	 2005
+78 	 Kuwait 	              39 	 2005
+79 	 Burma 	              37 	 2005
+80 	 Romania 	              34 	 2005
+81 	 Bolivia 	              32 	 2005
+82 	 Dominica 	              32 	 2005
+83 	 Ecuador 	              31 	 2005
+84 	 Tonga 	              29 	 2005
+85 	 Argentina 	              26 	 2005
+86 	 Albania 	              25 	 2005
+87 	 Slovakia 	              24 	 2005
+88 	 Sri Lanka 	              23 	 2005
+89 	 Switzerland 	              23 	 2005
+90 	 Tuvalu 	              23 	 2005
+91 	 Slovenia 	              23 	 
+92 	 Papua New Guinea 	              22 	 2005
+93 	 Qatar 	              22 	 2005
+94 	 Paraguay 	              21 	 2005
+95 	 Jordan 	              20 	 2005
+96 	 Latvia 	              19 	 2005
+97 	 Israel 	              17 	 2005
+98 	 Libya 	              17 	 2005
+99 	 Maldives 	              16 	 2005
+100 	 Colombia 	              15 	 2005
+101 	 Sao Tome and Principe 	              15 	 2005
+102 	 French Polynesia 	              15 	 2005
+103 	 Cuba 	              15 	 2005
+104 	 Faroe Islands 	              14 	 2005
+105 	 Iraq 	              14 	 2005
+106 	 New Zealand 	              13 	 2005
+107 	 Pakistan 	              13 	 2005
+108 	 Tunisia 	              12 	 2005
+109 	 Tanzania 	              11 	 2005
+110 	 Uruguay 	              11 	 2005
+111 	 Jamaica 	               9 	 2005
+112 	 Madagascar 	               9 	 2005
+113 	 Austria 	               8 	 2005
+114 	 Bahrain 	               8 	 2005
+115 	 Brunei 	               8 	 2005
+116 	 Ethiopia 	               8 	 2005
+117 	 Mauritius 	               8 	 2005
+118 	 Fiji 	               7 	 2005
+119 	 Poland 	               7 	 2005
+120 	 Turkmenistan 	               7 	 2005
+121 	 Eritrea 	               6 	 2005
+122 	 Guyana 	               6 	 2005
+123 	 Trinidad and Tobago 	               6 	 2005
+124 	 Cape Verde 	               5 	 2005
+125 	 Seychelles 	               5 	 2005
+126 	 Yemen 	               5 	 2005
+127 	 Angola 	               4 	 2005
+128 	 Gambia, The 	               4 	 2005
+129 	 Wallis and Futuna 	               4 	 2005
+130 	 Peru 	               4 	 2005
+131 	 Ghana 	               4 	 2005
+132 	 Dominican Republic 	               3 	 2005
+133 	 Kazakhstan 	               3 	 2005
+134 	 Kenya 	               3 	 2005
+135 	 Iceland 	               3 	 2005
+136 	 Greenland 	               3 	 2005
+137 	 French Guiana 	               3 	 
+138 	 Czech Republic 	               3 	 
+139 	 Costa Rica 	               2 	 2005
+140 	 Sudan 	               2 	 2005
+141 	 Serbia and Montenegro 	               2 	 2005
+142 	 Togo 	               2 	 2005
+143 	 Sierra Leone 	               2 	 2005
+144 	 Moldova 	               2 	 2005
+145 	 New Caledonia 	               2 	 2005
+146 	 Puerto Rico 	               2 	 2005
+147 	 South Africa 	               2 	 2005
+148 	 Mozambique 	               2 	 2005
+149 	 Micronesia, Federated States of 	               2 	 2005
+150 	 Andorra 	               1 	 
+151 	 Samoa 	               1 	 2005
+152 	 Namibia 	               1 	 2005
+153 	 British Virgin Islands 	               1 	 2005
+154 	 Reunion 	               1 	 2005
+155 	 Suriname 	               1 	 2005
+156 	 Oman 	               1 	 2005
+157 	 Laos 	               1 	 2005
+158 	 Guadeloupe 	               1 	 2005
+159 	 Cook Islands 	               1 	 2005
+160 	 Djibouti 	               1 	 2005
+161 	 Kiribati 	               1 	 2005
+162 	 Equatorial Guinea 	               1 	 2005
+163 	 Congo, Democratic Republic of the 	               1 	 
+164 	 Cameroon 	               1 	 2005
+
+ This file was last updated on 10 January, 2006

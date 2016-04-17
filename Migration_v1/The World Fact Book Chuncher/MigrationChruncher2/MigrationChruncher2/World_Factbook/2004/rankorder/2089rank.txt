@@ -1,0 +1,169 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Industrial production growth rate(%) 	 Date of Information
+1 	 China 	           30.40 	 2003 est.
+2 	 Equatorial Guinea 	           30.00 	 2002 est.
+3 	 Cambodia 	           22.00 	 2002 est.
+4 	 Burundi 	           18.00 	 2001
+5 	 Moldova 	           17.00 	 2003 est.
+6 	 Argentina 	           16.20 	 2003 est.
+7 	 Lithuania 	           16.10 	 2003 est.
+8 	 Vietnam 	           16.00 	 2003 est.
+9 	 Ukraine 	           15.80 	 2003 est.
+10 	 Lesotho 	           15.50 	 1999
+11 	 Armenia 	           15.00 	 2002 est.
+12 	 Cote d'Ivoire 	           15.00 	 1998 est.
+13 	 Turkmenistan 	           14.00 	 2003 est.
+14 	 Burkina Faso 	           14.00 	 2001 est.
+15 	 Thailand 	           12.30 	 2003 est.
+16 	 Tajikistan 	           10.30 	 2000 est.
+17 	 Qatar 	           10.00 	 2003 est.
+18 	 Laos 	            9.70 	 2001 est.
+19 	 Bhutan 	            9.30 	 1996 est.
+20 	 Malaysia 	            9.30 	 2003 est.
+21 	 Kazakhstan 	            8.80 	 2003 est.
+22 	 Nepal 	            8.70 	 FY99/00
+23 	 Poland 	            8.60 	 2003
+24 	 Tonga 	            8.60 	 FY98/99
+25 	 Sudan 	            8.50 	 1999 est.
+26 	 Turkey 	            8.50 	 2003 est.
+27 	 East Timor 	            8.50 	 
+28 	 Taiwan 	            8.40 	 2003
+29 	 Tanzania 	            8.40 	 1999 est.
+30 	 Benin 	            8.30 	 2001 est.
+31 	 Iceland 	            8.10 	 2003 est.
+32 	 Costa Rica 	            8.00 	 2003 est.
+33 	 Mauritius 	            8.00 	 2000 est.
+34 	 Latvia 	            8.00 	 2003 est.
+35 	 Faroe Islands 	            8.00 	 1999 est.
+36 	 Honduras 	            7.70 	 2003 est.
+37 	 Saudi Arabia 	            7.70 	 2003 est.
+38 	 Pakistan 	            7.60 	 2003 est.
+39 	 Botswana 	            7.30 	 2003 est.
+40 	 Slovakia 	            7.20 	 2003 est.
+41 	 Guyana 	            7.10 	 1997 est.
+42 	 Panama 	            7.00 	 2003 est.
+43 	 Russia 	            7.00 	 2003 est.
+44 	 Rwanda 	            7.00 	 2001 est.
+45 	 Ireland 	            6.70 	 2003 est.
+46 	 Ethiopia 	            6.70 	 2001 est.
+47 	 India 	            6.50 	 2003 est.
+48 	 Suriname 	            6.50 	 1994 est.
+49 	 Hungary 	            6.40 	 2003 est.
+50 	 Bulgaria 	            6.30 	 2003 est.
+51 	 Uzbekistan 	            6.20 	 2003 est.
+52 	 Azerbaijan 	            6.10 	 2003 est.
+53 	 Antigua and Barbuda 	            6.00 	 1997 est.
+54 	 Algeria 	            6.00 	 2003 est.
+55 	 San Marino 	            6.00 	 1997 est.
+56 	 Kyrgyzstan 	            6.00 	 2000 est.
+57 	 Sri Lanka 	            5.80 	 2003
+58 	 Trinidad and Tobago 	            5.70 	 2003 est.
+59 	 Bosnia and Herzegovina 	            5.50 	 2003 est.
+60 	 Ecuador 	            5.30 	 2003 est.
+61 	 Korea, South 	            5.10 	 2003 est.
+62 	 Belarus 	            5.00 	 2003 est.
+63 	 Chad 	            5.00 	 1995
+64 	 Estonia 	            5.00 	 2000 est.
+65 	 Uganda 	            5.00 	 2003 est.
+66 	 South Africa 	            5.00 	 2003 est.
+67 	 Brunei 	            5.00 	 2002 est.
+68 	 Belize 	            4.60 	 1999
+69 	 Macedonia 	            4.50 	 2003 est.
+70 	 Maldives 	            4.40 	 1996 est.
+71 	 Nicaragua 	            4.40 	 2000 est.
+72 	 Cameroon 	            4.20 	 1999 est.
+73 	 Guatemala 	            4.10 	 1999
+74 	 Mongolia 	            4.10 	 2002 est.
+75 	 United Arab Emirates 	            4.00 	 2000
+76 	 Zambia 	            4.00 	 2003 est.
+77 	 Bolivia 	            3.90 	 1998
+78 	 Croatia 	            3.90 	 2003 est.
+79 	 Ghana 	            3.80 	 2000 est.
+80 	 Indonesia 	            3.70 	 2003 est.
+81 	 Swaziland 	            3.70 	 FY95/96
+82 	 Colombia 	            3.50 	 2003 est.
+83 	 Jordan 	            3.50 	 2003 est.
+84 	 Mozambique 	            3.40 	 2000
+85 	 Czech Republic 	            3.30 	 2003
+86 	 Japan 	            3.30 	 2003 est.
+87 	 Guinea 	            3.20 	 1994
+88 	 Man, Isle of 	            3.20 	 FY96/97
+89 	 Anguilla 	            3.10 	 1997 est.
+90 	 Central African Republic 	            3.00 	 2002
+91 	 Yemen 	            3.00 	 2003 est.
+92 	 World 	            3.00 	 2002 est.
+93 	 Georgia 	            3.00 	 2000
+94 	 Madagascar 	            3.00 	 2000 est.
+95 	 Iran 	            3.00 	 2003 est.
+96 	 Djibouti 	            3.00 	 1996 est.
+97 	 Senegal 	            2.90 	 2003 est.
+98 	 Singapore 	            2.80 	 2003 est.
+99 	 Samoa 	            2.80 	 2000
+100 	 Albania 	            2.70 	 2003 est.
+101 	 Guinea-Bissau 	            2.60 	 1997 est.
+102 	 Cuba 	            2.40 	 2003 est.
+103 	 Nigeria 	            2.30 	 2003 est.
+104 	 Romania 	            2.30 	 2003
+105 	 Bahrain 	            2.00 	 2000 est.
+106 	 Mauritania 	            2.00 	 2000 est.
+107 	 Kenya 	            2.00 	 2003 est.
+108 	 Dominican Republic 	            2.00 	 2001 est.
+109 	 Peru 	            2.00 	 2003 est.
+110 	 Austria 	            1.90 	 2003 est.
+111 	 Sweden 	            1.90 	 2003 est.
+112 	 Bangladesh 	            1.90 	 2003 est.
+113 	 Luxembourg 	            1.70 	 2003 est.
+114 	 Serbia and Montenegro 	            1.70 	 2002 est.
+115 	 El Salvador 	            1.60 	 2003 est.
+116 	 Spain 	            1.60 	 2003 est.
+117 	 Gabon 	            1.60 	 2002 est.
+118 	 Chile 	            1.50 	 2003 est.
+119 	 Egypt 	            1.50 	 2003 est.
+120 	 Slovenia 	            1.40 	 2003
+121 	 New Zealand 	            1.30 	 2003 est.
+122 	 Angola 	            1.00 	 2000
+123 	 Vanuatu 	            1.00 	 1997 est.
+124 	 Cook Islands 	            1.00 	 2002
+125 	 European Union 	            0.80 	 2004 est.
+126 	 Finland 	            0.80 	 2003 est.
+127 	 Grenada 	            0.70 	 1997 est.
+128 	 Uruguay 	            0.70 	 2003 est.
+129 	 Kiribati 	            0.70 	 1991 est.
+130 	 Greece 	            0.70 	 2003 est.
+131 	 Brazil 	            0.40 	 2003 est.
+132 	 Switzerland 	            0.40 	 2003
+133 	 Portugal 	            0.40 	 2003 est.
+134 	 Denmark 	            0.30 	 2003 est.
+135 	 United States 	            0.30 	 2003 est.
+136 	 Canada 	            0.20 	 2003 est.
+137 	 Oman 	            0.20 	 2003 est.
+138 	 Germany 	            0.20 	 2003 est.
+139 	 Congo, Republic of the 	            0.00 	 2002 est.
+140 	 Paraguay 	            0.00 	 2000 est.
+141 	 Australia 	           -0.10 	 2003 est.
+142 	 Philippines 	           -0.10 	 2003 est.
+143 	 Tunisia 	           -0.10 	 2003 est.
+144 	 Cyprus 	           -0.30 	 2003
+145 	 France 	           -0.30 	 2003
+146 	 Italy 	           -0.50 	 2003
+147 	 Cyprus 	           -0.60 	 2003
+148 	 New Caledonia 	           -0.60 	 1996
+149 	 Israel 	           -0.60 	 2003 est.
+150 	 Mexico 	           -0.70 	 2003 est.
+151 	 United Kingdom 	           -0.70 	 2003 est.
+152 	 Saint Vincent and the Grenadines 	           -0.90 	 1997 est.
+153 	 Belgium 	           -1.50 	 2003 est.
+154 	 Malawi 	           -1.60 	 2003 est.
+155 	 Comoros 	           -2.00 	 1999 est.
+156 	 Jamaica 	           -2.00 	 2000 est.
+157 	 Netherlands 	           -2.10 	 2003 est.
+158 	 Barbados 	           -3.20 	 2000 est.
+159 	 Norway 	           -3.50 	 2003 est.
+160 	 Kuwait 	           -5.00 	 2002 est.
+161 	 Saint Lucia 	           -8.90 	 1997 est.
+162 	 Hong Kong 	           -9.20 	 2003 est.
+163 	 Dominica 	          -10.00 	 1997 est.
+164 	 Zimbabwe 	          -14.70 	 2003 est.
+165 	 Venezuela 	          -15.40 	 2003 est.
+
+ This file was last updated on 10 February, 2005

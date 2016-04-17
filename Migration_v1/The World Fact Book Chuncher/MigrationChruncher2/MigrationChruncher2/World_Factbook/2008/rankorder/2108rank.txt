@@ -1,0 +1,166 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Merchant marine 	 Date of Information
+1 	 Panama 	            6,323 	 2008
+2 	 Liberia 	            2,204 	 2008
+3 	 China 	            1,826 	 2008
+4 	 Malta 	            1,438 	 2008
+5 	 Singapore 	            1,292 	 2008
+6 	 Bahamas, The 	            1,223 	 2008
+7 	 Antigua and Barbuda 	            1,146 	 2008
+8 	 Hong Kong 	            1,114 	 2008
+9 	 Russia 	            1,074 	 2008
+10 	 Marshall Islands 	            1,049 	 2008
+11 	 Indonesia 	             971 	 2008
+12 	 Greece 	             869 	 2008
+13 	 Cyprus 	             858 	 2008
+14 	 Korea, South 	             812 	 2008
+15 	 Norway 	             688 	 2008
+16 	 Japan 	             683 	 2008
+17 	 Cambodia 	             626 	 2008
+18 	 Netherlands 	             622 	 2008
+19 	 Turkey 	             612 	 2008
+20 	 Italy 	             609 	 2008
+21 	 Saint Vincent and the Grenadines 	             525 	 2008
+22 	 United Kingdom 	             518 	 2008
+23 	 India 	             501 	 2008
+24 	 United States 	             422 	 2008
+25 	 Thailand 	             398 	 2008
+26 	 Germany 	             393 	 2008
+27 	 Philippines 	             391 	 2008
+28 	 Vietnam 	             387 	 2008
+29 	 Denmark 	             327 	 2008
+30 	 Malaysia 	             306 	 2008
+31 	 Isle of Man 	             273 	 2008
+32 	 Gibraltar 	             240 	 2008
+33 	 Belize 	             216 	 2008
+34 	 Sweden 	             195 	 2008
+35 	 Georgia 	             191 	 2008
+36 	 Ukraine 	             189 	 2008
+37 	 Sierra Leone 	             182 	 2008
+38 	 Canada 	             175 	 2008
+39 	 Korea, North 	             167 	 2008
+40 	 Saint Kitts and Nevis 	             159 	 2008
+41 	 Spain 	             158 	 2008
+42 	 Netherlands Antilles 	             147 	 2008
+43 	 France 	             138 	 2008
+44 	 Bermuda 	             137 	 2008
+45 	 Brazil 	             136 	 2008
+46 	 Comoros 	             136 	 2008
+47 	 Honduras 	             123 	 2008
+48 	 Portugal 	             117 	 2008
+49 	 Cayman Islands 	             109 	 2008
+50 	 Taiwan 	             102 	 2008
+51 	 Finland 	              98 	 2008
+52 	 Azerbaijan 	              89 	 2008
+53 	 Barbados 	              85 	 2008
+54 	 Croatia 	              80 	 2008
+55 	 Tuvalu 	              80 	 2008
+56 	 Belgium 	              79 	 2008
+57 	 Mongolia 	              77 	 2008
+58 	 Syria 	              77 	 2008
+59 	 Bulgaria 	              74 	 2008
+60 	 Iran 	              74 	 2008
+61 	 Monaco 	              70 	 2008
+62 	 Nigeria 	              68 	 2008
+63 	 Egypt 	              67 	 2008
+64 	 Saudi Arabia 	              62 	 2008
+65 	 Venezuela 	              62 	 2008
+66 	 United Arab Emirates 	              58 	 2008
+67 	 Mexico 	              55 	 2008
+68 	 Vanuatu 	              54 	 2008
+69 	 Dominica 	              53 	 2008
+70 	 Slovakia 	              51 	 2008
+71 	 Australia 	              50 	 2008
+72 	 Argentina 	              46 	 2008
+73 	 Lithuania 	              45 	 2008
+74 	 Luxembourg 	              45 	 2008
+75 	 Chile 	              44 	 2008
+76 	 Kiribati 	              43 	 2008
+77 	 Bangladesh 	              40 	 2008
+78 	 Moldova 	              39 	 2008
+79 	 Kuwait 	              38 	 2008
+80 	 Ecuador 	              37 	 2008
+81 	 Morocco 	              35 	 2008
+82 	 Switzerland 	              35 	 2008
+83 	 Algeria 	              33 	 2008
+84 	 Lebanon 	              33 	 2008
+85 	 Ireland 	              29 	 2008
+86 	 Maldives 	              29 	 2008
+87 	 Estonia 	              29 	 2008
+88 	 Slovenia 	              29 	 2008
+89 	 Sri Lanka 	              26 	 2008
+90 	 Cook Islands 	              26 	 2008
+91 	 Albania 	              24 	 2008
+92 	 Burma 	              24 	 2008
+93 	 Bolivia 	              23 	 2008
+94 	 Paraguay 	              23 	 2008
+95 	 Latvia 	              22 	 2008
+96 	 Qatar 	              22 	 2008
+97 	 Jordan 	              21 	 2008
+98 	 Papua New Guinea 	              21 	 2008
+99 	 Jamaica 	              20 	 2008
+100 	 Colombia 	              17 	 2008
+101 	 Libya 	              17 	 2008
+102 	 Uruguay 	              17 	 2008
+103 	 Romania 	              17 	 2008
+104 	 French Polynesia 	              15 	 2008
+105 	 Pakistan 	              15 	 2008
+106 	 Poland 	              15 	 2008
+107 	 Iraq 	              14 	 2008
+108 	 New Zealand 	              13 	 2008
+109 	 Tonga 	              13 	 2008
+110 	 Faroe Islands 	              12 	 2008
+111 	 Cuba 	              11 	 2008
+112 	 Israel 	              11 	 2008
+113 	 Togo 	              10 	 2008
+114 	 Bahrain 	               9 	 2008
+115 	 Ethiopia 	               9 	 2008
+116 	 Fiji 	               9 	 2008
+117 	 Tanzania 	               9 	 2008
+118 	 Trinidad and Tobago 	               9 	 2008
+119 	 Brunei 	               8 	 2008
+120 	 Madagascar 	               8 	 2008
+121 	 Seychelles 	               8 	 2008
+122 	 Wallis and Futuna 	               8 	 2008
+123 	 Peru 	               8 	 2008
+124 	 Guyana 	               8 	 2008
+125 	 Cape Verde 	               8 	 2008
+126 	 Tunisia 	               7 	 2008
+127 	 Turkmenistan 	               7 	 2008
+128 	 Angola 	               6 	 2008
+129 	 Montenegro 	               6 	 2008
+130 	 Sao Tome and Principe 	               6 	 2008
+131 	 Eritrea 	               5 	 2008
+132 	 Kazakhstan 	               5 	 2008
+133 	 Gambia, The 	               5 	 2008
+134 	 Austria 	               4 	 2008
+135 	 Yemen 	               4 	 2008
+136 	 Ghana 	               4 	 2008
+137 	 Micronesia, Federated States of 	               3 	 2008
+138 	 South Africa 	               3 	 2008
+139 	 Sudan 	               3 	 2008
+140 	 Puerto Rico 	               3 	 2008
+141 	 Mauritius 	               3 	 2008
+142 	 Oman 	               3 	 2008
+143 	 Gabon 	               2 	 2008
+144 	 Greenland 	               2 	 2008
+145 	 Iceland 	               2 	 2008
+146 	 New Caledonia 	               2 	 2008
+147 	 Mozambique 	               2 	 2008
+148 	 Congo, Republic of the 	               1 	 2008
+149 	 Dominican Republic 	               1 	 2008
+150 	 Czech Republic 	               1 	 2008
+151 	 Suriname 	               1 	 2008
+152 	 Turks and Caicos Islands 	               1 	 2008
+153 	 British Virgin Islands 	               1 	 2008
+154 	 Samoa 	               1 	 2008
+155 	 Namibia 	               1 	 2008
+156 	 Timor-Leste 	               1 	 2008
+157 	 Somalia 	               1 	 2008
+158 	 Equatorial Guinea 	               1 	 2008
+159 	 Laos 	               1 	 2008
+160 	 Kenya 	               1 	 2008
+161 	 Costa Rica 	               1 	 2008
+162 	 Congo, Democratic Republic of the 	               1 	 2008
+
+ This file was last updated on 18 December, 2008

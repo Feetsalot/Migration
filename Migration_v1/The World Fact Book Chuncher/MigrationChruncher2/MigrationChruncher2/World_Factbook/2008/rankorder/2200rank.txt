@@ -1,0 +1,119 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Market value of publicly traded shares 	 Date of Information
+1 	 World 	  53,510,000,000,000.00 	 2006
+2 	 United States 	  17,000,000,000,000.00 	 2005
+3 	 European Union 	  11,640,000,000,000.00 	 2006
+4 	 Japan 	  4,737,000,000,000.00 	 2005
+5 	 China 	  4,477,000,000,000.00 	 31 December 2007 est.
+6 	 United Kingdom 	  3,058,000,000,000.00 	 2005
+7 	 Hong Kong 	  2,970,000,000,000.00 	 2007 est.
+8 	 France 	  1,710,000,000,000.00 	 2005
+9 	 Canada 	  1,481,000,000,000.00 	 2005
+10 	 Russia 	  1,322,000,000,000.00 	 2006
+11 	 Germany 	  1,221,000,000,000.00 	 2005
+12 	 Finland 	  1,095,000,000,000.00 	 January 2008
+13 	 Korea, South 	  1,051,000,000,000.00 	 2007
+14 	 Spain 	  960,000,000,000.00 	 2005
+15 	 Switzerland 	  938,600,000,000.00 	 2005
+16 	 Netherlands 	  924,400,000,000.00 	 November 2007
+17 	 South Africa 	  842,000,000,000.00 	 January 2008
+18 	 India 	  818,900,000,000.00 	 2006
+19 	 Australia 	  804,100,000,000.00 	 2005
+20 	 Italy 	  798,200,000,000.00 	 2005
+21 	 Brazil 	  711,100,000,000.00 	 2006
+22 	 Taiwan 	  654,000,000,000.00 	 28 December 2007
+23 	 Netherlands Antilles 	  488,600,000,000.00 	 2003
+24 	 Belgium 	  422,700,000,000.00 	 2006
+25 	 Sweden 	  403,900,000,000.00 	 2005
+26 	 Singapore 	  382,400,000,000.00 	 2007
+27 	 Mexico 	  348,300,000,000.00 	 2006
+28 	 Saudi Arabia 	  326,900,000,000.00 	 2006
+29 	 Malaysia 	  235,400,000,000.00 	 2006
+30 	 Norway 	  191,000,000,000.00 	 2005
+31 	 Denmark 	  178,000,000,000.00 	 2005
+32 	 Chile 	  174,600,000,000.00 	 2006
+33 	 Israel 	  173,300,000,000.00 	 2006
+34 	 Turkey 	  162,400,000,000.00 	 2006
+35 	 Poland 	  149,100,000,000.00 	 2006
+36 	 Greece 	  145,000,000,000.00 	 2005
+37 	 Thailand 	  139,600,000,000.00 	 2006
+38 	 Indonesia 	  138,900,000,000.00 	 2006
+39 	 United Arab Emirates 	  138,500,000,000.00 	 2006
+40 	 Kuwait 	  128,900,000,000.00 	 2006
+41 	 Austria 	  126,300,000,000.00 	 2005
+42 	 Ireland 	  114,100,000,000.00 	 2005
+43 	 Philippines 	  103,400,000,000.00 	 2007
+44 	 Egypt 	  93,480,000,000.00 	 2006
+45 	 Argentina 	  79,730,000,000.00 	 2006
+46 	 Luxembourg 	  79,400,000,000.00 	 2006
+47 	 Portugal 	  66,980,000,000.00 	 2005
+48 	 Qatar 	  61,560,000,000.00 	 2006
+49 	 Peru 	  59,660,000,000.00 	 2006
+50 	 Colombia 	  56,200,000,000.00 	 2006
+51 	 Morocco 	  49,600,000,000.00 	 2006
+52 	 Czech Republic 	  48,600,000,000.00 	 2006
+53 	 Cyprus 	  48,200,000,000.00 	 2005
+54 	 Pakistan 	  45,520,000,000.00 	 2006
+55 	 Romania 	  45,420,000,000.00 	 2007
+56 	 Iran 	  45,200,000,000.00 	 December 2007
+57 	 Ukraine 	  42,870,000,000.00 	 2006
+58 	 Hungary 	  41,930,000,000.00 	 2006
+59 	 New Zealand 	  40,620,000,000.00 	 2005
+60 	 Nigeria 	  32,820,000,000.00 	 2006
+61 	 Jordan 	  29,730,000,000.00 	 2006
+62 	 Croatia 	  29,010,000,000.00 	 2006
+63 	 Iceland 	  27,800,000,000.00 	 2005
+64 	 Zimbabwe 	  26,560,000,000.00 	 2006
+65 	 Bahrain 	  21,120,000,000.00 	 2006
+66 	 Oman 	  16,160,000,000.00 	 2006
+67 	 Trinidad and Tobago 	  15,570,000,000.00 	 2006
+68 	 Slovenia 	  15,180,000,000.00 	 2006
+69 	 Ghana 	  13,010,000,000.00 	 2007
+70 	 Jamaica 	  12,280,000,000.00 	 2006
+71 	 Kenya 	  11,380,000,000.00 	 2006
+72 	 Kazakhstan 	  10,520,000,000.00 	 2005
+73 	 Bulgaria 	  10,320,000,000.00 	 2006
+74 	 Lithuania 	  10,190,000,000.00 	 2006
+75 	 Lebanon 	   8,279,000,000.00 	 2006
+76 	 Venezuela 	   8,251,000,000.00 	 2006
+77 	 Sri Lanka 	   7,769,000,000.00 	 2006
+78 	 Estonia 	   5,963,000,000.00 	 2006
+79 	 Mauritius 	   5,700,000,000.00 	 2007
+80 	 Slovakia 	   5,574,000,000.00 	 2006
+81 	 Barbados 	   5,513,000,000.00 	 2005
+82 	 Serbia 	   5,409,000,000.00 	 2005
+83 	 Panama 	   5,074,000,000.00 	 2005
+84 	 Papua New Guinea 	   4,863,000,000.00 	 2005
+85 	 Zambia 	   4,500,000,000.00 	 2007
+86 	 West Bank 	   4,461,000,000.00 	 2005
+87 	 Tunisia 	   4,446,000,000.00 	 2006
+88 	 Cote d'Ivoire 	   4,155,000,000.00 	 2006
+89 	 Malta 	   4,097,000,000.00 	 2005
+90 	 Ecuador 	   4,040,000,000.00 	 2006
+91 	 Botswana 	   3,947,000,000.00 	 2006
+92 	 El Salvador 	   3,623,000,000.00 	 2005
+93 	 Bangladesh 	   3,610,000,000.00 	 2006
+94 	 Latvia 	   2,705,000,000.00 	 2006
+95 	 Bolivia 	   2,200,000,000.00 	 2005
+96 	 Bermuda 	   2,125,000,000.00 	 2005
+97 	 Costa Rica 	   1,478,000,000.00 	 2005
+98 	 Georgia 	   1,390,000,000.00 	 2007
+99 	 Nepal 	    963,500,000.00 	 2005
+100 	 Macedonia 	    646,000,000.00 	 2005
+101 	 Mongolia 	    613,300,000.00 	 2007
+102 	 Tanzania 	    587,900,000.00 	 2005
+103 	 Fiji 	    586,700,000.00 	 2005
+104 	 Moldova 	    573,900,000.00 	 2004
+105 	 Namibia 	    541,800,000.00 	 2006
+106 	 Macau 	    413,100,000.00 	 2004
+107 	 Paraguay 	    233,800,000.00 	 2005
+108 	 Uruguay 	    224,000,000.00 	 2007
+109 	 Swaziland 	    196,800,000.00 	 2005
+110 	 Guyana 	    187,300,000.00 	 2005
+111 	 Cayman Islands 	    130,000,000.00 	 2005
+112 	 Uganda 	    103,400,000.00 	 2005
+113 	 Armenia 	     42,800,000.00 	 2005
+114 	 Kyrgyzstan 	     41,990,000.00 	 2005
+115 	 Uzbekistan 	     36,890,000.00 	 2005
+
+ This file was last updated on 18 December, 2008

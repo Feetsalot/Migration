@@ -1,0 +1,192 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Current account balance 	 Date of Information
+1 	 China 	 $     371,800,000,000 	 2007 est.
+2 	 Germany 	 $     254,500,000,000 	 2007 est.
+3 	 Japan 	 $     210,500,000,000 	 2007 est.
+4 	 Saudi Arabia 	 $      86,620,000,000 	 2007 est.
+5 	 Russia 	 $      78,310,000,000 	 2007 est.
+6 	 Switzerland 	 $      72,350,000,000 	 2007 est.
+7 	 Norway 	 $      64,070,000,000 	 2007 est.
+8 	 Kuwait 	 $      47,500,000,000 	 2007 est.
+9 	 Netherlands 	 $      47,310,000,000 	 2007 est.
+10 	 Singapore 	 $      46,390,000,000 	 2007 est.
+11 	 Sweden 	 $      37,970,000,000 	 2007 est.
+12 	 United Arab Emirates 	 $      34,530,000,000 	 2007 est.
+13 	 Taiwan 	 $      32,880,000,000 	 2007 est.
+14 	 Algeria 	 $      32,050,000,000 	 2007 est.
+15 	 Iran 	 $      28,950,000,000 	 2007 est.
+16 	 Malaysia 	 $      28,930,000,000 	 2007 est.
+17 	 Hong Kong 	 $      28,040,000,000 	 2007 est.
+18 	 Libya 	 $      26,380,000,000 	 2007 est.
+19 	 Venezuela 	 $      20,000,000,000 	 2007 est.
+20 	 Thailand 	 $      14,920,000,000 	 2007 est.
+21 	 Angola 	 $      13,580,000,000 	 2007 est.
+22 	 Canada 	 $      12,670,000,000 	 2007 est.
+23 	 Austria 	 $      12,030,000,000 	 2007 est.
+24 	 Finland 	 $      11,400,000,000 	 2007 est.
+25 	 Indonesia 	 $      11,010,000,000 	 2007 est.
+26 	 Qatar 	 $      10,410,000,000 	 2007 est.
+27 	 Azerbaijan 	 $       9,019,000,000 	 2007 est.
+28 	 Argentina 	 $       7,438,000,000 	 2007 est.
+29 	 Chile 	 $       7,200,000,000 	 2007 est.
+30 	 Brunei 	 $       7,101,000,000 	 2007 est.
+31 	 Philippines 	 $       6,351,000,000 	 2007 est.
+32 	 Iraq 	 $       6,025,000,000 	 2007 est.
+33 	 Korea, South 	 $       5,954,000,000 	 2007 est.
+34 	 Trinidad and Tobago 	 $       5,378,000,000 	 2007 est.
+35 	 Israel 	 $       5,197,000,000 	 2007 est.
+36 	 Luxembourg 	 $       4,921,000,000 	 2007 est.
+37 	 Oman 	 $       4,866,000,000 	 2007 est.
+38 	 Uzbekistan 	 $       4,615,000,000 	 2007 est.
+39 	 Denmark 	 $       4,279,000,000 	 2007 est.
+40 	 Belgium 	 $       3,282,000,000 	 2007 est.
+41 	 Bahrain 	 $       2,907,000,000 	 2007 est.
+42 	 Nigeria 	 $       2,514,000,000 	 2007 est.
+43 	 Botswana 	 $       1,973,000,000 	 2007 est.
+44 	 Bolivia 	 $       1,796,000,000 	 2007 est.
+45 	 Brazil 	 $       1,712,000,000 	 2007 est.
+46 	 Turkmenistan 	 $       1,705,000,000 	 2007 est.
+47 	 Gabon 	 $       1,552,000,000 	 2007 est.
+48 	 Peru 	 $       1,516,000,000 	 2007 est.
+49 	 Burma 	 $       1,427,000,000 	 2007 est.
+50 	 Timor-Leste 	 $       1,161,000,000 	 2007 est.
+51 	 Ecuador 	 $       1,064,000,000 	 2007 est.
+52 	 Syria 	 $        908,000,000 	 2007 est.
+53 	 Namibia 	 $        805,200,000 	 2007 est.
+54 	 Bangladesh 	 $        804,700,000 	 2007 est.
+55 	 Egypt 	 $        500,900,000 	 2007 est.
+56 	 Equatorial Guinea 	 $        415,000,000 	 2007 est.
+57 	 Cuba 	 $        240,000,000 	 2007 est.
+58 	 British Virgin Islands 	 $        134,300,000 	 1999
+59 	 Papua New Guinea 	 $        125,800,000 	 2007 est.
+60 	 Paraguay 	 $        119,000,000 	 2007 est.
+61 	 Bhutan 	 $        116,000,000 	 2007 est.
+62 	 Nepal 	 $         58,000,000 	 2007
+63 	 Lesotho 	 $         49,000,000 	 2007 est.
+64 	 Cook Islands 	 $         26,670,000 	 2005
+65 	 Suriname 	 $         24,000,000 	 2007 est.
+66 	 Palau 	 $         15,090,000 	 FY03/04
+67 	 Comoros 	 $          8,000,000 	 2007 est.
+68 	 Guinea-Bissau 	 $         -6,000,000 	 2007 est.
+69 	 Tuvalu 	 $        -11,680,000 	 2003
+70 	 Kiribati 	 $        -21,000,000 	 2007 est.
+71 	 Mongolia 	 $        -23,000,000 	 2007 est.
+72 	 Tonga 	 $        -23,000,000 	 2007 est.
+73 	 Samoa 	 $        -24,000,000 	 2007 est.
+74 	 Swaziland 	 $        -24,000,000 	 2007 est.
+75 	 Micronesia, Federated States of 	 $        -34,300,000 	 FY05 est.
+76 	 Anguilla 	 $        -42,870,000 	 2003 est.
+77 	 Belize 	 $        -43,000,000 	 2007 est.
+78 	 Sao Tome and Principe 	 $        -55,000,000 	 2007 est.
+79 	 Kosovo 	 $        -58,300,000 	 2007
+80 	 Vanuatu 	 $        -60,000,000 	 2007 est.
+81 	 Sierra Leone 	 $        -63,000,000 	 2007 est.
+82 	 Gambia, The 	 $        -71,000,000 	 2007 est.
+83 	 Dominica 	 $        -72,000,000 	 2007 est.
+84 	 Central African Republic 	 $        -77,000,000 	 2007 est.
+85 	 Burundi 	 $       -101,000,000 	 2007 est.
+86 	 Cape Verde 	 $       -132,600,000 	 2007 est.
+87 	 Grenada 	 $       -138,000,000 	 2007 est.
+88 	 Solomon Islands 	 $       -143,000,000 	 2007 est.
+89 	 Cote d'Ivoire 	 $       -146,000,000 	 2007 est.
+90 	 Rwanda 	 $       -147,000,000 	 2007 est.
+91 	 Saint Vincent and the Grenadines 	 $       -149,000,000 	 2007 est.
+92 	 Guyana 	 $       -157,000,000 	 2007 est.
+93 	 Togo 	 $       -159,000,000 	 2007 est.
+94 	 Saint Kitts and Nevis 	 $       -163,000,000 	 2007 est.
+95 	 Chad 	 $       -171,000,000 	 2007 est.
+96 	 Mauritania 	 $       -184,000,000 	 2007 est.
+97 	 Uruguay 	 $       -185,600,000 	 2007 est.
+98 	 Saint Lucia 	 $       -199,000,000 	 2007 est.
+99 	 Eritrea 	 $       -205,000,000 	 2007 est.
+100 	 Antigua and Barbuda 	 $       -211,000,000 	 2007 est.
+101 	 Djibouti 	 $       -212,000,000 	 2007 est.
+102 	 Liberia 	 $       -224,000,000 	 2007
+103 	 Zambia 	 $       -228,000,000 	 2007 est.
+104 	 Macedonia 	 $       -249,000,000 	 2007 est.
+105 	 Barbados 	 $       -254,000,000 	 2007 est.
+106 	 Kyrgyzstan 	 $       -267,900,000 	 2007 est.
+107 	 Seychelles 	 $       -272,000,000 	 2007 est.
+108 	 Laos 	 $       -285,000,000 	 2007 est.
+109 	 Malawi 	 $       -318,000,000 	 2007 est.
+110 	 Niger 	 $       -321,000,000 	 2007 est.
+111 	 Cameroon 	 $       -325,000,000 	 2007 est.
+112 	 Tajikistan 	 $       -351,000,000 	 2007 est.
+113 	 Yemen 	 $       -362,000,000 	 2007 est.
+114 	 Congo, Democratic Republic of the 	 $       -402,000,000 	 2007 est.
+115 	 Mauritius 	 $       -408,300,000 	 2007 est.
+116 	 Guinea 	 $       -424,000,000 	 2007 est.
+117 	 Malta 	 $       -424,500,000 	 2007 est.
+118 	 Benin 	 $       -441,000,000 	 2007 est.
+119 	 Mali 	 $       -446,000,000 	 2007 est.
+120 	 Haiti 	 $       -467,000,000 	 2007 est.
+121 	 Maldives 	 $       -472,000,000 	 2007
+122 	 Cambodia 	 $       -506,300,000 	 2007 est.
+123 	 Fiji 	 $       -507,000,000 	 2007 est.
+124 	 Armenia 	 $       -571,400,000 	 2007 est.
+125 	 Zimbabwe 	 $       -649,000,000 	 2007 est.
+126 	 Moldova 	 $       -694,700,000 	 2007 est.
+127 	 Burkina Faso 	 $       -706,000,000 	 2007 est.
+128 	 Uganda 	 $       -744,700,000 	 2007 est.
+129 	 Mozambique 	 $       -795,100,000 	 2007 est.
+130 	 Ethiopia 	 $       -826,800,000 	 2007 est.
+131 	 Madagascar 	 $       -890,000,000 	 2007 est.
+132 	 Tunisia 	 $       -905,000,000 	 2007 est.
+133 	 Nicaragua 	 $      -1,001,000,000 	 2007 est.
+134 	 Sri Lanka 	 $      -1,019,000,000 	 2007 est.
+135 	 El Salvador 	 $      -1,119,000,000 	 2007 est.
+136 	 Kenya 	 $      -1,147,000,000 	 2007 est.
+137 	 Albania 	 $      -1,202,000,000 	 2007 est.
+138 	 Honduras 	 $      -1,225,000,000 	 2007 est.
+139 	 Bahamas, The 	 $      -1,442,000,000 	 2007 est.
+140 	 Senegal 	 $      -1,458,000,000 	 2007 est.
+141 	 Congo, Republic of the 	 $      -1,491,000,000 	 2007 est.
+142 	 Costa Rica 	 $      -1,499,000,000 	 2007 est.
+143 	 Ghana 	 $      -1,549,000,000 	 2007 est.
+144 	 Panama 	 $      -1,577,000,000 	 2007 est.
+145 	 Guatemala 	 $      -1,663,000,000 	 2007 est.
+146 	 Jamaica 	 $      -1,830,000,000 	 2007 est.
+147 	 Morocco 	 $      -1,834,000,000 	 2007 est.
+148 	 Tanzania 	 $      -1,856,000,000 	 2007 est.
+149 	 Bosnia and Herzegovina 	 $      -1,939,000,000 	 2007 est.
+150 	 Georgia 	 $      -2,044,000,000 	 2007 est.
+151 	 Lebanon 	 $      -2,046,000,000 	 2007 est.
+152 	 Cyprus 	 $      -2,144,000,000 	 2007 est.
+153 	 Slovenia 	 $      -2,181,000,000 	 2007 est.
+154 	 Dominican Republic 	 $      -2,231,000,000 	 2007 est.
+155 	 Jordan 	 $      -2,767,000,000 	 2007 est.
+156 	 Belarus 	 $      -2,876,000,000 	 2007 est.
+157 	 Iceland 	 $      -3,189,000,000 	 2007 est.
+158 	 Sudan 	 $      -3,447,000,000 	 2007 est.
+159 	 Estonia 	 $      -3,771,000,000 	 2007 est.
+160 	 Slovakia 	 $      -3,998,000,000 	 2007 est.
+161 	 Czech Republic 	 $      -4,534,000,000 	 2007 est.
+162 	 Croatia 	 $      -4,850,000,000 	 2007 est.
+163 	 Lithuania 	 $      -5,260,000,000 	 2007 est.
+164 	 Mexico 	 $      -5,525,000,000 	 2007 est.
+165 	 Colombia 	 $      -5,862,000,000 	 2007 est.
+166 	 Ukraine 	 $      -5,918,000,000 	 2007 est.
+167 	 Latvia 	 $      -6,231,000,000 	 2007 est.
+168 	 Serbia 	 $      -6,889,000,000 	 2007 est.
+169 	 Vietnam 	 $      -6,993,000,000 	 2007 est.
+170 	 Kazakhstan 	 $      -7,184,000,000 	 2007 est.
+171 	 Hungary 	 $      -8,018,000,000 	 2007 est.
+172 	 Pakistan 	 $      -8,255,000,000 	 2007 est.
+173 	 Bulgaria 	 $      -8,530,000,000 	 2007 est.
+174 	 New Zealand 	 $     -10,230,000,000 	 2007 est.
+175 	 India 	 $     -12,110,000,000 	 2007 est.
+176 	 Ireland 	 $     -14,120,000,000 	 2007 est.
+177 	 Poland 	 $     -15,910,000,000 	 2007 est.
+178 	 South Africa 	 $     -20,630,000,000 	 2007 est.
+179 	 Portugal 	 $     -21,750,000,000 	 2007 est.
+180 	 Romania 	 $     -23,020,000,000 	 2007 est.
+181 	 France 	 $     -31,250,000,000 	 2007 est.
+182 	 Turkey 	 $     -37,580,000,000 	 2007 est.
+183 	 Greece 	 $     -44,400,000,000 	 2007 est.
+184 	 Italy 	 $     -51,030,000,000 	 2007 est.
+185 	 Australia 	 $     -56,780,000,000 	 2007 est.
+186 	 United Kingdom 	 $    -119,200,000,000 	 2007 est.
+187 	 Spain 	 $    -145,300,000,000 	 2007 est.
+188 	 United States 	 $    -731,200,000,000 	 2007 est.
+
+ This file was last updated on 18 December, 2008

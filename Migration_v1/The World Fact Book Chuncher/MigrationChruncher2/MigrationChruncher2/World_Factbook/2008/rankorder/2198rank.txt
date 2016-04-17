@@ -1,0 +1,92 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Stock of direct foreign investment - at home 	 Date of Information
+1 	 World 	  14,000,000,000,000.00 	 year-end 2007 est.
+2 	 United States 	  2,093,000,000,000.00 	 2007 est.
+3 	 United Kingdom 	  1,288,000,000,000.00 	 2007 est.
+4 	 Hong Kong 	  1,185,000,000,000.00 	 2007 est.
+5 	 France 	  942,300,000,000.00 	 2007 est.
+6 	 Germany 	  855,800,000,000.00 	 2007 est.
+7 	 China 	  758,900,000,000.00 	 2007 est.
+8 	 Belgium 	  678,200,000,000.00 	 2007 est.
+9 	 Netherlands 	  673,400,000,000.00 	 2007 est.
+10 	 Spain 	  568,800,000,000.00 	 2007 est.
+11 	 Canada 	  527,400,000,000.00 	 2007 est.
+12 	 Italy 	  364,800,000,000.00 	 2007 est.
+13 	 Australia 	  315,000,000,000.00 	 2007 est.
+14 	 Switzerland 	  306,400,000,000.00 	 2007 est.
+15 	 Russia 	  271,600,000,000.00 	 2006
+16 	 Mexico 	  260,900,000,000.00 	 2007 est.
+17 	 Brazil 	  248,900,000,000.00 	 2007 est.
+18 	 Austria 	  222,900,000,000.00 	 2007 est.
+19 	 Sweden 	  216,600,000,000.00 	 2007 est.
+20 	 Singapore 	  214,500,000,000.00 	 2007 est.
+21 	 Ireland 	  191,400,000,000.00 	 2007 est.
+22 	 Denmark 	  149,700,000,000.00 	 2007 est.
+23 	 Poland 	  143,000,000,000.00 	 2007 est.
+24 	 Korea, South 	  119,600,000,000.00 	 2007 est.
+25 	 Japan 	  110,800,000,000.00 	 2007 est.
+26 	 Hungary 	  108,600,000,000.00 	 2007 est.
+27 	 Turkey 	  106,400,000,000.00 	 2007 est.
+28 	 India 	  95,960,000,000.00 	 2007 est.
+29 	 South Africa 	  93,510,000,000.00 	 2007 est.
+30 	 Taiwan 	  92,830,000,000.00 	 2007
+31 	 Chile 	  91,490,000,000.00 	 2007 est.
+32 	 Portugal 	  91,190,000,000.00 	 2007 est.
+33 	 Czech Republic 	  86,750,000,000.00 	 2007 est.
+34 	 Malaysia 	  86,160,000,000.00 	 2007 est.
+35 	 Finland 	  85,240,000,000.00 	 2007 est.
+36 	 Thailand 	  80,830,000,000.00 	 2007 est.
+37 	 New Zealand 	  71,310,000,000.00 	 2007 est.
+38 	 Argentina 	  65,310,000,000.00 	 2007 est.
+39 	 Norway 	  62,630,000,000.00 	 2007 est.
+40 	 Romania 	  60,820,000,000.00 	 2007 est.
+41 	 Israel 	  57,970,000,000.00 	 2007 est.
+42 	 Indonesia 	  57,600,000,000.00 	 2007 est.
+43 	 Colombia 	  56,190,000,000.00 	 2007 est.
+44 	 Greece 	  52,840,000,000.00 	 2007 est.
+45 	 Egypt 	  48,460,000,000.00 	 2007 est.
+46 	 Slovakia 	  45,250,000,000.00 	 2007 est.
+47 	 United Arab Emirates 	  44,370,000,000.00 	 2007 est.
+48 	 Venezuela 	  43,960,000,000.00 	 2007 est.
+49 	 Kazakhstan 	  40,160,000,000.00 	 2007 est.
+50 	 Bulgaria 	  33,910,000,000.00 	 2007 est.
+51 	 Nigeria 	  33,640,000,000.00 	 2007 est.
+52 	 Morocco 	  32,900,000,000.00 	 2007 est.
+53 	 Vietnam 	  32,740,000,000.00 	 2007 est.
+54 	 Ukraine 	  31,080,000,000.00 	 2007 est.
+55 	 Tunisia 	  26,220,000,000.00 	 2007 est.
+56 	 Peru 	  24,720,000,000.00 	 2007 est.
+57 	 Croatia 	  23,130,000,000.00 	 2007 est.
+58 	 Pakistan 	  20,010,000,000.00 	 2007 est.
+59 	 Philippines 	  19,880,000,000.00 	 2007 est.
+60 	 Jordan 	  18,180,000,000.00 	 2007 est.
+61 	 Angola 	  17,230,000,000.00 	 2007 est.
+62 	 Estonia 	  16,590,000,000.00 	 2007 est.
+63 	 Ecuador 	  16,310,000,000.00 	 2007 est.
+64 	 Lithuania 	  14,630,000,000.00 	 2007 est.
+65 	 Cyprus 	  13,360,000,000.00 	 2007 est.
+66 	 Bahrain 	  13,310,000,000.00 	 2007 est.
+67 	 Dominican Republic 	  12,750,000,000.00 	 2007 est.
+68 	 Trinidad and Tobago 	  12,440,000,000.00 	 2007
+69 	 Algeria 	  12,040,000,000.00 	 2007 est.
+70 	 Serbia 	  11,950,000,000.00 	 2006 est.
+71 	 Cuba 	  11,240,000,000.00 	 2006 est.
+72 	 Qatar 	  11,180,000,000.00 	 2007 est.
+73 	 Slovenia 	  10,410,000,000.00 	 2007 est.
+74 	 Latvia 	   8,620,000,000.00 	 2007 est.
+75 	 Costa Rica 	   8,530,000,000.00 	 2007 est.
+76 	 Azerbaijan 	   7,829,000,000.00 	 2007 est.
+77 	 Bolivia 	   6,880,000,000.00 	 31 December 2004
+78 	 Macau 	   6,500,000,000.00 	 2006
+79 	 Libya 	   6,286,000,000.00 	 2007 est.
+80 	 Iran 	   6,026,000,000.00 	 2007 est.
+81 	 El Salvador 	   5,918,000,000.00 	 2007 est.
+82 	 Bangladesh 	   4,971,000,000.00 	 2007 est.
+83 	 Chad 	   4,500,000,000.00 	 2006 est.
+84 	 Uruguay 	   4,190,000,000.00 	 2007
+85 	 Macedonia 	   2,405,000,000.00 	 2007 est.
+86 	 Kenya 	   1,249,000,000.00 	 2007 est.
+87 	 Kuwait 	    898,000,000.00 	 2007 est.
+88 	 Paraguay 	      2,057,000.00 	 2007
+
+ This file was last updated on 18 December, 2008

@@ -1,0 +1,113 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - production(cu m) 	 Date of Information
+1 	 World 	   2,578,000,000,000 	 2001 est.
+2 	 Russia 	    580,800,000,000 	 2001 est.
+3 	 United States 	    548,100,000,000 	 2001 est.
+4 	 European Union 	    243,800,000,000 	 2001
+5 	 Canada 	    186,800,000,000 	 2001 est.
+6 	 United Kingdom 	    105,900,000,000 	 2001 est.
+7 	 Algeria 	     80,300,000,000 	 2001 est.
+8 	 Netherlands 	     77,750,000,000 	 2001 est.
+9 	 Indonesia 	     69,000,000,000 	 2001 est.
+10 	 Uzbekistan 	     63,100,000,000 	 2001 est.
+11 	 Iran 	     61,500,000,000 	 2001 est.
+12 	 Norway 	     54,600,000,000 	 2001 est.
+13 	 Saudi Arabia 	     53,690,000,000 	 2001 est.
+14 	 Malaysia 	     53,660,000,000 	 2001 est.
+15 	 Turkmenistan 	     48,200,000,000 	 2001 est.
+16 	 United Arab Emirates 	     44,940,000,000 	 2001 est.
+17 	 Argentina 	     37,150,000,000 	 2001 est.
+18 	 Mexico 	     36,870,000,000 	 2001 est.
+19 	 Australia 	     33,080,000,000 	 2001 est.
+20 	 Qatar 	     32,400,000,000 	 2001 est.
+21 	 Venezuela 	     31,710,000,000 	 2001 est.
+22 	 China 	     30,300,000,000 	 2001 est.
+23 	 Trinidad and Tobago 	     25,000,000,000 	 2003 est.
+24 	 Pakistan 	     23,400,000,000 	 2001 est.
+25 	 India 	     22,750,000,000 	 2001 est.
+26 	 Germany 	     22,160,000,000 	 2001 est.
+27 	 Egypt 	     21,200,000,000 	 2001 est.
+28 	 Thailand 	     18,730,000,000 	 2001 est.
+29 	 Ukraine 	     18,200,000,000 	 2001 est.
+30 	 Nigeria 	     15,680,000,000 	 2001 est.
+31 	 Italy 	     15,490,000,000 	 2001 est.
+32 	 Romania 	     14,300,000,000 	 2001 est.
+33 	 Oman 	     13,770,000,000 	 2001 est.
+34 	 Brunei 	     10,350,000,000 	 2001 est.
+35 	 Kazakhstan 	     10,080,000,000 	 2001 est.
+36 	 Bangladesh 	      9,900,000,000 	 2001 est.
+37 	 Bahrain 	      8,900,000,000 	 2001 est.
+38 	 Kuwait 	      8,700,000,000 	 2002 est.
+39 	 Denmark 	      8,380,000,000 	 2001 est.
+40 	 Burma 	      7,350,000,000 	 2001 est.
+41 	 New Zealand 	      6,504,000,000 	 2001 est.
+42 	 Libya 	      6,180,000,000 	 2001 est.
+43 	 Brazil 	      5,950,000,000 	 2001 est.
+44 	 Syria 	      5,840,000,000 	 2001 est.
+45 	 Azerbaijan 	      5,720,000,000 	 2001 est.
+46 	 Colombia 	      5,700,000,000 	 2001 est.
+47 	 Poland 	      5,471,000,000 	 2001 est.
+48 	 Bolivia 	      4,050,000,000 	 2001 est.
+49 	 Hungary 	      3,231,000,000 	 2001 est.
+50 	 Iraq 	      2,760,000,000 	 2001 est.
+51 	 Japan 	      2,519,000,000 	 2001 est.
+52 	 Tunisia 	      2,250,000,000 	 2001 est.
+53 	 France 	      1,898,000,000 	 2001 est.
+54 	 South Africa 	      1,800,000,000 	 2001 est.
+55 	 Croatia 	      1,760,000,000 	 2001 est.
+56 	 Austria 	      1,731,000,000 	 2001 est.
+57 	 Cote d'Ivoire 	      1,350,000,000 	 2001 est.
+58 	 Vietnam 	      1,300,000,000 	 2001 est.
+59 	 Chile 	      1,200,000,000 	 2001 est.
+60 	 Ireland 	       815,000,000 	 2001 est.
+61 	 Taiwan 	       750,000,000 	 2001 est.
+62 	 Serbia and Montenegro 	       602,000,000 	 2001 est.
+63 	 Cuba 	       600,000,000 	 2001 est.
+64 	 Angola 	       530,000,000 	 2001 est.
+65 	 Spain 	       516,000,000 	 2001 est.
+66 	 Peru 	       370,000,000 	 2001 est.
+67 	 Turkey 	       312,000,000 	 2001 est.
+68 	 Slovakia 	       292,000,000 	 2001 est.
+69 	 Jordan 	       290,000,000 	 2001 est.
+70 	 Afghanistan 	       220,000,000 	 2001 est.
+71 	 Belarus 	       200,000,000 	 2001 est.
+72 	 Ecuador 	       160,000,000 	 2001 est.
+73 	 Czech Republic 	       160,000,000 	 2001 est.
+74 	 Papua New Guinea 	       110,000,000 	 2001 est.
+75 	 Gabon 	        80,000,000 	 2001 est.
+76 	 Georgia 	        60,000,000 	 2001 est.
+77 	 Mozambique 	        60,000,000 	 2001 est.
+78 	 Morocco 	        50,000,000 	 2001 est.
+79 	 Tajikistan 	        50,000,000 	 2001 est.
+80 	 Senegal 	        50,000,000 	 2001 est.
+81 	 Greece 	        35,000,000 	 2001 est.
+82 	 Albania 	        30,000,000 	 2001 est.
+83 	 Barbados 	        29,170,000 	 2001 est.
+84 	 Equatorial Guinea 	        20,000,000 	 2001 est.
+85 	 Kyrgyzstan 	        16,000,000 	 2001 est.
+86 	 Israel 	        10,000,000 	 2001 est.
+87 	 Philippines 	        10,000,000 	 2001 est.
+88 	 Bulgaria 	         4,000,000 	 2001 est.
+89 	 Armenia 	               0 	 2001 est.
+90 	 Estonia 	               0 	 2001 est.
+91 	 Latvia 	               0 	 2001 est.
+92 	 Yemen 	               0 	 2001 est.
+93 	 Uruguay 	               0 	 2001 est.
+94 	 Switzerland 	               0 	 2001 est.
+95 	 Sweden 	               0 	 2001 est.
+96 	 Singapore 	               0 	 2001 est.
+97 	 Slovenia 	               0 	 2001 est.
+98 	 Puerto Rico 	               0 	 2001 est.
+99 	 Portugal 	               0 	 2001 est.
+100 	 Moldova 	               0 	 2001 est.
+101 	 Luxembourg 	               0 	 2001 est.
+102 	 Lithuania 	               0 	 2001 est.
+103 	 Korea, South 	               0 	 2001 est.
+104 	 Hong Kong 	               0 	 2001 est.
+105 	 Finland 	               0 	 2001 est.
+106 	 Belgium 	               0 	 2001 est.
+107 	 Cameroon 	               0 	 2001 est.
+108 	 Congo, Republic of the 	               0 	 2001 est.
+109 	 Bosnia and Herzegovina 	               0 	 2001 est.
+
+ This file was last updated on 10 February, 2005

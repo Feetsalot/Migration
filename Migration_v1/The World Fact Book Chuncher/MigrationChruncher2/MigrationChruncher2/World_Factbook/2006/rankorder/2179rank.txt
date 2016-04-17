@@ -1,0 +1,103 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - proved reserves(cu m) 	 Date of Information
+1 	 World 	 174,600,000,000,000 	 1 January 2002
+2 	 Russia 	  47,570,000,000,000 	 2003
+3 	 Iran 	  26,620,000,000,000 	 2005
+4 	 Qatar 	  25,770,000,000,000 	 2005
+5 	 Saudi Arabia 	   6,544,000,000,000 	 2005
+6 	 United Arab Emirates 	   6,006,000,000,000 	 2005
+7 	 United States 	   5,353,000,000,000 	 1 January 2002
+8 	 Algeria 	   4,531,000,000,000 	 2005
+9 	 Nigeria 	   4,502,000,000,000 	 2005
+10 	 Venezuela 	   4,191,000,000,000 	 2005
+11 	 European Union 	   3,256,000,000,000 	 1 January 2002
+12 	 Iraq 	   3,115,000,000,000 	 2005
+13 	 Kazakhstan 	   3,000,000,000,000 	 1 January 2004
+14 	 Indonesia 	   2,557,000,000,000 	 2005
+15 	 Australia 	   2,549,000,000,000 	 1 January 2002
+16 	 China 	   2,530,000,000,000 	 2004
+17 	 Malaysia 	   2,124,000,000,000 	 2005
+18 	 Norway 	   2,118,000,000,000 	 1 January 2002
+19 	 Turkmenistan 	   2,010,000,000,000 	 1 January 2002
+20 	 Egypt 	   1,900,000,000,000 	 2005
+21 	 Uzbekistan 	   1,875,000,000,000 	 1 January 2005
+22 	 Netherlands 	   1,756,000,000,000 	 1 January 2002
+23 	 Canada 	   1,673,000,000,000 	 2004
+24 	 Kuwait 	   1,572,000,000,000 	 2005
+25 	 Libya 	   1,321,000,000,000 	 2005
+26 	 Ukraine 	   1,121,000,000,000 	 9 November 2004
+27 	 India 	    853,500,000,000 	 2005
+28 	 Azerbaijan 	    849,500,000,000 	 1 January 2002
+29 	 Oman 	    829,100,000,000 	 2005
+30 	 Pakistan 	    759,700,000,000 	 2005
+31 	 Trinidad and Tobago 	    733,000,000,000 	 1 January 2004
+32 	 Bolivia 	    679,600,000,000 	 1 January 2002
+33 	 Argentina 	    663,500,000,000 	 2005
+34 	 United Kingdom 	    628,600,000,000 	 31 December 2004
+35 	 Yemen 	    478,600,000,000 	 2005
+36 	 Mexico 	    424,300,000,000 	 2005
+37 	 Brunei 	    390,800,000,000 	 1 January 2002
+38 	 Thailand 	    377,700,000,000 	 November 2003
+39 	 Papua New Guinea 	    345,500,000,000 	 2005
+40 	 Germany 	    305,800,000,000 	 1 January 2004
+41 	 Bangladesh 	    300,200,000,000 	 1 January 2002
+42 	 Romania 	    300,000,000,000 	 yearend 2004
+43 	 Burma 	    283,200,000,000 	 2005
+44 	 Peru 	    247,100,000,000 	 2005
+45 	 Syria 	    240,700,000,000 	 2005
+46 	 Brazil 	    240,000,000,000 	 2005
+47 	 Italy 	    226,500,000,000 	 1 January 2002
+48 	 Vietnam 	    192,600,000,000 	 2005
+49 	 Poland 	    154,400,000,000 	 December 2004
+50 	 Colombia 	    127,600,000,000 	 2005
+51 	 Mozambique 	    127,400,000,000 	 1 January 2002
+52 	 Cameroon 	    110,400,000,000 	 2005
+53 	 Philippines 	    106,800,000,000 	 1 January 2004
+54 	 Afghanistan 	     99,960,000,000 	 1 January 2002
+55 	 Chile 	     97,980,000,000 	 1 January 2004
+56 	 Bahrain 	     92,030,000,000 	 2005
+57 	 Congo, Republic of the 	     90,610,000,000 	 1 January 2002
+58 	 Sudan 	     84,950,000,000 	 2005
+59 	 Tunisia 	     77,870,000,000 	 2005
+60 	 Taiwan 	     76,460,000,000 	 2005
+61 	 Denmark 	     73,510,000,000 	 1 January 2002
+62 	 Cuba 	     70,790,000,000 	 1 January 2002
+63 	 Namibia 	     62,300,000,000 	 1 January 2002
+64 	 Rwanda 	     56,630,000,000 	 1 January 2002
+65 	 Serbia 	     48,140,000,000 	 1 January 2002
+66 	 Angola 	     45,870,000,000 	 2005
+67 	 Japan 	     39,640,000,000 	 1 January 2002
+68 	 Israel 	     38,940,000,000 	 1 January 2002
+69 	 New Zealand 	     37,380,000,000 	 1 January 2002
+70 	 Equatorial Guinea 	     36,810,000,000 	 1 January 2002
+71 	 Gabon 	     33,980,000,000 	 2005
+72 	 Hungary 	     33,980,000,000 	 1 January 2003
+73 	 Cote d'Ivoire 	     29,730,000,000 	 2005
+74 	 Ethiopia 	     24,920,000,000 	 1 January 2002
+75 	 Croatia 	     24,720,000,000 	 1 January 2002
+76 	 Ghana 	     23,790,000,000 	 1 January 2002
+77 	 Austria 	     23,200,000,000 	 2004
+78 	 Tanzania 	     22,650,000,000 	 1 January 2002
+79 	 Ireland 	     19,820,000,000 	 1 January 2002
+80 	 Slovakia 	     15,010,000,000 	 1 January 2003
+81 	 France 	     14,330,000,000 	 1 January 2002
+82 	 Ecuador 	      9,769,000,000 	 2005
+83 	 Turkey 	      8,495,000,000 	 1 January 2002
+84 	 Jordan 	      6,230,000,000 	 1 January 2002
+85 	 Bulgaria 	      5,670,000,000 	 1 January 2005
+86 	 Somalia 	      5,663,000,000 	 1 January 2002
+87 	 Czech Republic 	      3,964,000,000 	 1 January 2003
+88 	 Guatemala 	      3,087,000,000 	 1 January 2002
+89 	 Albania 	      2,832,000,000 	 1 January 2002
+90 	 Spain 	      2,662,000,000 	 1 January 2002
+91 	 Benin 	      1,218,000,000 	 1 January 2002
+92 	 Morocco 	      1,218,000,000 	 2005
+93 	 Congo, Democratic Republic of the 	       991,100,000 	 1 January 2002
+94 	 Greece 	       991,100,000 	 1 January 2002
+95 	 Barbados 	       141,600,000 	 1 January 2002
+96 	 South Africa 	        28,320,000 	 1 January 2002
+97 	 Madagascar 	               0 	 1 January 2002
+98 	 Mauritania 	               0 	 2005
+99 	 Suriname 	               0 	 2005
+
+ This file was last updated on 19 December, 2006

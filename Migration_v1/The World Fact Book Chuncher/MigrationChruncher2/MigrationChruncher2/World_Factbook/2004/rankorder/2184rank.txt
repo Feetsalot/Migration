@@ -1,0 +1,195 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Internet hosts 	 Date of Information
+1 	 United States 	       115,311,958 	 2002
+2 	 European Union 	        22,000,414 	 
+3 	 Japan 	        12,962,065 	 2003
+4 	 Netherlands 	         4,518,226 	 2004
+5 	 United Kingdom 	         3,398,708 	 2004
+6 	 Canada 	         3,210,081 	 2003
+7 	 Brazil 	         3,163,349 	 2003
+8 	 Australia 	         2,847,763 	 2003
+9 	 Taiwan 	         2,777,085 	 2003
+10 	 Germany 	         2,686,119 	 2004
+11 	 France 	         2,396,761 	 2004
+12 	 Italy 	         1,437,511 	 2004
+13 	 Mexico 	         1,333,406 	 2003
+14 	 Denmark 	         1,219,925 	 2004
+15 	 Finland 	         1,219,173 	 2004
+16 	 Spain 	         1,056,950 	 2004
+17 	 Sweden 	          945,221 	 2004
+18 	 Poland 	          804,915 	 2004
+19 	 Argentina 	          742,358 	 2003
+20 	 Korea, South 	          694,206 	 2001
+21 	 Switzerland 	          667,275 	 2004
+22 	 Norway 	          593,850 	 2004
+23 	 Hong Kong 	          591,993 	 2003
+24 	 Russia 	          560,874 	 2004
+25 	 Singapore 	          484,825 	 2003
+26 	 New Zealand 	          474,395 	 2003
+27 	 Israel 	          437,516 	 2004
+28 	 Austria 	          387,006 	 2004
+29 	 Hungary 	          383,071 	 2004
+30 	 Turkey 	          355,215 	 2004
+31 	 Portugal 	          346,078 	 2004
+32 	 Czech Republic 	          295,677 	 2004
+33 	 South Africa 	          288,633 	 2003
+34 	 Greece 	          208,977 	 2004
+35 	 Chile 	          202,429 	 2003
+36 	 Belgium 	          166,799 	 2004
+37 	 Ireland 	          162,228 	 2004
+38 	 China 	          160,421 	 2003
+39 	 Iceland 	          122,175 	 2004
+40 	 Colombia 	          115,158 	 2003
+41 	 Malaysia 	          107,971 	 2003
+42 	 Thailand 	          103,700 	 2003
+43 	 Ukraine 	           94,345 	 2004
+44 	 Slovakia 	           89,592 	 2004
+45 	 Uruguay 	           87,630 	 2003
+46 	 India 	           86,871 	 2003
+47 	 Estonia 	           82,142 	 2004
+48 	 Lithuania 	           67,769 	 2004
+49 	 Peru 	           65,868 	 2003
+50 	 Dominican Republic 	           64,197 	 2003
+51 	 Indonesia 	           62,036 	 2003
+52 	 United Arab Emirates 	           56,283 	 2004
+53 	 Bulgaria 	           53,421 	 2004
+54 	 Latvia 	           51,758 	 2004
+55 	 Romania 	           50,807 	 2004
+56 	 Slovenia 	           45,491 	 2004
+57 	 Philippines 	           38,440 	 2002
+58 	 Venezuela 	           35,301 	 2003
+59 	 Croatia 	           29,644 	 2004
+60 	 Luxembourg 	           28,214 	 2003
+61 	 Kazakhstan 	           21,984 	 2004
+62 	 Guatemala 	           20,360 	 2003
+63 	 Serbia and Montenegro 	           20,207 	 2004
+64 	 Tonga 	           18,906 	 2003
+65 	 Saudi Arabia 	           15,931 	 2004
+66 	 Pakistan 	           15,124 	 2003
+67 	 Kyrgyzstan 	           12,299 	 2004
+68 	 Moldova 	           11,984 	 2003
+69 	 Costa Rica 	           10,826 	 2003
+70 	 Paraguay 	            9,243 	 2003
+71 	 Kenya 	            8,325 	 2003
+72 	 Samoa 	            8,225 	 2003
+73 	 Trinidad and Tobago 	            8,003 	 2003
+74 	 Malta 	            7,156 	 2004
+75 	 Panama 	            7,129 	 2003
+76 	 Nicaragua 	            7,094 	 2003
+77 	 Bolivia 	            7,080 	 2003
+78 	 Lebanon 	            6,998 	 2004
+79 	 Bosnia and Herzegovina 	            6,994 	 2004
+80 	 Brunei 	            6,409 	 2003
+81 	 Cyprus 	            5,901 	 2004
+82 	 Tanzania 	            5,534 	 2003
+83 	 Belarus 	            5,308 	 2004
+84 	 Iran 	            5,269 	 2004
+85 	 Bermuda 	            5,161 	 2001
+86 	 Georgia 	            5,160 	 2004
+87 	 French Polynesia 	            5,123 	 2003
+88 	 Zimbabwe 	            4,501 	 2003
+89 	 New Caledonia 	            4,449 	 2003
+90 	 Andorra 	            4,144 	 2004
+91 	 El Salvador 	            4,084 	 2003
+92 	 Mauritius 	            3,985 	 2003
+93 	 Cote d'Ivoire 	            3,795 	 2004
+94 	 Macedonia 	            3,738 	 2004
+95 	 Liechtenstein 	            3,727 	 2004
+96 	 Morocco 	            3,627 	 2004
+97 	 Kuwait 	            3,437 	 2001
+98 	 Egypt 	            3,401 	 2004
+99 	 Mozambique 	            3,249 	 2003
+100 	 Ecuador 	            3,188 	 2003
+101 	 Namibia 	            3,164 	 2003
+102 	 Jordan 	            3,160 	 2004
+103 	 Uganda 	            2,692 	 2004
+104 	 Greenland 	            2,642 	 2004
+105 	 Belize 	            2,613 	 2003
+106 	 Armenia 	            2,206 	 2004
+107 	 Honduras 	            1,944 	 2003
+108 	 Botswana 	            1,920 	 2003
+109 	 Sri Lanka 	            1,882 	 2003
+110 	 Zambia 	            1,880 	 2003
+111 	 San Marino 	            1,763 	 2004
+112 	 Antigua and Barbuda 	            1,665 	 2003
+113 	 Cuba 	            1,529 	 2003
+114 	 Rwanda 	            1,495 	 2003
+115 	 Jamaica 	            1,480 	 2003
+116 	 Swaziland 	            1,401 	 2003
+117 	 Bahrain 	            1,334 	 2003
+118 	 Nigeria 	            1,142 	 2004
+119 	 Sao Tome and Principe 	            1,069 	 2003
+120 	 Eritrea 	            1,047 	 2004
+121 	 Uzbekistan 	            1,040 	 2003
+122 	 Bhutan 	             985 	 2003
+123 	 Laos 	             937 	 2003
+124 	 Aruba 	             923 	 2001
+125 	 Nepal 	             917 	 2003
+126 	 Algeria 	             897 	 2004
+127 	 Benin 	             879 	 2004
+128 	 Cambodia 	             818 	 2003
+129 	 Madagascar 	             773 	 2003
+130 	 Oman 	             726 	 2003
+131 	 Djibouti 	             702 	 2004
+132 	 Dominica 	             681 	 2003
+133 	 Senegal 	             672 	 2003
+134 	 Guyana 	             613 	 2003
+135 	 Azerbaijan 	             586 	 2004
+136 	 Gambia, The 	             568 	 2004
+137 	 Monaco 	             533 	 2004
+138 	 Maldives 	             532 	 2003
+139 	 Turkmenistan 	             524 	 2004
+140 	 Vanuatu 	             512 	 2003
+141 	 Fiji 	             493 	 2003
+142 	 Cameroon 	             479 	 2004
+143 	 Albania 	             455 	 2004
+144 	 Burkina Faso 	             442 	 2003
+145 	 Ghana 	             407 	 2004
+146 	 Solomon Islands 	             398 	 2003
+147 	 Papua New Guinea 	             389 	 2003
+148 	 Guinea 	             380 	 2004
+149 	 Vietnam 	             340 	 2003
+150 	 Bahamas, The 	             302 	 2003
+151 	 Tunisia 	             281 	 2004
+152 	 Sierra Leone 	             277 	 2004
+153 	 Seychelles 	             264 	 2003
+154 	 Qatar 	             221 	 2004
+155 	 Barbados 	             204 	 2003
+156 	 Mali 	             187 	 2003
+157 	 Congo, Democratic Republic of the 	             153 	 2003
+158 	 Yemen 	             138 	 2004
+159 	 Niger 	             134 	 2003
+160 	 Lesotho 	             119 	 2003
+161 	 Netherlands Antilles 	             119 	 2001
+162 	 Cape Verde 	             118 	 2004
+163 	 Gabon 	              93 	 2004
+164 	 Macau 	              89 	 2003
+165 	 Togo 	              82 	 2003
+166 	 Tajikistan 	              69 	 2004
+167 	 Libya 	              67 	 2003
+168 	 Saint Kitts and Nevis 	              51 	 2003
+169 	 Congo, Republic of the 	              46 	 2003
+170 	 Saint Lucia 	              41 	 2003
+171 	 Mongolia 	              40 	 2003
+172 	 Mauritania 	              25 	 2003
+173 	 Burundi 	              22 	 2003
+174 	 Grenada 	              18 	 2003
+175 	 Suriname 	              18 	 2003
+176 	 Malawi 	              18 	 2003
+177 	 Angola 	              17 	 2003
+178 	 Liberia 	              14 	 2004
+179 	 Comoros 	              11 	 2003
+180 	 Syria 	              11 	 2004
+181 	 Ethiopia 	               9 	 2003
+182 	 Holy See (Vatican City) 	               9 	 2004
+183 	 Chad 	               8 	 2004
+184 	 Central African Republic 	               6 	 2002
+185 	 Marshall Islands 	               6 	 2003
+186 	 Somalia 	               4 	 2004
+187 	 Saint Vincent and the Grenadines 	               4 	 2003
+188 	 Burma 	               3 	 2003
+189 	 Equatorial Guinea 	               3 	 2004
+190 	 Guinea-Bissau 	               2 	 2004
+191 	 Bangladesh 	               1 	 2003
+
+ This file was last updated on 10 February, 2005

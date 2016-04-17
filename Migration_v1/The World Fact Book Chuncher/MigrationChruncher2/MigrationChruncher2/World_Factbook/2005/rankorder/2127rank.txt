@@ -1,0 +1,230 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Total fertility rate(children born/woman) 	 Date of Information
+1 	 Niger 	      7.55 	 2005 est.
+2 	 Mali 	      7.47 	 2005 est.
+3 	 Somalia 	      6.84 	 2005 est.
+4 	 Afghanistan 	      6.75 	 2005 est.
+5 	 Uganda 	      6.74 	 2005 est.
+6 	 Yemen 	      6.67 	 2005 est.
+7 	 Burundi 	      6.63 	 2005 est.
+8 	 Congo, Democratic Republic of the 	      6.54 	 2005 est.
+9 	 Burkina Faso 	      6.54 	 2005 est.
+10 	 Angola 	      6.42 	 2005 est.
+11 	 Chad 	      6.32 	 2005 est.
+12 	 Sierra Leone 	      6.15 	 2005 est.
+13 	 Congo, Republic of the 	      6.14 	 2005 est.
+14 	 Liberia 	      6.09 	 2005 est.
+15 	 Malawi 	      5.98 	 2005 est.
+16 	 Mauritania 	      5.94 	 2005 est.
+17 	 Gaza Strip 	      5.91 	 2005 est.
+18 	 Mayotte 	      5.89 	 2005 est.
+19 	 Oman 	      5.84 	 2005 est.
+20 	 Guinea 	      5.83 	 2005 est.
+21 	 Sao Tome and Principe 	      5.71 	 2005 est.
+22 	 Madagascar 	      5.66 	 2005 est.
+23 	 Nigeria 	      5.53 	 2005 est.
+24 	 Rwanda 	      5.49 	 2005 est.
+25 	 Zambia 	      5.47 	 2005 est.
+26 	 Djibouti 	      5.40 	 2005 est.
+27 	 Gambia, The 	      5.38 	 2005 est.
+28 	 Ethiopia 	      5.33 	 2005 est.
+29 	 Benin 	      5.32 	 2005 est.
+30 	 Eritrea 	      5.20 	 2005 est.
+31 	 Comoros 	      5.09 	 2005 est.
+32 	 Tanzania 	      5.06 	 2005 est.
+33 	 Haiti 	      5.02 	 2005 est.
+34 	 Maldives 	      5.02 	 2005 est.
+35 	 Togo 	      5.01 	 2005 est.
+36 	 Kenya 	      4.96 	 2005 est.
+37 	 Guinea-Bissau 	      4.93 	 2005 est.
+38 	 Sudan 	      4.85 	 2005 est.
+39 	 Bhutan 	      4.81 	 2005 est.
+40 	 Gabon 	      4.77 	 2005 est.
+41 	 Laos 	      4.77 	 2005 est.
+42 	 Mozambique 	      4.70 	 2005 est.
+43 	 Equatorial Guinea 	      4.62 	 2005 est.
+44 	 Cote d'Ivoire 	      4.58 	 2005 est.
+45 	 Central African Republic 	      4.50 	 2005 est.
+46 	 Senegal 	      4.50 	 2005 est.
+47 	 Cameroon 	      4.47 	 2005 est.
+48 	 West Bank 	      4.40 	 2005 est.
+49 	 Iraq 	      4.28 	 2005 est.
+50 	 Kiribati 	      4.20 	 2005 est.
+51 	 Nepal 	      4.19 	 2005 est.
+52 	 Pakistan 	      4.14 	 2005 est.
+53 	 Ghana 	      4.10 	 2005 est.
+54 	 Saudi Arabia 	      4.05 	 2005 est.
+55 	 Tajikistan 	      4.05 	 2005 est.
+56 	 Solomon Islands 	      4.04 	 2005 est.
+57 	 Papua New Guinea 	      3.96 	 2005 est.
+58 	 Guatemala 	      3.93 	 2005 est.
+59 	 Paraguay 	      3.93 	 2005 est.
+60 	 Marshall Islands 	      3.93 	 2005 est.
+61 	 Honduras 	      3.69 	 2005 est.
+62 	 Belize 	      3.68 	 2005 est.
+63 	 Swaziland 	      3.62 	 2005 est.
+64 	 East Timor 	      3.61 	 2005 est.
+65 	 Syria 	      3.50 	 2005 est.
+66 	 Cape Verde 	      3.48 	 2005 est.
+67 	 Cambodia 	      3.44 	 2005 est.
+68 	 Turkmenistan 	      3.41 	 2005 est.
+69 	 Lesotho 	      3.35 	 2005 est.
+70 	 Libya 	      3.34 	 2005 est.
+71 	 American Samoa 	      3.25 	 2005 est.
+72 	 Micronesia, Federated States of 	      3.25 	 2005 est.
+73 	 Nauru 	      3.19 	 2005 est.
+74 	 Namibia 	      3.18 	 2005 est.
+75 	 Zimbabwe 	      3.18 	 2005 est.
+76 	 El Salvador 	      3.16 	 2005 est.
+77 	 Philippines 	      3.16 	 2005 est.
+78 	 Bangladesh 	      3.13 	 2005 est.
+79 	 Turks and Caicos Islands 	      3.08 	 2005 est.
+80 	 Malaysia 	      3.07 	 2005 est.
+81 	 French Guiana 	      3.01 	 2005 est.
+82 	 Samoa 	      3.01 	 2005 est.
+83 	 Tonga 	      3.00 	 2005 est.
+84 	 Tuvalu 	      3.00 	 2005 est.
+85 	 Kuwait 	      2.97 	 2005 est.
+86 	 United Arab Emirates 	      2.94 	 2005 est.
+87 	 Uzbekistan 	      2.94 	 2005 est.
+88 	 Bolivia 	      2.94 	 2005 est.
+89 	 Egypt 	      2.88 	 2005 est.
+90 	 Qatar 	      2.87 	 2005 est.
+91 	 Dominican Republic 	      2.86 	 2005 est.
+92 	 Botswana 	      2.85 	 2005 est.
+93 	 Nicaragua 	      2.81 	 2005 est.
+94 	 India 	      2.78 	 2005 est.
+95 	 Vanuatu 	      2.77 	 2005 est.
+96 	 Fiji 	      2.75 	 2005 est.
+97 	 Morocco 	      2.73 	 2005 est.
+98 	 Ecuador 	      2.72 	 2005 est.
+99 	 Jordan 	      2.71 	 2005 est.
+100 	 Kyrgyzstan 	      2.70 	 2005 est.
+101 	 Panama 	      2.70 	 2005 est.
+102 	 Bahrain 	      2.63 	 2005 est.
+103 	 Guam 	      2.60 	 2005 est.
+104 	 World 	      2.60 	 2005 est.
+105 	 Colombia 	      2.56 	 2005 est.
+106 	 Peru 	      2.56 	 2005 est.
+107 	 Jamaica 	      2.47 	 2005 est.
+108 	 Reunion 	      2.47 	 2005 est.
+109 	 Palau 	      2.46 	 2005 est.
+110 	 Mexico 	      2.45 	 2005 est.
+111 	 Azerbaijan 	      2.44 	 2005 est.
+112 	 Israel 	      2.44 	 2005 est.
+113 	 Indonesia 	      2.44 	 2005 est.
+114 	 Greenland 	      2.41 	 2005 est.
+115 	 Grenada 	      2.37 	 2005 est.
+116 	 Suriname 	      2.34 	 2005 est.
+117 	 Saint Kitts and Nevis 	      2.33 	 2005 est.
+118 	 New Caledonia 	      2.31 	 2005 est.
+119 	 Brunei 	      2.30 	 2005 est.
+120 	 Costa Rica 	      2.28 	 2005 est.
+121 	 Antigua and Barbuda 	      2.26 	 2005 est.
+122 	 Mongolia 	      2.26 	 2005 est.
+123 	 Venezuela 	      2.26 	 2005 est.
+124 	 South Africa 	      2.24 	 2005 est.
+125 	 Saint Lucia 	      2.21 	 2005 est.
+126 	 Bahamas, The 	      2.20 	 2005 est.
+127 	 Faroe Islands 	      2.20 	 2005 est.
+128 	 Argentina 	      2.19 	 2005 est.
+129 	 Virgin Islands 	      2.19 	 2005 est.
+130 	 Korea, North 	      2.15 	 2005 est.
+131 	 United States 	      2.08 	 2005 est.
+132 	 Guyana 	      2.05 	 2005 est.
+133 	 Albania 	      2.04 	 2005 est.
+134 	 French Polynesia 	      2.04 	 2005 est.
+135 	 Saint Pierre and Miquelon 	      2.03 	 2005 est.
+136 	 Chile 	      2.02 	 2005 est.
+137 	 Burma 	      2.01 	 2005 est.
+138 	 Netherlands Antilles 	      2.00 	 2005 est.
+139 	 Dominica 	      1.96 	 2005 est.
+140 	 Mauritius 	      1.96 	 2005 est.
+141 	 Turkey 	      1.94 	 2005 est.
+142 	 Vietnam 	      1.94 	 2005 est.
+143 	 Brazil 	      1.93 	 2005 est.
+144 	 Algeria 	      1.92 	 2005 est.
+145 	 Lebanon 	      1.92 	 2005 est.
+146 	 Iceland 	      1.92 	 2005 est.
+147 	 Guadeloupe 	      1.91 	 2005 est.
+148 	 Uruguay 	      1.91 	 2005 est.
+149 	 Cayman Islands 	      1.90 	 2005 est.
+150 	 Bermuda 	      1.89 	 2005 est.
+151 	 Kazakhstan 	      1.89 	 2005 est.
+152 	 Ireland 	      1.87 	 2005 est.
+153 	 Sri Lanka 	      1.85 	 2005 est.
+154 	 Saint Vincent and the Grenadines 	      1.85 	 2005 est.
+155 	 France 	      1.85 	 2005 est.
+156 	 Cyprus 	      1.83 	 2005 est.
+157 	 Iran 	      1.82 	 2005 est.
+158 	 Moldova 	      1.81 	 2005 est.
+159 	 Aruba 	      1.79 	 2005 est.
+160 	 New Zealand 	      1.79 	 2005 est.
+161 	 Luxembourg 	      1.79 	 2005 est.
+162 	 Martinique 	      1.79 	 2005 est.
+163 	 Montserrat 	      1.78 	 2005 est.
+164 	 Norway 	      1.78 	 2005 est.
+165 	 Australia 	      1.76 	 2005 est.
+166 	 Monaco 	      1.76 	 2005 est.
+167 	 Puerto Rico 	      1.75 	 2005 est.
+168 	 Seychelles 	      1.75 	 2005 est.
+169 	 Tunisia 	      1.75 	 2005 est.
+170 	 Trinidad and Tobago 	      1.75 	 2005 est.
+171 	 Denmark 	      1.74 	 2005 est.
+172 	 Anguilla 	      1.73 	 2005 est.
+173 	 Finland 	      1.73 	 2005 est.
+174 	 China 	      1.72 	 2005 est.
+175 	 British Virgin Islands 	      1.72 	 2005 est.
+176 	 Serbia and Montenegro 	      1.67 	 2005 est.
+177 	 Cuba 	      1.66 	 2005 est.
+178 	 Netherlands 	      1.66 	 2005 est.
+179 	 United Kingdom 	      1.66 	 2005 est.
+180 	 Sweden 	      1.66 	 2005 est.
+181 	 Gibraltar 	      1.65 	 2005 est.
+182 	 Isle of Man 	      1.65 	 2005 est.
+183 	 Barbados 	      1.64 	 2005 est.
+184 	 Belgium 	      1.64 	 2005 est.
+185 	 Thailand 	      1.63 	 2005 est.
+186 	 Canada 	      1.61 	 2005 est.
+187 	 Jersey 	      1.57 	 2005 est.
+188 	 Taiwan 	      1.57 	 2005 est.
+189 	 Macedonia 	      1.57 	 2005 est.
+190 	 Saint Helena 	      1.54 	 2005 est.
+191 	 Liechtenstein 	      1.51 	 2005 est.
+192 	 Malta 	      1.50 	 2005 est.
+193 	 European Union 	      1.47 	 July 2005 est.
+194 	 Portugal 	      1.47 	 2005 est.
+195 	 Switzerland 	      1.43 	 2005 est.
+196 	 Georgia 	      1.41 	 2005 est.
+197 	 Belarus 	      1.39 	 2005 est.
+198 	 Germany 	      1.39 	 2005 est.
+199 	 Croatia 	      1.39 	 2005 est.
+200 	 Japan 	      1.39 	 2005 est.
+201 	 Estonia 	      1.39 	 2005 est.
+202 	 Bulgaria 	      1.38 	 2005 est.
+203 	 Guernsey 	      1.38 	 2005 est.
+204 	 Austria 	      1.36 	 2005 est.
+205 	 Romania 	      1.36 	 2005 est.
+206 	 Greece 	      1.33 	 2005 est.
+207 	 San Marino 	      1.33 	 2005 est.
+208 	 Armenia 	      1.32 	 2005 est.
+209 	 Hungary 	      1.32 	 2005 est.
+210 	 Slovakia 	      1.32 	 2005 est.
+211 	 Andorra 	      1.29 	 2005 est.
+212 	 Italy 	      1.28 	 2005 est.
+213 	 Spain 	      1.28 	 2005 est.
+214 	 Northern Mariana Islands 	      1.27 	 2005 est.
+215 	 Russia 	      1.27 	 2005 est.
+216 	 Korea, South 	      1.26 	 2005 est.
+217 	 Latvia 	      1.26 	 2005 est.
+218 	 Poland 	      1.24 	 2005 est.
+219 	 Slovenia 	      1.24 	 2005 est.
+220 	 Bosnia and Herzegovina 	      1.21 	 2005 est.
+221 	 Czech Republic 	      1.20 	 2005 est.
+222 	 Lithuania 	      1.19 	 2005 est.
+223 	 Ukraine 	      1.16 	 2005 est.
+224 	 Singapore 	      1.05 	 2005 est.
+225 	 Macau 	      1.00 	 2005 est.
+226 	 Hong Kong 	      0.93 	 2005 est.
+
+ This file was last updated on 10 January, 2006

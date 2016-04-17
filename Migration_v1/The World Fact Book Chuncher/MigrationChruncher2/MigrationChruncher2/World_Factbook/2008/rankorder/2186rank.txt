@@ -1,0 +1,130 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Public debt(% of GDP) 	 Date of Information
+1 	 Zimbabwe 	    218.20 	 2007 est.
+2 	 Lebanon 	    186.60 	 2007 est.
+3 	 Japan 	    170.00 	 2007 est.
+4 	 Jamaica 	    126.50 	 2007 est.
+5 	 Sudan 	    105.90 	 2007 est.
+6 	 Egypt 	    105.80 	 2007 est.
+7 	 Italy 	    104.00 	 2007 est.
+8 	 Singapore 	     96.30 	 2007 est.
+9 	 Seychelles 	     92.30 	 2007 est.
+10 	 Greece 	     89.50 	 2007 est.
+11 	 Sri Lanka 	     85.80 	 2007 est.
+12 	 Belgium 	     84.60 	 2007 est.
+13 	 Norway 	     83.10 	 2007 est.
+14 	 Bhutan 	     81.40 	 2004
+15 	 Israel 	     80.60 	 2007 est.
+16 	 Cote d'Ivoire 	     75.20 	 2007 est.
+17 	 Jordan 	     72.40 	 2007 est.
+18 	 Morocco 	     67.40 	 2007 est.
+19 	 Hungary 	     67.00 	 2007 est.
+20 	 Germany 	     64.90 	 2007 est.
+21 	 Uruguay 	     64.80 	 2007 est.
+22 	 Canada 	     64.20 	 2007 est.
+23 	 France 	     63.90 	 2007 est.
+24 	 Portugal 	     63.60 	 2007 est.
+25 	 Mauritius 	     63.10 	 2007 est.
+26 	 Nicaragua 	     62.90 	 2007 est.
+27 	 United States 	     60.80 	 2007 est.
+28 	 Cyprus 	     59.60 	 2007 est.
+29 	 Austria 	     59.10 	 2007 est.
+30 	 Ghana 	     58.50 	 2007 est.
+31 	 India 	     58.20 	 2007 est.
+32 	 Argentina 	     56.10 	 2007 est.
+33 	 Philippines 	     55.80 	 2007 est.
+34 	 Tunisia 	     55.40 	 2007 est.
+35 	 Panama 	     53.00 	 2007 est.
+36 	 Colombia 	     52.80 	 2007 est.
+37 	 Gabon 	     52.80 	 2007 est.
+38 	 Albania 	     51.40 	 2007 est.
+39 	 Malawi 	     50.60 	 2007 est.
+40 	 Pakistan 	     50.60 	 2007 est.
+41 	 Kenya 	     48.70 	 2007 est.
+42 	 Croatia 	     47.80 	 2007 est.
+43 	 Costa Rica 	     46.60 	 2007 est.
+44 	 Aruba 	     46.30 	 2005
+45 	 Bolivia 	     46.30 	 2007 est.
+46 	 Netherlands 	     45.50 	 2007 est.
+47 	 Brazil 	     45.10 	 2007 est.
+48 	 Ethiopia 	     44.50 	 2007 est.
+49 	 Switzerland 	     44.20 	 2007 est.
+50 	 United Kingdom 	     43.60 	 2007 est.
+51 	 Poland 	     43.10 	 2007 est.
+52 	 Vietnam 	     42.00 	 2007 est.
+53 	 Sweden 	     41.70 	 2007 est.
+54 	 Malaysia 	     41.60 	 2007 est.
+55 	 Dominican Republic 	     41.00 	 2007 est.
+56 	 Papua New Guinea 	     40.10 	 2007 est.
+57 	 Turkey 	     38.90 	 2007 est.
+58 	 Montenegro 	     38.00 	 2006
+59 	 Thailand 	     37.90 	 2007 est.
+60 	 Syria 	     37.70 	 2007 est.
+61 	 Bangladesh 	     37.40 	 2007 est.
+62 	 El Salvador 	     37.30 	 2007 est.
+63 	 Serbia 	     37.00 	 2007 est.
+64 	 Cuba 	     36.80 	 2007 est.
+65 	 Spain 	     36.20 	 2007 est.
+66 	 Finland 	     35.90 	 2007 est.
+67 	 Slovakia 	     35.90 	 2007 est.
+68 	 Bosnia and Herzegovina 	     34.00 	 2007 est.
+69 	 Indonesia 	     34.00 	 2007 est.
+70 	 Yemen 	     33.50 	 2007 est.
+71 	 Ecuador 	     33.10 	 2007 est.
+72 	 South Africa 	     31.30 	 2007 est.
+73 	 Bahrain 	     31.20 	 2007 est.
+74 	 Macedonia 	     30.80 	 2007 est.
+75 	 Peru 	     29.20 	 2007 est.
+76 	 Korea, South 	     28.20 	 2007 est.
+77 	 Zambia 	     28.10 	 2007 est.
+78 	 Trinidad and Tobago 	     27.90 	 2007 est.
+79 	 Taiwan 	     27.90 	 2007 est.
+80 	 Iceland 	     27.60 	 2007 est.
+81 	 Paraguay 	     27.00 	 2007 est.
+82 	 Denmark 	     26.00 	 2007 est.
+83 	 Czech Republic 	     26.00 	 2007 est.
+84 	 Ireland 	     24.90 	 2007 est.
+85 	 Saudi Arabia 	     24.30 	 2007 est.
+86 	 Honduras 	     24.10 	 2007 est.
+87 	 Slovenia 	     23.60 	 2007 est.
+88 	 Moldova 	     23.30 	 2007 est.
+89 	 Senegal 	     22.90 	 2007 est.
+90 	 Mexico 	     22.80 	 2007 est.
+91 	 Namibia 	     22.30 	 2007 est.
+92 	 Mozambique 	     22.20 	 2007 est.
+93 	 United Arab Emirates 	     21.20 	 2007 est.
+94 	 Guatemala 	     20.90 	 2007 est.
+95 	 New Zealand 	     20.70 	 2007 est.
+96 	 Uganda 	     20.60 	 2007 est.
+97 	 Tanzania 	     19.60 	 2007 est.
+98 	 Venezuela 	     19.30 	 2007 est.
+99 	 Uzbekistan 	     18.70 	 2007 est.
+100 	 China 	     18.40 	 2007 est.
+101 	 Algeria 	     18.00 	 2007 est.
+102 	 Lithuania 	     17.30 	 2007 est.
+103 	 Iran 	     17.20 	 2007 est.
+104 	 Gibraltar 	     15.70 	 2005 est.
+105 	 Australia 	     15.60 	 2007 est.
+106 	 Cameroon 	     15.50 	 2007 est.
+107 	 Nigeria 	     14.40 	 2007 est.
+108 	 Romania 	     13.00 	 2007 est.
+109 	 Hong Kong 	     12.50 	 2007 est.
+110 	 Angola 	     12.00 	 2007 est.
+111 	 Ukraine 	     11.70 	 2007 est.
+112 	 Qatar 	     11.00 	 2007 est.
+113 	 Bulgaria 	     10.50 	 2007 est.
+114 	 Kuwait 	      9.70 	 2007 est.
+115 	 Kazakhstan 	      7.70 	 2007 est.
+116 	 Latvia 	      7.40 	 2007 est.
+117 	 Azerbaijan 	      6.70 	 2007 est.
+118 	 Luxembourg 	      6.40 	 2007 est.
+119 	 Russia 	      5.90 	 2007 est.
+120 	 Wallis and Futuna 	      5.60 	 2004 est.
+121 	 Botswana 	      5.40 	 2007 est.
+122 	 Libya 	      4.70 	 2007 est.
+123 	 Chile 	      4.10 	 2007 est.
+124 	 Oman 	      3.70 	 2007 est.
+125 	 Estonia 	      3.40 	 2007 est.
+126 	 Equatorial Guinea 	      1.60 	 2007 est.
+
+ This file was last updated on 18 December, 2008

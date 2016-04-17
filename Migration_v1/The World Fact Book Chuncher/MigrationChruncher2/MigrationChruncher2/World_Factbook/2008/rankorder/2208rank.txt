@@ -1,0 +1,166 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Commercial bank prime lending rate(%) 	 Date of Information
+1 	 Zimbabwe 	          578.96 	 31 December 2007
+2 	 Haiti 	           46.99 	 31 December 2007
+3 	 Madagascar 	           45.00 	 31 December 2007
+4 	 Brazil 	           43.72 	 31 December 2007
+5 	 Sao Tome and Principe 	           32.40 	 31 December 2007
+6 	 Laos 	           28.50 	 31 December 2007
+7 	 Gambia, The 	           27.92 	 31 December 2007
+8 	 Malawi 	           27.72 	 31 December 2007
+9 	 Kyrgyzstan 	           25.32 	 31 December 2007
+10 	 Paraguay 	           25.03 	 31 December 2007
+11 	 Sierra Leone 	           25.00 	 31 December 2007
+12 	 Tajikistan 	           22.87 	 31 December 2007
+13 	 Peru 	           22.86 	 31 December 2007
+14 	 Mauritius 	           21.87 	 31 December 2007
+15 	 Georgia 	           20.41 	 31 December 2007
+16 	 Iraq 	           19.74 	 31 December 2007
+17 	 Mozambique 	           19.52 	 31 December 2007
+18 	 Iceland 	           19.29 	 31 December 2007
+19 	 Azerbaijan 	           19.13 	 31 December 2007
+20 	 Uganda 	           19.11 	 31 December 2007
+21 	 Zambia 	           18.89 	 31 December 2007
+22 	 Moldova 	           18.83 	 31 December 2007
+23 	 Afghanistan 	           18.14 	 31 December 2007
+24 	 Yemen 	           18.00 	 31 December 2007
+25 	 Angola 	           17.70 	 31 December 2007
+26 	 Mongolia 	           17.54 	 31 December 2007
+27 	 Armenia 	           17.52 	 31 December 2007
+28 	 Jamaica 	           17.20 	 31 December 2007
+29 	 Venezuela 	           17.11 	 31 December 2007
+30 	 Sri Lanka 	           17.08 	 31 December 2007
+31 	 Burma 	           17.00 	 31 December 2007
+32 	 Nigeria 	           16.94 	 31 December 2007
+33 	 Burundi 	           16.84 	 31 December 2007
+34 	 Honduras 	           16.61 	 31 December 2007
+35 	 Botswana 	           16.22 	 31 December 2007
+36 	 Tanzania 	           16.03 	 31 December 2007
+37 	 Bangladesh 	           16.00 	 31 December 2007
+38 	 Rwanda 	           15.84 	 31 December 2007
+39 	 Dominican Republic 	           15.83 	 31 December 2007
+40 	 Colombia 	           15.38 	 31 December 2007
+41 	 Liberia 	           15.05 	 31 December 2007
+42 	 Timor-Leste 	           15.05 	 31 December 2007
+43 	 Chad 	           15.00 	 31 December 2007
+44 	 Congo, Republic of the 	           15.00 	 31 December 2007
+45 	 Gabon 	           15.00 	 31 December 2007
+46 	 Equatorial Guinea 	           15.00 	 31 December 2007
+47 	 Central African Republic 	           15.00 	 31 December 2007
+48 	 Cameroon 	           15.00 	 31 December 2007
+49 	 Guyana 	           14.61 	 31 December 2007
+50 	 Belize 	           14.33 	 31 December 2007
+51 	 Lesotho 	           14.13 	 31 December 2007
+52 	 Solomon Islands 	           14.12 	 31 December 2007
+53 	 Albania 	           14.10 	 31 December 2007
+54 	 Micronesia, Federated States of 	           14.03 	 31 December 2007
+55 	 Bhutan 	           14.00 	 31 December 2007
+56 	 Ukraine 	           13.90 	 31 December 2007
+57 	 Indonesia 	           13.86 	 31 December 2007
+58 	 Suriname 	           13.77 	 31 December 2007
+59 	 Romania 	           13.35 	 31 December 2007
+60 	 Kenya 	           13.34 	 31 December 2007
+61 	 South Africa 	           13.17 	 31 December 2007
+62 	 Swaziland 	           13.17 	 31 December 2007
+63 	 Nicaragua 	           13.04 	 31 December 2007
+64 	 India 	           13.02 	 31 December 2007
+65 	 Maldives 	           13.00 	 31 December 2007
+66 	 Namibia 	           12.88 	 31 December 2007
+67 	 Bolivia 	           12.86 	 31 December 2007
+68 	 Guatemala 	           12.84 	 31 December 2007
+69 	 New Zealand 	           12.83 	 31 December 2007
+70 	 Costa Rica 	           12.80 	 31 December 2007
+71 	 Samoa 	           12.65 	 31 December 2007
+72 	 Egypt 	           12.51 	 31 December 2007
+73 	 Tonga 	           12.16 	 31 December 2007
+74 	 Ecuador 	           12.08 	 31 December 2007
+75 	 Iran 	           12.00 	 31 December 2007
+76 	 Trinidad and Tobago 	           11.75 	 31 December 2007
+77 	 Vietnam 	           11.18 	 31 December 2007
+78 	 Serbia 	           11.13 	 31 December 2007
+79 	 Argentina 	           11.05 	 31 December 2007
+80 	 Aruba 	           11.01 	 31 December 2007
+81 	 Italy 	           10.93 	 31 December 2007
+82 	 Latvia 	           10.91 	 31 December 2007
+83 	 Seychelles 	           10.89 	 31 December 2007
+84 	 Barbados 	           10.80 	 31 December 2007
+85 	 Cape Verde 	           10.55 	 31 December 2007
+86 	 Comoros 	           10.50 	 31 December 2007
+87 	 Antigua and Barbuda 	           10.44 	 31 December 2007
+88 	 Montserrat 	           10.40 	 31 December 2007
+89 	 Lebanon 	           10.26 	 31 December 2007
+90 	 Macedonia 	           10.23 	 31 December 2007
+91 	 Saint Lucia 	           10.12 	 31 December 2007
+92 	 Russia 	           10.03 	 31 December 2007
+93 	 Australia 	           10.02 	 31 December 2007
+94 	 Bulgaria 	           10.00 	 31 December 2007
+95 	 Spain 	            9.89 	 31 December 2007
+96 	 Papua New Guinea 	            9.78 	 31 December 2007
+97 	 Anguilla 	            9.76 	 31 December 2007
+98 	 Grenada 	            9.76 	 31 December 2007
+99 	 Saint Vincent and the Grenadines 	            9.61 	 31 December 2007
+100 	 Croatia 	            9.33 	 31 December 2007
+101 	 Saint Kitts and Nevis 	            9.28 	 31 December 2007
+102 	 Netherlands Antilles 	            9.21 	 31 December 2007
+103 	 Dominica 	            9.17 	 31 December 2007
+104 	 Hungary 	            9.09 	 31 December 2007
+105 	 Montenegro 	            9.09 	 31 December 2007
+106 	 Fiji 	            9.01 	 31 December 2007
+107 	 Uruguay 	            8.94 	 31 December 2007
+108 	 Netherlands 	            8.72 	 31 December 2007
+109 	 Philippines 	            8.69 	 31 December 2007
+110 	 Jordan 	            8.68 	 31 December 2007
+111 	 Chile 	            8.67 	 31 December 2007
+112 	 Belarus 	            8.58 	 31 December 2007
+113 	 Kuwait 	            8.54 	 31 December 2007
+114 	 Bahrain 	            8.35 	 31 December 2007
+115 	 Panama 	            8.25 	 31 December 2007
+116 	 Vanuatu 	            8.16 	 31 December 2007
+117 	 United States 	            8.05 	 31 December 2007
+118 	 European Union 	            8.03 	 31 December 2007
+119 	 Algeria 	            8.00 	 31 December 2007
+120 	 Nepal 	            8.00 	 31 December 2007
+121 	 Syria 	            8.00 	 31 December 2005
+122 	 Slovakia 	            7.99 	 31 December 2007
+123 	 Portugal 	            7.92 	 31 December 2007
+124 	 Macau 	            7.81 	 31 December 2007
+125 	 Gaza Strip 	            7.73 	 31 December 2006
+126 	 West Bank 	            7.73 	 31 December 2006
+127 	 Greece 	            7.71 	 31 December 2007
+128 	 San Marino 	            7.58 	 31 December 2007
+129 	 Mexico 	            7.56 	 31 December 2007
+130 	 China 	            7.47 	 31 December 2007
+131 	 Qatar 	            7.43 	 31 December 2007
+132 	 Oman 	            7.29 	 31 December 2007
+133 	 France 	            7.28 	 31 December 2007
+134 	 Bosnia and Herzegovina 	            7.17 	 31 December 2007
+135 	 Thailand 	            7.05 	 31 December 2007
+136 	 Ethiopia 	            7.00 	 31 December 2006
+137 	 Belgium 	            6.98 	 31 December 2007
+138 	 Lithuania 	            6.86 	 31 December 2007
+139 	 Slovenia 	            6.82 	 31 December 2007
+140 	 Hong Kong 	            6.75 	 31 December 2007
+141 	 Cyprus 	            6.74 	 31 December 2007
+142 	 Norway 	            6.65 	 31 December 2007
+143 	 Korea, South 	            6.55 	 31 December 2007
+144 	 Ireland 	            6.52 	 31 December 2007
+145 	 Estonia 	            6.46 	 31 December 2007
+146 	 Malaysia 	            6.41 	 31 December 2007
+147 	 Austria 	            6.30 	 31 December 2007
+148 	 Israel 	            6.27 	 31 December 2007
+149 	 Malta 	            6.24 	 31 December 2007
+150 	 Canada 	            6.10 	 31 December 2007
+151 	 Libya 	            6.00 	 31 December 2007
+152 	 Germany 	            5.96 	 31 December 2007
+153 	 Czech Republic 	            5.79 	 31 December 2007
+154 	 Finland 	            5.62 	 31 December 2007
+155 	 United Kingdom 	            5.52 	 31 December 2007
+156 	 Bahamas, The 	            5.50 	 31 December 2007
+157 	 Brunei 	            5.50 	 31 December 2007
+158 	 Poland 	            5.48 	 31 December 2006
+159 	 Singapore 	            5.33 	 31 December 2007
+160 	 Sweden 	            4.00 	 31 December 2004
+161 	 Switzerland 	            3.15 	 31 December 2007
+162 	 Japan 	            1.88 	 31 December 2007
+
+ This file was last updated on 18 December, 2008

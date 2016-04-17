@@ -1,0 +1,76 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Oil - imports(bbl/day) 	 Date of Information
+1 	 World 	        63,180,000 	 2004
+2 	 United States 	        13,150,000 	 2004
+3 	 Japan 	         5,425,000 	 2004
+4 	 China 	         3,181,000 	 2005
+5 	 Germany 	         2,953,000 	 2004
+6 	 Korea, South 	         2,830,000 	 2004
+7 	 Netherlands 	         2,465,000 	 2004
+8 	 Italy 	         2,182,000 	 2004
+9 	 India 	         2,098,000 	 2004 est.
+10 	 France 	         1,890,000 	 2005
+11 	 Spain 	         1,714,000 	 2004
+12 	 United Kingdom 	         1,654,000 	 2004
+13 	 Canada 	         1,185,000 	 2004
+14 	 Belgium 	         1,109,000 	 2004
+15 	 Turkey 	          724,400 	 2004
+16 	 Brazil 	          674,500 	 2004
+17 	 Australia 	          611,400 	 2004
+18 	 Sweden 	          580,600 	 2004
+19 	 Greece 	          550,400 	 2004
+20 	 Poland 	          480,300 	 2004
+21 	 Ukraine 	          469,600 	 2004
+22 	 Indonesia 	          424,000 	 2005 est.
+23 	 South Africa 	          398,000 	 2006
+24 	 Belarus 	          378,200 	 2004 est.
+25 	 Portugal 	          361,300 	 2004
+26 	 Philippines 	          353,700 	 2004
+27 	 Hong Kong 	          344,200 	 2004
+28 	 Finland 	          333,400 	 2004
+29 	 Mexico 	          308,500 	 2004
+30 	 Switzerland 	          267,000 	 2004
+31 	 Chile 	          222,900 	 2006 est.
+32 	 Ireland 	          204,400 	 2004
+33 	 Czech Republic 	          203,700 	 2004
+34 	 Lithuania 	          187,800 	 2004
+35 	 Morocco 	          186,100 	 2004 est.
+36 	 Romania 	          181,100 	 2004
+37 	 Denmark 	          164,000 	 2006 est.
+38 	 Austria 	          157,500 	 2005
+39 	 Hungary 	          150,000 	 2004
+40 	 New Zealand 	          140,900 	 2004
+41 	 Bulgaria 	          138,800 	 2004 est.
+42 	 Slovakia 	          138,200 	 2004
+43 	 United Arab Emirates 	          137,200 	 2004
+44 	 Dominican Republic 	          116,700 	 2004
+45 	 Kazakhstan 	          113,600 	 2004
+46 	 Jordan 	          106,400 	 2004 est.
+47 	 Russia 	          100,000 	 2005
+48 	 Iraq 	           98,330 	 2004
+49 	 Norway 	           91,930 	 2004
+50 	 Guatemala 	           72,960 	 2006 est.
+51 	 Luxembourg 	           61,070 	 2004
+52 	 Estonia 	           54,000 	 2004
+53 	 Latvia 	           39,190 	 2004
+54 	 Korea, North 	           23,520 	 2004 est.
+55 	 Argentina 	           21,650 	 2004
+56 	 Albania 	           21,600 	 2005 est.
+57 	 Burma 	           19,180 	 2004 est.
+58 	 Namibia 	           17,580 	 2004
+59 	 Iceland 	           17,450 	 2004
+60 	 Nicaragua 	           15,560 	 2005 est.
+61 	 Botswana 	           13,490 	 2004
+62 	 Zimbabwe 	           13,370 	 2004 est.
+63 	 Macau 	           12,840 	 2005
+64 	 Algeria 	           12,390 	 2004 est.
+65 	 Mongolia 	           12,280 	 2004 est.
+66 	 Nepal 	           11,530 	 2006 est.
+67 	 Congo, Democratic Republic of the 	            8,220 	 2006 est.
+68 	 Sudan 	            7,945 	 2004
+69 	 Suriname 	            6,032 	 2004
+70 	 Libya 	            1,233 	 2004
+71 	 Brunei 	             660 	 2004
+72 	 Saudi Arabia 	               0 	 2004
+
+ This file was last updated on 13 December, 2007

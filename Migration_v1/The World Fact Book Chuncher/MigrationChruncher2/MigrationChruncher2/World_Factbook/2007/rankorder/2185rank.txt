@@ -1,0 +1,151 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Investment (gross fixed)(% of GDP) 	 Date of Information
+1 	 China 	     40.90 	 2006 est.
+2 	 Lesotho 	     40.50 	 2006 est.
+3 	 Sao Tome and Principe 	     40.40 	 2006 est.
+4 	 Senegal 	     39.70 	 2006 est.
+5 	 Qatar 	     38.70 	 2006 est.
+6 	 Cape Verde 	     37.80 	 2006 est.
+7 	 Equatorial Guinea 	     37.10 	 2006 est.
+8 	 Latvia 	     34.40 	 2006 est.
+9 	 Turkmenistan 	     34.20 	 2006 est.
+10 	 Estonia 	     33.80 	 2006 est.
+11 	 Armenia 	     33.30 	 2006 est.
+12 	 Guyana 	     33.20 	 2006 est.
+13 	 Jamaica 	     32.90 	 2006 est.
+14 	 Vietnam 	     32.30 	 2006 est.
+15 	 Iceland 	     32.00 	 2006 est.
+16 	 Azerbaijan 	     31.70 	 2006 est.
+17 	 Ghana 	     30.90 	 2006 est.
+18 	 Croatia 	     30.50 	 2006 est.
+19 	 Spain 	     30.40 	 2006 est.
+20 	 India 	     29.50 	 2006 est.
+21 	 Iran 	     29.40 	 2006 est.
+22 	 Nicaragua 	     29.40 	 2006 est.
+23 	 Korea, South 	     29.00 	 2006 est.
+24 	 Haiti 	     28.90 	 2006 est.
+25 	 Sri Lanka 	     28.70 	 2006 est.
+26 	 Thailand 	     28.60 	 2006 est.
+27 	 Belarus 	     28.30 	 2006 est.
+28 	 Georgia 	     28.10 	 2006 est.
+29 	 Ethiopia 	     27.90 	 2006 est.
+30 	 Moldova 	     27.90 	 2006 est.
+31 	 Jordan 	     27.50 	 2006 est.
+32 	 Namibia 	     27.50 	 2006 est.
+33 	 Australia 	     26.70 	 2006 est.
+34 	 Slovakia 	     26.40 	 2006 est.
+35 	 Ireland 	     26.30 	 2006 est.
+36 	 Bulgaria 	     26.20 	 2006 est.
+37 	 Kazakhstan 	     26.00 	 2006 est.
+38 	 Syria 	     25.90 	 2006 est.
+39 	 Slovenia 	     25.80 	 2006 est.
+40 	 Greece 	     25.70 	 2006 est.
+41 	 Bangladesh 	     25.60 	 2006 est.
+42 	 Gambia, The 	     25.50 	 2006 est.
+43 	 Madagascar 	     25.40 	 2006 est.
+44 	 Sudan 	     25.40 	 2006 est.
+45 	 Congo, Republic of the 	     25.30 	 2006 est.
+46 	 Czech Republic 	     25.20 	 2006 est.
+47 	 Zambia 	     25.10 	 2006 est.
+48 	 Nigeria 	     25.00 	 2006 est.
+49 	 Burundi 	     24.90 	 2006 est.
+50 	 Honduras 	     24.90 	 2006 est.
+51 	 Romania 	     24.60 	 2006 est.
+52 	 Morocco 	     24.10 	 2006 est.
+53 	 Indonesia 	     24.00 	 2006 est.
+54 	 Ukraine 	     24.00 	 2006 est.
+55 	 Mauritius 	     24.00 	 2006 est.
+56 	 Japan 	     23.80 	 2006 est.
+57 	 Albania 	     23.70 	 2006 est.
+58 	 Argentina 	     23.40 	 2006 est.
+59 	 Uganda 	     23.40 	 2006 est.
+60 	 Gabon 	     23.40 	 2006 est.
+61 	 Lithuania 	     23.10 	 2006 est.
+62 	 Singapore 	     23.10 	 2006 est.
+63 	 New Zealand 	     23.00 	 2006 est.
+64 	 Colombia 	     22.90 	 2006 est.
+65 	 Tunisia 	     22.70 	 2006 est.
+66 	 Denmark 	     22.60 	 2006 est.
+67 	 Rwanda 	     22.50 	 2006 est.
+68 	 Venezuela 	     22.50 	 2006 est.
+69 	 Algeria 	     22.20 	 2006 est.
+70 	 Canada 	     22.00 	 2006 est.
+71 	 Ecuador 	     21.80 	 2006 est.
+72 	 Hungary 	     21.80 	 2006 est.
+73 	 Togo 	     21.80 	 2006 est.
+74 	 Hong Kong 	     21.80 	 2006 est.
+75 	 Switzerland 	     21.60 	 2006 est.
+76 	 Burkina Faso 	     21.50 	 2006 est.
+77 	 Cyprus 	     21.20 	 2006 est.
+78 	 Turkey 	     21.00 	 2006 est.
+79 	 Taiwan 	     21.00 	 2006 est.
+80 	 Malaysia 	     20.90 	 2006 est.
+81 	 Portugal 	     20.90 	 2006 est.
+82 	 Austria 	     20.80 	 2006 est.
+83 	 European Union 	     20.80 	 2006 est.
+84 	 Italy 	     20.80 	 2006 est.
+85 	 Eritrea 	     20.70 	 2006 est.
+86 	 Mozambique 	     20.70 	 2006 est.
+87 	 Belize 	     20.60 	 2006 est.
+88 	 France 	     20.50 	 2006 est.
+89 	 Belgium 	     20.40 	 2006 est.
+90 	 Mexico 	     20.40 	 2006 est.
+91 	 United Arab Emirates 	     20.20 	 2006 est.
+92 	 Pakistan 	     20.10 	 2006 est.
+93 	 Costa Rica 	     19.90 	 2006 est.
+94 	 Paraguay 	     19.80 	 2006 est.
+95 	 Poland 	     19.80 	 2006 est.
+96 	 Netherlands 	     19.70 	 2006 est.
+97 	 Peru 	     19.70 	 2006 est.
+98 	 Benin 	     19.60 	 2006 est.
+99 	 Papua New Guinea 	     19.40 	 2006 est.
+100 	 Cambodia 	     19.30 	 2006 est.
+101 	 Chile 	     19.30 	 2006 est.
+102 	 Finland 	     19.10 	 2006 est.
+103 	 Kuwait 	     18.90 	 2006 est.
+104 	 Kenya 	     18.80 	 2006 est.
+105 	 Malta 	     18.80 	 2006 est.
+106 	 Egypt 	     18.70 	 2006 est.
+107 	 South Africa 	     18.70 	 2006 est.
+108 	 Botswana 	     18.60 	 2006 est.
+109 	 Norway 	     18.60 	 2006 est.
+110 	 Lebanon 	     18.30 	 2006 est.
+111 	 Luxembourg 	     18.30 	 2006 est.
+112 	 Trinidad and Tobago 	     18.30 	 2006 est.
+113 	 Tanzania 	     18.20 	 2006 est.
+114 	 United Kingdom 	     18.10 	 2006 est.
+115 	 Germany 	     18.00 	 2006 est.
+116 	 Russia 	     17.90 	 2006 est.
+117 	 Sweden 	     17.90 	 2006 est.
+118 	 Macedonia 	     17.80 	 2006 est.
+119 	 Zimbabwe 	     17.80 	 2006 est.
+120 	 Bahrain 	     17.50 	 2006 est.
+121 	 Yemen 	     17.40 	 2006 est.
+122 	 Israel 	     17.10 	 2006 est.
+123 	 Kyrgyzstan 	     17.10 	 2006 est.
+124 	 Swaziland 	     17.10 	 2006 est.
+125 	 Saudi Arabia 	     17.00 	 2006 est.
+126 	 Guatemala 	     16.90 	 2006 est.
+127 	 Oman 	     16.90 	 2006 est.
+128 	 Brazil 	     16.80 	 2006 est.
+129 	 Chad 	     16.80 	 2006 est.
+130 	 Cameroon 	     16.50 	 2006 est.
+131 	 United States 	     16.40 	 2006 est.
+132 	 Dominican Republic 	     16.30 	 2006 est.
+133 	 El Salvador 	     16.10 	 2006 est.
+134 	 Uruguay 	     16.00 	 2006 est.
+135 	 Panama 	     15.30 	 2006 est.
+136 	 Serbia 	     14.20 	 2005 est.
+137 	 Philippines 	     13.80 	 2006 est.
+138 	 Bolivia 	     12.90 	 2006 est.
+139 	 Cuba 	     12.10 	 2006 est.
+140 	 Burma 	     11.80 	 2006 est.
+141 	 Guinea 	     11.10 	 2006 est.
+142 	 Angola 	      9.90 	 2006 est.
+143 	 Seychelles 	      9.50 	 2006 est.
+144 	 Malawi 	      9.10 	 2006 est.
+145 	 Tajikistan 	      9.00 	 2006 est.
+146 	 Cote d'Ivoire 	      8.80 	 2006 est.
+147 	 Libya 	      8.00 	 2006 est.
+
+ This file was last updated on 13 December, 2007

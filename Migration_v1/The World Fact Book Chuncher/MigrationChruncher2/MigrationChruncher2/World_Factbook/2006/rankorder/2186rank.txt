@@ -1,0 +1,124 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Public debt(% of GDP) 	 Date of Information
+1 	 Malawi 	    195.90 	 2005 est.
+2 	 Lebanon 	    180.50 	 2005 est.
+3 	 Seychelles 	    167.00 	 2005 est.
+4 	 Japan 	    158.00 	 2005 est.
+5 	 Jamaica 	    128.70 	 2005 est.
+6 	 Zimbabwe 	    109.80 	 2005 est.
+7 	 Italy 	    108.80 	 2005 est.
+8 	 Sudan 	    107.00 	 2005 est.
+9 	 Greece 	    106.80 	 2005 est.
+10 	 Ethiopia 	    106.20 	 
+11 	 Egypt 	    104.70 	 2005 est.
+12 	 Singapore 	    102.90 	 2005 est.
+13 	 Israel 	     99.70 	 2005 est.
+14 	 Belgium 	     94.30 	 2005 est.
+15 	 Sri Lanka 	     92.80 	 2005 est.
+16 	 Nicaragua 	     82.30 	 2005 est.
+17 	 Uruguay 	     81.90 	 2005 est.
+18 	 Bhutan 	     81.40 	 
+19 	 Moldova 	     79.60 	 2005 est.
+20 	 Jordan 	     79.10 	 2005 est.
+21 	 Ghana 	     75.90 	 2005 est.
+22 	 Argentina 	     72.50 	 2005 est.
+23 	 Philippines 	     72.30 	 2005 est.
+24 	 Morocco 	     72.00 	 2005 est.
+25 	 Zambia 	     71.50 	 2005 est.
+26 	 Cyprus 	     70.30 	 2005 est.
+27 	 Canada 	     69.60 	 2005 est.
+28 	 Honduras 	     68.40 	 2005 est.
+29 	 Turkey 	     68.00 	 2005 est.
+30 	 Mauritius 	     67.50 	 2005 est.
+31 	 Germany 	     67.30 	 2005 est.
+32 	 France 	     66.20 	 2005 est.
+33 	 Cameroon 	     65.90 	 2005 est.
+34 	 Tanzania 	     65.80 	 2005 est.
+35 	 Austria 	     65.10 	 2005 est.
+36 	 Panama 	     64.90 	 2005 est.
+37 	 United States 	     64.70 	 2005 est.
+38 	 Cote d'Ivoire 	     64.50 	 2005 est.
+39 	 Uganda 	     64.30 	 2005 est.
+40 	 Portugal 	     63.90 	 2005 est.
+41 	 Tunisia 	     59.10 	 2005 est.
+42 	 Hungary 	     58.90 	 2005 est.
+43 	 Costa Rica 	     56.80 	 2005 est.
+44 	 India 	     53.80 	 2005 est.
+45 	 Pakistan 	     53.80 	 2005 est.
+46 	 Serbia 	     53.10 	 2005 est.
+47 	 Netherlands 	     52.70 	 2005 est.
+48 	 Switzerland 	     52.00 	 2005 est.
+49 	 Brazil 	     51.60 	 2005 est.
+50 	 Sweden 	     50.40 	 2005 est.
+51 	 Kenya 	     50.20 	 2005 est.
+52 	 Norway 	     50.10 	 2005 est.
+53 	 Indonesia 	     49.90 	 2005 est.
+54 	 Croatia 	     49.70 	 2005 est.
+55 	 Colombia 	     49.50 	 2005 est.
+56 	 Vietnam 	     48.20 	 2005 est.
+57 	 Poland 	     47.70 	 2005 est.
+58 	 Thailand 	     47.60 	 2005 est.
+59 	 El Salvador 	     46.70 	 2005 est.
+60 	 Aruba 	     46.30 	 
+61 	 Malaysia 	     46.20 	 2005 est.
+62 	 Senegal 	     46.00 	 2005 est.
+63 	 Dominican Republic 	     45.50 	 2005 est.
+64 	 Bangladesh 	     44.50 	 2005 est.
+65 	 Saudi Arabia 	     44.20 	 2005 est.
+66 	 United Kingdom 	     43.10 	 2005 est.
+67 	 Trinidad and Tobago 	     43.00 	 2005 est.
+68 	 Papua New Guinea 	     42.90 	 2005 est.
+69 	 Spain 	     42.90 	 2005 est.
+70 	 Slovakia 	     42.50 	 2005 est.
+71 	 Ecuador 	     40.10 	 2005 est.
+72 	 Syria 	     40.10 	 2005 est.
+73 	 Finland 	     39.60 	 2005 est.
+74 	 Angola 	     38.30 	 2005 est.
+75 	 Peru 	     38.00 	 2005 est.
+76 	 Denmark 	     37.00 	 2005 est.
+77 	 Uzbekistan 	     36.10 	 2005 est.
+78 	 Paraguay 	     36.00 	 2005 est.
+79 	 South Africa 	     35.80 	 2005 est.
+80 	 Qatar 	     35.60 	 2005 est.
+81 	 Yemen 	     34.40 	 2005 est.
+82 	 Venezuela 	     34.20 	 2005 est.
+83 	 Macedonia 	     33.70 	 2005 est.
+84 	 Gabon 	     33.60 	 2005 est.
+85 	 Taiwan 	     33.60 	 2005 est.
+86 	 Bahrain 	     33.50 	 2005 est.
+87 	 Namibia 	     32.70 	 2005 est.
+88 	 Bulgaria 	     31.90 	 2005 est.
+89 	 Iceland 	     31.60 	 2005 est.
+90 	 Algeria 	     30.20 	 2005 est.
+91 	 Bosnia and Herzegovina 	     29.00 	 
+92 	 Iran 	     28.90 	 2005 est.
+93 	 Slovenia 	     28.50 	 2005 est.
+94 	 Ireland 	     26.70 	 2005 est.
+95 	 Czech Republic 	     25.90 	 2005 est.
+96 	 Guatemala 	     25.90 	 2005 est.
+97 	 China 	     24.40 	 2005 est.
+98 	 New Zealand 	     21.30 	 2005 est.
+99 	 Mozambique 	     21.00 	 
+100 	 Romania 	     20.30 	 2005 est.
+101 	 Korea, South 	     20.00 	 2005 est.
+102 	 Lithuania 	     18.70 	 2005 est.
+103 	 United Arab Emirates 	     17.50 	 2005 est.
+104 	 Mexico 	     17.40 	 2005 est.
+105 	 Ukraine 	     17.00 	 2005 est.
+106 	 Australia 	     16.10 	 2005 est.
+107 	 Russia 	     12.90 	 2005 est.
+108 	 Kuwait 	     12.10 	 2005 est.
+109 	 Azerbaijan 	     11.30 	 2005 est.
+110 	 Nigeria 	     11.00 	 2005 est.
+111 	 Latvia 	     10.90 	 2005 est.
+112 	 Kazakhstan 	     10.50 	 2005 est.
+113 	 Libya 	      8.20 	 2005 est.
+114 	 Oman 	      8.10 	 2005 est.
+115 	 Chile 	      7.50 	 2005 est.
+116 	 Equatorial Guinea 	      6.40 	 
+117 	 Botswana 	      6.20 	 2005 est.
+118 	 Wallis and Futuna 	      5.60 	 
+119 	 Estonia 	      4.80 	 2005 est.
+120 	 Hong Kong 	      1.80 	 2005 est.
+
+ This file was last updated on 19 December, 2006

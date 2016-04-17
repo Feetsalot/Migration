@@ -1,0 +1,214 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Oil - consumption(bbl/day) 	 Date of Information
+1 	 World 	        82,590,000 	 2004 est.
+2 	 United States 	        20,730,000 	 2004 est.
+3 	 European Union 	        14,680,000 	 2004
+4 	 China 	         6,534,000 	 2005
+5 	 Japan 	         5,578,000 	 2005
+6 	 Germany 	         2,650,000 	 2004
+7 	 Russia 	         2,500,000 	 2005 est.
+8 	 India 	         2,450,000 	 2004 est.
+9 	 Canada 	         2,294,000 	 2004
+10 	 Korea, South 	         2,149,000 	 2004
+11 	 Brazil 	         2,100,000 	 2006 est.
+12 	 France 	         1,970,000 	 2005 est.
+13 	 Mexico 	         1,970,000 	 2004 est.
+14 	 Italy 	         1,881,000 	 2004 est.
+15 	 Saudi Arabia 	         1,845,000 	 2004
+16 	 United Kingdom 	         1,827,000 	 2004 est.
+17 	 Spain 	         1,573,000 	 2004 est.
+18 	 Iran 	         1,510,000 	 2004 est.
+19 	 Indonesia 	         1,168,000 	 2005 est.
+20 	 Taiwan 	          965,000 	 2004 est.
+21 	 Netherlands 	          946,700 	 2004 est.
+22 	 Thailand 	          900,000 	 2004 est.
+23 	 Australia 	          877,300 	 2004 est.
+24 	 Singapore 	          800,000 	 2005 est.
+25 	 Turkey 	          715,100 	 2005 est.
+26 	 Belgium 	          641,000 	 2004 est.
+27 	 Egypt 	          590,000 	 2004 est.
+28 	 Venezuela 	          560,000 	 2004 est.
+29 	 Malaysia 	          515,000 	 2004 est.
+30 	 South Africa 	          502,000 	 2004 est.
+31 	 Argentina 	          470,000 	 2004 est.
+32 	 Poland 	          445,700 	 2004 est.
+33 	 Greece 	          435,700 	 2005 est.
+34 	 United Arab Emirates 	          400,000 	 2004 est.
+35 	 Iraq 	          377,000 	 2006 est.
+36 	 Sweden 	          362,400 	 2004 est.
+37 	 Philippines 	          342,000 	 2004 est.
+38 	 Kuwait 	          335,000 	 2004 est.
+39 	 Portugal 	          332,000 	 2004
+40 	 Pakistan 	          324,000 	 2004 est.
+41 	 Nigeria 	          290,000 	 2004 est.
+42 	 Hong Kong 	          285,000 	 2005 est.
+43 	 Ukraine 	          284,600 	 2006
+44 	 Austria 	          282,000 	 2004 est.
+45 	 Colombia 	          269,000 	 2004 est.
+46 	 Switzerland 	          268,100 	 2004 est.
+47 	 Israel 	          249,500 	 2006 est.
+48 	 Norway 	          244,300 	 2004 est.
+49 	 Chile 	          238,000 	 2006 est.
+50 	 Libya 	          237,000 	 2004 est.
+51 	 Puerto Rico 	          234,000 	 2004 est.
+52 	 Algeria 	          233,000 	 2004 est.
+53 	 Syria 	          230,000 	 2006 est.
+54 	 Vietnam 	          230,000 	 2004 est.
+55 	 Kazakhstan 	          222,000 	 2005 est.
+56 	 Finland 	          220,400 	 2004 est.
+57 	 Romania 	          212,000 	 2004 est.
+58 	 Cuba 	          204,000 	 2004 est.
+59 	 Czech Republic 	          203,100 	 2004 est.
+60 	 Ireland 	          182,400 	 2004 est.
+61 	 Denmark 	          171,000 	 2006 est.
+62 	 Morocco 	          170,000 	 2004 est.
+63 	 Belarus 	          165,000 	 2004 est.
+64 	 Peru 	          156,000 	 2004 est.
+65 	 New Zealand 	          150,600 	 2004 est.
+66 	 Ecuador 	          148,000 	 2004 est.
+67 	 Uzbekistan 	          148,000 	 2004
+68 	 Hungary 	          132,000 	 2004 est.
+69 	 Bulgaria 	          131,400 	 2005 est.
+70 	 Dominican Republic 	          127,000 	 2004 est.
+71 	 Azerbaijan 	          120,000 	 2004 est.
+72 	 Virgin Islands 	          115,000 	 2004 est.
+73 	 Jordan 	          107,000 	 2005 est.
+74 	 Lebanon 	          107,000 	 2004 est.
+75 	 Turkmenistan 	           95,000 	 2004 est.
+76 	 Croatia 	           93,000 	 2004 est.
+77 	 Tunisia 	           89,000 	 2004 est.
+78 	 Bangladesh 	           85,000 	 2004 est.
+79 	 Yemen 	           85,000 	 2004 est.
+80 	 Serbia 	           85,000 	 2003 est.
+81 	 Sri Lanka 	           82,000 	 2006 est.
+82 	 Qatar 	           80,000 	 2004 est.
+83 	 Panama 	           79,000 	 2004 est.
+84 	 Slovakia 	           74,000 	 2004 est.
+85 	 Guatemala 	           73,510 	 2006 est.
+86 	 Jamaica 	           72,080 	 2004 est.
+87 	 Netherlands Antilles 	           70,000 	 2004 est.
+88 	 Sudan 	           66,000 	 2004 est.
+89 	 Luxembourg 	           62,420 	 2004 est.
+90 	 Estonia 	           60,000 	 2004 est.
+91 	 Oman 	           60,000 	 2004 est.
+92 	 Lithuania 	           56,000 	 2004 est.
+93 	 Kenya 	           55,000 	 2004 est.
+94 	 Cyprus 	           53,000 	 2004 est.
+95 	 Slovenia 	           53,000 	 2004 est.
+96 	 Angola 	           48,000 	 2004 est.
+97 	 Bolivia 	           47,000 	 2004 est.
+98 	 Latvia 	           47,000 	 2004 est.
+99 	 Costa Rica 	           44,000 	 2004 est.
+100 	 Ghana 	           44,000 	 2004 est.
+101 	 El Salvador 	           43,000 	 2004 est.
+102 	 Armenia 	           41,000 	 2004 est.
+103 	 Uruguay 	           38,100 	 2004 est.
+104 	 Honduras 	           37,000 	 2004 est.
+105 	 Trinidad and Tobago 	           34,000 	 2004 est.
+106 	 Senegal 	           31,000 	 2004 est.
+107 	 Ethiopia 	           29,000 	 2004 est.
+108 	 Tajikistan 	           28,000 	 2004 est.
+109 	 Bahrain 	           27,000 	 2004 est.
+110 	 Paraguay 	           27,000 	 2004 est.
+111 	 Bahamas, The 	           27,000 	 2004 est.
+112 	 Albania 	           25,200 	 2005 est.
+113 	 Nicaragua 	           25,200 	 2005 est.
+114 	 Korea, North 	           25,000 	 2004
+115 	 Mauritania 	           24,200 	 2004 est.
+116 	 Cameroon 	           24,000 	 2004 est.
+117 	 Gibraltar 	           24,000 	 2004 est.
+118 	 Bosnia and Herzegovina 	           23,000 	 2004 est.
+119 	 Macedonia 	           23,000 	 2005 est.
+120 	 Tanzania 	           23,000 	 2004 est.
+121 	 Cote d'Ivoire 	           23,000 	 2004 est.
+122 	 Zimbabwe 	           22,500 	 2004 est.
+123 	 Mauritius 	           21,500 	 2004 est.
+124 	 Iceland 	           20,560 	 2004 est.
+125 	 Burma 	           20,460 	 2006 est.
+126 	 Malta 	           19,000 	 2004 est.
+127 	 Papua New Guinea 	           18,000 	 January 2006 est.
+128 	 Namibia 	           18,000 	 2004 est.
+129 	 Guam 	           16,000 	 2004 est.
+130 	 Brunei 	           14,900 	 2006 est.
+131 	 Madagascar 	           14,500 	 2004 est.
+132 	 Benin 	           14,000 	 2004 est.
+133 	 Togo 	           14,000 	 2004 est.
+134 	 Moldova 	           14,000 	 2004 est.
+135 	 Gabon 	           13,000 	 2004 est.
+136 	 Georgia 	           13,000 	 2004 est.
+137 	 Zambia 	           13,000 	 2004 est.
+138 	 Macau 	           12,360 	 2005 est.
+139 	 Djibouti 	           11,900 	 2004 est.
+140 	 Haiti 	           11,600 	 2004 est.
+141 	 Nepal 	           11,550 	 2006 est.
+142 	 Botswana 	           11,500 	 2004 est.
+143 	 Mozambique 	           11,500 	 2004 est.
+144 	 Mongolia 	           11,220 	 2005 est.
+145 	 Guyana 	           11,200 	 2004 est.
+146 	 Suriname 	           11,200 	 2004 est.
+147 	 Barbados 	           11,000 	 2004 est.
+148 	 Uganda 	           10,890 	 2004 est.
+149 	 Fiji 	           10,000 	 2004 est.
+150 	 Kyrgyzstan 	           10,000 	 2004 est.
+151 	 New Caledonia 	           10,000 	 2004 est.
+152 	 Guinea 	            9,650 	 2006 est.
+153 	 Congo, Democratic Republic of the 	            8,200 	 2004 est.
+154 	 Burkina Faso 	            8,200 	 2004 est.
+155 	 Maldives 	            7,200 	 2004 est.
+156 	 Aruba 	            7,000 	 2004 est.
+157 	 Sierra Leone 	            6,600 	 2004 est.
+158 	 Congo, Republic of the 	            6,000 	 2004 est.
+159 	 French Polynesia 	            6,000 	 2004 est.
+160 	 Seychelles 	            5,600 	 2004 est.
+161 	 Malawi 	            5,500 	 2004 est.
+162 	 Niger 	            5,500 	 2004 est.
+163 	 Rwanda 	            5,400 	 2004 est.
+164 	 Eritrea 	            5,300 	 2004 est.
+165 	 Somalia 	            5,000 	 2004 est.
+166 	 Bermuda 	            4,658 	 2005 est.
+167 	 Faroe Islands 	            4,550 	 2004 est.
+168 	 Afghanistan 	            4,500 	 2004 est.
+169 	 Mali 	            4,300 	 2004 est.
+170 	 American Samoa 	            3,900 	 2004 est.
+171 	 Greenland 	            3,860 	 2004 est.
+172 	 Antigua and Barbuda 	            3,800 	 2004 est.
+173 	 Cambodia 	            3,750 	 2004 est.
+174 	 Liberia 	            3,500 	 2004 est.
+175 	 Swaziland 	            3,500 	 2004 est.
+176 	 Burundi 	            3,100 	 2004 est.
+177 	 Belize 	            3,000 	 2006 est.
+178 	 Laos 	            3,000 	 2004 est.
+179 	 Saint Lucia 	            2,800 	 2004 est.
+180 	 Cayman Islands 	            2,600 	 2004 est.
+181 	 Guinea-Bissau 	            2,500 	 2004 est.
+182 	 Central African Republic 	            2,420 	 2004 est.
+183 	 Gambia, The 	            2,000 	 2004 est.
+184 	 Grenada 	            1,800 	 2004 est.
+185 	 Western Sahara 	            1,800 	 2004 est.
+186 	 Chad 	            1,460 	 2004 est.
+187 	 Lesotho 	            1,400 	 2004
+188 	 Saint Vincent and the Grenadines 	            1,400 	 2004 est.
+189 	 Solomon Islands 	            1,280 	 2004 est.
+190 	 Equatorial Guinea 	            1,220 	 2004 est.
+191 	 Bhutan 	            1,160 	 2004 est.
+192 	 Cape Verde 	            1,150 	 2004 est.
+193 	 Nauru 	            1,000 	 2004 est.
+194 	 Samoa 	            1,000 	 2004 est.
+195 	 Dominica 	             900 	 2004 est.
+196 	 Tonga 	             900 	 2004 est.
+197 	 Saint Kitts and Nevis 	             800 	 2004 est.
+198 	 Comoros 	             720 	 2004 est.
+199 	 Sao Tome and Principe 	             660 	 2004 est.
+200 	 Vanuatu 	             620 	 2004 est.
+201 	 Saint Pierre and Miquelon 	             500 	 2004 est.
+202 	 British Virgin Islands 	             480 	 2004 est.
+203 	 Montenegro 	             450 	 2004
+204 	 Cook Islands 	             420 	 2004 est.
+205 	 Montserrat 	             380 	 2003 est.
+206 	 Falkland Islands (Islas Malvinas) 	             230 	 2004 est.
+207 	 Kiribati 	             200 	 2004 est.
+208 	 Saint Helena 	             100 	 2004 est.
+209 	 Turks and Caicos Islands 	              80 	 2004 est.
+210 	 Niue 	              20 	 2004 est.
+
+ This file was last updated on 13 December, 2007

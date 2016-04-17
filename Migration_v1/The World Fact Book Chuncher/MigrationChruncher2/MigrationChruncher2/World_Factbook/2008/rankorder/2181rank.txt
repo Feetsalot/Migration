@@ -1,0 +1,214 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - consumption(cu m) 	 Date of Information
+1 	 World 	   3,198,000,000,000 	 2007 est.
+2 	 United States 	    652,900,000,000 	 2007 est.
+3 	 Russia 	    610,000,000,000 	 2007 est.
+4 	 European Union 	    500,100,000,000 	 2007 est.
+5 	 Iran 	    111,800,000,000 	 2007 est.
+6 	 Japan 	    100,300,000,000 	 2007 est.
+7 	 Germany 	     97,440,000,000 	 2007 est.
+8 	 Canada 	     92,900,000,000 	 2007 est.
+9 	 United Kingdom 	     91,100,000,000 	 2007 est.
+10 	 Ukraine 	     84,900,000,000 	 2007 est.
+11 	 Italy 	     84,890,000,000 	 2007 est.
+12 	 Saudi Arabia 	     75,900,000,000 	 2007 est.
+13 	 China 	     70,510,000,000 	 2007 est.
+14 	 Mexico 	     68,290,000,000 	 2007 est.
+15 	 Uzbekistan 	     51,180,000,000 	 2007 est.
+16 	 Netherlands 	     46,420,000,000 	 2007 est.
+17 	 Argentina 	     44,100,000,000 	 2007 est.
+18 	 United Arab Emirates 	     43,110,000,000 	 2006 est.
+19 	 France 	     42,690,000,000 	 2007 est.
+20 	 India 	     41,700,000,000 	 2007 est.
+21 	 Turkey 	     36,600,000,000 	 2007 est.
+22 	 Thailand 	     35,300,000,000 	 2007 est.
+23 	 Korea, South 	     34,830,000,000 	 2007 est.
+24 	 Spain 	     34,430,000,000 	 2007 est.
+25 	 Malaysia 	     32,900,000,000 	 2007 est.
+26 	 Egypt 	     31,800,000,000 	 2007 est.
+27 	 Pakistan 	     30,800,000,000 	 2007 est.
+28 	 Kazakhstan 	     30,580,000,000 	 2007 est.
+29 	 Australia 	     29,400,000,000 	 2007 est.
+30 	 Venezuela 	     26,500,000,000 	 2007 est.
+31 	 Algeria 	     26,300,000,000 	 2007 est.
+32 	 Indonesia 	     23,400,000,000 	 2007 est.
+33 	 Belarus 	     21,760,000,000 	 2007 est.
+34 	 Trinidad and Tobago 	     20,800,000,000 	 2007 est.
+35 	 Qatar 	     20,500,000,000 	 2007 est.
+36 	 Brazil 	     19,800,000,000 	 2007 est.
+37 	 Turkmenistan 	     19,480,000,000 	 2007 est.
+38 	 Belgium 	     17,390,000,000 	 2007 est.
+39 	 Romania 	     17,090,000,000 	 2007
+40 	 Poland 	     16,380,000,000 	 2007 est.
+41 	 Bangladesh 	     15,700,000,000 	 2007 est.
+42 	 Hungary 	     13,360,000,000 	 2007 est.
+43 	 Nigeria 	     12,900,000,000 	 2007 est.
+44 	 Kuwait 	     12,500,000,000 	 2006 est.
+45 	 Bahrain 	     11,330,000,000 	 2006 est.
+46 	 Taiwan 	     11,300,000,000 	 2007 est.
+47 	 Oman 	     11,000,000,000 	 2007 est.
+48 	 Azerbaijan 	      9,770,000,000 	 2007 est.
+49 	 Czech Republic 	      8,622,000,000 	 2007 est.
+50 	 Austria 	      8,436,000,000 	 2007 est.
+51 	 Colombia 	      7,220,000,000 	 2006 est.
+52 	 Vietnam 	      6,860,000,000 	 2007 est.
+53 	 Norway 	      6,500,000,000 	 2007 est.
+54 	 Singapore 	      6,500,000,000 	 2007 est.
+55 	 Libya 	      6,390,000,000 	 2006 est.
+56 	 Slovakia 	      6,216,000,000 	 2007 est.
+57 	 Bulgaria 	      5,600,000,000 	 2006 est.
+58 	 Ireland 	      4,984,000,000 	 2007 est.
+59 	 Finland 	      4,581,000,000 	 2007 est.
+60 	 New Zealand 	      4,572,000,000 	 2007 est.
+61 	 Denmark 	      4,555,000,000 	 2007 est.
+62 	 Syria 	      4,400,000,000 	 2007 est.
+63 	 Chile 	      4,200,000,000 	 2007 est.
+64 	 Portugal 	      4,112,000,000 	 2007 est.
+65 	 Greece 	      4,069,000,000 	 2007 est.
+66 	 Brunei 	      3,990,000,000 	 2006 est.
+67 	 Tunisia 	      3,850,000,000 	 2006 est.
+68 	 Burma 	      3,620,000,000 	 2006 est.
+69 	 Lithuania 	      3,440,000,000 	 2007 est.
+70 	 Switzerland 	      3,232,000,000 	 2007 est.
+71 	 South Africa 	      3,100,000,000 	 2006 est.
+72 	 Bolivia 	      3,000,000,000 	 2007 est.
+73 	 Croatia 	      2,730,000,000 	 2006 est.
+74 	 Hong Kong 	      2,690,000,000 	 2007 est.
+75 	 Serbia 	      2,550,000,000 	 2005 est.
+76 	 Moldova 	      2,440,000,000 	 2007 est.
+77 	 Jordan 	      2,250,000,000 	 2006 est.
+78 	 Philippines 	      2,200,000,000 	 2006 est.
+79 	 Armenia 	      2,050,000,000 	 2007 est.
+80 	 Latvia 	      2,040,000,000 	 2007 est.
+81 	 Iraq 	      1,800,000,000 	 2006 est.
+82 	 Peru 	      1,780,000,000 	 2006 est.
+83 	 Georgia 	      1,490,000,000 	 2007 est.
+84 	 Estonia 	      1,480,000,000 	 2007 est.
+85 	 Mozambique 	      1,450,000,000 	 2006 est.
+86 	 Luxembourg 	      1,329,000,000 	 2007 est.
+87 	 Equatorial Guinea 	      1,300,000,000 	 2006 est.
+88 	 Cote d'Ivoire 	      1,300,000,000 	 2006 est.
+89 	 Slovenia 	      1,105,000,000 	 2006 est.
+90 	 Cuba 	      1,058,000,000 	 2006
+91 	 Sweden 	      1,006,000,000 	 2007 est.
+92 	 Israel 	       970,000,000 	 2006 est.
+93 	 Tajikistan 	       842,000,000 	 2007 est.
+94 	 Kyrgyzstan 	       768,000,000 	 2007 est.
+95 	 Puerto Rico 	       736,200,000 	 2007 est.
+96 	 Angola 	       680,000,000 	 2006 est.
+97 	 Bosnia and Herzegovina 	       400,000,000 	 2006 est.
+98 	 Ecuador 	       280,000,000 	 2006 est.
+99 	 Dominican Republic 	       250,000,000 	 2006 est.
+100 	 Congo, Republic of the 	       180,000,000 	 2006 est.
+101 	 Tanzania 	       146,000,000 	 2006 est.
+102 	 Papua New Guinea 	       140,000,000 	 2006 est.
+103 	 Uruguay 	       102,800,000 	 2007 est.
+104 	 Gabon 	       100,000,000 	 2006 est.
+105 	 Macedonia 	       100,000,000 	 2006 est.
+106 	 Morocco 	        60,000,000 	 2006 est.
+107 	 Senegal 	        50,000,000 	 2006 est.
+108 	 Albania 	        30,000,000 	 2006 est.
+109 	 Barbados 	        29,170,000 	 2006 est.
+110 	 Afghanistan 	        20,000,000 	 2006 est.
+111 	 Cameroon 	        20,000,000 	 2006 est.
+112 	 Aruba 	               0 	 2007 est.
+113 	 Bahamas, The 	               0 	 2007 est.
+114 	 Solomon Islands 	               0 	 2007 est.
+115 	 Burundi 	               0 	 2007 est.
+116 	 Zimbabwe 	               0 	 2007 est.
+117 	 Zambia 	               0 	 2007 est.
+118 	 Yemen 	               0 	 2007 est.
+119 	 Swaziland 	               0 	 2007 est.
+120 	 Samoa 	               0 	 2007 est.
+121 	 Western Sahara 	               0 	 2007 est.
+122 	 Namibia 	               0 	 2007 est.
+123 	 Virgin Islands 	               0 	 2007 est.
+124 	 British Virgin Islands 	               0 	 2007 est.
+125 	 Saint Vincent and the Grenadines 	               0 	 2007 est.
+126 	 Burkina Faso 	               0 	 2007 est.
+127 	 Uganda 	               0 	 2007 est.
+128 	 Timor-Leste 	               0 	 2007 est.
+129 	 Sao Tome and Principe 	               0 	 2007 est.
+130 	 Togo 	               0 	 2007 est.
+131 	 Tonga 	               0 	 2007 est.
+132 	 Turks and Caicos Islands 	               0 	 2007 est.
+133 	 Sudan 	               0 	 2007 est.
+134 	 Saint Lucia 	               0 	 2007 est.
+135 	 Somalia 	               0 	 2007 est.
+136 	 Sierra Leone 	               0 	 2007 est.
+137 	 Saint Helena 	               0 	 2007 est.
+138 	 Guinea-Bissau 	               0 	 2007 est.
+139 	 Panama 	               0 	 2007 est.
+140 	 Paraguay 	               0 	 2007 est.
+141 	 Nicaragua 	               0 	 2007 est.
+142 	 Netherlands Antilles 	               0 	 2007 est.
+143 	 Suriname 	               0 	 2007 est.
+144 	 Nauru 	               0 	 2007 est.
+145 	 Nepal 	               0 	 2007 est.
+146 	 Maldives 	               0 	 2007 est.
+147 	 Seychelles 	               0 	 2007 est.
+148 	 Saint Kitts and Nevis 	               0 	 2007 est.
+149 	 Saint Pierre and Miquelon 	               0 	 2007 est.
+150 	 Rwanda 	               0 	 2007 est.
+151 	 Malta 	               0 	 2007 est.
+152 	 Mauritania 	               0 	 2007 est.
+153 	 Mauritius 	               0 	 2007 est.
+154 	 Mali 	               0 	 2007 est.
+155 	 Malawi 	               0 	 2007 est.
+156 	 Montserrat 	               0 	 2007 est.
+157 	 Mongolia 	               0 	 2007 est.
+158 	 Macau 	               0 	 2007 est.
+159 	 Vanuatu 	               0 	 2007 est.
+160 	 Niger 	               0 	 2007 est.
+161 	 Niue 	               0 	 2007 est.
+162 	 New Caledonia 	               0 	 2007 est.
+163 	 Kenya 	               0 	 2007 est.
+164 	 Jamaica 	               0 	 2007 est.
+165 	 Iceland 	               0 	 2007 est.
+166 	 Honduras 	               0 	 2007 est.
+167 	 Haiti 	               0 	 2007 est.
+168 	 Guyana 	               0 	 2007 est.
+169 	 Guinea 	               0 	 2007 est.
+170 	 Guatemala 	               0 	 2007 est.
+171 	 Guam 	               0 	 2007 est.
+172 	 Ethiopia 	               0 	 2007 est.
+173 	 El Salvador 	               0 	 2007 est.
+174 	 Eritrea 	               0 	 2007 est.
+175 	 Dominica 	               0 	 2007 est.
+176 	 Djibouti 	               0 	 2007 est.
+177 	 Cook Islands 	               0 	 2007 est.
+178 	 Cape Verde 	               0 	 2007 est.
+179 	 Central African Republic 	               0 	 2007 est.
+180 	 Costa Rica 	               0 	 2007 est.
+181 	 Comoros 	               0 	 2007 est.
+182 	 Cayman Islands 	               0 	 2007 est.
+183 	 Congo, Democratic Republic of the 	               0 	 2007 est.
+184 	 Sri Lanka 	               0 	 2007 est.
+185 	 Chad 	               0 	 2007 est.
+186 	 Cambodia 	               0 	 2007 est.
+187 	 Madagascar 	               0 	 2007 est.
+188 	 Lesotho 	               0 	 2007 est.
+189 	 Liberia 	               0 	 2007 est.
+190 	 Lebanon 	               0 	 2007 est.
+191 	 Laos 	               0 	 2007 est.
+192 	 Kosovo 	               0 	 2007
+193 	 Kiribati 	               0 	 2007 est.
+194 	 Korea, North 	               0 	 2007 est.
+195 	 Greenland 	               0 	 2007 est.
+196 	 Grenada 	               0 	 2007 est.
+197 	 Gibraltar 	               0 	 2007 est.
+198 	 Ghana 	               0 	 2007 est.
+199 	 Gambia, The 	               0 	 2007 est.
+200 	 French Polynesia 	               0 	 2007 est.
+201 	 Faroe Islands 	               0 	 2007 est.
+202 	 Falkland Islands (Islas Malvinas) 	               0 	 2007 est.
+203 	 Fiji 	               0 	 2007 est.
+204 	 Bhutan 	               0 	 2007 est.
+205 	 Benin 	               0 	 2007 est.
+206 	 Belize 	               0 	 2007 est.
+207 	 Bermuda 	               0 	 2007 est.
+208 	 American Samoa 	               0 	 2007 est.
+209 	 Botswana 	               0 	 2007 est.
+210 	 Antigua and Barbuda 	               0 	 2007 est.
+
+ This file was last updated on 18 December, 2008

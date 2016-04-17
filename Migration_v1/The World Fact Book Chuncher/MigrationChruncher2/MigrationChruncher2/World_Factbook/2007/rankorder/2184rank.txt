@@ -1,0 +1,235 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Internet hosts 	 Date of Information
+1 	 European Union 	        50,500,000 	 
+2 	 Japan 	        33,333,000 	 2007
+3 	 Germany 	        16,494,000 	 2007
+4 	 France 	        12,556,000 	 2007
+5 	 France 	        12,555,000 	 2007
+6 	 Netherlands 	        11,170,000 	 2007
+7 	 China 	        10,637,000 	 2007
+8 	 Australia 	         9,458,000 	 2007
+9 	 Brazil 	         8,265,000 	 2007
+10 	 Mexico 	         7,629,000 	 2007
+11 	 Poland 	         5,681,000 	 2007
+12 	 United Kingdom 	         5,118,000 	 2007
+13 	 Taiwan 	         5,111,000 	 2007
+14 	 Canada 	         4,196,000 	 2007
+15 	 Italy 	         4,117,000 	 2007
+16 	 United States 	         3,950,000 	 2007
+17 	 Sweden 	         3,318,000 	 2007
+18 	 Belgium 	         3,195,000 	 2007
+19 	 Denmark 	         3,114,000 	 2007
+20 	 Russia 	         2,844,000 	 2007
+21 	 Spain 	         2,552,000 	 2007
+22 	 Austria 	         2,427,000 	 2007
+23 	 Finland 	         2,323,000 	 2007
+24 	 Hungary 	         2,313,000 	 2007
+25 	 India 	         2,306,000 	 2007
+26 	 Argentina 	         2,159,000 	 2007
+27 	 Norway 	         2,084,000 	 2007
+28 	 Czech Republic 	         1,668,000 	 2007
+29 	 New Zealand 	         1,433,000 	 2007
+30 	 Romania 	         1,406,000 	 2007
+31 	 Switzerland 	         1,405,000 	 2007
+32 	 Lithuania 	         1,301,000 	 2007
+33 	 South Africa 	         1,088,000 	 2007
+34 	 Colombia 	         1,014,000 	 2007
+35 	 Thailand 	          973,941 	 2007
+36 	 Singapore 	          954,475 	 2007
+37 	 Greece 	          905,824 	 2007
+38 	 Portugal 	          836,616 	 2007
+39 	 Slovakia 	          821,816 	 2007
+40 	 Hong Kong 	          812,137 	 2007
+41 	 Chile 	          745,375 	 2007
+42 	 Israel 	          671,030 	 2007
+43 	 Indonesia 	          559,359 	 2007
+44 	 Ireland 	          429,487 	 2007
+45 	 Estonia 	          387,336 	 2007
+46 	 Malaysia 	          337,674 	 2007
+47 	 Korea, South 	          315,537 	 2007
+48 	 Bulgaria 	          298,781 	 2007
+49 	 Uruguay 	          279,114 	 2007
+50 	 Philippines 	          271,609 	 2007
+51 	 Iceland 	          270,942 	 2007
+52 	 Peru 	          270,193 	 2007
+53 	 Croatia 	          261,954 	 2007
+54 	 Ukraine 	          234,349 	 2007
+55 	 Latvia 	          234,014 	 2007
+56 	 Turkey 	          217,887 	 2007
+57 	 Pakistan 	          164,067 	 2007
+58 	 Morocco 	          137,187 	 2007
+59 	 Slovenia 	          134,266 	 2007
+60 	 Luxembourg 	          132,090 	 2007
+61 	 Venezuela 	          126,500 	 2007
+62 	 Moldova 	          112,026 	 2007
+63 	 Vietnam 	          106,772 	 2007
+64 	 Dominican Republic 	           81,218 	 2007
+65 	 Kyrgyzstan 	           80,990 	 2007
+66 	 Guatemala 	           40,927 	 2007
+67 	 Bosnia and Herzegovina 	           39,627 	 2007
+68 	 Cyprus 	           36,964 	 2007
+69 	 Kazakhstan 	           33,217 	 2007
+70 	 Netherlands Antilles 	           31,812 	 2007
+71 	 Tuvalu 	           30,200 	 2007
+72 	 Georgia 	           30,193 	 2007
+73 	 Ecuador 	           28,420 	 2007
+74 	 Nicaragua 	           27,941 	 2007
+75 	 Trinidad and Tobago 	           24,681 	 2007
+76 	 Bolivia 	           24,363 	 2007
+77 	 Malta 	           21,386 	 2007
+78 	 Tanzania 	           20,757 	 2007
+79 	 Belarus 	           20,685 	 2007
+80 	 Nepal 	           18,733 	 2007
+81 	 Tonga 	           18,653 	 2007
+82 	 Saudi Arabia 	           18,369 	 2007
+83 	 Aruba 	           16,914 	 2007
+84 	 Zimbabwe 	           15,507 	 2007
+85 	 Andorra 	           15,486 	 2007
+86 	 Brunei 	           15,347 	 2007
+87 	 Greenland 	           15,329 	 2007
+88 	 Mozambique 	           15,231 	 2007
+89 	 Monaco 	           14,520 	 2007
+90 	 New Caledonia 	           14,252 	 2007
+91 	 French Polynesia 	           14,059 	 2007
+92 	 Costa Rica 	           13,792 	 2007
+93 	 El Salvador 	           12,519 	 2007
+94 	 Paraguay 	           12,497 	 2007
+95 	 Fiji 	           12,137 	 2007
+96 	 Uzbekistan 	           11,832 	 2007
+97 	 Samoa 	           10,156 	 2007
+98 	 Mauritius 	            9,792 	 2007
+99 	 Madagascar 	            9,734 	 2007
+100 	 Bhutan 	            9,180 	 2007
+101 	 Faroe Islands 	            8,490 	 2007
+102 	 Armenia 	            8,270 	 2007
+103 	 Antarctica 	            7,744 	 2007
+104 	 Zambia 	            7,423 	 2007
+105 	 Panama 	            7,078 	 2007
+106 	 Sri Lanka 	            6,198 	 2007
+107 	 Iran 	            6,111 	 2007
+108 	 United Arab Emirates 	            6,001 	 2007
+109 	 Macedonia 	            6,001 	 2007
+110 	 Botswana 	            5,820 	 2007
+111 	 Lebanon 	            5,635 	 2007
+112 	 Egypt 	            5,363 	 2007
+113 	 Cayman Islands 	            4,888 	 2007
+114 	 Liechtenstein 	            4,753 	 2007
+115 	 Honduras 	            4,672 	 2007
+116 	 Virgin Islands 	            4,116 	 2007
+117 	 Oman 	            3,763 	 2007
+118 	 Namibia 	            3,717 	 2007
+119 	 Solomon Islands 	            3,414 	 2007
+120 	 Cuba 	            3,388 	 2007
+121 	 San Marino 	            3,344 	 2007
+122 	 Angola 	            3,337 	 2007
+123 	 Azerbaijan 	            3,067 	 2007
+124 	 Guyana 	            3,000 	 2007
+125 	 Bermuda 	            2,949 	 2007
+126 	 Ghana 	            2,899 	 2007
+127 	 Guernsey 	            2,734 	 2007
+128 	 Swaziland 	            2,672 	 2007
+129 	 Jordan 	            2,500 	 2007
+130 	 Papua New Guinea 	            2,436 	 2007
+131 	 Bahrain 	            2,413 	 2007
+132 	 Turks and Caicos Islands 	            2,310 	 2007
+133 	 Jersey 	            2,219 	 2007
+134 	 Congo, Democratic Republic of the 	            2,209 	 2007
+135 	 Antigua and Barbuda 	            2,133 	 2007
+136 	 Kenya 	            2,120 	 2007
+137 	 Algeria 	            2,077 	 2007
+138 	 Tajikistan 	            2,050 	 2007
+139 	 Kuwait 	            2,013 	 2007
+140 	 Nigeria 	            1,968 	 2007
+141 	 Belize 	            1,942 	 2007
+142 	 Christmas Island 	            1,826 	 2007
+143 	 American Samoa 	            1,824 	 2007
+144 	 Rwanda 	            1,592 	 2007
+145 	 Cook Islands 	            1,479 	 2007
+146 	 Eritrea 	            1,446 	 2007
+147 	 Cote d'Ivoire 	            1,373 	 2007
+148 	 Jamaica 	            1,213 	 2007
+149 	 Tunisia 	            1,163 	 2007
+150 	 Maldives 	            1,082 	 2007
+151 	 Vanuatu 	            1,010 	 2007
+152 	 Sao Tome and Principe 	             996 	 2007
+153 	 Cambodia 	             941 	 2007
+154 	 Laos 	             935 	 2007
+155 	 Albania 	             852 	 2007
+156 	 Benin 	             798 	 2007
+157 	 Togo 	             702 	 2007
+158 	 Micronesia, Federated States of 	             632 	 2007
+159 	 Uganda 	             546 	 2007
+160 	 Cameroon 	             512 	 2007
+161 	 British Virgin Islands 	             490 	 2007
+162 	 Puerto Rico 	             413 	 2007
+163 	 Gibraltar 	             380 	 2007
+164 	 Bangladesh 	             376 	 2007
+165 	 Montserrat 	             367 	 2007
+166 	 Malawi 	             347 	 2007
+167 	 Cape Verde 	             344 	 2007
+168 	 Anguilla 	             319 	 2007
+169 	 Mongolia 	             298 	 2007
+170 	 Gabon 	             288 	 2007
+171 	 Saint Helena 	             283 	 2007
+172 	 Dominica 	             257 	 2007
+173 	 Tokelau 	             249 	 2007
+174 	 Bahamas, The 	             248 	 2007
+175 	 Macau 	             232 	 2007
+176 	 Niger 	             200 	 2007
+177 	 Senegal 	             199 	 2007
+178 	 South Georgia and the South Sandwich Islands 	             193 	 2007
+179 	 Burkina Faso 	             193 	 2007
+180 	 Seychelles 	             187 	 2007
+181 	 Guinea 	             173 	 2007
+182 	 Djibouti 	             168 	 2007
+183 	 Burundi 	             163 	 2007
+184 	 Isle of Man 	             159 	 2007
+185 	 Syria 	             119 	 2007
+186 	 Barbados 	             104 	 2007
+187 	 Falkland Islands (Islas Malvinas) 	             104 	 2007
+188 	 Burma 	             101 	 2007
+189 	 Turkmenistan 	              97 	 2007
+190 	 Saint Vincent and the Grenadines 	              97 	 2007
+191 	 Norfolk Island 	              96 	 2007
+192 	 Timor-Leste 	              94 	 2007
+193 	 Ethiopia 	              89 	 2007
+194 	 Equatorial Guinea 	              81 	 2007
+195 	 Chad 	              72 	 2007
+196 	 Lesotho 	              66 	 2007
+197 	 British Indian Ocean Territory 	              61 	 2007
+198 	 Nauru 	              53 	 2007
+199 	 Sierra Leone 	              46 	 2007
+200 	 Saint Kitts and Nevis 	              45 	 2007
+201 	 Kiribati 	              41 	 2007
+202 	 Liberia 	              38 	 2007
+203 	 Guam 	              36 	 2007
+204 	 French Southern and Antarctic Lands 	              33 	 2007
+205 	 Mali 	              28 	 2007
+206 	 Suriname 	              28 	 2007
+207 	 Libya 	              24 	 2007
+208 	 Afghanistan 	              21 	 2007
+209 	 Sudan 	              21 	 2007
+210 	 Holy See (Vatican City) 	              20 	 2007
+211 	 Qatar 	              19 	 2007
+212 	 Central African Republic 	              15 	 2007
+213 	 Saint Lucia 	              15 	 2007
+214 	 Mauritania 	              14 	 2007
+215 	 Pitcairn Islands 	               9 	 2007
+216 	 Grenada 	               7 	 2007
+217 	 Haiti 	               7 	 2007
+218 	 Bouvet Island 	               6 	 2007
+219 	 Gambia, The 	               6 	 2007
+220 	 Comoros 	               6 	 2007
+221 	 Northern Mariana Islands 	               5 	 2007
+222 	 Yemen 	               5 	 2007
+223 	 Congo, Republic of the 	               3 	 2007
+224 	 Marshall Islands 	               3 	 2007
+225 	 Iraq 	               3 	 2007
+226 	 Mayotte 	               1 	 2007
+227 	 Palau 	               1 	 2007
+228 	 Wallis and Futuna 	               1 	 2007
+229 	 Guinea-Bissau 	               0 	 2007
+230 	 Saint Pierre and Miquelon 	               0 	 2007
+231 	 Somalia 	               0 	 2007
+
+ This file was last updated on 13 December, 2007

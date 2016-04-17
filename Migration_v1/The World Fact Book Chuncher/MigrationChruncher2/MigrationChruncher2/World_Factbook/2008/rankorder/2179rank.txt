@@ -1,0 +1,211 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - proved reserves(cu m) 	 Date of Information
+1 	 World 	 175,400,000,000,000 	 1 January 2008 est.
+2 	 Russia 	  47,570,000,000,000 	 1 January 2008 est.
+3 	 Iran 	  26,850,000,000,000 	 1 January 2008 est.
+4 	 Qatar 	  25,630,000,000,000 	 1 January 2008 est.
+5 	 Saudi Arabia 	   7,167,000,000,000 	 1 January 2008 est.
+6 	 United Arab Emirates 	   6,071,000,000,000 	 1 January 2008 est.
+7 	 United States 	   5,977,000,000,000 	 1 January 2008 est.
+8 	 Nigeria 	   5,210,000,000,000 	 1 January 2008 est.
+9 	 Venezuela 	   4,708,000,000,000 	 1 January 2008 est.
+10 	 Algeria 	   4,502,000,000,000 	 1 January 2008 est.
+11 	 Iraq 	   3,170,000,000,000 	 1 January 2008 est.
+12 	 Kazakhstan 	   2,832,000,000,000 	 1 January 2008 est.
+13 	 Turkmenistan 	   2,832,000,000,000 	 1 January 2008 est.
+14 	 Indonesia 	   2,659,000,000,000 	 1 January 2008 est.
+15 	 European Union 	   2,476,000,000,000 	 1 January 2008 est.
+16 	 Malaysia 	   2,350,000,000,000 	 1 January 2008 est.
+17 	 China 	   2,265,000,000,000 	 1 January 2008 est.
+18 	 Norway 	   2,241,000,000,000 	 1 January 2008 est.
+19 	 Uzbekistan 	   1,841,000,000,000 	 1 January 2008 est.
+20 	 Egypt 	   1,656,000,000,000 	 1 January 2008 est.
+21 	 Canada 	   1,648,000,000,000 	 1 January 2008 est.
+22 	 Kuwait 	   1,586,000,000,000 	 1 January 2008 est.
+23 	 Libya 	   1,419,000,000,000 	 1 January 2008 est.
+24 	 Netherlands 	   1,416,000,000,000 	 1 January 2008 est.
+25 	 Ukraine 	   1,104,000,000,000 	 1 January 2008 est.
+26 	 India 	   1,075,000,000,000 	 1 January 2008 est.
+27 	 Azerbaijan 	    849,500,000,000 	 1 January 2008 est.
+28 	 Australia 	    849,500,000,000 	 1 January 2008 est.
+29 	 Oman 	    849,500,000,000 	 1 January 2008 est.
+30 	 Pakistan 	    792,800,000,000 	 1 January 2008 est.
+31 	 Bolivia 	    750,400,000,000 	 1 January 2008 est.
+32 	 Trinidad and Tobago 	    531,500,000,000 	 1 January 2008 est.
+33 	 Yemen 	    478,500,000,000 	 1 January 2008 est.
+34 	 Argentina 	    446,000,000,000 	 1 January 2008 est.
+35 	 United Kingdom 	    412,000,000,000 	 1 January 2008 est.
+36 	 Mexico 	    392,200,000,000 	 1 January 2008 est.
+37 	 Brunei 	    390,800,000,000 	 1 January 2008 est.
+38 	 Brazil 	    347,700,000,000 	 1 January 2008 est.
+39 	 Peru 	    337,800,000,000 	 1 January 2008 est.
+40 	 Thailand 	    331,200,000,000 	 1 January 2008 est.
+41 	 Burma 	    283,200,000,000 	 1 January 2008 est.
+42 	 Angola 	    269,800,000,000 	 1 January 2008 est.
+43 	 Germany 	    254,800,000,000 	 1 January 2008 est.
+44 	 Syria 	    240,700,000,000 	 1 January 2008 est.
+45 	 Papua New Guinea 	    226,500,000,000 	 1 January 2008 est.
+46 	 Timor-Leste 	    200,000,000,000 	 1 January 2006 est.
+47 	 Vietnam 	    192,500,000,000 	 1 January 2008 est.
+48 	 Poland 	    164,800,000,000 	 1 January 2008 est.
+49 	 Bangladesh 	    141,600,000,000 	 1 January 2008 est.
+50 	 Cameroon 	    135,100,000,000 	 1 January 2008 est.
+51 	 Mozambique 	    127,400,000,000 	 1 January 2008 est.
+52 	 Colombia 	    122,900,000,000 	 1 January 2008 est.
+53 	 Philippines 	     98,540,000,000 	 1 January 2008 est.
+54 	 Chile 	     97,970,000,000 	 1 January 2008 est.
+55 	 Italy 	     94,150,000,000 	 1 January 2008 est.
+56 	 Bahrain 	     92,030,000,000 	 1 January 2008 est.
+57 	 Congo, Republic of the 	     90,610,000,000 	 1 January 2008 est.
+58 	 Sudan 	     84,950,000,000 	 1 January 2008 est.
+59 	 Cuba 	     70,790,000,000 	 1 January 2008 est.
+60 	 Denmark 	     70,510,000,000 	 1 January 2008 est.
+61 	 Tunisia 	     65,130,000,000 	 1 January 2008 est.
+62 	 Romania 	     63,000,000,000 	 1 January 2008 est.
+63 	 Namibia 	     62,290,000,000 	 1 January 2008 est.
+64 	 Rwanda 	     56,630,000,000 	 1 January 2008 est.
+65 	 Afghanistan 	     49,550,000,000 	 1 January 2008 est.
+66 	 Serbia 	     48,140,000,000 	 1 January 2008 est.
+67 	 Equatorial Guinea 	     36,810,000,000 	 1 January 2008 est.
+68 	 Israel 	     30,440,000,000 	 1 January 2008 est.
+69 	 New Zealand 	     29,670,000,000 	 1 January 2008 est.
+70 	 Croatia 	     28,540,000,000 	 1 January 2008 est.
+71 	 Gabon 	     28,320,000,000 	 1 January 2008 est.
+72 	 Mauritania 	     28,320,000,000 	 1 January 2008 est.
+73 	 Cote d'Ivoire 	     28,320,000,000 	 1 January 2008 est.
+74 	 Ethiopia 	     24,920,000,000 	 1 January 2008 est.
+75 	 Ghana 	     22,650,000,000 	 1 January 2008 est.
+76 	 Japan 	     20,900,000,000 	 1 January 2008 est.
+77 	 Austria 	     16,140,000,000 	 1 January 2008 est.
+78 	 Slovakia 	     14,160,000,000 	 1 January 2008 est.
+79 	 Ireland 	      9,911,000,000 	 1 January 2008 est.
+80 	 Ecuador 	      9,369,000,000 	 1 January 2006 est.
+81 	 Georgia 	      8,495,000,000 	 1 January 2008 est.
+82 	 Turkey 	      8,495,000,000 	 1 January 2008 est.
+83 	 Hungary 	      8,098,000,000 	 1 January 2008 est.
+84 	 France 	      7,277,000,000 	 1 January 2008 est.
+85 	 Tanzania 	      6,513,000,000 	 1 January 2008 est.
+86 	 Taiwan 	      6,229,000,000 	 1 January 2008 est.
+87 	 Jordan 	      6,031,000,000 	 1 January 2008 est.
+88 	 Bulgaria 	      5,663,000,000 	 1 January 2008 est.
+89 	 Somalia 	      5,663,000,000 	 1 January 2008 est.
+90 	 Tajikistan 	      5,663,000,000 	 1 January 2008 est.
+91 	 Kyrgyzstan 	      5,663,000,000 	 1 January 2008 est.
+92 	 Czech Republic 	      3,964,000,000 	 1 January 2008 est.
+93 	 Guatemala 	      2,960,000,000 	 1 January 2006 est.
+94 	 Belarus 	      2,832,000,000 	 1 January 2008 est.
+95 	 Spain 	      2,548,000,000 	 1 January 2008 est.
+96 	 Greece 	      1,982,000,000 	 1 January 2008 est.
+97 	 Morocco 	      1,557,000,000 	 1 January 2008 est.
+98 	 Benin 	      1,133,000,000 	 1 January 2008 est.
+99 	 Congo, Democratic Republic of the 	       991,100,000 	 1 January 2008 est.
+100 	 Albania 	       849,500,000 	 1 January 2008 est.
+101 	 Barbados 	       141,600,000 	 1 January 2008 est.
+102 	 South Africa 	        27,160,000 	 1 January 2006 est.
+103 	 Aruba 	               0 	 1 January 2006
+104 	 Botswana 	               0 	 1 January 2006 est.
+105 	 Belgium 	               0 	 1 January 2006
+106 	 Solomon Islands 	               0 	 1 January 2006 est.
+107 	 Mali 	               0 	 1 January 2006 est.
+108 	 Macedonia 	               0 	 1 January 2008 est.
+109 	 Malawi 	               0 	 1 January 2006 est.
+110 	 Montserrat 	               0 	 1 January 2006 est.
+111 	 Mongolia 	               0 	 1 January 2006 est.
+112 	 Moldova 	               0 	 1 January 2006 est.
+113 	 Macau 	               0 	 1 January 2006 est.
+114 	 Madagascar 	               0 	 1 January 2006 est.
+115 	 Lithuania 	               0 	 1 January 2006 est.
+116 	 Zimbabwe 	               0 	 1 January 2006 est.
+117 	 Zambia 	               0 	 1 January 2006 est.
+118 	 Swaziland 	               0 	 1 January 2006 est.
+119 	 Samoa 	               0 	 1 January 2006 est.
+120 	 Western Sahara 	               0 	 1 January 2006 est.
+121 	 Virgin Islands 	               0 	 1 January 2006 est.
+122 	 British Virgin Islands 	               0 	 1 January 2006 est.
+123 	 Saint Vincent and the Grenadines 	               0 	 1 January 2006 est.
+124 	 Uruguay 	               0 	 1 January 2006 est.
+125 	 Burkina Faso 	               0 	 1 January 2006 est.
+126 	 Uganda 	               0 	 1 January 2006 est.
+127 	 Sao Tome and Principe 	               0 	 1 January 2006 est.
+128 	 Togo 	               0 	 1 January 2006 est.
+129 	 Tonga 	               0 	 1 January 2007 est.
+130 	 Turks and Caicos Islands 	               0 	 1 January 2006 est.
+131 	 Switzerland 	               0 	 1 January 2006 est.
+132 	 Sweden 	               0 	 1 January 2006 est.
+133 	 Saint Lucia 	               0 	 1 January 2006 est.
+134 	 Singapore 	               0 	 1 January 2006 est.
+135 	 Sierra Leone 	               0 	 1 January 2006 est.
+136 	 Slovenia 	               0 	 1 January 2006 est.
+137 	 Saint Helena 	               0 	 1 January 2006 est.
+138 	 Seychelles 	               0 	 1 January 2006 est.
+139 	 Saint Kitts and Nevis 	               0 	 1 January 2006 est.
+140 	 Saint Pierre and Miquelon 	               0 	 1 January 2006 est.
+141 	 Puerto Rico 	               0 	 1 January 2006 est.
+142 	 Guinea-Bissau 	               0 	 1 January 2006 est.
+143 	 Portugal 	               0 	 1 January 2006 est.
+144 	 Panama 	               0 	 1 January 2006 est.
+145 	 Paraguay 	               0 	 1 January 2007 est.
+146 	 Nicaragua 	               0 	 1 January 2006 est.
+147 	 Netherlands Antilles 	               0 	 1 January 2006 est.
+148 	 Suriname 	               0 	 1 January 2006 est.
+149 	 Nauru 	               0 	 1 January 2006 est.
+150 	 Nepal 	               0 	 1 January 2006 est.
+151 	 Vanuatu 	               0 	 1 January 2006 est.
+152 	 Niger 	               0 	 1 January 2006 est.
+153 	 Niue 	               0 	 1 January 2006 est.
+154 	 New Caledonia 	               0 	 1 January 2006 est.
+155 	 Maldives 	               0 	 1 January 2006 est.
+156 	 Malta 	               0 	 1 January 2006 est.
+157 	 Mauritius 	               0 	 1 January 2006 est.
+158 	 Lebanon 	               0 	 1 January 2006 est.
+159 	 Laos 	               0 	 1 January 2006 est.
+160 	 Korea, South 	               0 	 1 January 2006 est.
+161 	 Kiribati 	               0 	 1 January 2006 est.
+162 	 Korea, North 	               0 	 1 January 2007
+163 	 Kenya 	               0 	 1 January 2006 est.
+164 	 Jamaica 	               0 	 1 January 2006 est.
+165 	 Iceland 	               0 	 1 January 2006 est.
+166 	 Luxembourg 	               0 	 1 January 2006 est.
+167 	 Lesotho 	               0 	 1 January 2006 est.
+168 	 Liberia 	               0 	 1 January 2006 est.
+169 	 Honduras 	               0 	 1 January 2006 est.
+170 	 Hong Kong 	               0 	 1 January 2006 est.
+171 	 Haiti 	               0 	 1 January 2006 est.
+172 	 Guyana 	               0 	 1 January 2006 est.
+173 	 Guinea 	               0 	 1 January 2006 est.
+174 	 Guam 	               0 	 1 January 2006 est.
+175 	 Greenland 	               0 	 1 January 2006 est.
+176 	 Grenada 	               0 	 1 January 2006 est.
+177 	 Gibraltar 	               0 	 1 January 2006 est.
+178 	 Gambia, The 	               0 	 1 January 2006 est.
+179 	 French Polynesia 	               0 	 1 January 2006 est.
+180 	 Faroe Islands 	               0 	 1 January 2006 est.
+181 	 Falkland Islands (Islas Malvinas) 	               0 	 1 January 2006 est.
+182 	 Fiji 	               0 	 1 January 2006 est.
+183 	 Finland 	               0 	 1 January 2006
+184 	 El Salvador 	               0 	 1 January 2006 est.
+185 	 Eritrea 	               0 	 1 January 2006 est.
+186 	 Estonia 	               0 	 1 January 2006 est.
+187 	 Dominican Republic 	               0 	 1 January 2006 est.
+188 	 Dominica 	               0 	 1 January 2006 est.
+189 	 Djibouti 	               0 	 1 January 2006 est.
+190 	 Cyprus 	               0 	 1 January 2006
+191 	 Cook Islands 	               0 	 1 January 2006 est.
+192 	 Cape Verde 	               0 	 1 January 2006 est.
+193 	 Central African Republic 	               0 	 1 January 2006
+194 	 Costa Rica 	               0 	 1 January 2006 est.
+195 	 Comoros 	               0 	 1 January 2006 est.
+196 	 Cayman Islands 	               0 	 1 January 2006 est.
+197 	 Sri Lanka 	               0 	 1 January 2006 est.
+198 	 Chad 	               0 	 1 January 2006 est.
+199 	 Burundi 	               0 	 1 January 2006 est.
+200 	 Bhutan 	               0 	 1 January 2006 est.
+201 	 Belize 	               0 	 1 January 2006 est.
+202 	 Bosnia and Herzegovina 	               0 	 1 January 2006
+203 	 Bahamas, The 	               0 	 1 January 2006 est.
+204 	 Bermuda 	               0 	 1 January 2006 est.
+205 	 Armenia 	               0 	 1 January 2006
+206 	 American Samoa 	               0 	 1 January 2006 est.
+207 	 Antigua and Barbuda 	               0 	 1 January 2006 est.
+
+ This file was last updated on 18 December, 2008

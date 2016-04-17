@@ -1,0 +1,243 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Population 	 Date of Information
+1 	 World 	      6,525,170,264 	 July 2006 est.
+2 	 China 	      1,313,973,713 	 July 2006 est.
+3 	 India 	      1,095,351,995 	 July 2006 est.
+4 	 European Union 	       456,953,258 	 July 2006 est.
+5 	 United States 	       298,444,215 	 July 2006 est.
+6 	 Indonesia 	       245,452,739 	 July 2006 est.
+7 	 Brazil 	       188,078,227 	 July 2006 est.
+8 	 Pakistan 	       165,803,560 	 July 2006 est.
+9 	 Bangladesh 	       147,365,352 	 July 2006 est.
+10 	 Russia 	       142,893,540 	 July 2006 est.
+11 	 Nigeria 	       131,859,731 	 July 2006 est.
+12 	 Japan 	       127,463,611 	 July 2006 est.
+13 	 Mexico 	       107,449,525 	 July 2006 est.
+14 	 Philippines 	        89,468,677 	 July 2006 est.
+15 	 Vietnam 	        84,402,966 	 July 2006 est.
+16 	 Germany 	        82,422,299 	 July 2006 est.
+17 	 Egypt 	        78,887,007 	 July 2006 est.
+18 	 Ethiopia 	        74,777,981 	 July 2006 est.
+19 	 Turkey 	        70,413,958 	 July 2006 est.
+20 	 Iran 	        68,688,433 	 July 2006 est.
+21 	 Thailand 	        64,631,595 	 July 2006 est.
+22 	 Congo, Democratic Republic of the 	        62,660,551 	 July 2006 est.
+23 	 France 	        60,876,136 	 July 2006 est.
+24 	 United Kingdom 	        60,609,153 	 July 2006 est.
+25 	 Italy 	        58,133,509 	 July 2006 est.
+26 	 Korea, South 	        48,846,823 	 July 2006 est.
+27 	 Burma 	        47,382,633 	 July 2006 est.
+28 	 Ukraine 	        46,710,816 	 July 2006 est.
+29 	 South Africa 	        44,187,637 	 July 2006 est.
+30 	 Colombia 	        43,593,035 	 July 2006 est.
+31 	 Sudan 	        41,236,378 	 July 2006 est.
+32 	 Spain 	        40,397,842 	 July 2006 est.
+33 	 Argentina 	        39,921,833 	 July 2006 est.
+34 	 Poland 	        38,536,869 	 July 2006 est.
+35 	 Tanzania 	        37,445,392 	 July 2006 est.
+36 	 Kenya 	        34,707,817 	 July 2006 est.
+37 	 Morocco 	        33,241,259 	 July 2006 est.
+38 	 Canada 	        33,098,932 	 July 2006 est.
+39 	 Algeria 	        32,930,091 	 July 2006 est.
+40 	 Afghanistan 	        31,056,997 	 July 2006 est.
+41 	 Peru 	        28,302,603 	 July 2006 est.
+42 	 Nepal 	        28,287,147 	 July 2006 est.
+43 	 Uganda 	        28,195,754 	 July 2006 est.
+44 	 Uzbekistan 	        27,307,134 	 July 2006 est.
+45 	 Saudi Arabia 	        27,019,731 	 July 2006 est.
+46 	 Iraq 	        26,783,383 	 July 2006 est.
+47 	 Venezuela 	        25,730,435 	 July 2006 est.
+48 	 Malaysia 	        24,385,858 	 July 2006 est.
+49 	 Korea, North 	        23,113,019 	 July 2006 est.
+50 	 Taiwan 	        23,036,087 	 July 2006 est.
+51 	 Ghana 	        22,409,572 	 July 2006 est.
+52 	 Romania 	        22,303,552 	 July 2006 est.
+53 	 Yemen 	        21,456,188 	 July 2006 est.
+54 	 Australia 	        20,264,082 	 July 2006 est.
+55 	 Sri Lanka 	        20,222,240 	 July 2006 est.
+56 	 Mozambique 	        19,686,505 	 July 2006 est.
+57 	 Syria 	        18,881,361 	 July 2006 est.
+58 	 Madagascar 	        18,595,469 	 July 2006 est.
+59 	 Cote d'Ivoire 	        17,654,843 	 July 2006 est.
+60 	 Cameroon 	        17,340,702 	 July 2006 est.
+61 	 Netherlands 	        16,491,461 	 July 2006 est.
+62 	 Chile 	        16,134,219 	 July 2006 est.
+63 	 Kazakhstan 	        15,233,244 	 July 2006 est.
+64 	 Burkina Faso 	        13,902,972 	 July 2006 est.
+65 	 Cambodia 	        13,881,427 	 July 2006 est.
+66 	 Ecuador 	        13,547,510 	 July 2006 est.
+67 	 Malawi 	        13,013,926 	 July 2006 est.
+68 	 Niger 	        12,525,094 	 July 2006 est.
+69 	 Guatemala 	        12,293,545 	 July 2006 est.
+70 	 Zimbabwe 	        12,236,805 	 July 2006 est.
+71 	 Angola 	        12,127,071 	 July 2006 est.
+72 	 Senegal 	        11,987,121 	 July 2006 est.
+73 	 Mali 	        11,716,829 	 July 2006 est.
+74 	 Zambia 	        11,502,010 	 July 2006 est.
+75 	 Cuba 	        11,382,820 	 July 2006 est.
+76 	 Greece 	        10,688,058 	 July 2006 est.
+77 	 Portugal 	        10,605,870 	 July 2006 est.
+78 	 Belgium 	        10,379,067 	 July 2006 est.
+79 	 Belarus 	        10,293,011 	 July 2006 est.
+80 	 Czech Republic 	        10,235,455 	 July 2006 est.
+81 	 Tunisia 	        10,175,014 	 July 2006 est.
+82 	 Hungary 	         9,981,334 	 July 2006 est.
+83 	 Chad 	         9,944,201 	 July 2006 est.
+84 	 Guinea 	         9,690,222 	 July 2006 est.
+85 	 Serbia 	         9,396,411 	 2002 census
+86 	 Dominican Republic 	         9,183,984 	 July 2006 est.
+87 	 Sweden 	         9,016,596 	 July 2006 est.
+88 	 Bolivia 	         8,989,046 	 July 2006 est.
+89 	 Somalia 	         8,863,338 	 July 2006 est.
+90 	 Rwanda 	         8,648,248 	 July 2006 est.
+91 	 Haiti 	         8,308,504 	 July 2006 est.
+92 	 Austria 	         8,192,880 	 July 2006 est.
+93 	 Burundi 	         8,090,068 	 July 2006 est.
+94 	 Azerbaijan 	         7,961,619 	 July 2006 est.
+95 	 Benin 	         7,862,944 	 July 2006 est.
+96 	 Switzerland 	         7,523,934 	 July 2006 est.
+97 	 Bulgaria 	         7,385,367 	 July 2006 est.
+98 	 Honduras 	         7,326,496 	 July 2006 est.
+99 	 Tajikistan 	         7,320,815 	 July 2006 est.
+100 	 Hong Kong 	         6,940,432 	 July 2006 est.
+101 	 El Salvador 	         6,822,378 	 July 2006 est.
+102 	 Paraguay 	         6,506,464 	 July 2006 est.
+103 	 Laos 	         6,368,481 	 July 2006 est.
+104 	 Israel 	         6,352,117 	 July 2006 est.
+105 	 Sierra Leone 	         6,005,250 	 July 2006 est.
+106 	 Jordan 	         5,906,760 	 July 2006 est.
+107 	 Libya 	         5,900,754 	 July 2006 est.
+108 	 Papua New Guinea 	         5,670,544 	 July 2006 est.
+109 	 Nicaragua 	         5,570,129 	 July 2006 est.
+110 	 Togo 	         5,548,702 	 July 2006 est.
+111 	 Denmark 	         5,450,661 	 July 2006 est.
+112 	 Slovakia 	         5,439,448 	 July 2006 est.
+113 	 Finland 	         5,231,372 	 July 2006 est.
+114 	 Kyrgyzstan 	         5,213,898 	 July 2006 est.
+115 	 Turkmenistan 	         5,042,920 	 July 2006 est.
+116 	 Eritrea 	         4,786,994 	 July 2006 est.
+117 	 Georgia 	         4,661,473 	 July 2006 est.
+118 	 Norway 	         4,610,820 	 July 2006 est.
+119 	 Bosnia and Herzegovina 	         4,498,976 	 July 2006 est.
+120 	 Croatia 	         4,494,749 	 July 2006 est.
+121 	 Singapore 	         4,492,150 	 July 2006 est.
+122 	 Moldova 	         4,466,706 	 July 2006 est.
+123 	 Central African Republic 	         4,303,356 	 July 2006 est.
+124 	 New Zealand 	         4,076,140 	 July 2006 est.
+125 	 Costa Rica 	         4,075,261 	 July 2006 est.
+126 	 Ireland 	         4,062,235 	 July 2006 est.
+127 	 Puerto Rico 	         3,927,188 	 July 2006 est.
+128 	 Lebanon 	         3,874,050 	 July 2006 est.
+129 	 Congo, Republic of the 	         3,702,314 	 July 2006 est.
+130 	 Lithuania 	         3,585,906 	 July 2006 est.
+131 	 Albania 	         3,581,655 	 July 2006 est.
+132 	 Uruguay 	         3,431,932 	 July 2006 est.
+133 	 Panama 	         3,191,319 	 July 2006 est.
+134 	 Mauritania 	         3,177,388 	 July 2006 est.
+135 	 Oman 	         3,102,229 	 July 2006 est.
+136 	 Liberia 	         3,042,004 	 July 2006 est.
+137 	 Armenia 	         2,976,372 	 July 2006 est.
+138 	 Mongolia 	         2,832,224 	 July 2006 est.
+139 	 Jamaica 	         2,758,124 	 July 2006 est.
+140 	 United Arab Emirates 	         2,602,713 	 July 2006 est.
+141 	 West Bank 	         2,460,492 	 
+142 	 Kuwait 	         2,418,393 	 July 2006 est.
+143 	 Bhutan 	         2,279,723 	 July 2006 est.
+144 	 Latvia 	         2,274,735 	 July 2006 est.
+145 	 Macedonia 	         2,050,554 	 July 2006 est.
+146 	 Namibia 	         2,044,147 	 July 2006 est.
+147 	 Lesotho 	         2,022,331 	 July 2006 est.
+148 	 Slovenia 	         2,010,347 	 July 2006 est.
+149 	 Gambia, The 	         1,641,564 	 July 2006 est.
+150 	 Botswana 	         1,639,833 	 July 2006 est.
+151 	 Guinea-Bissau 	         1,442,029 	 July 2006 est.
+152 	 Gaza Strip 	         1,428,757 	 July 2006 est.
+153 	 Gabon 	         1,424,906 	 July 2006 est.
+154 	 Estonia 	         1,324,333 	 July 2006 est.
+155 	 Mauritius 	         1,240,827 	 July 2006 est.
+156 	 Swaziland 	         1,136,334 	 July 2006 est.
+157 	 Trinidad and Tobago 	         1,065,842 	 July 2006 est.
+158 	 East Timor 	         1,062,777 	 July 2006 est.
+159 	 Fiji 	          905,949 	 July 2006 est.
+160 	 Qatar 	          885,359 	 July 2006 est.
+161 	 Reunion 	          787,584 	 July 2006 est.
+162 	 Cyprus 	          784,301 	 July 2006 est.
+163 	 Guyana 	          767,245 	 July 2006 est.
+164 	 Bahrain 	          698,585 	 July 2006 est.
+165 	 Comoros 	          690,948 	 July 2006 est.
+166 	 Montenegro 	          630,548 	 2004
+167 	 Solomon Islands 	          552,438 	 July 2006 est.
+168 	 Equatorial Guinea 	          540,109 	 July 2006 est.
+169 	 Djibouti 	          486,530 	 July 2006 est.
+170 	 Luxembourg 	          474,413 	 July 2006 est.
+171 	 Macau 	          453,125 	 July 2006 est.
+172 	 Guadeloupe 	          452,776 	 July 2006 est.
+173 	 Suriname 	          439,117 	 July 2006 est.
+174 	 Martinique 	          436,131 	 July 2006 est.
+175 	 Cape Verde 	          420,979 	 July 2006 est.
+176 	 Malta 	          400,214 	 July 2006 est.
+177 	 Brunei 	          379,444 	 July 2006 est.
+178 	 Maldives 	          359,008 	 July 2006 est.
+179 	 Bahamas, The 	          303,770 	 July 2006 est.
+180 	 Iceland 	          299,388 	 July 2006 est.
+181 	 Belize 	          287,730 	 July 2006 est.
+182 	 Barbados 	          279,912 	 July 2006 est.
+183 	 French Polynesia 	          274,578 	 July 2006 est.
+184 	 Western Sahara 	          273,008 	 July 2006 est.
+185 	 Netherlands Antilles 	          221,736 	 July 2006 est.
+186 	 New Caledonia 	          219,246 	 July 2006 est.
+187 	 Vanuatu 	          208,869 	 July 2006 est.
+188 	 Mayotte 	          201,234 	 July 2006 est.
+189 	 French Guiana 	          199,509 	 July 2006 est.
+190 	 Sao Tome and Principe 	          193,413 	 July 2006 est.
+191 	 Samoa 	          176,908 	 July 2006 est.
+192 	 Guam 	          171,019 	 July 2006 est.
+193 	 Saint Lucia 	          168,458 	 July 2006 est.
+194 	 Saint Vincent and the Grenadines 	          117,848 	 July 2006 est.
+195 	 Tonga 	          114,689 	 July 2006 est.
+196 	 Virgin Islands 	          108,605 	 July 2006 est.
+197 	 Micronesia, Federated States of 	          108,004 	 July 2006 est.
+198 	 Kiribati 	          105,432 	 July 2006 est.
+199 	 Jersey 	           91,084 	 July 2006 est.
+200 	 Grenada 	           89,703 	 July 2006 est.
+201 	 Northern Mariana Islands 	           82,459 	 July 2006 est.
+202 	 Seychelles 	           81,541 	 July 2006 est.
+203 	 Isle of Man 	           75,441 	 July 2006 est.
+204 	 Aruba 	           71,891 	 July 2006 est.
+205 	 Andorra 	           71,201 	 July 2006 est.
+206 	 Antigua and Barbuda 	           69,108 	 July 2006 est.
+207 	 Dominica 	           68,910 	 July 2006 est.
+208 	 Bermuda 	           65,773 	 July 2006 est.
+209 	 Guernsey 	           65,409 	 July 2006 est.
+210 	 Marshall Islands 	           60,422 	 July 2006 est.
+211 	 American Samoa 	           57,794 	 July 2006 est.
+212 	 Greenland 	           56,361 	 July 2006 est.
+213 	 Faroe Islands 	           47,246 	 July 2006 est.
+214 	 Cayman Islands 	           45,436 	 July 2006 est.
+215 	 Saint Kitts and Nevis 	           39,129 	 July 2006 est.
+216 	 Liechtenstein 	           33,987 	 July 2006 est.
+217 	 Monaco 	           32,543 	 July 2006 est.
+218 	 San Marino 	           29,251 	 July 2006 est.
+219 	 Gibraltar 	           27,928 	 July 2006 est.
+220 	 British Virgin Islands 	           23,098 	 July 2006 est.
+221 	 Cook Islands 	           21,388 	 July 2006 est.
+222 	 Turks and Caicos Islands 	           21,152 	 July 2006 est.
+223 	 Palau 	           20,579 	 July 2006 est.
+224 	 Wallis and Futuna 	           16,025 	 July 2006 est.
+225 	 Anguilla 	           13,477 	 July 2006 est.
+226 	 Nauru 	           13,287 	 July 2006 est.
+227 	 Tuvalu 	           11,810 	 July 2006 est.
+228 	 Montserrat 	            9,439 	 July 2006 est.
+229 	 Saint Helena 	            7,502 	 July 2006 est.
+230 	 Saint Pierre and Miquelon 	            7,026 	 July 2006 est.
+231 	 Falkland Islands (Islas Malvinas) 	            2,967 	 July 2006 est.
+232 	 Svalbard 	            2,701 	 July 2006 est.
+233 	 Niue 	            2,166 	 July 2006 est.
+234 	 Norfolk Island 	            1,828 	 July 2006 est.
+235 	 Christmas Island 	            1,493 	 
+236 	 Tokelau 	            1,392 	 July 2006 est.
+237 	 Holy See (Vatican City) 	             932 	 July 2006 est.
+238 	 Cocos (Keeling) Islands 	             574 	 July 2006 est.
+239 	 Pitcairn Islands 	              45 	 July 2006 est.
+
+ This file was last updated on 19 December, 2006

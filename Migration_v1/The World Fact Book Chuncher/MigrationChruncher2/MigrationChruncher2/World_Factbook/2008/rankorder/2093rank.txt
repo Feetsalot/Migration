@@ -1,0 +1,114 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Waterways(km) 	 Date of Information
+1 	 World 	          671,886 	 2004
+2 	 China 	          124,000 	 2006
+3 	 Russia 	          102,000 	 2006
+4 	 European Union 	           52,332 	 2006
+5 	 Brazil 	           50,000 	 2007
+6 	 United States 	           41,009 	 2007
+7 	 Indonesia 	           21,579 	 2007
+8 	 Colombia 	           18,000 	 2006
+9 	 Vietnam 	           17,702 	 2005
+10 	 Congo, Democratic Republic of the 	           15,000 	 2005
+11 	 India 	           14,500 	 2006
+12 	 Burma 	           12,800 	 2007
+13 	 Argentina 	           11,000 	 2006
+14 	 Papua New Guinea 	           11,000 	 2006
+15 	 Bolivia 	           10,000 	 2007
+16 	 Peru 	            8,808 	 2007
+17 	 Nigeria 	            8,600 	 2007
+18 	 France 	            8,500 	 2006
+19 	 Bangladesh 	            8,370 	 2006
+20 	 Finland 	            7,842 	 2006
+21 	 Germany 	            7,467 	 2006
+22 	 Malaysia 	            7,200 	 2005
+23 	 Venezuela 	            7,100 	 2005
+24 	 Netherlands 	            6,211 	 2006
+25 	 Iraq 	            5,279 	 2006
+26 	 Laos 	            4,600 	 2007
+27 	 Sudan 	            4,068 	 2006
+28 	 Kazakhstan 	            4,000 	 2006
+29 	 Thailand 	            4,000 	 2005
+30 	 Poland 	            3,997 	 2006
+31 	 France 	            3,760 	 2006
+32 	 Egypt 	            3,500 	 2006
+33 	 Philippines 	            3,219 	 2007
+34 	 United Kingdom 	            3,200 	 2003
+35 	 Paraguay 	            3,100 	 2007
+36 	 Mexico 	            2,900 	 2007
+37 	 Central African Republic 	            2,800 	 2006
+38 	 Belarus 	            2,500 	 2003
+39 	 Cambodia 	            2,400 	 2005
+40 	 Italy 	            2,400 	 2006
+41 	 Ukraine 	            2,253 	 2006
+42 	 Korea, North 	            2,250 	 2007
+43 	 Zambia 	            2,250 	 2005
+44 	 Nicaragua 	            2,220 	 2007
+45 	 Sweden 	            2,052 	 2005
+46 	 Belgium 	            2,043 	 2006
+47 	 Australia 	            2,000 	 2006
+48 	 Mali 	            1,800 	 2007
+49 	 Japan 	            1,770 	 2007
+50 	 Romania 	            1,731 	 2006
+51 	 Hungary 	            1,622 	 2007
+52 	 Korea, South 	            1,608 	 2007
+53 	 Gabon 	            1,600 	 2007
+54 	 Uruguay 	            1,600 	 2005
+55 	 Norway 	            1,577 	 2007
+56 	 Ecuador 	            1,500 	 2006
+57 	 Angola 	            1,300 	 2007
+58 	 Turkmenistan 	            1,300 	 2006
+59 	 Guinea 	            1,300 	 2005
+60 	 Ghana 	            1,293 	 2007
+61 	 Afghanistan 	            1,200 	 2007
+62 	 Turkey 	            1,200 	 2005
+63 	 Suriname 	            1,200 	 2005
+64 	 Congo, Republic of the 	            1,125 	 2006
+65 	 Uzbekistan 	            1,100 	 2006
+66 	 Senegal 	            1,000 	 2005
+67 	 Spain 	            1,000 	 2003
+68 	 Guatemala 	             990 	 2007
+69 	 Cote d'Ivoire 	             980 	 2006
+70 	 Ireland 	             956 	 2007
+71 	 Syria 	             900 	 2005
+72 	 Iran 	             850 	 2006
+73 	 Belize 	             825 	 2007
+74 	 Panama 	             800 	 2007
+75 	 Sierra Leone 	             800 	 2005
+76 	 Croatia 	             785 	 2007
+77 	 Costa Rica 	             730 	 2007
+78 	 Malawi 	             700 	 2007
+79 	 Czech Republic 	             664 	 2006
+80 	 Canada 	             636 	 2007
+81 	 Kyrgyzstan 	             600 	 2007
+82 	 Madagascar 	             600 	 2006
+83 	 Serbia 	             587 	 2005
+84 	 Mongolia 	             580 	 2004
+85 	 Bulgaria 	             470 	 2007
+86 	 Honduras 	             465 	 2007
+87 	 Mozambique 	             460 	 2007
+88 	 Lithuania 	             441 	 2006
+89 	 Moldova 	             424 	 2007
+90 	 Denmark 	             400 	 2007
+91 	 Gambia, The 	             390 	 2006
+92 	 Austria 	             358 	 2007
+93 	 Estonia 	             320 	 2006
+94 	 Latvia 	             300 	 2006
+95 	 Niger 	             300 	 2005
+96 	 Cuba 	             240 	 2007
+97 	 Portugal 	             210 	 2006
+98 	 Brunei 	             209 	 2007
+99 	 Fiji 	             203 	 2006
+100 	 Tajikistan 	             200 	 2006
+101 	 Slovakia 	             172 	 2005
+102 	 Sri Lanka 	             160 	 2006
+103 	 Benin 	             150 	 2005
+104 	 Switzerland 	              65 	 2003
+105 	 Togo 	              50 	 2005
+106 	 Albania 	              43 	 2007
+107 	 Luxembourg 	              37 	 2007
+108 	 Liechtenstein 	              28 	 2006
+109 	 Greece 	               6 	 2007
+110 	 Kiribati 	               5 	 2007
+
+ This file was last updated on 18 December, 2008

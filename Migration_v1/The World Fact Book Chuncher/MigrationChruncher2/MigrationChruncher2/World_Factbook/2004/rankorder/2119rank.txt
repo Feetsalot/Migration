@@ -1,0 +1,243 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Population 	 Date of Information
+1 	 World 	      6,372,797,742 	 July 2005 est.
+2 	 China 	      1,306,313,812 	 July 2005 est.
+3 	 India 	      1,080,264,388 	 July 2005 est.
+4 	 European Union 	       456,285,839 	 July 2005 est.
+5 	 United States 	       295,734,134 	 July 2005 est.
+6 	 Indonesia 	       241,973,879 	 July 2005 est.
+7 	 Brazil 	       186,112,794 	 July 2005 est.
+8 	 Pakistan 	       162,419,946 	 July 2005 est.
+9 	 Bangladesh 	       144,319,628 	 July 2005 est.
+10 	 Russia 	       143,420,309 	 July 2005 est.
+11 	 Nigeria 	       128,771,988 	 July 2005 est.
+12 	 Japan 	       127,417,244 	 July 2005 est.
+13 	 Mexico 	       106,202,903 	 July 2005 est.
+14 	 Philippines 	        87,857,473 	 July 2005 est.
+15 	 Vietnam 	        83,535,576 	 July 2005 est.
+16 	 Germany 	        82,431,390 	 July 2005 est.
+17 	 Egypt 	        77,505,756 	 July 2005 est.
+18 	 Ethiopia 	        73,053,286 	 July 2005 est.
+19 	 Turkey 	        69,660,559 	 July 2005 est.
+20 	 Iran 	        68,017,860 	 July 2005 est.
+21 	 Thailand 	        65,444,371 	 July 2005 est.
+22 	 France 	        60,656,178 	 July 2005 est.
+23 	 United Kingdom 	        60,441,457 	 July 2005 est.
+24 	 Congo, Democratic Republic of the 	        58,317,930 	 July 2005 est.
+25 	 Italy 	        58,103,033 	 July 2005 est.
+26 	 Korea, South 	        48,422,644 	 July 2005 est.
+27 	 Ukraine 	        47,425,336 	 July 2005 est.
+28 	 South Africa 	        44,344,136 	 July 2005 est.
+29 	 Colombia 	        42,954,279 	 July 2005 est.
+30 	 Burma 	        42,909,464 	 July 2005 est.
+31 	 Spain 	        40,341,462 	 July 2005 est.
+32 	 Sudan 	        40,187,486 	 July 2005 est.
+33 	 Argentina 	        39,537,943 	 July 2005 est.
+34 	 Poland 	        38,635,144 	 July 2005 est.
+35 	 Tanzania 	        36,766,356 	 July 2005 est.
+36 	 Kenya 	        33,829,590 	 July 2005 est.
+37 	 Canada 	        32,805,041 	 July 2005 est.
+38 	 Morocco 	        32,725,847 	 July 2005 est.
+39 	 Algeria 	        32,531,853 	 July 2005 est.
+40 	 Afghanistan 	        29,928,987 	 July 2005 est.
+41 	 Peru 	        27,925,628 	 July 2005 est.
+42 	 Nepal 	        27,676,547 	 July 2005 est.
+43 	 Uganda 	        27,269,482 	 July 2005 est.
+44 	 Uzbekistan 	        26,851,195 	 July 2005 est.
+45 	 Saudi Arabia 	        26,417,599 	 July 2005 est.
+46 	 Iraq 	        26,074,906 	 July 2005 est.
+47 	 Venezuela 	        25,375,281 	 July 2005 est.
+48 	 Malaysia 	        23,953,136 	 July 2005 est.
+49 	 Korea, North 	        22,912,177 	 July 2005 est.
+50 	 Taiwan 	        22,894,384 	 July 2005 est.
+51 	 Romania 	        22,329,977 	 July 2005 est.
+52 	 Ghana 	        21,029,853 	 July 2005 est.
+53 	 Yemen 	        20,727,063 	 July 2005 est.
+54 	 Australia 	        20,090,437 	 July 2005 est.
+55 	 Sri Lanka 	        20,064,776 	 July 2005 est.
+56 	 Mozambique 	        19,406,703 	 July 2005 est.
+57 	 Syria 	        18,448,752 	 July 2005 est.
+58 	 Madagascar 	        18,040,341 	 July 2005 est.
+59 	 Cote d'Ivoire 	        17,298,040 	 July 2005 est.
+60 	 Netherlands 	        16,407,491 	 July 2005 est.
+61 	 Cameroon 	        16,380,005 	 July 2005 est.
+62 	 Chile 	        15,980,912 	 July 2005 est.
+63 	 Kazakhstan 	        15,185,844 	 July 2005 est.
+64 	 Guatemala 	        14,655,189 	 July 2005 est.
+65 	 Burkina Faso 	        13,925,313 	 July 2005 est.
+66 	 Cambodia 	        13,607,069 	 July 2005 est.
+67 	 Ecuador 	        13,363,593 	 July 2005 est.
+68 	 Zimbabwe 	        12,746,990 	 July 2005 est.
+69 	 Mali 	        12,291,529 	 July 2005 est.
+70 	 Malawi 	        12,158,924 	 July 2005 est.
+71 	 Niger 	        11,665,937 	 July 2005 est.
+72 	 Cuba 	        11,346,670 	 July 2005 est.
+73 	 Zambia 	        11,261,795 	 July 2005 est.
+74 	 Angola 	        11,190,786 	 July 2005 est.
+75 	 Senegal 	        11,126,832 	 July 2005 est.
+76 	 Serbia and Montenegro 	        10,829,175 	 July 2005 est.
+77 	 Greece 	        10,668,354 	 July 2005 est.
+78 	 Portugal 	        10,566,212 	 July 2005 est.
+79 	 Belgium 	        10,364,388 	 July 2005 est.
+80 	 Belarus 	        10,300,483 	 July 2005 est.
+81 	 Czech Republic 	        10,241,138 	 July 2005 est.
+82 	 Tunisia 	        10,074,951 	 July 2005 est.
+83 	 Hungary 	        10,006,835 	 July 2005 est.
+84 	 Chad 	         9,826,419 	 July 2005 est.
+85 	 Guinea 	         9,467,866 	 July 2005 est.
+86 	 Sweden 	         9,001,774 	 July 2005 est.
+87 	 Dominican Republic 	         8,950,034 	 July 2005 est.
+88 	 Bolivia 	         8,857,870 	 July 2005 est.
+89 	 Somalia 	         8,591,629 	 July 2005 est.
+90 	 Rwanda 	         8,440,820 	 July 2005 est.
+91 	 Austria 	         8,184,691 	 July 2005 est.
+92 	 Haiti 	         8,121,622 	 July 2005 est.
+93 	 Azerbaijan 	         7,911,974 	 July 2005 est.
+94 	 Switzerland 	         7,489,370 	 July 2005 est.
+95 	 Benin 	         7,460,025 	 July 2005 est.
+96 	 Bulgaria 	         7,450,349 	 July 2005 est.
+97 	 Tajikistan 	         7,163,506 	 July 2005 est.
+98 	 Honduras 	         6,975,204 	 July 2005 est.
+99 	 Hong Kong 	         6,855,125 	 July 2005 est.
+100 	 El Salvador 	         6,704,932 	 July 2005 est.
+101 	 Burundi 	         6,370,609 	 July 2005 est.
+102 	 Paraguay 	         6,347,884 	 July 2005 est.
+103 	 Israel 	         6,276,883 	 July 2005 est.
+104 	 Laos 	         6,217,141 	 July 2005 est.
+105 	 Sierra Leone 	         6,017,643 	 July 2005 est.
+106 	 Libya 	         5,765,563 	 July 2005 est.
+107 	 Jordan 	         5,759,732 	 July 2005 est.
+108 	 Togo 	         5,681,519 	 July 2005 est.
+109 	 Papua New Guinea 	         5,545,268 	 July 2005 est.
+110 	 Nicaragua 	         5,465,100 	 July 2005 est.
+111 	 Denmark 	         5,432,335 	 July 2005 est.
+112 	 Slovakia 	         5,431,363 	 July 2005 est.
+113 	 Finland 	         5,223,442 	 July 2005 est.
+114 	 Kyrgyzstan 	         5,146,281 	 July 2005 est.
+115 	 Turkmenistan 	         4,952,081 	 July 2005 est.
+116 	 Georgia 	         4,677,401 	 July 2005 est.
+117 	 Norway 	         4,593,041 	 July 2005 est.
+118 	 Eritrea 	         4,561,599 	 July 2005 est.
+119 	 Croatia 	         4,495,904 	 July 2005 est.
+120 	 Moldova 	         4,455,421 	 July 2005 est.
+121 	 Singapore 	         4,425,720 	 July 2005 est.
+122 	 New Zealand 	         4,035,461 	 July 2005 est.
+123 	 Bosnia and Herzegovina 	         4,025,476 	 July 2005 est.
+124 	 Costa Rica 	         4,016,173 	 July 2005 est.
+125 	 Ireland 	         4,015,676 	 July 2005 est.
+126 	 Puerto Rico 	         3,916,632 	 July 2005 est.
+127 	 Lebanon 	         3,826,018 	 July 2005 est.
+128 	 Central African Republic 	         3,799,897 	 July 2005 est.
+129 	 Lithuania 	         3,596,617 	 July 2005 est.
+130 	 Albania 	         3,563,112 	 July 2005 est.
+131 	 Liberia 	         3,482,211 	 July 2005 est.
+132 	 Uruguay 	         3,415,920 	 July 2005 est.
+133 	 Mauritania 	         3,086,859 	 July 2005 est.
+134 	 Panama 	         3,039,150 	 July 2005 est.
+135 	 Oman 	         3,001,583 	 July 2005 est.
+136 	 Congo, Republic of the 	         2,998,040 	 July 2005 est.
+137 	 Armenia 	         2,982,904 	 July 2005 est.
+138 	 Mongolia 	         2,791,272 	 July 2005 est.
+139 	 Jamaica 	         2,731,832 	 July 2005 est.
+140 	 United Arab Emirates 	         2,563,212 	 July 2005 est.
+141 	 West Bank 	         2,385,615 	 
+142 	 Kuwait 	         2,335,648 	 July 2005 est.
+143 	 Latvia 	         2,290,237 	 July 2005 est.
+144 	 Bhutan 	         2,232,291 	 July 2005 est.
+145 	 Macedonia 	         2,045,262 	 July 2005 est.
+146 	 Namibia 	         2,030,692 	 July 2005 est.
+147 	 Slovenia 	         2,011,070 	 July 2005 est.
+148 	 Lesotho 	         1,867,035 	 July 2005 est.
+149 	 Botswana 	         1,640,115 	 July 2005 est.
+150 	 Gambia, The 	         1,593,256 	 July 2005 est.
+151 	 Guinea-Bissau 	         1,416,027 	 July 2005 est.
+152 	 Gabon 	         1,389,201 	 July 2005 est.
+153 	 Gaza Strip 	         1,376,289 	 July 2005 est.
+154 	 Estonia 	         1,332,893 	 July 2005 est.
+155 	 Mauritius 	         1,230,602 	 July 2005 est.
+156 	 Swaziland 	         1,173,900 	 July 2005 est.
+157 	 Trinidad and Tobago 	         1,088,644 	 July 2005 est.
+158 	 East Timor 	         1,040,880 	 July 2005 est.
+159 	 Fiji 	          893,354 	 July 2005 est.
+160 	 Qatar 	          863,051 	 July 2005 est.
+161 	 Cyprus 	          780,133 	 July 2005 est.
+162 	 Reunion 	          776,948 	 July 2005 est.
+163 	 Guyana 	          765,283 	 July 2005 est.
+164 	 Bahrain 	          688,345 	 July 2005 est.
+165 	 Comoros 	          671,247 	 July 2005 est.
+166 	 Solomon Islands 	          538,032 	 July 2005 est.
+167 	 Equatorial Guinea 	          535,881 	 July 2005 est.
+168 	 Djibouti 	          476,703 	 July 2005 est.
+169 	 Luxembourg 	          468,571 	 July 2005 est.
+170 	 Guadeloupe 	          448,713 	 July 2005 est.
+171 	 Macau 	          445,286 	 July 2005 est.
+172 	 Suriname 	          438,144 	 July 2005 est.
+173 	 Martinique 	          432,900 	 July 2005 est.
+174 	 Cape Verde 	          418,224 	 July 2005 est.
+175 	 Malta 	          398,534 	 July 2005 est.
+176 	 Brunei 	          372,361 	 July 2005 est.
+177 	 Maldives 	          349,106 	 July 2005 est.
+178 	 Bahamas, The 	          301,790 	 July 2005 est.
+179 	 Iceland 	          296,737 	 July 2005 est.
+180 	 Belize 	          279,457 	 July 2005 est.
+181 	 Barbados 	          279,254 	 July 2005 est.
+182 	 Western Sahara 	          273,008 	 July 2005 est.
+183 	 French Polynesia 	          270,485 	 July 2005 est.
+184 	 Netherlands Antilles 	          219,958 	 July 2005 est.
+185 	 New Caledonia 	          216,494 	 July 2005 est.
+186 	 Vanuatu 	          205,754 	 July 2005 est.
+187 	 French Guiana 	          195,506 	 July 2005 est.
+188 	 Mayotte 	          193,633 	 July 2005 est.
+189 	 Sao Tome and Principe 	          187,410 	 July 2005 est.
+190 	 Samoa 	          177,287 	 July 2005 est.
+191 	 Guam 	          168,564 	 July 2005 est.
+192 	 Saint Lucia 	          166,312 	 July 2005 est.
+193 	 Saint Vincent and the Grenadines 	          117,534 	 July 2005 est.
+194 	 Tonga 	          112,422 	 July 2005 est.
+195 	 Virgin Islands 	          108,708 	 July 2005 est.
+196 	 Micronesia, Federated States of 	          108,105 	 July 2005 est.
+197 	 Kiribati 	          103,092 	 July 2005 est.
+198 	 Jersey 	           90,812 	 July 2005 est.
+199 	 Grenada 	           89,502 	 July 2005 est.
+200 	 Seychelles 	           81,188 	 July 2005 est.
+201 	 Northern Mariana Islands 	           80,362 	 July 2005 est.
+202 	 Man, Isle of 	           75,049 	 July 2005 est.
+203 	 Aruba 	           71,566 	 July 2005 est.
+204 	 Andorra 	           70,549 	 July 2005 est.
+205 	 Dominica 	           69,029 	 July 2005 est.
+206 	 Antigua and Barbuda 	           68,722 	 July 2005 est.
+207 	 Bermuda 	           65,365 	 July 2005 est.
+208 	 Guernsey 	           65,228 	 July 2005 est.
+209 	 Marshall Islands 	           59,071 	 July 2005 est.
+210 	 American Samoa 	           57,881 	 July 2005 est.
+211 	 Greenland 	           56,375 	 July 2005 est.
+212 	 Faroe Islands 	           46,962 	 July 2005 est.
+213 	 Cayman Islands 	           44,270 	 July 2005 est.
+214 	 Saint Kitts and Nevis 	           38,958 	 July 2005 est.
+215 	 Liechtenstein 	           33,717 	 July 2005 est.
+216 	 Monaco 	           32,409 	 July 2005 est.
+217 	 San Marino 	           28,880 	 July 2005 est.
+218 	 Gibraltar 	           27,884 	 July 2005 est.
+219 	 British Virgin Islands 	           22,187 	 July 2005 est.
+220 	 Cook Islands 	           21,388 	 July 2005 est.
+221 	 Turks and Caicos Islands 	           20,556 	 July 2005 est.
+222 	 Palau 	           20,303 	 July 2005 est.
+223 	 Wallis and Futuna 	           16,025 	 July 2005 est.
+224 	 Anguilla 	           13,254 	 July 2005 est.
+225 	 Nauru 	           13,048 	 July 2005 est.
+226 	 Tuvalu 	           11,636 	 July 2005 est.
+227 	 Montserrat 	            9,341 	 July 2005 est.
+228 	 Saint Helena 	            7,460 	 July 2005 est.
+229 	 Saint Pierre and Miquelon 	            7,012 	 July 2005 est.
+230 	 Falkland Islands (Islas Malvinas) 	            2,967 	 July 2005 est.
+231 	 Svalbard 	            2,701 	 July 2005 est.
+232 	 Niue 	            2,166 	 July 2005 est.
+233 	 Norfolk Island 	            1,828 	 July 2005 est.
+234 	 Tokelau 	            1,405 	 July 2005 est.
+235 	 Holy See (Vatican City) 	             921 	 July 2005 est.
+236 	 Cocos (Keeling) Islands 	             628 	 July 2005 est.
+237 	 Johnston Atoll 	             361 	 July 2005 est.
+238 	 Christmas Island 	             361 	 July 2005 est.
+239 	 Pitcairn Islands 	              46 	 July 2005 est.
+
+ This file was last updated on 10 February, 2005

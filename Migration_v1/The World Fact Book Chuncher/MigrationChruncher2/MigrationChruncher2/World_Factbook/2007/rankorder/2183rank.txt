@@ -1,0 +1,114 @@
+This tab-delimited file can be read by most spreadsheet applications after being saved properly.  At the top of your browser window, click 'File' and 'Save As...'  After saving the file, open your spreadsheet, find the file you just saved and then 'Open' it.
+Rank 	 Country 	 Natural gas - exports(cu m) 	 Date of Information
+1 	 World 	    818,100,000,000 	 2005 est.
+2 	 Russia 	    213,000,000,000 	 2005 est.
+3 	 Canada 	    101,900,000,000 	 2005 est.
+4 	 Norway 	     78,100,000,000 	 2005 est.
+5 	 European Union 	     76,480,000,000 	 2005 est.
+6 	 Algeria 	     62,600,000,000 	 2005 est.
+7 	 Netherlands 	     50,210,000,000 	 2005 est.
+8 	 Turkmenistan 	     43,350,000,000 	 2005 est.
+9 	 Indonesia 	     34,800,000,000 	 2005 est.
+10 	 Malaysia 	     29,060,000,000 	 2005 est.
+11 	 Qatar 	     25,990,000,000 	 2005 est.
+12 	 United States 	     19,800,000,000 	 2005 est.
+13 	 Trinidad and Tobago 	     13,440,000,000 	 2005 est.
+14 	 Australia 	     12,900,000,000 	 2005 est.
+15 	 Uzbekistan 	     12,500,000,000 	 2006 est.
+16 	 Nigeria 	     11,550,000,000 	 2005 est.
+17 	 Oman 	     10,190,000,000 	 2005 est.
+18 	 Bolivia 	      9,821,000,000 	 2005 est.
+19 	 Germany 	      9,420,000,000 	 2005 est.
+20 	 United Kingdom 	      8,843,000,000 	 2005 est.
+21 	 Brunei 	      8,776,000,000 	 2005 est.
+22 	 Burma 	      8,497,000,000 	 2005 est.
+23 	 Egypt 	      7,951,000,000 	 2005 est.
+24 	 Kazakhstan 	      7,269,000,000 	 2005 est.
+25 	 United Arab Emirates 	      6,848,000,000 	 2005 est.
+26 	 Argentina 	      6,646,000,000 	 2005 est.
+27 	 Denmark 	      5,350,000,000 	 2005 est.
+28 	 Libya 	      5,246,000,000 	 2005 est.
+29 	 Iran 	      4,143,000,000 	 2005 est.
+30 	 Ukraine 	      4,000,000,000 	 2006 est.
+31 	 China 	      2,944,000,000 	 2005
+32 	 Austria 	       936,100,000 	 2005
+33 	 France 	       863,200,000 	 2005 est.
+34 	 Italy 	       379,800,000 	 2005 est.
+35 	 Slovakia 	       354,900,000 	 2005 est.
+36 	 Mexico 	       282,900,000 	 2005 est.
+37 	 Czech Republic 	        81,520,000 	 2005 est.
+38 	 Poland 	        42,200,000 	 2005 est.
+39 	 Afghanistan 	               0 	 2005 est.
+40 	 Barbados 	               0 	 2005 est.
+41 	 Bangladesh 	               0 	 2005 est.
+42 	 Cote d'Ivoire 	               0 	 2005 est.
+43 	 Israel 	               0 	 2005 est.
+44 	 India 	               0 	 2005 est.
+45 	 Hungary 	               0 	 2005 est.
+46 	 Croatia 	               0 	 2005 est.
+47 	 Hong Kong 	               0 	 2005 est.
+48 	 Greece 	               0 	 2005 est.
+49 	 Gabon 	               0 	 2005 est.
+50 	 Ecuador 	               0 	 2005 est.
+51 	 Slovenia 	               0 	 2005 est.
+52 	 Senegal 	               0 	 2005 est.
+53 	 South Africa 	               0 	 2005 est.
+54 	 Saudi Arabia 	               0 	 2005 est.
+55 	 Puerto Rico 	               0 	 2005 est.
+56 	 Philippines 	               0 	 2005 est.
+57 	 Romania 	               0 	 2005 est.
+58 	 Serbia 	               0 	 2005 est.
+59 	 Pakistan 	               0 	 2005 est.
+60 	 Yemen 	               0 	 2005 est.
+61 	 Vietnam 	               0 	 2005 est.
+62 	 Venezuela 	               0 	 2005 est.
+63 	 Uruguay 	               0 	 2005 est.
+64 	 Taiwan 	               0 	 2005
+65 	 Turkey 	               0 	 2005 est.
+66 	 Tunisia 	               0 	 2005 est.
+67 	 Tajikistan 	               0 	 2005 est.
+68 	 Thailand 	               0 	 2005 est.
+69 	 Switzerland 	               0 	 2005 est.
+70 	 Syria 	               0 	 2006 est.
+71 	 Sweden 	               0 	 2005 est.
+72 	 Spain 	               0 	 2005 est.
+73 	 Singapore 	               0 	 2005 est.
+74 	 Peru 	               0 	 2005 est.
+75 	 New Zealand 	               0 	 2005 est.
+76 	 Mozambique 	               0 	 2005 est.
+77 	 Morocco 	               0 	 2005 est.
+78 	 Macedonia 	               0 	 2005 est.
+79 	 Mongolia 	               0 	 2005 est.
+80 	 Moldova 	               0 	 2005 est.
+81 	 Luxembourg 	               0 	 2005 est.
+82 	 Papua New Guinea 	               0 	 2005 est.
+83 	 Portugal 	               0 	 2005 est.
+84 	 Lithuania 	               0 	 2005 est.
+85 	 Latvia 	               0 	 2005 est.
+86 	 Kuwait 	               0 	 2005 est.
+87 	 Korea, South 	               0 	 2005 est.
+88 	 Kyrgyzstan 	               0 	 2005 est.
+89 	 Jordan 	               0 	 2005 est.
+90 	 Japan 	               0 	 2005 est.
+91 	 Iraq 	               0 	 2005 est.
+92 	 Cuba 	               0 	 2005 est.
+93 	 Colombia 	               0 	 2005 est.
+94 	 Cameroon 	               0 	 2005 est.
+95 	 Chile 	               0 	 2005 est.
+96 	 Congo, Republic of the 	               0 	 2005 est.
+97 	 Bulgaria 	               0 	 2005 est.
+98 	 Brazil 	               0 	 2005 est.
+99 	 Belarus 	               0 	 2005 est.
+100 	 Finland 	               0 	 2005 est.
+101 	 Estonia 	               0 	 2005 est.
+102 	 Equatorial Guinea 	               0 	 2005 est.
+103 	 Ireland 	               0 	 2005 est.
+104 	 Bosnia and Herzegovina 	               0 	 2005 est.
+105 	 Belgium 	               0 	 2005 est.
+106 	 Bahrain 	               0 	 2005 est.
+107 	 Azerbaijan 	               0 	 2005 est.
+108 	 Albania 	               0 	 2005 est.
+109 	 Armenia 	               0 	 2005 est.
+110 	 Angola 	               0 	 2005 est.
+
+ This file was last updated on 13 December, 2007
