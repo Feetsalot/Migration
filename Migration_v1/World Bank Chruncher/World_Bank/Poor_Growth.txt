@@ -1,0 +1,220 @@
+﻿Series Name	Series Code	Country Name	Country Code	1990 [YR1990]	2000 [YR2000]	2006 [YR2006]	2007 [YR2007]	2008 [YR2008]	2009 [YR2009]	2010 [YR2010]	2011 [YR2011]	2012 [YR2012]	2013 [YR2013]	2014 [YR2014]	2015 [YR2015]
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Afghanistan	AFG	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Albania	ALB	..	..	..	..	..	..	..	..	-1.2204149231453	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Algeria	DZA	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	American Samoa	ASM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Andorra	ADO	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Angola	AGO	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Antigua and Barbuda	ATG	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Argentina	ARG	..	..	..	..	..	..	..	..	6.42738595087378	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Armenia	ARM	..	..	..	..	..	..	..	..	..	-1.48547402880673	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Aruba	ABW	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Australia	AUS	..	..	..	..	..	..	4.39	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Austria	AUT	..	..	..	..	..	..	..	..	0.37	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Azerbaijan	AZE	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Bahamas, The	BHS	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Bahrain	BHR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Bangladesh	BGD	..	..	..	..	..	..	1.73043486882651	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Barbados	BRB	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Belarus	BLR	..	..	..	..	..	..	..	9.13071169651651	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Belgium	BEL	..	..	..	..	..	..	..	..	1.14	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Belize	BLZ	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Benin	BEN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Bermuda	BMU	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Bhutan	BTN	..	..	..	..	..	..	..	..	6.53287176486022	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Bolivia	BOL	..	..	..	..	..	..	..	..	10.1036302108848	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Bosnia and Herzegovina	BIH	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Botswana	BWA	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Brazil	BRA	..	..	..	..	..	..	..	..	6.92978939854763	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Brunei Darussalam	BRN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Bulgaria	BGR	..	..	..	..	..	..	..	..	1.29047810805265	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Burkina Faso	BFA	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Burundi	BDI	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Cabo Verde	CPV	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Cambodia	KHM	..	..	..	..	..	..	..	..	8.52889068026268	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Cameroon	CMR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Canada	CAN	..	..	..	..	..	..	2.14	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Cayman Islands	CYM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Central African Republic	CAF	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Chad	TCD	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Channel Islands	CHI	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Chile	CHL	..	..	..	..	..	..	..	3.86932054840818	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	China	CHN	..	..	..	..	..	..	7.23	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Colombia	COL	..	..	..	..	..	..	..	..	5.98588925468397	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Comoros	COM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Congo, Dem. Rep.	ZAR	..	..	..	..	..	..	..	..	7.80969461450589	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Congo, Rep.	COG	..	..	..	..	..	..	..	7.21518267147376	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Costa Rica	CRI	..	..	..	..	..	..	..	..	..	1.32504665850912	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Cote d'Ivoire	CIV	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Croatia	HRV	..	..	..	..	..	..	1.59	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Cuba	CUB	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Curacao	CUW	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Cyprus	CYP	..	..	..	..	..	..	..	..	-2.75	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Czech Republic	CZE	..	..	..	..	..	..	..	..	0.150883946451796	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Denmark	DNK	..	..	..	..	..	..	..	..	-0.75	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Djibouti	DJI	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Dominica	DMA	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Dominican Republic	DOM	..	..	..	..	..	..	..	..	1.78790302037719	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Ecuador	ECU	..	..	..	..	..	..	..	..	5.51250640035821	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Egypt, Arab Rep.	EGY	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	El Salvador	SLV	..	..	..	..	..	..	..	..	0.205283545108248	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Equatorial Guinea	GNQ	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Eritrea	ERI	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Estonia	EST	..	..	..	..	..	..	..	..	-2.09664144810459	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Ethiopia	ETH	..	..	..	..	..	..	-1.4543759046002	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Faroe Islands	FRO	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Fiji	FJI	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Finland	FIN	..	..	..	..	..	..	..	..	1.55	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	France	FRA	..	..	..	..	..	..	..	..	0.19	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	French Polynesia	PYF	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Gabon	GAB	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Gambia, The	GMB	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Georgia	GEO	..	..	..	..	..	..	..	..	..	2.90790593071377	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Germany	DEU	..	..	..	..	..	..	..	1.35	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Ghana	GHA	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Greece	GRC	..	..	..	..	..	..	..	..	-10.02	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Greenland	GRL	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Grenada	GRD	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Guam	GUM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Guatemala	GTM	..	..	..	..	..	..	..	-1.84785494140448	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Guinea	GIN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Guinea-Bissau	GNB	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Guyana	GUY	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Haiti	HTI	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Honduras	HND	..	..	..	..	..	..	..	..	-3.21739443273941	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Hong Kong SAR, China	HKG	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Hungary	HUN	..	..	..	..	..	..	..	..	-1.93238707517225	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Iceland	ISL	..	..	..	..	..	..	..	..	-3.85	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	India	IND	..	..	..	..	..	..	..	3.2014613949902	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Indonesia	IDN	..	..	..	..	..	..	..	..	..	..	3.82	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Iran, Islamic Rep.	IRN	..	..	..	..	..	..	..	..	..	3.05	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Iraq	IRQ	..	..	..	..	..	..	..	..	0.327214877248494	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Ireland	IRL	..	..	..	..	..	..	..	..	-4.38	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Isle of Man	IMY	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Israel	ISR	..	..	..	..	..	..	1.88	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Italy	ITA	..	..	..	..	..	..	..	..	-2.86	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Jamaica	JAM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Japan	JPN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Jordan	JOR	..	..	..	..	..	..	2.69991066331616	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Kazakhstan	KAZ	..	..	..	..	..	..	..	..	..	8.92361066103791	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Kenya	KEN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Kiribati	KIR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Korea, Dem. People’s Rep.	PRK	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Korea, Rep.	KOR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Kosovo	KSV	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Kuwait	KWT	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Kyrgyz Republic	KGZ	..	..	..	..	..	..	..	..	-0.13	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Lao PDR	LAO	..	..	..	..	..	..	..	..	1.24621233825439	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Latvia	LVA	..	..	..	..	..	..	..	..	-3.03953855605104	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Lebanon	LBN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Lesotho	LSO	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Liberia	LBR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Libya	LBY	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Liechtenstein	LIE	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Lithuania	LTU	..	..	..	..	..	..	..	..	-1.76536277530659	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Luxembourg	LUX	..	..	..	..	..	..	..	..	-2.67	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Macao SAR, China	MAC	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Macedonia, FYR	MKD	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Madagascar	MDG	..	..	..	..	..	..	-4.4928019380991	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Malawi	MWI	..	..	..	..	..	..	-1.84028355150481	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Malaysia	MYS	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Maldives	MDV	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Mali	MLI	..	..	..	..	..	2.24505364041094	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Malta	MLT	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Marshall Islands	MHL	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Mauritania	MRT	..	..	..	..	..	..	..	..	..	..	3.2533254529244	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Mauritius	MUS	..	..	..	..	..	..	..	..	0.761110276703336	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Mexico	MEX	..	..	..	..	..	..	..	..	1.14878377351582	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Micronesia, Fed. Sts.	FSM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Moldova	MDA	..	..	..	..	..	..	..	..	..	4.98724223880289	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Monaco	MCO	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Mongolia	MNG	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Montenegro	MNE	..	..	..	..	..	..	..	..	..	-4.81329451084522	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Morocco	MAR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Mozambique	MOZ	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Myanmar	MMR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Namibia	NAM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Nepal	NPL	..	..	..	..	..	..	7.46774807104735	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Netherlands	NLD	..	..	..	..	..	..	..	..	-0.01	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	New Caledonia	NCL	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	New Zealand	NZL	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Nicaragua	NIC	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Niger	NER	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Nigeria	NGA	..	..	..	..	..	0.116252899556701	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Northern Mariana Islands	MNP	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Norway	NOR	..	..	..	..	..	..	..	..	3.17	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Oman	OMN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Pakistan	PAK	..	..	..	..	..	..	3.76036702213709	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Palau	PLW	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Panama	PAN	..	..	..	..	..	..	..	..	4.1356073660805	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Papua New Guinea	PNG	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Paraguay	PRY	..	..	..	..	..	..	..	..	7.20648517541684	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Peru	PER	..	..	..	..	..	..	..	..	8.56763201956803	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Philippines	PHL	..	..	..	..	..	..	..	..	1.14815767296494	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Poland	POL	..	..	..	..	..	..	..	..	1.99382988012162	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Portugal	PRT	..	..	..	..	..	..	..	..	-1.99	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Puerto Rico	PRI	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Qatar	QAT	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Romania	ROM	..	..	..	..	..	..	..	..	..	0.575214891753273	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Russian Federation	RUS	..	..	..	..	..	..	..	..	5.86183386251751	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Rwanda	RWA	..	..	..	..	..	..	5.03608662381356	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Samoa	WSM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	San Marino	SMR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Sao Tome and Principe	STP	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Saudi Arabia	SAU	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Senegal	SEN	..	..	..	..	..	..	..	-0.230225223967939	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Serbia	SRB	..	..	..	..	..	..	-1.7604843781712	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Seychelles	SYC	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Sierra Leone	SLE	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Singapore	SGP	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Sint Maarten (Dutch part)	SXM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Slovak Republic	SVK	..	..	..	..	..	..	..	..	5.48494044391497	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Slovenia	SVN	..	..	..	..	..	..	..	..	-0.835708976850147	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Solomon Islands	SLB	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Somalia	SOM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	South Africa	ZAF	..	..	..	..	..	..	..	4.09	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	South Sudan	SSD	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Spain	ESP	..	..	..	..	..	..	..	..	-1.32	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Sri Lanka	LKA	..	..	..	..	..	..	..	..	2.21451952439171	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	St. Kitts and Nevis	KNA	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	St. Lucia	LCA	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	St. Martin (French part)	MAF	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	St. Vincent and the Grenadines	VCT	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Sudan	SDN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Suriname	SUR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Swaziland	SWZ	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Sweden	SWE	..	..	..	..	..	..	..	..	2.04	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Switzerland	CHE	..	..	..	..	..	..	..	..	2.43	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Syrian Arab Republic	SYR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Tajikistan	TJK	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Tanzania	TZA	..	..	..	..	..	..	..	3.53589358218798	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Thailand	THA	..	..	..	..	..	..	..	..	4.77774062294269	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Timor-Leste	TMP	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Togo	TGO	..	..	..	..	..	..	..	-2.1687396245559	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Tonga	TON	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Trinidad and Tobago	TTO	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Tunisia	TUN	..	..	..	..	..	..	3.45074516513502	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Turkey	TUR	..	..	..	..	..	..	..	..	4.32876219268457	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Turkmenistan	TKM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Turks and Caicos Islands	TCA	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Tuvalu	TUV	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Uganda	UGA	..	..	..	..	..	..	..	..	3.90157694766118	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Ukraine	UKR	..	..	..	..	..	..	..	..	..	3.47175811571465	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	United Arab Emirates	ARE	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	United Kingdom	GBR	..	..	..	..	..	..	..	..	-1.67	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	United States	USA	..	..	..	..	..	..	..	..	..	-0.16	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Uruguay	URY	..	..	..	..	..	..	..	..	7.86575568779997	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Uzbekistan	UZB	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Vanuatu	VUT	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Venezuela, RB	VEN	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Vietnam	VNM	..	..	..	..	..	..	6.2202220826987	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Virgin Islands (U.S.)	VIR	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	West Bank and Gaza	WBG	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Yemen, Rep.	YEM	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Zambia	ZMB	..	..	..	..	..	..	..	..	..	..	..	..
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"	SI.SPR.PC40.ZG	Zimbabwe	ZWE	..	..	..	..	..	..	..	..	..	..	..	..
+															
+															
+															
+Data from database: World Development Indicators															
+Last Updated: 04/11/2016															
