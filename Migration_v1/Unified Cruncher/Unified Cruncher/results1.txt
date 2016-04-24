@@ -1,0 +1,1033 @@
+ Country Name: Dominican Republic ;Value: 47.07 ;Year: 2013
+ Country Name: Dominican Republic ;Value: 45.68 ;Year: 2012
+ Country Name: Dominican Republic ;Value: 47.4 ;Year: 2011
+ Country Name: Dominican Republic ;Value: 47.2 ;Year: 2010
+ Country Name: Dominican Republic ;Value: 48.86 ;Year: 2009
+ Country Name: Dominican Republic ;Value: 49 ;Year: 2008
+ Country Name: Dominican Republic ;Value: 48.69 ;Year: 2007
+ Country Name: Dominican Republic ;Value: 51.9 ;Year: 2006
+ Country Name: Dominican Republic ;Value: 51.95 ;Year: 2004
+ Country Name: Dominican Republic ;Value: 49.96 ;Year: 2005
+ Country Name: Dominican Republic ;Value: 52.01 ;Year: 2000
+ Country Name: Dominican Republic ;Value: 50.43 ;Year: 2001
+ Country Name: Dominican Republic ;Value: 48.92 ;Year: 1997
+ Country Name: Dominican Republic ;Value: 47.43 ;Year: 1996
+ Country Name: Dominican Republic ;Value: 51.36 ;Year: 1992
+ Country Name: Albania ;Value: 28.96 ;Year: 2012
+ Country Name: Albania ;Value: 29.98 ;Year: 2008
+ Country Name: Albania ;Value: 30.6 ;Year: 2005
+ Country Name: Albania ;Value: 27.01 ;Year: 1996
+ Country Name: Algeria ;Value: 35.33 ;Year: 1995
+ Country Name: Angola ;Value: 42.72 ;Year: 2008
+ Country Name: Angola ;Value: 51.96 ;Year: 2000
+ Country Name: Argentina ;Value: 42.28 ;Year: 2013
+ Country Name: Argentina ;Value: 42.49 ;Year: 2012
+ Country Name: Argentina ;Value: 43.57 ;Year: 2011
+ Country Name: Argentina ;Value: 44.5 ;Year: 2010
+ Country Name: Argentina ;Value: 45.27 ;Year: 2009
+ Country Name: Argentina ;Value: 46.27 ;Year: 2008
+ Country Name: Argentina ;Value: 47.37 ;Year: 2007
+ Country Name: Argentina ;Value: 48.26 ;Year: 2006
+ Country Name: Argentina ;Value: 50.18 ;Year: 2004
+ Country Name: Argentina ;Value: 49.27 ;Year: 2005
+ Country Name: Argentina ;Value: 51.06 ;Year: 2000
+ Country Name: Argentina ;Value: 53.34 ;Year: 2001
+ Country Name: Argentina ;Value: 49.79 ;Year: 1999
+ Country Name: Argentina ;Value: 50.73 ;Year: 1998
+ Country Name: Argentina ;Value: 49.11 ;Year: 1997
+ Country Name: Argentina ;Value: 49.52 ;Year: 1996
+ Country Name: Argentina ;Value: 48.9 ;Year: 1995
+ Country Name: Argentina ;Value: 45.92 ;Year: 1994
+ Country Name: Argentina ;Value: 44.86 ;Year: 1993
+ Country Name: Argentina ;Value: 46.76 ;Year: 1991
+ Country Name: Argentina ;Value: 45.47 ;Year: 1992
+ Country Name: Armenia ;Value: 31.54 ;Year: 2013
+ Country Name: Armenia ;Value: 30.48 ;Year: 2012
+ Country Name: Armenia ;Value: 31.32 ;Year: 2011
+ Country Name: Armenia ;Value: 31.07 ;Year: 2010
+ Country Name: Armenia ;Value: 29.58 ;Year: 2009
+ Country Name: Armenia ;Value: 30.71 ;Year: 2008
+ Country Name: Armenia ;Value: 29.83 ;Year: 2007
+ Country Name: Armenia ;Value: 32.49 ;Year: 2006
+ Country Name: Armenia ;Value: 37.51 ;Year: 2004
+ Country Name: Armenia ;Value: 35.99 ;Year: 2005
+ Country Name: Armenia ;Value: 35.37 ;Year: 2001
+ Country Name: Armenia ;Value: 36.22 ;Year: 1999
+ Country Name: Armenia ;Value: 44.42 ;Year: 1996
+ Country Name: Australia ;Value: 34.94 ;Year: 2010
+ Country Name: Australia ;Value: 35.63 ;Year: 2008
+ Country Name: Australia ;Value: 34.14 ;Year: 2001
+ Country Name: Australia ;Value: 33.72 ;Year: 1995
+ Country Name: Austria ;Value: 30.48 ;Year: 2012
+ Country Name: Austria ;Value: 30.8 ;Year: 2011
+ Country Name: Austria ;Value: 30.25 ;Year: 2010
+ Country Name: Austria ;Value: 31.5 ;Year: 2009
+ Country Name: Austria ;Value: 30.45 ;Year: 2008
+ Country Name: Austria ;Value: 30.58 ;Year: 2007
+ Country Name: Austria ;Value: 29.59 ;Year: 2006
+ Country Name: Austria ;Value: 29.87 ;Year: 2004
+ Country Name: Austria ;Value: 28.72 ;Year: 2005
+ Country Name: Azerbaijan ;Value: 16.23 ;Year: 2004
+ Country Name: Azerbaijan ;Value: 16.64 ;Year: 2005
+ Country Name: Azerbaijan ;Value: 36.45 ;Year: 2001
+ Country Name: Azerbaijan ;Value: 34.65 ;Year: 1995
+ Country Name: Bangladesh ;Value: 31.98 ;Year: 2010
+ Country Name: Bangladesh ;Value: 32.73 ;Year: 2005
+ Country Name: Bangladesh ;Value: 33.06 ;Year: 2000
+ Country Name: Bangladesh ;Value: 32.94 ;Year: 1995
+ Country Name: Bangladesh ;Value: 27.57 ;Year: 1991
+ Country Name: Belarus ;Value: 26.01 ;Year: 2012
+ Country Name: Belarus ;Value: 26.46 ;Year: 2011
+ Country Name: Belarus ;Value: 27.72 ;Year: 2010
+ Country Name: Belarus ;Value: 27.69 ;Year: 2009
+ Country Name: Belarus ;Value: 27.22 ;Year: 2008
+ Country Name: Belarus ;Value: 28.78 ;Year: 2007
+ Country Name: Belarus ;Value: 28.17 ;Year: 2006
+ Country Name: Belarus ;Value: 26.59 ;Year: 2004
+ Country Name: Belarus ;Value: 27.78 ;Year: 2005
+ Country Name: Belarus ;Value: 29.72 ;Year: 2000
+ Country Name: Belarus ;Value: 30.97 ;Year: 2001
+ Country Name: Belarus ;Value: 31.31 ;Year: 1999
+ Country Name: Belarus ;Value: 30.67 ;Year: 1998
+ Country Name: Belarus ;Value: 28.76 ;Year: 1995
+ Country Name: Belarus ;Value: 21.6 ;Year: 1993
+ Country Name: Belgium ;Value: 27.59 ;Year: 2012
+ Country Name: Belgium ;Value: 28.43 ;Year: 2011
+ Country Name: Belgium ;Value: 28.53 ;Year: 2010
+ Country Name: Belgium ;Value: 28.7 ;Year: 2009
+ Country Name: Belgium ;Value: 29 ;Year: 2008
+ Country Name: Belgium ;Value: 29.57 ;Year: 2007
+ Country Name: Belgium ;Value: 28.26 ;Year: 2006
+ Country Name: Belgium ;Value: 30.63 ;Year: 2004
+ Country Name: Belgium ;Value: 29.88 ;Year: 2005
+ Country Name: Belize ;Value: 53.26 ;Year: 1999
+ Country Name: Belize ;Value: 54.91 ;Year: 1998
+ Country Name: Belize ;Value: 60.43 ;Year: 1997
+ Country Name: Belize ;Value: 56.59 ;Year: 1996
+ Country Name: Belize ;Value: 57.55 ;Year: 1995
+ Country Name: Belize ;Value: 60.91 ;Year: 1994
+ Country Name: Belize ;Value: 60.25 ;Year: 1993
+ Country Name: Benin ;Value: 43.44 ;Year: 2011
+ Country Name: Bhutan ;Value: 38.65 ;Year: 2012
+ Country Name: Bhutan ;Value: 38.09 ;Year: 2007
+ Country Name: Bolivia ;Value: 48.06 ;Year: 2013
+ Country Name: Bolivia ;Value: 46.7 ;Year: 2012
+ Country Name: Bolivia ;Value: 46.26 ;Year: 2011
+ Country Name: Bolivia ;Value: 49.65 ;Year: 2009
+ Country Name: Bolivia ;Value: 51.43 ;Year: 2008
+ Country Name: Bolivia ;Value: 55.44 ;Year: 2007
+ Country Name: Bolivia ;Value: 56.87 ;Year: 2006
+ Country Name: Bolivia ;Value: 55.01 ;Year: 2004
+ Country Name: Bolivia ;Value: 58.47 ;Year: 2005
+ Country Name: Bolivia ;Value: 63 ;Year: 2000
+ Country Name: Bolivia ;Value: 58.88 ;Year: 2001
+ Country Name: Bolivia ;Value: 58.1 ;Year: 1999
+ Country Name: Bolivia ;Value: 58.16 ;Year: 1997
+ Country Name: Bolivia ;Value: 49.11 ;Year: 1993
+ Country Name: Bosnia and Herzegovina ;Value: 33.04 ;Year: 2007
+ Country Name: Bosnia and Herzegovina ;Value: 34.04 ;Year: 2004
+ Country Name: Bosnia and Herzegovina ;Value: 29.3 ;Year: 2001
+ Country Name: Botswana ;Value: 60.46 ;Year: 2009
+ Country Name: Botswana ;Value: 60.79 ;Year: 1993
+ Country Name: Brazil ;Value: 52.87 ;Year: 2013
+ Country Name: Brazil ;Value: 52.67 ;Year: 2012
+ Country Name: Brazil ;Value: 53.1 ;Year: 2011
+ Country Name: Brazil ;Value: 53.87 ;Year: 2009
+ Country Name: Brazil ;Value: 54.37 ;Year: 2008
+ Country Name: Brazil ;Value: 55.23 ;Year: 2007
+ Country Name: Brazil ;Value: 55.93 ;Year: 2006
+ Country Name: Brazil ;Value: 56.88 ;Year: 2004
+ Country Name: Brazil ;Value: 56.64 ;Year: 2005
+ Country Name: Brazil ;Value: 59.33 ;Year: 2001
+ Country Name: Brazil ;Value: 58.99 ;Year: 1999
+ Country Name: Brazil ;Value: 59.61 ;Year: 1998
+ Country Name: Brazil ;Value: 59.8 ;Year: 1997
+ Country Name: Brazil ;Value: 59.89 ;Year: 1996
+ Country Name: Brazil ;Value: 59.57 ;Year: 1995
+ Country Name: Brazil ;Value: 60.12 ;Year: 1993
+ Country Name: Brazil ;Value: 53.17 ;Year: 1992
+ Country Name: Bulgaria ;Value: 36.01 ;Year: 2012
+ Country Name: Bulgaria ;Value: 34.28 ;Year: 2011
+ Country Name: Bulgaria ;Value: 35.65 ;Year: 2010
+ Country Name: Bulgaria ;Value: 33.82 ;Year: 2009
+ Country Name: Bulgaria ;Value: 33.57 ;Year: 2008
+ Country Name: Bulgaria ;Value: 28.14 ;Year: 2007
+ Country Name: Bulgaria ;Value: 35.73 ;Year: 2006
+ Country Name: Bulgaria ;Value: 32.68 ;Year: 2001
+ Country Name: Bulgaria ;Value: 26.38 ;Year: 1997
+ Country Name: Bulgaria ;Value: 35.4 ;Year: 1995
+ Country Name: Bulgaria ;Value: 24.32 ;Year: 1994
+ Country Name: Bulgaria ;Value: 30.71 ;Year: 1992
+ Country Name: Burkina Faso ;Value: 39.76 ;Year: 2009
+ Country Name: Burkina Faso ;Value: 49.94 ;Year: 1998
+ Country Name: Burkina Faso ;Value: 48.07 ;Year: 1994
+ Country Name: Burundi ;Value: 33.36 ;Year: 2006
+ Country Name: Burundi ;Value: 42.35 ;Year: 1998
+ Country Name: Burundi ;Value: 33.33 ;Year: 1992
+ Country Name: Cabo Verde ;Value: 47.19 ;Year: 2007
+ Country Name: Cabo Verde ;Value: 52.5 ;Year: 2001
+ Country Name: Cambodia ;Value: 30.76 ;Year: 2012
+ Country Name: Cambodia ;Value: 31.7 ;Year: 2011
+ Country Name: Cambodia ;Value: 33.44 ;Year: 2010
+ Country Name: Cambodia ;Value: 34.65 ;Year: 2009
+ Country Name: Cambodia ;Value: 35.1 ;Year: 2008
+ Country Name: Cambodia ;Value: 41.14 ;Year: 2007
+ Country Name: Cambodia ;Value: 35.46 ;Year: 2004
+ Country Name: Cambodia ;Value: 38.15 ;Year: 1994
+ Country Name: Cameroon ;Value: 42.82 ;Year: 2007
+ Country Name: Cameroon ;Value: 42.14 ;Year: 2001
+ Country Name: Cameroon ;Value: 44.45 ;Year: 1996
+ Country Name: Canada ;Value: 33.68 ;Year: 2010
+ Country Name: Canada ;Value: 33.9 ;Year: 2007
+ Country Name: Canada ;Value: 33.88 ;Year: 2004
+ Country Name: Canada ;Value: 33.65 ;Year: 2000
+ Country Name: Canada ;Value: 33.59 ;Year: 1998
+ Country Name: Canada ;Value: 31.77 ;Year: 1997
+ Country Name: Canada ;Value: 31.39 ;Year: 1994
+ Country Name: Canada ;Value: 31.15 ;Year: 1991
+ Country Name: Central African Republic ;Value: 56.24 ;Year: 2008
+ Country Name: Central African Republic ;Value: 61.33 ;Year: 1992
+ Country Name: Chad ;Value: 43.32 ;Year: 2011
+ Country Name: Chile ;Value: 50.45 ;Year: 2013
+ Country Name: Chile ;Value: 50.84 ;Year: 2011
+ Country Name: Chile ;Value: 52 ;Year: 2009
+ Country Name: Chile ;Value: 51.79 ;Year: 2006
+ Country Name: Chile ;Value: 55.25 ;Year: 2000
+ Country Name: Chile ;Value: 55.52 ;Year: 1998
+ Country Name: Chile ;Value: 54.87 ;Year: 1996
+ Country Name: Chile ;Value: 56.43 ;Year: 1994
+ Country Name: Chile ;Value: 54.81 ;Year: 1992
+ Country Name: China ;Value: 42.06 ;Year: 2010
+ Country Name: China ;Value: 42.63 ;Year: 2008
+ Country Name: China ;Value: 42.48 ;Year: 2005
+ Country Name: China ;Value: 39.23 ;Year: 1999
+ Country Name: China ;Value: 35.7 ;Year: 1996
+ Country Name: China ;Value: 35.5 ;Year: 1993
+ Country Name: Colombia ;Value: 53.49 ;Year: 2013
+ Country Name: Colombia ;Value: 53.54 ;Year: 2012
+ Country Name: Colombia ;Value: 54.18 ;Year: 2011
+ Country Name: Colombia ;Value: 55.5 ;Year: 2010
+ Country Name: Colombia ;Value: 55.92 ;Year: 2009
+ Country Name: Colombia ;Value: 56.04 ;Year: 2008
+ Country Name: Colombia ;Value: 59.37 ;Year: 2007
+ Country Name: Colombia ;Value: 60.08 ;Year: 2006
+ Country Name: Colombia ;Value: 56.11 ;Year: 2004
+ Country Name: Colombia ;Value: 55.04 ;Year: 2005
+ Country Name: Colombia ;Value: 58.68 ;Year: 2000
+ Country Name: Colombia ;Value: 57.76 ;Year: 2001
+ Country Name: Colombia ;Value: 58.74 ;Year: 1999
+ Country Name: Colombia ;Value: 56.93 ;Year: 1996
+ Country Name: Colombia ;Value: 51.32 ;Year: 1991
+ Country Name: Colombia ;Value: 51.45 ;Year: 1992
+ Country Name: Comoros ;Value: 55.93 ;Year: 2004
+ Country Name: Congo, Dem. Rep. ;Value: 42.1 ;Year: 2012
+ Country Name: Congo, Dem. Rep. ;Value: 44.21 ;Year: 2004
+ Country Name: Congo, Rep. ;Value: 40.16 ;Year: 2011
+ Country Name: Congo, Rep. ;Value: 47.33 ;Year: 2005
+ Country Name: Costa Rica ;Value: 49.18 ;Year: 2013
+ Country Name: Costa Rica ;Value: 48.61 ;Year: 2012
+ Country Name: Costa Rica ;Value: 48.6 ;Year: 2011
+ Country Name: Costa Rica ;Value: 48.1 ;Year: 2010
+ Country Name: Costa Rica ;Value: 50.97 ;Year: 2009
+ Country Name: Costa Rica ;Value: 49.14 ;Year: 2008
+ Country Name: Costa Rica ;Value: 49.49 ;Year: 2007
+ Country Name: Costa Rica ;Value: 49.31 ;Year: 2006
+ Country Name: Costa Rica ;Value: 48.92 ;Year: 2004
+ Country Name: Costa Rica ;Value: 47.77 ;Year: 2005
+ Country Name: Costa Rica ;Value: 47.44 ;Year: 2000
+ Country Name: Costa Rica ;Value: 51.1 ;Year: 2001
+ Country Name: Costa Rica ;Value: 47.67 ;Year: 1999
+ Country Name: Costa Rica ;Value: 45.67 ;Year: 1998
+ Country Name: Costa Rica ;Value: 45.62 ;Year: 1997
+ Country Name: Costa Rica ;Value: 46.54 ;Year: 1996
+ Country Name: Costa Rica ;Value: 45.71 ;Year: 1995
+ Country Name: Costa Rica ;Value: 46.75 ;Year: 1994
+ Country Name: Costa Rica ;Value: 46 ;Year: 1993
+ Country Name: Costa Rica ;Value: 46.65 ;Year: 1991
+ Country Name: Costa Rica ;Value: 45.71 ;Year: 1992
+ Country Name: Cote d'Ivoire ;Value: 43.18 ;Year: 2008
+ Country Name: Cote d'Ivoire ;Value: 38.96 ;Year: 1998
+ Country Name: Cote d'Ivoire ;Value: 40.56 ;Year: 1995
+ Country Name: Cote d'Ivoire ;Value: 39.35 ;Year: 1993
+ Country Name: Cote d'Ivoire ;Value: 39.39 ;Year: 1992
+ Country Name: Croatia ;Value: 31.98 ;Year: 2011
+ Country Name: Croatia ;Value: 27.35 ;Year: 2010
+ Country Name: Croatia ;Value: 33.18 ;Year: 2009
+ Country Name: Croatia ;Value: 33.71 ;Year: 2008
+ Country Name: Croatia ;Value: 29.68 ;Year: 2004
+ Country Name: Croatia ;Value: 31.33 ;Year: 2000
+ Country Name: Croatia ;Value: 31.1 ;Year: 2001
+ Country Name: Croatia ;Value: 27.71 ;Year: 1999
+ Country Name: Croatia ;Value: 28.75 ;Year: 1998
+ Country Name: Cyprus ;Value: 34.31 ;Year: 2012
+ Country Name: Cyprus ;Value: 32.63 ;Year: 2011
+ Country Name: Cyprus ;Value: 31.46 ;Year: 2010
+ Country Name: Cyprus ;Value: 32.11 ;Year: 2009
+ Country Name: Cyprus ;Value: 31.71 ;Year: 2008
+ Country Name: Cyprus ;Value: 31.11 ;Year: 2007
+ Country Name: Cyprus ;Value: 31.13 ;Year: 2006
+ Country Name: Cyprus ;Value: 30.09 ;Year: 2004
+ Country Name: Cyprus ;Value: 30.26 ;Year: 2005
+ Country Name: Czech Republic ;Value: 26.13 ;Year: 2012
+ Country Name: Czech Republic ;Value: 26.39 ;Year: 2011
+ Country Name: Czech Republic ;Value: 26.63 ;Year: 2010
+ Country Name: Czech Republic ;Value: 26.18 ;Year: 2009
+ Country Name: Czech Republic ;Value: 26.29 ;Year: 2008
+ Country Name: Czech Republic ;Value: 26 ;Year: 2007
+ Country Name: Czech Republic ;Value: 26.74 ;Year: 2006
+ Country Name: Czech Republic ;Value: 27.53 ;Year: 2004
+ Country Name: Czech Republic ;Value: 26.95 ;Year: 2005
+ Country Name: Czech Republic ;Value: 25.82 ;Year: 1996
+ Country Name: Czech Republic ;Value: 26.6 ;Year: 1993
+ Country Name: Denmark ;Value: 29.08 ;Year: 2012
+ Country Name: Denmark ;Value: 29.54 ;Year: 2011
+ Country Name: Denmark ;Value: 29.02 ;Year: 2010
+ Country Name: Denmark ;Value: 28.84 ;Year: 2009
+ Country Name: Denmark ;Value: 28.89 ;Year: 2008
+ Country Name: Denmark ;Value: 26.85 ;Year: 2007
+ Country Name: Denmark ;Value: 27.08 ;Year: 2006
+ Country Name: Denmark ;Value: 25.89 ;Year: 2004
+ Country Name: Denmark ;Value: 25.94 ;Year: 2005
+ Country Name: Djibouti ;Value: 45.13 ;Year: 2012
+ Country Name: Ecuador ;Value: 47.29 ;Year: 2013
+ Country Name: Ecuador ;Value: 46.57 ;Year: 2012
+ Country Name: Ecuador ;Value: 46.21 ;Year: 2011
+ Country Name: Ecuador ;Value: 49.25 ;Year: 2010
+ Country Name: Ecuador ;Value: 49.28 ;Year: 2009
+ Country Name: Ecuador ;Value: 50.61 ;Year: 2008
+ Country Name: Ecuador ;Value: 54.33 ;Year: 2007
+ Country Name: Ecuador ;Value: 53.2 ;Year: 2006
+ Country Name: Ecuador ;Value: 54.12 ;Year: 2004
+ Country Name: Ecuador ;Value: 54.12 ;Year: 2005
+ Country Name: Ecuador ;Value: 56.38 ;Year: 2000
+ Country Name: Ecuador ;Value: 58.6 ;Year: 1999
+ Country Name: Ecuador ;Value: 49.66 ;Year: 1998
+ Country Name: Ecuador ;Value: 50.97 ;Year: 1995
+ Country Name: Ecuador ;Value: 53.37 ;Year: 1994
+ Country Name: Egypt, Arab Rep. ;Value: 30.75 ;Year: 2008
+ Country Name: El Salvador ;Value: 43.51 ;Year: 2013
+ Country Name: El Salvador ;Value: 41.8 ;Year: 2012
+ Country Name: El Salvador ;Value: 42.43 ;Year: 2011
+ Country Name: El Salvador ;Value: 44.53 ;Year: 2010
+ Country Name: El Salvador ;Value: 45.93 ;Year: 2009
+ Country Name: El Salvador ;Value: 46.65 ;Year: 2008
+ Country Name: El Salvador ;Value: 45.24 ;Year: 2007
+ Country Name: El Salvador ;Value: 45.44 ;Year: 2006
+ Country Name: El Salvador ;Value: 47.38 ;Year: 2004
+ Country Name: El Salvador ;Value: 47.88 ;Year: 2005
+ Country Name: El Salvador ;Value: 51.31 ;Year: 2000
+ Country Name: El Salvador ;Value: 51.14 ;Year: 2001
+ Country Name: El Salvador ;Value: 52.2 ;Year: 1999
+ Country Name: El Salvador ;Value: 54.52 ;Year: 1998
+ Country Name: El Salvador ;Value: 51.39 ;Year: 1996
+ Country Name: El Salvador ;Value: 49.88 ;Year: 1995
+ Country Name: El Salvador ;Value: 53.95 ;Year: 1991
+ Country Name: Estonia ;Value: 33.15 ;Year: 2012
+ Country Name: Estonia ;Value: 32.69 ;Year: 2011
+ Country Name: Estonia ;Value: 32.16 ;Year: 2010
+ Country Name: Estonia ;Value: 31.59 ;Year: 2009
+ Country Name: Estonia ;Value: 32 ;Year: 2008
+ Country Name: Estonia ;Value: 31.25 ;Year: 2007
+ Country Name: Estonia ;Value: 33.75 ;Year: 2006
+ Country Name: Estonia ;Value: 35.38 ;Year: 2004
+ Country Name: Estonia ;Value: 33.63 ;Year: 2005
+ Country Name: Estonia ;Value: 35.78 ;Year: 2000
+ Country Name: Estonia ;Value: 36.01 ;Year: 2001
+ Country Name: Estonia ;Value: 37.64 ;Year: 1998
+ Country Name: Estonia ;Value: 30.06 ;Year: 1995
+ Country Name: Estonia ;Value: 39.5 ;Year: 1993
+ Country Name: Ethiopia ;Value: 33.17 ;Year: 2010
+ Country Name: Ethiopia ;Value: 29.81 ;Year: 2004
+ Country Name: Ethiopia ;Value: 29.98 ;Year: 1999
+ Country Name: Ethiopia ;Value: 44.56 ;Year: 1995
+ Country Name: Fiji ;Value: 42.78 ;Year: 2008
+ Country Name: Finland ;Value: 27.12 ;Year: 2012
+ Country Name: Finland ;Value: 27.66 ;Year: 2011
+ Country Name: Finland ;Value: 27.74 ;Year: 2010
+ Country Name: Finland ;Value: 27.47 ;Year: 2009
+ Country Name: Finland ;Value: 27.85 ;Year: 2008
+ Country Name: Finland ;Value: 28.29 ;Year: 2007
+ Country Name: Finland ;Value: 28.02 ;Year: 2006
+ Country Name: Finland ;Value: 27.92 ;Year: 2004
+ Country Name: Finland ;Value: 27.64 ;Year: 2005
+ Country Name: France ;Value: 33.1 ;Year: 2012
+ Country Name: France ;Value: 33.35 ;Year: 2011
+ Country Name: France ;Value: 33.78 ;Year: 2010
+ Country Name: France ;Value: 33.08 ;Year: 2008
+ Country Name: France ;Value: 32.63 ;Year: 2007
+ Country Name: France ;Value: 29.92 ;Year: 2006
+ Country Name: France ;Value: 30.8 ;Year: 2004
+ Country Name: France ;Value: 29.93 ;Year: 2005
+ Country Name: Gabon ;Value: 42.18 ;Year: 2005
+ Country Name: Gambia, The ;Value: 47.56 ;Year: 1998
+ Country Name: Georgia ;Value: 40.03 ;Year: 2013
+ Country Name: Georgia ;Value: 41.35 ;Year: 2012
+ Country Name: Georgia ;Value: 41.58 ;Year: 2011
+ Country Name: Georgia ;Value: 42.13 ;Year: 2010
+ Country Name: Georgia ;Value: 41.74 ;Year: 2009
+ Country Name: Georgia ;Value: 40.57 ;Year: 2008
+ Country Name: Georgia ;Value: 40.6 ;Year: 2007
+ Country Name: Georgia ;Value: 40.09 ;Year: 2006
+ Country Name: Georgia ;Value: 39.78 ;Year: 2004
+ Country Name: Georgia ;Value: 40.34 ;Year: 2005
+ Country Name: Georgia ;Value: 40.48 ;Year: 2000
+ Country Name: Georgia ;Value: 39.57 ;Year: 2001
+ Country Name: Georgia ;Value: 40.15 ;Year: 1999
+ Country Name: Georgia ;Value: 41.25 ;Year: 1998
+ Country Name: Georgia ;Value: 41.95 ;Year: 1997
+ Country Name: Georgia ;Value: 37.13 ;Year: 1996
+ Country Name: Germany ;Value: 30.13 ;Year: 2011
+ Country Name: Germany ;Value: 31.14 ;Year: 2010
+ Country Name: Germany ;Value: 31.51 ;Year: 2009
+ Country Name: Germany ;Value: 31.29 ;Year: 2008
+ Country Name: Germany ;Value: 32.4 ;Year: 2007
+ Country Name: Germany ;Value: 32.78 ;Year: 2006
+ Country Name: Ghana ;Value: 42.77 ;Year: 2005
+ Country Name: Ghana ;Value: 40.07 ;Year: 1998
+ Country Name: Ghana ;Value: 38.44 ;Year: 1991
+ Country Name: Greece ;Value: 36.68 ;Year: 2012
+ Country Name: Greece ;Value: 35.69 ;Year: 2011
+ Country Name: Greece ;Value: 34.48 ;Year: 2010
+ Country Name: Greece ;Value: 33.82 ;Year: 2009
+ Country Name: Greece ;Value: 34.22 ;Year: 2008
+ Country Name: Greece ;Value: 34.61 ;Year: 2007
+ Country Name: Greece ;Value: 35.41 ;Year: 2006
+ Country Name: Greece ;Value: 33.97 ;Year: 2004
+ Country Name: Greece ;Value: 35.1 ;Year: 2005
+ Country Name: Guatemala ;Value: 52.35 ;Year: 2011
+ Country Name: Guatemala ;Value: 54.89 ;Year: 2006
+ Country Name: Guatemala ;Value: 50.73 ;Year: 2004
+ Country Name: Guatemala ;Value: 54.84 ;Year: 2000
+ Country Name: Guinea ;Value: 33.73 ;Year: 2012
+ Country Name: Guinea ;Value: 39.36 ;Year: 2007
+ Country Name: Guinea ;Value: 46.08 ;Year: 1994
+ Country Name: Guinea ;Value: 46.84 ;Year: 1991
+ Country Name: Guinea-Bissau ;Value: 50.66 ;Year: 2010
+ Country Name: Guinea-Bissau ;Value: 43.61 ;Year: 1993
+ Country Name: Guyana ;Value: 44.55 ;Year: 1998
+ Country Name: Haiti ;Value: 60.79 ;Year: 2012
+ Country Name: Haiti ;Value: 59.48 ;Year: 2001
+ Country Name: Honduras ;Value: 53.67 ;Year: 2013
+ Country Name: Honduras ;Value: 57.4 ;Year: 2012
+ Country Name: Honduras ;Value: 57.4 ;Year: 2011
+ Country Name: Honduras ;Value: 53.39 ;Year: 2010
+ Country Name: Honduras ;Value: 51.56 ;Year: 2009
+ Country Name: Honduras ;Value: 55.74 ;Year: 2008
+ Country Name: Honduras ;Value: 56.16 ;Year: 2007
+ Country Name: Honduras ;Value: 57.42 ;Year: 2006
+ Country Name: Honduras ;Value: 58.41 ;Year: 2004
+ Country Name: Honduras ;Value: 59.51 ;Year: 2005
+ Country Name: Honduras ;Value: 54.08 ;Year: 2001
+ Country Name: Honduras ;Value: 55.35 ;Year: 1999
+ Country Name: Honduras ;Value: 57.43 ;Year: 1998
+ Country Name: Honduras ;Value: 52.73 ;Year: 1997
+ Country Name: Honduras ;Value: 55.72 ;Year: 1996
+ Country Name: Honduras ;Value: 55.49 ;Year: 1995
+ Country Name: Honduras ;Value: 55.01 ;Year: 1994
+ Country Name: Honduras ;Value: 53.47 ;Year: 1993
+ Country Name: Honduras ;Value: 51.85 ;Year: 1991
+ Country Name: Honduras ;Value: 51.83 ;Year: 1992
+ Country Name: Hungary ;Value: 30.55 ;Year: 2012
+ Country Name: Hungary ;Value: 28.94 ;Year: 2011
+ Country Name: Hungary ;Value: 29.37 ;Year: 2010
+ Country Name: Hungary ;Value: 26.97 ;Year: 2009
+ Country Name: Hungary ;Value: 27.53 ;Year: 2008
+ Country Name: Hungary ;Value: 31.16 ;Year: 2007
+ Country Name: Hungary ;Value: 28.3 ;Year: 2006
+ Country Name: Hungary ;Value: 30.02 ;Year: 2004
+ Country Name: Hungary ;Value: 30.19 ;Year: 2005
+ Country Name: Hungary ;Value: 27.22 ;Year: 2000
+ Country Name: Hungary ;Value: 26.92 ;Year: 2001
+ Country Name: Hungary ;Value: 27.64 ;Year: 1999
+ Country Name: Hungary ;Value: 26.38 ;Year: 1998
+ Country Name: Hungary ;Value: 27.94 ;Year: 1993
+ Country Name: Iceland ;Value: 26.94 ;Year: 2012
+ Country Name: Iceland ;Value: 27.03 ;Year: 2011
+ Country Name: Iceland ;Value: 26.43 ;Year: 2010
+ Country Name: Iceland ;Value: 28.74 ;Year: 2009
+ Country Name: Iceland ;Value: 31.89 ;Year: 2008
+ Country Name: Iceland ;Value: 29.58 ;Year: 2007
+ Country Name: Iceland ;Value: 30.25 ;Year: 2006
+ Country Name: Iceland ;Value: 28.11 ;Year: 2004
+ Country Name: Iceland ;Value: 29.38 ;Year: 2005
+ Country Name: India ;Value: 33.9 ;Year: 2009
+ Country Name: India ;Value: 33.38 ;Year: 2004
+ Country Name: India ;Value: 30.82 ;Year: 1993
+ Country Name: Indonesia ;Value: 35.57 ;Year: 2010
+ Country Name: Indonesia ;Value: 34.11 ;Year: 2008
+ Country Name: Indonesia ;Value: 34.01 ;Year: 2005
+ Country Name: Indonesia ;Value: 28.99 ;Year: 1999
+ Country Name: Indonesia ;Value: 31.33 ;Year: 1996
+ Country Name: Indonesia ;Value: 29.31 ;Year: 1993
+ Country Name: Iran, Islamic Rep. ;Value: 37.35 ;Year: 2013
+ Country Name: Iran, Islamic Rep. ;Value: 42.02 ;Year: 2009
+ Country Name: Iran, Islamic Rep. ;Value: 38.34 ;Year: 2005
+ Country Name: Iran, Islamic Rep. ;Value: 44.1 ;Year: 1998
+ Country Name: Iran, Islamic Rep. ;Value: 43 ;Year: 1994
+ Country Name: Iraq ;Value: 29.54 ;Year: 2012
+ Country Name: Ireland ;Value: 32.52 ;Year: 2012
+ Country Name: Ireland ;Value: 32.33 ;Year: 2011
+ Country Name: Ireland ;Value: 32.3 ;Year: 2010
+ Country Name: Ireland ;Value: 32.84 ;Year: 2009
+ Country Name: Ireland ;Value: 30.91 ;Year: 2008
+ Country Name: Ireland ;Value: 31.96 ;Year: 2007
+ Country Name: Ireland ;Value: 32.73 ;Year: 2006
+ Country Name: Ireland ;Value: 33.72 ;Year: 2004
+ Country Name: Ireland ;Value: 33.76 ;Year: 2005
+ Country Name: Israel ;Value: 42.78 ;Year: 2010
+ Country Name: Israel ;Value: 41.18 ;Year: 2007
+ Country Name: Israel ;Value: 41.86 ;Year: 2005
+ Country Name: Israel ;Value: 39.2 ;Year: 2001
+ Country Name: Israel ;Value: 38.1 ;Year: 1997
+ Country Name: Israel ;Value: 35.5 ;Year: 1992
+ Country Name: Italy ;Value: 35.16 ;Year: 2012
+ Country Name: Italy ;Value: 34.52 ;Year: 2011
+ Country Name: Italy ;Value: 34.41 ;Year: 2010
+ Country Name: Italy ;Value: 33.66 ;Year: 2009
+ Country Name: Italy ;Value: 33.74 ;Year: 2008
+ Country Name: Italy ;Value: 33.19 ;Year: 2007
+ Country Name: Italy ;Value: 34.26 ;Year: 2006
+ Country Name: Italy ;Value: 34.53 ;Year: 2004
+ Country Name: Italy ;Value: 34.07 ;Year: 2005
+ Country Name: Jamaica ;Value: 45.46 ;Year: 2004
+ Country Name: Jamaica ;Value: 44.08 ;Year: 1999
+ Country Name: Jamaica ;Value: 40.39 ;Year: 1996
+ Country Name: Jamaica ;Value: 35.67 ;Year: 1993
+ Country Name: Japan ;Value: 32.11 ;Year: 2008
+ Country Name: Jordan ;Value: 33.66 ;Year: 2010
+ Country Name: Jordan ;Value: 32.57 ;Year: 2008
+ Country Name: Jordan ;Value: 33.86 ;Year: 2006
+ Country Name: Jordan ;Value: 36.42 ;Year: 1997
+ Country Name: Jordan ;Value: 43.36 ;Year: 1992
+ Country Name: Kazakhstan ;Value: 26.35 ;Year: 2013
+ Country Name: Kazakhstan ;Value: 27.43 ;Year: 2012
+ Country Name: Kazakhstan ;Value: 27.42 ;Year: 2011
+ Country Name: Kazakhstan ;Value: 28.56 ;Year: 2010
+ Country Name: Kazakhstan ;Value: 28.79 ;Year: 2009
+ Country Name: Kazakhstan ;Value: 29.07 ;Year: 2008
+ Country Name: Kazakhstan ;Value: 28.54 ;Year: 2007
+ Country Name: Kazakhstan ;Value: 29.99 ;Year: 2006
+ Country Name: Kazakhstan ;Value: 31.47 ;Year: 2004
+ Country Name: Kazakhstan ;Value: 29.65 ;Year: 2005
+ Country Name: Kazakhstan ;Value: 35.29 ;Year: 2001
+ Country Name: Kazakhstan ;Value: 35.38 ;Year: 1996
+ Country Name: Kazakhstan ;Value: 32.67 ;Year: 1993
+ Country Name: Kenya ;Value: 48.51 ;Year: 2005
+ Country Name: Kenya ;Value: 46.3 ;Year: 1997
+ Country Name: Kenya ;Value: 43.86 ;Year: 1994
+ Country Name: Kenya ;Value: 57.46 ;Year: 1992
+ Country Name: Kiribati ;Value: 37.61 ;Year: 2006
+ Country Name: Kosovo ;Value: 26.71 ;Year: 2013
+ Country Name: Kosovo ;Value: 29.4 ;Year: 2012
+ Country Name: Kosovo ;Value: 27.83 ;Year: 2011
+ Country Name: Kosovo ;Value: 33.25 ;Year: 2010
+ Country Name: Kosovo ;Value: 31.78 ;Year: 2009
+ Country Name: Kosovo ;Value: 30.32 ;Year: 2006
+ Country Name: Kosovo ;Value: 31.24 ;Year: 2005
+ Country Name: Kyrgyz Republic ;Value: 27.37 ;Year: 2012
+ Country Name: Kyrgyz Republic ;Value: 27.77 ;Year: 2011
+ Country Name: Kyrgyz Republic ;Value: 29.89 ;Year: 2010
+ Country Name: Kyrgyz Republic ;Value: 29.83 ;Year: 2009
+ Country Name: Kyrgyz Republic ;Value: 32.06 ;Year: 2008
+ Country Name: Kyrgyz Republic ;Value: 33.43 ;Year: 2007
+ Country Name: Kyrgyz Republic ;Value: 38.4 ;Year: 2006
+ Country Name: Kyrgyz Republic ;Value: 34.77 ;Year: 2004
+ Country Name: Kyrgyz Republic ;Value: 38.32 ;Year: 2005
+ Country Name: Kyrgyz Republic ;Value: 31.03 ;Year: 2000
+ Country Name: Kyrgyz Republic ;Value: 30.16 ;Year: 2001
+ Country Name: Kyrgyz Republic ;Value: 46.4 ;Year: 1998
+ Country Name: Kyrgyz Republic ;Value: 53.7 ;Year: 1993
+ Country Name: Lao PDR ;Value: 37.89 ;Year: 2012
+ Country Name: Lao PDR ;Value: 36.64 ;Year: 2007
+ Country Name: Lao PDR ;Value: 34.9 ;Year: 1997
+ Country Name: Lao PDR ;Value: 34.31 ;Year: 1992
+ Country Name: Latvia ;Value: 35.48 ;Year: 2012
+ Country Name: Latvia ;Value: 36.03 ;Year: 2011
+ Country Name: Latvia ;Value: 35.27 ;Year: 2010
+ Country Name: Latvia ;Value: 34.83 ;Year: 2009
+ Country Name: Latvia ;Value: 35.82 ;Year: 2008
+ Country Name: Latvia ;Value: 36.05 ;Year: 2007
+ Country Name: Latvia ;Value: 35.6 ;Year: 2006
+ Country Name: Latvia ;Value: 34.96 ;Year: 2004
+ Country Name: Latvia ;Value: 39.4 ;Year: 2005
+ Country Name: Latvia ;Value: 33.1 ;Year: 1998
+ Country Name: Latvia ;Value: 32.65 ;Year: 1997
+ Country Name: Latvia ;Value: 31.64 ;Year: 1996
+ Country Name: Latvia ;Value: 30.98 ;Year: 1995
+ Country Name: Latvia ;Value: 26.99 ;Year: 1993
+ Country Name: Lesotho ;Value: 54.18 ;Year: 2010
+ Country Name: Lesotho ;Value: 63.24 ;Year: 1994
+ Country Name: Liberia ;Value: 36.48 ;Year: 2007
+ Country Name: Lithuania ;Value: 35.15 ;Year: 2012
+ Country Name: Lithuania ;Value: 32.63 ;Year: 2011
+ Country Name: Lithuania ;Value: 33.76 ;Year: 2010
+ Country Name: Lithuania ;Value: 37.33 ;Year: 2009
+ Country Name: Lithuania ;Value: 37.06 ;Year: 2008
+ Country Name: Lithuania ;Value: 34.59 ;Year: 2007
+ Country Name: Lithuania ;Value: 34.44 ;Year: 2006
+ Country Name: Lithuania ;Value: 35.2 ;Year: 2004
+ Country Name: Lithuania ;Value: 35.3 ;Year: 2005
+ Country Name: Lithuania ;Value: 31.67 ;Year: 2000
+ Country Name: Lithuania ;Value: 32.01 ;Year: 2001
+ Country Name: Lithuania ;Value: 32.02 ;Year: 1999
+ Country Name: Lithuania ;Value: 32.1 ;Year: 1998
+ Country Name: Lithuania ;Value: 32.26 ;Year: 1996
+ Country Name: Lithuania ;Value: 33.64 ;Year: 1993
+ Country Name: Luxembourg ;Value: 34.79 ;Year: 2012
+ Country Name: Luxembourg ;Value: 32.42 ;Year: 2011
+ Country Name: Luxembourg ;Value: 30.9 ;Year: 2010
+ Country Name: Luxembourg ;Value: 31.53 ;Year: 2009
+ Country Name: Luxembourg ;Value: 32.61 ;Year: 2008
+ Country Name: Luxembourg ;Value: 31.28 ;Year: 2007
+ Country Name: Luxembourg ;Value: 30.96 ;Year: 2006
+ Country Name: Luxembourg ;Value: 30.25 ;Year: 2004
+ Country Name: Luxembourg ;Value: 31.11 ;Year: 2005
+ Country Name: Macedonia, FYR ;Value: 44.05 ;Year: 2008
+ Country Name: Macedonia, FYR ;Value: 42.64 ;Year: 2006
+ Country Name: Macedonia, FYR ;Value: 38.77 ;Year: 2004
+ Country Name: Macedonia, FYR ;Value: 39.31 ;Year: 2005
+ Country Name: Macedonia, FYR ;Value: 34.26 ;Year: 2000
+ Country Name: Macedonia, FYR ;Value: 28.13 ;Year: 1998
+ Country Name: Madagascar ;Value: 40.63 ;Year: 2010
+ Country Name: Madagascar ;Value: 38.88 ;Year: 2005
+ Country Name: Madagascar ;Value: 47.44 ;Year: 2001
+ Country Name: Madagascar ;Value: 38.61 ;Year: 1999
+ Country Name: Madagascar ;Value: 39.47 ;Year: 1997
+ Country Name: Madagascar ;Value: 45.26 ;Year: 1993
+ Country Name: Malawi ;Value: 46.12 ;Year: 2010
+ Country Name: Malawi ;Value: 39.87 ;Year: 2004
+ Country Name: Malawi ;Value: 65.76 ;Year: 1997
+ Country Name: Malaysia ;Value: 46.26 ;Year: 2009
+ Country Name: Malaysia ;Value: 46 ;Year: 2007
+ Country Name: Malaysia ;Value: 46.05 ;Year: 2004
+ Country Name: Malaysia ;Value: 49.15 ;Year: 1997
+ Country Name: Malaysia ;Value: 48.52 ;Year: 1995
+ Country Name: Malaysia ;Value: 47.65 ;Year: 1992
+ Country Name: Maldives ;Value: 36.78 ;Year: 2009
+ Country Name: Maldives ;Value: 37.37 ;Year: 2004
+ Country Name: Maldives ;Value: 62.68 ;Year: 1998
+ Country Name: Mali ;Value: 33.04 ;Year: 2009
+ Country Name: Mali ;Value: 38.93 ;Year: 2006
+ Country Name: Mali ;Value: 39.87 ;Year: 2001
+ Country Name: Mali ;Value: 50.44 ;Year: 1994
+ Country Name: Mauritania ;Value: 37.48 ;Year: 2008
+ Country Name: Mauritania ;Value: 40.17 ;Year: 2004
+ Country Name: Mauritania ;Value: 39.03 ;Year: 2000
+ Country Name: Mauritania ;Value: 37.75 ;Year: 1995
+ Country Name: Mauritania ;Value: 50.05 ;Year: 1993
+ Country Name: Mauritius ;Value: 35.84 ;Year: 2012
+ Country Name: Mauritius ;Value: 35.65 ;Year: 2006
+ Country Name: Mexico ;Value: 48.07 ;Year: 2012
+ Country Name: Mexico ;Value: 48.13 ;Year: 2010
+ Country Name: Mexico ;Value: 48.23 ;Year: 2008
+ Country Name: Mexico ;Value: 48.01 ;Year: 2006
+ Country Name: Mexico ;Value: 46.03 ;Year: 2004
+ Country Name: Mexico ;Value: 51.11 ;Year: 2005
+ Country Name: Mexico ;Value: 51.67 ;Year: 2000
+ Country Name: Mexico ;Value: 48.97 ;Year: 1998
+ Country Name: Mexico ;Value: 48.47 ;Year: 1996
+ Country Name: Mexico ;Value: 51.7 ;Year: 1994
+ Country Name: Mexico ;Value: 50.95 ;Year: 1992
+ Country Name: Micronesia, Fed. Sts. ;Value: 61.18 ;Year: 2000
+ Country Name: Moldova ;Value: 28.53 ;Year: 2013
+ Country Name: Moldova ;Value: 29.16 ;Year: 2012
+ Country Name: Moldova ;Value: 30.63 ;Year: 2011
+ Country Name: Moldova ;Value: 32.05 ;Year: 2010
+ Country Name: Moldova ;Value: 32.91 ;Year: 2009
+ Country Name: Moldova ;Value: 34.69 ;Year: 2008
+ Country Name: Moldova ;Value: 34.42 ;Year: 2007
+ Country Name: Moldova ;Value: 35.4 ;Year: 2006
+ Country Name: Moldova ;Value: 35.35 ;Year: 2004
+ Country Name: Moldova ;Value: 36.28 ;Year: 2005
+ Country Name: Moldova ;Value: 36.43 ;Year: 2000
+ Country Name: Moldova ;Value: 38.16 ;Year: 2001
+ Country Name: Moldova ;Value: 42.62 ;Year: 1999
+ Country Name: Moldova ;Value: 39.52 ;Year: 1998
+ Country Name: Moldova ;Value: 36.94 ;Year: 1997
+ Country Name: Moldova ;Value: 34.32 ;Year: 1992
+ Country Name: Mongolia ;Value: 33.75 ;Year: 2012
+ Country Name: Mongolia ;Value: 33.88 ;Year: 2011
+ Country Name: Mongolia ;Value: 33.08 ;Year: 2010
+ Country Name: Mongolia ;Value: 35.82 ;Year: 2007
+ Country Name: Mongolia ;Value: 30.27 ;Year: 1998
+ Country Name: Mongolia ;Value: 33.2 ;Year: 1995
+ Country Name: Montenegro ;Value: 33.19 ;Year: 2013
+ Country Name: Montenegro ;Value: 32.16 ;Year: 2012
+ Country Name: Montenegro ;Value: 30.63 ;Year: 2011
+ Country Name: Montenegro ;Value: 28.6 ;Year: 2010
+ Country Name: Montenegro ;Value: 30.27 ;Year: 2009
+ Country Name: Montenegro ;Value: 30.01 ;Year: 2008
+ Country Name: Montenegro ;Value: 30.82 ;Year: 2007
+ Country Name: Montenegro ;Value: 29.39 ;Year: 2006
+ Country Name: Montenegro ;Value: 30.14 ;Year: 2005
+ Country Name: Morocco ;Value: 40.72 ;Year: 2007
+ Country Name: Morocco ;Value: 40.64 ;Year: 2000
+ Country Name: Morocco ;Value: 39.46 ;Year: 1998
+ Country Name: Mozambique ;Value: 45.58 ;Year: 2008
+ Country Name: Mozambique ;Value: 44.41 ;Year: 1996
+ Country Name: Namibia ;Value: 60.97 ;Year: 2009
+ Country Name: Nepal ;Value: 32.75 ;Year: 2010
+ Country Name: Nepal ;Value: 35.21 ;Year: 1995
+ Country Name: Netherlands ;Value: 27.99 ;Year: 2012
+ Country Name: Netherlands ;Value: 28.17 ;Year: 2011
+ Country Name: Netherlands ;Value: 28.73 ;Year: 2010
+ Country Name: Netherlands ;Value: 28.38 ;Year: 2009
+ Country Name: Netherlands ;Value: 29.93 ;Year: 2008
+ Country Name: Netherlands ;Value: 30.35 ;Year: 2007
+ Country Name: Netherlands ;Value: 30.76 ;Year: 2006
+ Country Name: Netherlands ;Value: 30.74 ;Year: 2004
+ Country Name: Netherlands ;Value: 29.86 ;Year: 2005
+ Country Name: Nicaragua ;Value: 45.73 ;Year: 2009
+ Country Name: Nicaragua ;Value: 40.49 ;Year: 2005
+ Country Name: Nicaragua ;Value: 43.08 ;Year: 2001
+ Country Name: Nicaragua ;Value: 45.16 ;Year: 1998
+ Country Name: Nicaragua ;Value: 50.36 ;Year: 1993
+ Country Name: Niger ;Value: 31.45 ;Year: 2011
+ Country Name: Niger ;Value: 37.3 ;Year: 2007
+ Country Name: Niger ;Value: 44.43 ;Year: 2005
+ Country Name: Niger ;Value: 41.53 ;Year: 1994
+ Country Name: Niger ;Value: 36.1 ;Year: 1992
+ Country Name: Nigeria ;Value: 42.97 ;Year: 2009
+ Country Name: Nigeria ;Value: 51.92 ;Year: 1996
+ Country Name: Nigeria ;Value: 44.98 ;Year: 1992
+ Country Name: Norway ;Value: 25.9 ;Year: 2012
+ Country Name: Norway ;Value: 25.54 ;Year: 2011
+ Country Name: Norway ;Value: 25.86 ;Year: 2010
+ Country Name: Norway ;Value: 26.39 ;Year: 2009
+ Country Name: Norway ;Value: 27.14 ;Year: 2008
+ Country Name: Norway ;Value: 28.07 ;Year: 2007
+ Country Name: Norway ;Value: 27.29 ;Year: 2006
+ Country Name: Norway ;Value: 31.72 ;Year: 2004
+ Country Name: Norway ;Value: 32.27 ;Year: 2005
+ Country Name: Pakistan ;Value: 29.59 ;Year: 2010
+ Country Name: Pakistan ;Value: 31.42 ;Year: 2007
+ Country Name: Pakistan ;Value: 32.33 ;Year: 2004
+ Country Name: Pakistan ;Value: 32.69 ;Year: 2005
+ Country Name: Pakistan ;Value: 30.5 ;Year: 2001
+ Country Name: Pakistan ;Value: 33.12 ;Year: 1998
+ Country Name: Pakistan ;Value: 28.67 ;Year: 1996
+ Country Name: Panama ;Value: 51.67 ;Year: 2013
+ Country Name: Panama ;Value: 51.9 ;Year: 2012
+ Country Name: Panama ;Value: 51.83 ;Year: 2011
+ Country Name: Panama ;Value: 51.91 ;Year: 2010
+ Country Name: Panama ;Value: 52.03 ;Year: 2009
+ Country Name: Panama ;Value: 52.63 ;Year: 2008
+ Country Name: Panama ;Value: 52.97 ;Year: 2007
+ Country Name: Panama ;Value: 55.06 ;Year: 2006
+ Country Name: Panama ;Value: 55.06 ;Year: 2004
+ Country Name: Panama ;Value: 53.99 ;Year: 2005
+ Country Name: Panama ;Value: 57.66 ;Year: 2000
+ Country Name: Panama ;Value: 57.3 ;Year: 2001
+ Country Name: Panama ;Value: 56.46 ;Year: 1999
+ Country Name: Panama ;Value: 57.48 ;Year: 1998
+ Country Name: Panama ;Value: 58.23 ;Year: 1997
+ Country Name: Panama ;Value: 57.81 ;Year: 1995
+ Country Name: Panama ;Value: 58.19 ;Year: 1991
+ Country Name: Papua New Guinea ;Value: 43.88 ;Year: 2009
+ Country Name: Papua New Guinea ;Value: 55.43 ;Year: 1996
+ Country Name: Paraguay ;Value: 48.3 ;Year: 2013
+ Country Name: Paraguay ;Value: 48.17 ;Year: 2012
+ Country Name: Paraguay ;Value: 52.6 ;Year: 2011
+ Country Name: Paraguay ;Value: 51.83 ;Year: 2010
+ Country Name: Paraguay ;Value: 49.67 ;Year: 2009
+ Country Name: Paraguay ;Value: 51.04 ;Year: 2008
+ Country Name: Paraguay ;Value: 52.09 ;Year: 2007
+ Country Name: Paraguay ;Value: 53.63 ;Year: 2006
+ Country Name: Paraguay ;Value: 52.59 ;Year: 2004
+ Country Name: Paraguay ;Value: 51.37 ;Year: 2005
+ Country Name: Paraguay ;Value: 54.83 ;Year: 2001
+ Country Name: Paraguay ;Value: 54.58 ;Year: 1999
+ Country Name: Paraguay ;Value: 54.89 ;Year: 1997
+ Country Name: Paraguay ;Value: 58.16 ;Year: 1995
+ Country Name: Peru ;Value: 44.73 ;Year: 2013
+ Country Name: Peru ;Value: 45.11 ;Year: 2012
+ Country Name: Peru ;Value: 45.48 ;Year: 2011
+ Country Name: Peru ;Value: 46.21 ;Year: 2010
+ Country Name: Peru ;Value: 47.96 ;Year: 2009
+ Country Name: Peru ;Value: 48.55 ;Year: 2008
+ Country Name: Peru ;Value: 51.35 ;Year: 2007
+ Country Name: Peru ;Value: 51.67 ;Year: 2006
+ Country Name: Peru ;Value: 51.2 ;Year: 2004
+ Country Name: Peru ;Value: 51.84 ;Year: 2005
+ Country Name: Peru ;Value: 50.77 ;Year: 2000
+ Country Name: Peru ;Value: 51.83 ;Year: 2001
+ Country Name: Peru ;Value: 56.34 ;Year: 1999
+ Country Name: Peru ;Value: 56.14 ;Year: 1998
+ Country Name: Peru ;Value: 53.72 ;Year: 1997
+ Country Name: Peru ;Value: 44.02 ;Year: 1994
+ Country Name: Philippines ;Value: 43.04 ;Year: 2012
+ Country Name: Philippines ;Value: 42.91 ;Year: 2009
+ Country Name: Philippines ;Value: 44.2 ;Year: 2006
+ Country Name: Philippines ;Value: 46.17 ;Year: 2000
+ Country Name: Philippines ;Value: 45.96 ;Year: 1997
+ Country Name: Philippines ;Value: 38.52 ;Year: 1994
+ Country Name: Philippines ;Value: 43.82 ;Year: 1991
+ Country Name: Poland ;Value: 32.39 ;Year: 2012
+ Country Name: Poland ;Value: 32.78 ;Year: 2011
+ Country Name: Poland ;Value: 33.22 ;Year: 2010
+ Country Name: Poland ;Value: 33.58 ;Year: 2009
+ Country Name: Poland ;Value: 33.72 ;Year: 2008
+ Country Name: Poland ;Value: 33.51 ;Year: 2007
+ Country Name: Poland ;Value: 33.71 ;Year: 2006
+ Country Name: Poland ;Value: 35.43 ;Year: 2004
+ Country Name: Poland ;Value: 35.86 ;Year: 2005
+ Country Name: Poland ;Value: 33 ;Year: 2000
+ Country Name: Poland ;Value: 32.85 ;Year: 2001
+ Country Name: Poland ;Value: 32.59 ;Year: 1999
+ Country Name: Poland ;Value: 32.32 ;Year: 1998
+ Country Name: Poland ;Value: 32.66 ;Year: 1996
+ Country Name: Poland ;Value: 26.7 ;Year: 1992
+ Country Name: Portugal ;Value: 36.04 ;Year: 2012
+ Country Name: Portugal ;Value: 36.34 ;Year: 2011
+ Country Name: Portugal ;Value: 35.84 ;Year: 2010
+ Country Name: Portugal ;Value: 34.91 ;Year: 2009
+ Country Name: Portugal ;Value: 36.63 ;Year: 2008
+ Country Name: Portugal ;Value: 36.75 ;Year: 2007
+ Country Name: Portugal ;Value: 38.06 ;Year: 2006
+ Country Name: Portugal ;Value: 38.9 ;Year: 2004
+ Country Name: Portugal ;Value: 38.47 ;Year: 2005
+ Country Name: Romania ;Value: 27.33 ;Year: 2012
+ Country Name: Romania ;Value: 27.21 ;Year: 2011
+ Country Name: Romania ;Value: 28.16 ;Year: 2010
+ Country Name: Romania ;Value: 28.19 ;Year: 2009
+ Country Name: Romania ;Value: 29.4 ;Year: 2008
+ Country Name: Romania ;Value: 37.61 ;Year: 2007
+ Country Name: Romania ;Value: 39.18 ;Year: 2006
+ Country Name: Romania ;Value: 30.04 ;Year: 2004
+ Country Name: Romania ;Value: 29.82 ;Year: 2005
+ Country Name: Romania ;Value: 29.32 ;Year: 2000
+ Country Name: Romania ;Value: 29.43 ;Year: 2001
+ Country Name: Romania ;Value: 29.42 ;Year: 1999
+ Country Name: Romania ;Value: 31.08 ;Year: 1998
+ Country Name: Romania ;Value: 28.2 ;Year: 1994
+ Country Name: Romania ;Value: 25.46 ;Year: 1992
+ Country Name: Russian Federation ;Value: 41.59 ;Year: 2012
+ Country Name: Russian Federation ;Value: 41.04 ;Year: 2011
+ Country Name: Russian Federation ;Value: 40.94 ;Year: 2010
+ Country Name: Russian Federation ;Value: 39.69 ;Year: 2009
+ Country Name: Russian Federation ;Value: 41.42 ;Year: 2008
+ Country Name: Russian Federation ;Value: 42.33 ;Year: 2007
+ Country Name: Russian Federation ;Value: 41.54 ;Year: 2006
+ Country Name: Russian Federation ;Value: 40.92 ;Year: 2004
+ Country Name: Russian Federation ;Value: 41.37 ;Year: 2005
+ Country Name: Russian Federation ;Value: 37.09 ;Year: 2000
+ Country Name: Russian Federation ;Value: 39.6 ;Year: 2001
+ Country Name: Russian Federation ;Value: 37.44 ;Year: 1999
+ Country Name: Russian Federation ;Value: 38.14 ;Year: 1998
+ Country Name: Russian Federation ;Value: 38.41 ;Year: 1997
+ Country Name: Russian Federation ;Value: 46.1 ;Year: 1996
+ Country Name: Russian Federation ;Value: 48.38 ;Year: 1993
+ Country Name: Rwanda ;Value: 51.34 ;Year: 2010
+ Country Name: Rwanda ;Value: 52.04 ;Year: 2005
+ Country Name: Rwanda ;Value: 48.55 ;Year: 2000
+ Country Name: Samoa ;Value: 42.69 ;Year: 2008
+ Country Name: Sao Tome and Principe ;Value: 30.82 ;Year: 2010
+ Country Name: Sao Tome and Principe ;Value: 32.13 ;Year: 2000
+ Country Name: Senegal ;Value: 40.28 ;Year: 2011
+ Country Name: Senegal ;Value: 39.22 ;Year: 2005
+ Country Name: Senegal ;Value: 41.23 ;Year: 2001
+ Country Name: Senegal ;Value: 41.44 ;Year: 1994
+ Country Name: Senegal ;Value: 54.14 ;Year: 1991
+ Country Name: Serbia ;Value: 29.65 ;Year: 2010
+ Country Name: Serbia ;Value: 28.67 ;Year: 2009
+ Country Name: Serbia ;Value: 28.18 ;Year: 2008
+ Country Name: Serbia ;Value: 29.43 ;Year: 2007
+ Country Name: Serbia ;Value: 29.67 ;Year: 2006
+ Country Name: Serbia ;Value: 32.98 ;Year: 2004
+ Country Name: Serbia ;Value: 33.43 ;Year: 2005
+ Country Name: Seychelles ;Value: 42.77 ;Year: 2006
+ Country Name: Seychelles ;Value: 42.78 ;Year: 1999
+ Country Name: Sierra Leone ;Value: 33.99 ;Year: 2011
+ Country Name: Slovak Republic ;Value: 26.12 ;Year: 2012
+ Country Name: Slovak Republic ;Value: 26.58 ;Year: 2011
+ Country Name: Slovak Republic ;Value: 27.32 ;Year: 2010
+ Country Name: Slovak Republic ;Value: 26.02 ;Year: 2009
+ Country Name: Slovak Republic ;Value: 26.87 ;Year: 2008
+ Country Name: Slovak Republic ;Value: 28 ;Year: 2007
+ Country Name: Slovak Republic ;Value: 27.71 ;Year: 2006
+ Country Name: Slovak Republic ;Value: 28.94 ;Year: 2004
+ Country Name: Slovak Republic ;Value: 29.83 ;Year: 2005
+ Country Name: Slovak Republic ;Value: 25.81 ;Year: 1996
+ Country Name: Slovak Republic ;Value: 19.49 ;Year: 1992
+ Country Name: Slovenia ;Value: 25.59 ;Year: 2012
+ Country Name: Slovenia ;Value: 24.87 ;Year: 2011
+ Country Name: Slovenia ;Value: 24.94 ;Year: 2010
+ Country Name: Slovenia ;Value: 24.83 ;Year: 2009
+ Country Name: Slovenia ;Value: 23.72 ;Year: 2008
+ Country Name: Slovenia ;Value: 24.37 ;Year: 2007
+ Country Name: Slovenia ;Value: 24.48 ;Year: 2006
+ Country Name: Slovenia ;Value: 31.15 ;Year: 2004
+ Country Name: Slovenia ;Value: 24.63 ;Year: 2005
+ Country Name: Slovenia ;Value: 28.41 ;Year: 1998
+ Country Name: Slovenia ;Value: 29.18 ;Year: 1993
+ Country Name: Solomon Islands ;Value: 46.1 ;Year: 2005
+ Country Name: South Africa ;Value: 63.38 ;Year: 2011
+ Country Name: South Africa ;Value: 63.01 ;Year: 2008
+ Country Name: South Africa ;Value: 64.79 ;Year: 2006
+ Country Name: South Africa ;Value: 57.77 ;Year: 2000
+ Country Name: South Africa ;Value: 62.97 ;Year: 1995
+ Country Name: South Africa ;Value: 59.33 ;Year: 1993
+ Country Name: Spain ;Value: 35.89 ;Year: 2012
+ Country Name: Spain ;Value: 36.1 ;Year: 2011
+ Country Name: Spain ;Value: 35.79 ;Year: 2010
+ Country Name: Spain ;Value: 35.39 ;Year: 2009
+ Country Name: Spain ;Value: 34.8 ;Year: 2008
+ Country Name: Spain ;Value: 33.86 ;Year: 2007
+ Country Name: Spain ;Value: 32.67 ;Year: 2006
+ Country Name: Spain ;Value: 33.38 ;Year: 2004
+ Country Name: Spain ;Value: 32.5 ;Year: 2005
+ Country Name: Sri Lanka ;Value: 38.58 ;Year: 2012
+ Country Name: Sri Lanka ;Value: 36.2 ;Year: 2009
+ Country Name: Sri Lanka ;Value: 39.97 ;Year: 2006
+ Country Name: Sri Lanka ;Value: 35.4 ;Year: 1995
+ Country Name: St. Lucia ;Value: 42.58 ;Year: 1995
+ Country Name: Sudan ;Value: 35.39 ;Year: 2009
+ Country Name: Suriname ;Value: 57.61 ;Year: 1999
+ Country Name: Swaziland ;Value: 51.45 ;Year: 2009
+ Country Name: Swaziland ;Value: 53.11 ;Year: 2000
+ Country Name: Swaziland ;Value: 60.45 ;Year: 1994
+ Country Name: Sweden ;Value: 27.32 ;Year: 2012
+ Country Name: Sweden ;Value: 27.24 ;Year: 2011
+ Country Name: Sweden ;Value: 26.81 ;Year: 2010
+ Country Name: Sweden ;Value: 26.61 ;Year: 2009
+ Country Name: Sweden ;Value: 27.13 ;Year: 2008
+ Country Name: Sweden ;Value: 26.92 ;Year: 2007
+ Country Name: Sweden ;Value: 26.47 ;Year: 2006
+ Country Name: Sweden ;Value: 26.43 ;Year: 2004
+ Country Name: Sweden ;Value: 27.1 ;Year: 2005
+ Country Name: Switzerland ;Value: 31.64 ;Year: 2012
+ Country Name: Switzerland ;Value: 31.83 ;Year: 2011
+ Country Name: Switzerland ;Value: 32.72 ;Year: 2010
+ Country Name: Switzerland ;Value: 32.96 ;Year: 2009
+ Country Name: Switzerland ;Value: 33.96 ;Year: 2008
+ Country Name: Switzerland ;Value: 34.47 ;Year: 2007
+ Country Name: Syrian Arab Republic ;Value: 35.77 ;Year: 2004
+ Country Name: Tajikistan ;Value: 30.77 ;Year: 2009
+ Country Name: Tajikistan ;Value: 32.19 ;Year: 2007
+ Country Name: Tajikistan ;Value: 33.6 ;Year: 2004
+ Country Name: Tajikistan ;Value: 29.54 ;Year: 1999
+ Country Name: Tanzania ;Value: 37.78 ;Year: 2011
+ Country Name: Tanzania ;Value: 40.28 ;Year: 2007
+ Country Name: Tanzania ;Value: 37.3 ;Year: 2000
+ Country Name: Tanzania ;Value: 35.29 ;Year: 1991
+ Country Name: Thailand ;Value: 39.26 ;Year: 2012
+ Country Name: Thailand ;Value: 37.46 ;Year: 2011
+ Country Name: Thailand ;Value: 39.4 ;Year: 2010
+ Country Name: Thailand ;Value: 39.75 ;Year: 2009
+ Country Name: Thailand ;Value: 40.29 ;Year: 2008
+ Country Name: Thailand ;Value: 39.76 ;Year: 2007
+ Country Name: Thailand ;Value: 41.82 ;Year: 2006
+ Country Name: Thailand ;Value: 42.54 ;Year: 2004
+ Country Name: Thailand ;Value: 42.83 ;Year: 2000
+ Country Name: Thailand ;Value: 43.09 ;Year: 1999
+ Country Name: Thailand ;Value: 41.46 ;Year: 1998
+ Country Name: Thailand ;Value: 42.9 ;Year: 1996
+ Country Name: Thailand ;Value: 43.47 ;Year: 1994
+ Country Name: Thailand ;Value: 47.86 ;Year: 1992
+ Country Name: Timor-Leste ;Value: 31.56 ;Year: 2007
+ Country Name: Timor-Leste ;Value: 37.56 ;Year: 2001
+ Country Name: Togo ;Value: 46.02 ;Year: 2011
+ Country Name: Togo ;Value: 42.21 ;Year: 2006
+ Country Name: Tonga ;Value: 38.1 ;Year: 2009
+ Country Name: Trinidad and Tobago ;Value: 40.27 ;Year: 1992
+ Country Name: Tunisia ;Value: 35.81 ;Year: 2010
+ Country Name: Tunisia ;Value: 37.73 ;Year: 2005
+ Country Name: Tunisia ;Value: 40.81 ;Year: 2000
+ Country Name: Tunisia ;Value: 41.66 ;Year: 1995
+ Country Name: Turkey ;Value: 40.17 ;Year: 2012
+ Country Name: Turkey ;Value: 40.04 ;Year: 2011
+ Country Name: Turkey ;Value: 38.78 ;Year: 2010
+ Country Name: Turkey ;Value: 38.97 ;Year: 2009
+ Country Name: Turkey ;Value: 38.28 ;Year: 2008
+ Country Name: Turkey ;Value: 38.44 ;Year: 2007
+ Country Name: Turkey ;Value: 39.65 ;Year: 2006
+ Country Name: Turkey ;Value: 41.29 ;Year: 2004
+ Country Name: Turkey ;Value: 41.72 ;Year: 2005
+ Country Name: Turkey ;Value: 41.32 ;Year: 1994
+ Country Name: Turkmenistan ;Value: 40.77 ;Year: 1998
+ Country Name: Turkmenistan ;Value: 35.38 ;Year: 1993
+ Country Name: Uganda ;Value: 42.37 ;Year: 2012
+ Country Name: Uganda ;Value: 44.2 ;Year: 2009
+ Country Name: Uganda ;Value: 42.94 ;Year: 2005
+ Country Name: Uganda ;Value: 43 ;Year: 1999
+ Country Name: Uganda ;Value: 39.04 ;Year: 1996
+ Country Name: Uganda ;Value: 41.43 ;Year: 1992
+ Country Name: Ukraine ;Value: 24.55 ;Year: 2013
+ Country Name: Ukraine ;Value: 24.74 ;Year: 2012
+ Country Name: Ukraine ;Value: 24.55 ;Year: 2011
+ Country Name: Ukraine ;Value: 24.82 ;Year: 2010
+ Country Name: Ukraine ;Value: 25.32 ;Year: 2009
+ Country Name: Ukraine ;Value: 26.64 ;Year: 2008
+ Country Name: Ukraine ;Value: 28.57 ;Year: 2007
+ Country Name: Ukraine ;Value: 29.79 ;Year: 2006
+ Country Name: Ukraine ;Value: 28.93 ;Year: 2004
+ Country Name: Ukraine ;Value: 29.02 ;Year: 2005
+ Country Name: Ukraine ;Value: 28.96 ;Year: 1999
+ Country Name: Ukraine ;Value: 35.16 ;Year: 1996
+ Country Name: Ukraine ;Value: 39.29 ;Year: 1995
+ Country Name: Ukraine ;Value: 29.71 ;Year: 1992
+ Country Name: United Kingdom ;Value: 32.57 ;Year: 2012
+ Country Name: United Kingdom ;Value: 33.71 ;Year: 2011
+ Country Name: United Kingdom ;Value: 34.81 ;Year: 2010
+ Country Name: United Kingdom ;Value: 34.67 ;Year: 2009
+ Country Name: United Kingdom ;Value: 34.37 ;Year: 2008
+ Country Name: United Kingdom ;Value: 35.93 ;Year: 2007
+ Country Name: United Kingdom ;Value: 34.84 ;Year: 2006
+ Country Name: United Kingdom ;Value: 36.22 ;Year: 2004
+ Country Name: United Kingdom ;Value: 34.56 ;Year: 2005
+ Country Name: United States ;Value: 41.06 ;Year: 2013
+ Country Name: United States ;Value: 40.46 ;Year: 2010
+ Country Name: United States ;Value: 41.75 ;Year: 2007
+ Country Name: United States ;Value: 40.62 ;Year: 2004
+ Country Name: United States ;Value: 40.46 ;Year: 2000
+ Country Name: United States ;Value: 40.86 ;Year: 1997
+ Country Name: United States ;Value: 40.35 ;Year: 1994
+ Country Name: United States ;Value: 38.36 ;Year: 1991
+ Country Name: Uruguay ;Value: 41.87 ;Year: 2013
+ Country Name: Uruguay ;Value: 41.32 ;Year: 2012
+ Country Name: Uruguay ;Value: 43.37 ;Year: 2011
+ Country Name: Uruguay ;Value: 45.32 ;Year: 2010
+ Country Name: Uruguay ;Value: 46.28 ;Year: 2009
+ Country Name: Uruguay ;Value: 46.27 ;Year: 2008
+ Country Name: Uruguay ;Value: 47.63 ;Year: 2007
+ Country Name: Uruguay ;Value: 47.2 ;Year: 2006
+ Country Name: Uruguay ;Value: 47.14 ;Year: 2004
+ Country Name: Uruguay ;Value: 45.87 ;Year: 2005
+ Country Name: Uruguay ;Value: 44.39 ;Year: 2000
+ Country Name: Uruguay ;Value: 46.17 ;Year: 2001
+ Country Name: Uruguay ;Value: 43.81 ;Year: 1998
+ Country Name: Uruguay ;Value: 42.73 ;Year: 1997
+ Country Name: Uruguay ;Value: 42.66 ;Year: 1996
+ Country Name: Uruguay ;Value: 42.11 ;Year: 1995
+ Country Name: Uruguay ;Value: 40.2 ;Year: 1992
+ Country Name: Uzbekistan ;Value: 36.1 ;Year: 2000
+ Country Name: Uzbekistan ;Value: 44.67 ;Year: 1998
+ Country Name: Vanuatu ;Value: 37.18 ;Year: 2010
+ Country Name: Venezuela, RB ;Value: 46.94 ;Year: 2006
+ Country Name: Venezuela, RB ;Value: 49.82 ;Year: 2004
+ Country Name: Venezuela, RB ;Value: 52.36 ;Year: 2005
+ Country Name: Venezuela, RB ;Value: 48.22 ;Year: 2001
+ Country Name: Venezuela, RB ;Value: 48.32 ;Year: 1999
+ Country Name: Venezuela, RB ;Value: 49.8 ;Year: 1998
+ Country Name: Venezuela, RB ;Value: 47.82 ;Year: 1995
+ Country Name: Venezuela, RB ;Value: 42.51 ;Year: 1992
+ Country Name: Vietnam ;Value: 38.7 ;Year: 2012
+ Country Name: Vietnam ;Value: 42.68 ;Year: 2010
+ Country Name: Vietnam ;Value: 38.15 ;Year: 2008
+ Country Name: Vietnam ;Value: 37.44 ;Year: 2006
+ Country Name: Vietnam ;Value: 37.17 ;Year: 2004
+ Country Name: Vietnam ;Value: 35.44 ;Year: 1998
+ Country Name: Vietnam ;Value: 35.65 ;Year: 1992
+ Country Name: West Bank and Gaza ;Value: 34.46 ;Year: 2009
+ Country Name: West Bank and Gaza ;Value: 35.61 ;Year: 2007
+ Country Name: West Bank and Gaza ;Value: 33.96 ;Year: 2006
+ Country Name: West Bank and Gaza ;Value: 33.97 ;Year: 2004
+ Country Name: West Bank and Gaza ;Value: 34.72 ;Year: 2005
+ Country Name: Yemen, Rep. ;Value: 35.89 ;Year: 2005
+ Country Name: Zambia ;Value: 55.62 ;Year: 2010
+ Country Name: Zambia ;Value: 54.62 ;Year: 2006
+ Country Name: Zambia ;Value: 54.29 ;Year: 2004
+ Country Name: Zambia ;Value: 49.13 ;Year: 1998
+ Country Name: Zambia ;Value: 48.33 ;Year: 1996
+ Country Name: Zambia ;Value: 52.61 ;Year: 1993
+ Country Name: Zambia ;Value: 60.51 ;Year: 1991
